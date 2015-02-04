@@ -28,7 +28,7 @@ public class MainActivity extends ActionBarActivity {
 		int id = item.getItemId();
 		if (id == R.id.action_settings) {
 			return true;
-			//ini komenatar baru//ini komenatar baru
+			//ini komenatar baru//ini komenatar baru//ini komenatar baru
 		}
 		return super.onOptionsItemSelected(item);
 	}
