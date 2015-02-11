@@ -4,6 +4,8 @@ import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.webkit.WebSettings;
+import android.webkit.WebView;
 
 
 public class MainActivity extends ActionBarActivity {
@@ -12,6 +14,9 @@ public class MainActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //Code here
+        WebView myWebView = (WebView) findViewById(R.id.webView);
+        myWebView.loadUrl("http://www.google.com");
     }
 
 
