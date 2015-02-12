@@ -45,18 +45,18 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 | AMS202 | Matematika 4                | 3   | Teknik Sipil         |
 
 2. KULIAH LAYANAN PROGRAM STUDI FISIKA<br>
-| Kode   | Mata Kuliah                 | SKS |  Prodi yang dilayani |
-|--------|-----------------------------|-----|----------------------|
-| APS181 | Fisika Dasar                | 4   | Matematika           |
-| APS182 | Fisika Dasar		       | 3   | Teknik Sipil         |
-| APS183 | Fisika Dasar 1	       | 2   | Teknik Industri      |
-| APS184 | Fisika Dasar  	       | 2   | Teknik Industri      |
-| APS185 | Fisika Dasar 1              | 2   | Teknik Kimia         |
-| APS186 | Fisika Dasar 2	       | 2   | Teknik Kimia         |
-| APS187 | Praktikum Fisika Dasar      | 1   | Matematika           |
-| APS188 | Praktikum Fisika Dasar      | 1   | Teknik Sipil         |
-| APS189 | Praktikum Fisika Dasar      | 1   | Teknik Industri      |
-| FFT113 | Kosmologi                   | 2   | Filsafat             |
+| Kode      | Mata Kuliah                  | SKS   |  Prodi yang dilayani  |
+|-----------|------------------------------|-------|-----------------------|
+| APS181    | Fisika Dasar                 | 4     | Matematika            |
+| APS182    | Fisika Dasar                 | 3     | Teknik Sipil          |
+| APS183    | Fisika Dasar 1               | 2     | Teknik Industri       |
+| APS184    | Fisika Dasar 2               | 2     | Teknik Industri       |
+| APS185    | Fisika Dasar 1               | 2     | Teknik Kimia          |
+| APS186    | Fisika Dasar 2               | 2     | Teknik Kimia          |
+| APS187    | Praktikum Fisika Dasar       | 1     | Matematika            |
+| APS188    | Praktikum Fisika Dasar       | 1     | Teknik Sipil          |
+| APS189    | Praktikum Fisika Dasar       | 1     | Teknik Industri       |
+| FFT113    | Kosmologi                    | 2     | Filsafat              |
 
 
 
