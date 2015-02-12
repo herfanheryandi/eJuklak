@@ -122,11 +122,10 @@ FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu masyarakat y
         Staf Akademik : Rikie Setiawan, S.AB.<br>
         Staf Keuangan & Kepegawaian : Filifo Zebua, Dwina Irlistriarti, Dra.<p></p>
 5. #####**Daftar Dosen FTIS**
-
-    - ######Guru Besar 
-        1. **Prof B. Suprapto Brotosiswojo**, Dr. (Purdue University,USA)<br>
-    Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.     <br>
-    Email: bensupra@unpar.ac.id<br><br>
+    - ######Guru Besar<br>
+     1. **Prof B. Suprapto Brotosiswojo**, Dr. (Purdue University,USA)<br>
+	 Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.     <br>
+	 Email: bensupra@unpar.ac.id<br><br>
     - ######Lektor Kepala<br>
      1.  **Agus Sukmana**, Drs. (ITB), MSc (Twente Univ. – Belanda), studi           S-3 (UPI): 
         Teori Peluang, Pengendalian Mutu, Statistika Elementer.<br>
