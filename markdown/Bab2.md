@@ -68,6 +68,4 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 &nbsp;&nbsp;&nbsp;**2.3.3  KULIAH LAYANAN PROGRAM STUDI TEKNIK INFORMATIKA<br>**
 | Kode   | Mata Kuliah                 | SKS |  Prodi yang dilayani |
 |--------|-----------------------------|-----|----------------------|
-| AKS144 | Pemrograman Komputer 	   | 3   | Matematika		    |
-
-a
+| AKS144 | Pemrograman Komputer        | 3   | Matematika	    |
