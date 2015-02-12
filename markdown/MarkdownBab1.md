@@ -126,7 +126,7 @@ FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu masyarakat y
     - Guru Besar 
         1. **Prof B. Suprapto Brotosiswojo**, Dr. (Purdue University,USA)<br>
     Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.     <br>
-    Email: bensupra@unpar.ac.id<br><br>
+    Email: bensupra@unpar.ac.id<br>
     - Lektor Kepala<br>
      1.  **Agus Sukmana**, Drs. (ITB), MSc (Twente Univ. – Belanda), studi           S-3 (UPI): 
         Teori Peluang, Pengendalian Mutu, Statistika Elementer.<br>
