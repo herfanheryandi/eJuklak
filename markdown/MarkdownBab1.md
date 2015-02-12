@@ -177,7 +177,7 @@ Email: rosad5@unpar.ac.id
         7. **Farah Kristiani**, SSi (UNPAR), MSi (ITB), 
 Studi S-3 Matematika di Universiti Pendidikan Sultan Idris, Malaysia.<br>
 Email: farah@unpar.ac.id.<p></p>
-    - ######Asisten Ahli
+    - Asisten Ahli
         1. **Elisati Hulu**, ST (ITB), MT (ITB), Studi S-3 di ITB. <br>
 Email: elisatih@unpar.ac.id
 
