@@ -44,7 +44,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 | AMS201 | Matematika 3                | 3   | Teknik Sipil         |
 | AMS202 | Matematika 4                | 3   | Teknik Sipil         |
 
-2. KULIAH LAYANAN PROGRAM STUDI FISIKA<br>
+2. KULIAH LAYANAN PROGRAM STUDI FISIKA<br><br>
 | Kode      | Mata Kuliah                  | SKS   |  Prodi yang dilayani  |
 |-----------|------------------------------|-------|-----------------------|
 | APS181    | Fisika Dasar                 | 4     | Matematika            |
