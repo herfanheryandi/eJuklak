@@ -47,12 +47,12 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 2. **KULIAH LAYANAN PROGRAM STUDI FISIKA<br>**
 | Kode   | Mata Kuliah                 | SKS |  Prodi yang dilayani |
 |--------|-----------------------------|-----|----------------------|
-| APS181 | Fisika Dasar     		   | 4   | Matematika		    |
-| APS182 | Fisika Dasar				   | 3   | Teknik Sipil		    |
-| APS183 | Fisika Dasar 1			   | 2   | Teknik Industri      |
-| APS184 | Fisika Dasar 2			   | 2   | Teknik Industri      |
-| APS185 | Fisika Dasar 1			   | 2   | Teknik Kimia         |
-| APS186 | Fisika Dasar 2			   | 2   | Teknik Kimia         |
+| APS181 | Fisika Dasar                | 4   | Matematika           |
+| APS182 | Fisika Dasar		       | 3   | Teknik Sipil         |
+| APS183 | Fisika Dasar 1	       | 2   | Teknik Industri      |
+| APS184 | Fisika Dasar  	       | 2   | Teknik Industri      |
+| APS185 | Fisika Dasar 1              | 2   | Teknik Kimia         |
+| APS186 | Fisika Dasar 2	       | 2   | Teknik Kimia         |
 | APS187 | Praktikum Fisika Dasar      | 1   | Matematika           |
 | APS188 | Praktikum Fisika Dasar      | 1   | Teknik Sipil         |
 | APS189 | Praktikum Fisika Dasar      | 1   | Teknik Industri      |
@@ -64,26 +64,4 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 &nbsp;&nbsp;&nbsp;**2.3.3  KULIAH LAYANAN PROGRAM STUDI TEKNIK INFORMATIKA<br>**
 | Kode   | Mata Kuliah                 | SKS |  Prodi yang dilayani |
 |--------|-----------------------------|-----|----------------------|
-| AKS144 | Pemrograman Komputer        | 3   | Matematika	        |
-
-&nbsp;&nbsp;&nbsp;**2.3.2KULIAH LAYANAN PROGRAM STUDI FISIKA<br>**
-| Kode   | Mata Kuliah                 | SKS |  Prodi yang dilayani |
-|--------|-----------------------------|-----|----------------------|
-| APS181 | Fisika Dasar     		   | 4   | Matematika		    |
-| APS182 | Fisika Dasar				   | 3   | Teknik Sipil		    |
-| APS183 | Fisika Dasar 1			   | 2   | Teknik Industri      |
-| APS184 | Fisika Dasar 2			   | 2   | Teknik Industri      |
-| APS185 | Fisika Dasar 1			   | 2   | Teknik Kimia         |
-| APS186 | Fisika Dasar 2			   | 2   | Teknik Kimia         |
-| APS187 | Praktikum Fisika Dasar      | 1   | Matematika           |
-| APS188 | Praktikum Fisika Dasar      | 1   | Teknik Sipil         |
-| APS189 | Praktikum Fisika Dasar      | 1   | Teknik Industri      |
-| FFT113 | Kosmologi                   | 2   | Filsafat             |
-
-
-
-
-&nbsp;&nbsp;&nbsp;**2.3.3  KULIAH LAYANAN PROGRAM STUDI TEKNIK INFORMATIKA<br>**
-| Kode   | Mata Kuliah                 | SKS |  Prodi yang dilayani |
-|--------|-----------------------------|-----|----------------------|
-| AKS144 | Pemrograman Komputer        | 3   | Matematika	        |
+| AKS144 | Pemrograman Komputer        | 3   | Matematika	    |
