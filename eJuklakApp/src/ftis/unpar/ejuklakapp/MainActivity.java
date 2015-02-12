@@ -6,17 +6,28 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
+import android.webkit.WebViewClient;
+import android.widget.TextView;
+import android.text.Html;
+import android.text.Html.ImageGetter;
 
 
 public class MainActivity extends ActionBarActivity {
 
+	private final String htmlText = "<body><h1>HERFAN HERYANDI</h1><p>This tutorial " +
+            "explains how to display " +
+            "<strong>HTML </strong>text in android text view.&nbsp;</p>"  +
+            "<blockquote>Example from <a href=\"www.javatechig.com\">" +
+            "Javatechig.com<a></blockquote></body>";
+	
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //Code here
-        WebView myWebView = (WebView) findViewById(R.id.webView);
-        myWebView.loadUrl("http://www.google.com");
+        TextView htmlTextView = (TextView)findViewById(R.id.textView);
+        htmlTextView.setText(Html.fromHtml(htmlText, null, null));
+
     }
 
 
