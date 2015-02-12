@@ -73,6 +73,7 @@ FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu masyarakat y
 		2.	Menghasilkan penelitian di bidang teknologi informasi dan sains yang dapat meningkatkan martabat manusia secara langsung ataupun tidak langsung, serta memanfaatkan hasil penelitian untuk pengembangan proses pembelajaran dan pengabdian kepada masyarakat.
 		3.	Menjalin kerja sama dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan keterkaitan proses pembelajaran, penelitian dan pengabdian kepada masyarakat.
 		<br><br>
+
 	3. ######**Tujuan FTIS**
 		Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut:
 		-	Berbudi pekerti luhur, disiplin, jujur, cinta pada sesama dan lingkungan serta berjiwa religius dalam rangka mengamalkan Pancasila dan Undang-Undang Dasar 1945.
@@ -88,6 +89,7 @@ FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu masyarakat y
 		-	Menghasilkan lulusan yang unggul dan berdaya saing yang tinggi.
 		-	Tercapainya kerja sama berkelanjutan dengan berbagai lembaga akademik dan non akademik.
 	<p></p>
+
 3. #####**Keberhasilan FTIS**
 	  <p>Dalam kurun waktu 21 tahun sejak didirikan, FTIS telah menghasilkan 1.097 lulusan sampai dengan 26 Februari 2014. Sebagian dari lulusan tersebut, terutama dari prodi Teknik Informatika, membawa pula sertifikasi internasional di bidang sistem teknologi jaringan melalui program kerjasama Cisco-UNPAR. Sebagian dari mereka melanjutkan studi di perguruan tinggi dalam dan luar negeri dan beberapa berhasil mendapatkan beasiswa penuh selama studi melalui AUSAID, University of Twente, Ditjen Dikti, DEPKOMINFO, BPPS dan Asosiasi Perguruan Tinggi Katolik (APTIK). Sebagian dari mereka berkarya di bidang perbankan, industri, BUMN, dan lain-lain.</p>Saat ini FTIS dikelola oleh 41 dosen, 13 di antaranya telah bergelar Doktor atau PhD dan 26 dosen telah berijasah S-2. Saat ini 3 orang dosen sedang studi S-3 di luar negeri, 4 orang dosen sedang studi S-3 di dalam negeri, 1 orang dosen studi S-2 di dalam negeri dan 1 orang studi S-2 di luar negeri.</p><p> Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemrograman tingkat internasional yang diselenggarakan oleh organisasi ACM (*Association of Computing Machinery*), kompetisi jaringan komputer CISCO NetRiders, mengikuti kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan sebagainya. </p>
 4.  #####**Pengelolah Fakultas**
