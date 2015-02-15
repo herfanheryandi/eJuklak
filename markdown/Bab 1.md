@@ -125,7 +125,7 @@ FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu masyarakat y
     - Guru Besar<br>
      1. **Prof B. Suprapto Brotosiswojo**, Dr. (Purdue University,USA)<br>
 	 Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.     <br>
-	 Email: bensupra@unpar.ac.id<br><br>
+	 Email: bensupra@unpar.ac.id
     - Lektor Kepala<br>
      1.  **Agus Sukmana**, Drs. (ITB), MSc (Twente Univ. – Belanda), studi           S-3 (UPI): 
         Teori Peluang, Pengendalian Mutu, Statistika Elementer.<br>
@@ -154,8 +154,7 @@ FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu masyarakat y
         Email: wono@math.itb.ac.id
      11.	Veronica Sri Moertini, ST (ITB), MT (ITB), Dr. (ITB):
         Basis Data, Penambangan Data, Projek Sistem Informasi.
-        Email: moertini@unpar.ac.id<br><br>
-
+        Email: moertini@unpar.ac.id
     - Lektor
         1. **Cecilia Esti Nugraheni**, ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians Universitaet – Germany):
 Matematika Diskret, Jaringan Syaraf Tiruan. <br>
@@ -175,7 +174,7 @@ Sistem Informarsi, Sistem Pendukung Keputusan.<br>
 Email: rosad5@unpar.ac.id
         7. **Farah Kristiani**, SSi (UNPAR), MSi (ITB), 
 Studi S-3 Matematika di Universiti Pendidikan Sultan Idris, Malaysia.<br>
-Email: farah@unpar.ac.id.<p></p>
+Email: farah@unpar.ac.id
     - Asisten Ahli
         1. **Elisati Hulu**, ST (ITB), MT (ITB), Studi S-3 di ITB. <br>
 Email: elisatih@unpar.ac.id
@@ -213,7 +212,6 @@ Email: anung@unpar.ac.id
         10. **Maria Anestasia**, SSi (ITB), MSi (ITB):
 Kalkulus 2, Persamaan Diferensial Biasa, Kalkulus Vektor. <br>
 Email: maria.anestasia@unpar.ac.id
-
     - Golongan III
         1. **Chandra Wijaya**, SKom (UNPAR), MT (ITB): 
 Jaringan Komputer, Sistem Digital<br>
