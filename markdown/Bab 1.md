@@ -122,11 +122,11 @@ FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu masyarakat y
         Staf Akademik : Rikie Setiawan, S.AB.<br>
         Staf Keuangan & Kepegawaian : Filifo Zebua, Dwina Irlistriarti, Dra.<p></p>
 5. #####**Daftar Dosen FTIS**
-    - ######Guru Besar<br>
+    - Guru Besar<br>
      1. **Prof B. Suprapto Brotosiswojo**, Dr. (Purdue University,USA)<br>
 	 Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.     <br>
 	 Email: bensupra@unpar.ac.id<br><br>
-    - ######Lektor Kepala<br>
+    - Lektor Kepala<br>
      1.  **Agus Sukmana**, Drs. (ITB), MSc (Twente Univ. – Belanda), studi           S-3 (UPI): 
         Teori Peluang, Pengendalian Mutu, Statistika Elementer.<br>
         Email: asukmana@unpar.ac.id. 
@@ -156,7 +156,7 @@ FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu masyarakat y
         Basis Data, Penambangan Data, Projek Sistem Informasi.
         Email: moertini@unpar.ac.id<br><br>
 
-    - ######Lektor
+    - Lektor
         1. **Cecilia Esti Nugraheni**, ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians Universitaet – Germany):
 Matematika Diskret, Jaringan Syaraf Tiruan. <br>
 Email: cheni@unpar.ac.id
@@ -176,7 +176,7 @@ Email: rosad5@unpar.ac.id
         7. **Farah Kristiani**, SSi (UNPAR), MSi (ITB), 
 Studi S-3 Matematika di Universiti Pendidikan Sultan Idris, Malaysia.<br>
 Email: farah@unpar.ac.id.<p></p>
-    - ######Asisten Ahli
+    - Asisten Ahli
         1. **Elisati Hulu**, ST (ITB), MT (ITB), Studi S-3 di ITB. <br>
 Email: elisatih@unpar.ac.id
 
@@ -214,7 +214,7 @@ Email: anung@unpar.ac.id
 Kalkulus 2, Persamaan Diferensial Biasa, Kalkulus Vektor. <br>
 Email: maria.anestasia@unpar.ac.id
 
-    - ######Golongan III
+    - Golongan III
         1. **Chandra Wijaya**, SKom (UNPAR), MT (ITB): 
 Jaringan Komputer, Sistem Digital<br>
 Email: chandraw@unpar.ac.id
