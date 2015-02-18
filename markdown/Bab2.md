@@ -14,7 +14,7 @@ Di samping matakuliah-matakuliah yang ditujukan untuk program studinya sendiri, 
 Selain tatap muka di kelas, suatu matakuliah dapat mengandung kegiatan lain untuk mendukung perkuliahan, yaitu asistensi, responsi, atau praktikum yang biasa disingkat dengan **APR**.
 
 
-**1.Mata Kuliah Pilihan**
+**1. Mata Kuliah Pilihan**
 
 Mahasiswa harus menempuh sejumlah SKS tertentu matakuliah pilihan, dengan sejumlah SKS di antaranya 
 mata kuliah yang diselenggarakan prodinya. Jumlah SKS matakuliah ini berbeda-beda untuk setiap prodi:
@@ -28,7 +28,7 @@ mata kuliah yang diselenggarakan prodinya. Jumlah SKS matakuliah ini berbeda-bed
  1. Bila matakuliah tersebut memiliki prasyarat, mahasiswa dari prodi lain tidak perlu memenuhi prasyarat tersebut.
  2. Matakuliah pilihan dan matakuliah di prodi lain yang ekivalen dengannya,hanya dapat diperhitungkan salah satunya.
     
-**2.Mata Kuliah Prasyarat**
+**2. Mata Kuliah Prasyarat**
 
 Matakuliah prasyarat adalah matakuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu matakuliah tertentu. Berkaitan dengan hal ini,terdapat tiga kategori:
 
@@ -36,12 +36,12 @@ Matakuliah prasyarat adalah matakuliah yang harus ditempuh seorang mahasiswa seb
 2. Prasyarat lulus, artinya mahasiswa harus lulus matakuliah prasyarat tersebut terlebih dahulu. Pada umumnya syarat kelulusan adalah nilai akhir minimum D,meskipun ada juga yang lebih tinggi. Silahkan melihat silabus          matakuliah ybs. untuk keterangan lebih lanjut.
 3. Mahasiswa di luar prodi penyelenggara matakuliah tidak wajib memenuhi prasyarat ini.
    
-**3.Mata Kuliah Layanan**
+**3. Mata Kuliah Layanan**
 
 Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS untuk memenuhi kebutuhan matakuliah pada prodi lain di lingkungan UNPAR. 
 
 
-**3.1  KULIAH LAYANAN PROGRAM STUDI TEKNIK METEMATIKA**
+ **3.1  KULIAH LAYANAN PROGRAM STUDI TEKNIK METEMATIKA**
 
 | Kode   | Mata Kuliah                 | SKS |  Prodi yang dilayani |
 |--------|-----------------------------|-----|----------------------|
@@ -60,7 +60,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 | AMS201 | Matematika 3                | 3   | Teknik Sipil         |
 | AMS202 | Matematika 4                | 3   | Teknik Sipil         |
 
-**3.2  KULIAH LAYANAN PROGRAM STUDI TEKNIK FISIKA**
+ **3.2  KULIAH LAYANAN PROGRAM STUDI TEKNIK FISIKA**
 
 | Kode   | Mata Kuliah                 | SKS |  Prodi yang dilayani |
 |--------|-----------------------------|-----|----------------------|
@@ -81,15 +81,17 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 
 
 
-**3.3  KULIAH LAYANAN PROGRAM STUDI TEKNIK INFORMATIKA**
+ **3.3  KULIAH LAYANAN PROGRAM STUDI TEKNIK INFORMATIKA**
 
 | Kode   | Mata Kuliah                 | SKS |  Prodi yang dilayani |
 |--------|-----------------------------|-----|----------------------|
 | AKS144 | Pemrograman Komputer        | 3   | Matematika	    |
 
-**4.Mata Kuliah Umum**
+**4. Mata Kuliah Umum**
 
 Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS untuk memenuhi kebutuhan matakuliah pada prodi lain di lingkungan UNPAR.
+
+ **4.1 Susunan Matakuliah Umum**
 
 | Kode   | Mata Kuliah                 | SKS |  Prodi yang dilayani |
 |--------|-----------------------------|-----|----------------------|
@@ -98,4 +100,18 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 | MKU003 | Agama Katolik         | 4   | Fisika               |
 | MKU004 | Fenomenologi Agama         | 4   | Fisika               |
 | MKU008 | Etika                  | 2   | Teknik Industri      |
+
+| Kode   | Mata Kuliah                 | SKS |
+|--------|-----------------------------|-----|
+| MKU009 | Bahasa Indonesia     | 2   |
+| MKU010 | Bahasa Inggris | 2   |
+| MKU011 | Estetika         | 2   |
+| MKU012 | Logika        | 2   |
+|  | |  | |
+
+ **4.2 Uraian Singkat Matakuliah Umum**
+
+
+
+
 
