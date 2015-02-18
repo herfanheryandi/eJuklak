@@ -18,14 +18,14 @@ Kegiatan Akademik di lingkungan FTIS, dan UNPAR pada umumnya, terdiri atas:
 
   Dalam menentukan matakuliah yang akan diambil, dapat digunakan pedoman berikut:
   
-    a. Pada umumnya, mahasiswa mengambil semua mata kuliah yang terkait dengan semester yang akan dijalani                   sesuai dengan kurikulum program studinya. 
+   1. Pada umumnya, mahasiswa mengambil semua mata kuliah yang terkait dengan semester yang akan dijalani                   sesuai dengan kurikulum program studinya. 
   
-    b. Memprioritaskan matakuliah semester lebih awal yang belum lulus. Hal ini penting demi kokohnya                        landasan studi, dan agar tidak menjadi penghalang bagi matakuliah yang memprasyaratkannya.
+   2. Memprioritaskan matakuliah semester lebih awal yang belum lulus. Hal ini penting demi kokohnya                        landasan studi, dan agar tidak menjadi penghalang bagi matakuliah yang memprasyaratkannya.
   
-    c. Memprioritaskan matakuliah menjadi prasyarat (baik prasyarat tempuh atau pun prasyarat lulus) bagi                    matakuliah lain.
+   3. Memprioritaskan matakuliah menjadi prasyarat (baik prasyarat tempuh atau pun prasyarat lulus) bagi                    matakuliah lain.
   
-    d. Memperhatikan jadwal kuliah dan ujian yang telah ditetapkan pada semester tersebut (diumumkan sejak saat              masa perencanaan studi), sehingga pemilihan matakuliah-matakuliah dapat dilakukan tanpa terjadi                       bentrokan jadwal kuliah atau ujian.
+   4. Memperhatikan jadwal kuliah dan ujian yang telah ditetapkan pada semester tersebut (diumumkan sejak saat              masa perencanaan studi), sehingga pemilihan matakuliah-matakuliah dapat dilakukan tanpa terjadi                       bentrokan jadwal kuliah atau ujian.
   
-    e. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No.                               III/PRT/2011-11/211 sebagai berikut :
+   5. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No.                               III/PRT/2011-11/211 sebagai berikut :
 
 2. Pendaftaran Mata Kuliah
