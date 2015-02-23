@@ -3,7 +3,7 @@
 #**TAHUN 2014/2015**
 
 
-![alt text](http://www.unpar.ac.id/wp-content/uploads/2014/01/Logo-UNPAR.png "Logo UNPAR")
+![alt text](images/unpar.png "Logo UNPAR")
 
 
 
