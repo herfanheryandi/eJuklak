@@ -1,5 +1,8 @@
 package ftis.unpar.ejuklakapp;
 
+import java.io.IOException;
+import java.io.InputStream;
+
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -14,17 +17,20 @@ import android.text.Html.ImageGetter;
 
 public class MainActivity extends ActionBarActivity {
 
-	private final String htmlText = "<body><h1>HERFAN HERYANDI</h1><p>This tutorial " +
-            "explains how to display " +
-            "<strong>HTML </strong>text in android text view.&nbsp;</p>"  +
-            "<blockquote>Example from <a href=\"www.javatechig.com\">" +
-            "Javatechig.com<a></blockquote></body>";
+	
 	
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //Code here
+        String htmlText = new String();
+		try {
+			htmlText = new HTMLReader().read("file:///android_asset/MarkdownBab1.htm");
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
         TextView htmlTextView = (TextView)findViewById(R.id.textView);
         htmlTextView.setText(Html.fromHtml(htmlText, null, null));
 
