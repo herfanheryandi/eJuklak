@@ -92,7 +92,7 @@ Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilk
         Sebagai Universitas Katolik, UNPAR menaruh perhatian utama pada peningkatan martabat manusia. Kegiatan pendidikan yang ditujukan untuk menyiapkan generasi muda sebagai calon pemimpin masa depan dimaskudkan agara mereka berkembang menjadi manusia yang utuh yang memiliki keseimbangan antara rasio, rasa, raga, dan rukun. Untuk itu, proses pendidikan yang berlangsung di UNPAR dan di dalam FTIS harus mampu memberikan pengalaman belajar kepada para mahasiswa, bukan hanya dalam pengembangan rasio yang dilaksanakan berdasarkan kurikulum, melainkan juga pengembangan rasa, raga, dan rukun melalui interaksi dan pergaulan hidup sehari-hari di lingkungan kampus UNPAR. Untuk mencapai keunggulan di dalam hal di atas, FTIS UNPAR harus senantiasa mengembangkan potensi lokal ke tataran internasional. Oleh karena itu, pembangunan suasana akademik yang kondusif merupakan bagian yang sangat penting dalam pembentukan manusia yang bermartabat dan pengembangan potensi lokal tersebut.
 
 
-  2. **Misi FTIS**
+       2. **Misi FTIS**
      
 		Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
 		1. Menyelenggarakan program akademik jenjang sarjana dengan memperhatikan visi FTIS untuk menghasilkan lulusan yang:
@@ -104,7 +104,7 @@ Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilk
 		3.	Menjalin kerja sama dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan keterkaitan proses pembelajaran, penelitian dan pengabdian kepada masyarakat.
 		
 
- 3. **Tujuan FTIS**
+       3. **Tujuan FTIS**
 
         Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut:
 		-	Berbudi pekerti luhur, disiplin, jujur, cinta pada sesama dan lingkungan serta berjiwa religius dalam rangka mengamalkan Pancasila dan Undang-Undang Dasar 1945.
@@ -113,7 +113,7 @@ Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilk
 		-	Memiliki wawasan yang luas tentang perkembangan Ilmu Matematika, Fisika, atau Teknik Informatika, dan penerapannya dan mampu bersaing di tataran nasional maupun internasional.  
 
 
- 4. **Sasaran FTIS**
+        4. **Sasaran FTIS**
 	
 		Sasaran FTIS adalah sebagai berikut :
 		-	Tercapainya sistem pengelolaan  yang profesional dan berkualitas.
@@ -206,7 +206,7 @@ Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilk
      
             Email: ferryjp@unpar.ac.id.
 
-     5. 	**Iwan Sugiarto**, SSi (UNPAR), MSi (ITB): Metoda Matematika, Fungsi Kompleks, Optimasi.
+     5. **Iwan Sugiarto**, SSi (UNPAR), MSi (ITB): Metoda Matematika, Fungsi Kompleks, Optimasi.
         
             Email: iwans@unpar.ac.id.
 
