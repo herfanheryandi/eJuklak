@@ -112,8 +112,7 @@ Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilk
 		-	Memiliki kemampuan memodelkan dan menyelesaikan permasalahan matematika, fisika, atau permasalahan di berbagai bidang (interdisiplin), dan khusus untuk sarjana Teknik Informatika mampu membangun perangkat lunak dan menyesuaikan diri terhadap perkembangan teknologi informasi; 
 		-	Memiliki wawasan yang luas tentang perkembangan Ilmu Matematika, Fisika, atau Teknik Informatika, dan penerapannya dan mampu bersaing di tataran nasional maupun internasional.  
 
-
-        4. **Sasaran FTIS**
+       4. **Sasaran FTIS**
 	
 		Sasaran FTIS adalah sebagai berikut :
 		-	Tercapainya sistem pengelolaan  yang profesional dan berkualitas.
