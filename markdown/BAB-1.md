@@ -70,7 +70,7 @@ Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilk
     * Program Studi Fisika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor036/BAN-PT/AK-XIII/S1/I/2011 tertanggal 7 Januari 2011 dengan masa berlaku hingga 7 Januari 2016.
     * Program Studi Teknik Informatika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor 042/BAN-PT/Ak-XIII/S1/I/2011 tertanggal 21 Januari 2011 dengan masa berlaku hingga 21 Januari 2016
     
- Ketiga program studi yang sekarang berada dalam naungan FTIS ini dilaksanakan berdasarkan suatu kurikulum yang berbobot 144 sks (satuan kredit semester) dengan rincian selanjutnya akan diuraikan pada bagian berikutnya.
+    Ketiga program studi yang sekarang berada dalam naungan FTIS ini dilaksanakan berdasarkan suatu kurikulum yang berbobot 144 sks (satuan kredit semester) dengan rincian selanjutnya akan diuraikan pada bagian berikutnya.
       
 2. #####**Visi, Misi, Tujuan, dan Sasaran FTIS<br>**
 	 Visi dan Misi FTIS - UNPAR mengacu pada visi dan misi UNPAR. Visi UNPAR adalah <
@@ -80,45 +80,63 @@ Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilk
 	* penelitian dan penyebarluasan hasilnya melalui proses pembelajaran dan pengabdian kepada masyarakat; dan
 	* pengabdian kepada masyarakat,
 
- sesuai dengan sesanti Bakuning Hyang Mrih Guna Santyaya Bhakti, yang berarti Berdasarkan Ketuhanan Menuntut Ilmu untuk Dibaktikan kepada Masyarakat. Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS UNPAR.
+    sesuai dengan sesanti Bakuning Hyang Mrih Guna Santyaya Bhakti, yang berarti Berdasarkan Ketuhanan Menuntut Ilmu untuk Dibaktikan kepada Masyarakat. Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS UNPAR.
 
- 1. ######**Visi FTIS**
-	*”Menjadikan FTIS UNPAR sebagai suatu komunitas akademik beriman yang dapat mengembangkan bidang-bidang teknologi informasi dan sains dengan mengangkat potensi lokal pada tataran internasional untuk peningkatan martabat manusia”.*
+       1. **Visi FTIS**
+        >Menjadikan FTIS UNPAR sebagai suatu komunitas akademik beriman yang dapat mengembangkan bidang-bidang teknologi informasi dan sains dengan mengangkat potensi lokal pada tataran internasional untuk peningkatan martabat manusia.
+        
+        FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu masyarakat yang secara cerdas dan kritis senantiasa mencari, menjunjung tinggi, dan menyebarluaskan kebenaran. Hal ini merupakan perwujudan dari keyakinan kepada Tuhan Yang Maha Esa, sesuai dengan sesanti UNPAR Bakuning Hyang Mrih Guna Santyaya Bhakti.
 
-    FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu masyarakat yang secara cerdas dan kritis senantiasa mencari, menjunjung tinggi, dan menyebarluaskan kebenaran. Hal ini merupakan perwujudan dari keyakinan kepada Tuhan Yang Maha Esa, sesuai dengan sesanti UNPAR Bakuning Hyang Mrih Guna Santyaya Bhakti.
-Menjelang tahun 2020, FTIS UNPAR akan lebih memberikan perhatian kepada potensi lokal, yaitu kekuatan, keunggulan, keunikan asli (indigenous) yang terkandung di bumi Indonesia, khususnya di wilayah Jawa Barat. Ini berarti bahwa proses pendidikan, penelitian, dan pengabdian kepada masyarakat harus memberi perhatian pada masalah-masalah yang secara nyata dihadapi oleh masyarakat dan bangsa Indonesia, khususnya di wilayah Jawa Barat. Dengan mengacu kepada bidang-bidang keilmuan di dalam FTIS, potensi lokal tersebut harus dikembangkan secara kreatif dan kritis, sehingga mampu untuk disejajarkan dan dikompetisikan pada tataran internasional.</p><p>Sebagai Universitas Katolik, UNPAR menaruh perhatian utama pada peningkatan martabat manusia. Kegiatan pendidikan yang ditujukan untuk menyiapkan generasi muda sebagai calon pemimpin masa depan dimaskudkan agara mereka berkembang menjadi manusia yang utuh yang memiliki keseimbangan antara rasio, rasa, raga, dan rukun. Untuk itu, proses pendidikan yang berlangsung di UNPAR dan di dalam FTIS harus mampu memberikan pengalaman belajar kepada para mahasiswa, bukan hanya dalam pengembangan rasio yang dilaksanakan berdasarkan kurikulum, melainkan juga pengembangan rasa, raga, dan rukun melalui interaksi dan pergaulan hidup sehari-hari di lingkungan kampus UNPAR. Untuk mencapai keunggulan di dalam hal di atas, FTIS UNPAR harus senantiasa mengembangkan potensi lokal ke tataran internasional. Oleh karena itu, pembangunan suasana akademik yang kondusif merupakan bagian yang sangat penting dalam pembentukan manusia yang bermartabat dan pengembangan potensi lokal tersebut.
+        Menjelang tahun 2020, FTIS UNPAR akan lebih memberikan perhatian kepada potensi lokal, yaitu kekuatan, keunggulan, keunikan asli (indigenous) yang terkandung di bumi Indonesia, khususnya di wilayah Jawa Barat. Ini berarti bahwa proses pendidikan, penelitian, dan pengabdian kepada masyarakat harus memberi perhatian pada masalah-masalah yang secara nyata dihadapi oleh masyarakat dan bangsa Indonesia, khususnya di wilayah Jawa Barat. Dengan mengacu kepada bidang-bidang keilmuan di dalam FTIS, potensi lokal tersebut harus dikembangkan secara kreatif dan kritis, sehingga mampu untuk disejajarkan dan dikompetisikan pada tataran internasional.
 
- 2. ######**Misi FTIS**
-	    Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
+        Sebagai Universitas Katolik, UNPAR menaruh perhatian utama pada peningkatan martabat manusia. Kegiatan pendidikan yang ditujukan untuk menyiapkan generasi muda sebagai calon pemimpin masa depan dimaskudkan agara mereka berkembang menjadi manusia yang utuh yang memiliki keseimbangan antara rasio, rasa, raga, dan rukun. Untuk itu, proses pendidikan yang berlangsung di UNPAR dan di dalam FTIS harus mampu memberikan pengalaman belajar kepada para mahasiswa, bukan hanya dalam pengembangan rasio yang dilaksanakan berdasarkan kurikulum, melainkan juga pengembangan rasa, raga, dan rukun melalui interaksi dan pergaulan hidup sehari-hari di lingkungan kampus UNPAR. Untuk mencapai keunggulan di dalam hal di atas, FTIS UNPAR harus senantiasa mengembangkan potensi lokal ke tataran internasional. Oleh karena itu, pembangunan suasana akademik yang kondusif merupakan bagian yang sangat penting dalam pembentukan manusia yang bermartabat dan pengembangan potensi lokal tersebut.
+
+
+       2. **Misi FTIS**
+     
+		Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
 		1. Menyelenggarakan program akademik jenjang sarjana dengan memperhatikan visi FTIS untuk menghasilkan lulusan yang:
 			- Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.
 			- Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.
+			
 		2.	Menghasilkan penelitian di bidang teknologi informasi dan sains yang dapat meningkatkan martabat manusia secara langsung ataupun tidak langsung, serta memanfaatkan hasil penelitian untuk pengembangan proses pembelajaran dan pengabdian kepada masyarakat.
+		
 		3.	Menjalin kerja sama dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan keterkaitan proses pembelajaran, penelitian dan pengabdian kepada masyarakat.
-	
- 3. ######**Tujuan FTIS**
-	Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut:
+		
+
+       3. **Tujuan FTIS**
+
+        Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut:
 		-	Berbudi pekerti luhur, disiplin, jujur, cinta pada sesama dan lingkungan serta berjiwa religius dalam rangka mengamalkan Pancasila dan Undang-Undang Dasar 1945.
 		-	Memiliki pengetahuan dasar Matematika, Fisika, atau Teknik Informatika, yang kokoh dan berkemampuan bernalar yang baik, logis, matematis, dan/atau fisis; 
 		-	Memiliki kemampuan memodelkan dan menyelesaikan permasalahan matematika, fisika, atau permasalahan di berbagai bidang (interdisiplin), dan khusus untuk sarjana Teknik Informatika mampu membangun perangkat lunak dan menyesuaikan diri terhadap perkembangan teknologi informasi; 
 		-	Memiliki wawasan yang luas tentang perkembangan Ilmu Matematika, Fisika, atau Teknik Informatika, dan penerapannya dan mampu bersaing di tataran nasional maupun internasional.  
-	
- 4. ######**Sasaran FTIS**
+
+       4. **Sasaran FTIS**
 	
 		Sasaran FTIS adalah sebagai berikut :
 		-	Tercapainya sistem pengelolaan  yang profesional dan berkualitas.
 		-	Mencapai efektivitas dan efisiensi pemanfaatan sarana, prasarana dan dana untuk menjamin keberlanjutan dan keunggulan.
 		-	Menghasilkan lulusan yang unggul dan berdaya saing yang tinggi.
 		-	Tercapainya kerja sama berkelanjutan dengan berbagai lembaga akademik dan non akademik.
+		
+
 
 3. #####**Keberhasilan FTIS**
-	Dalam kurun waktu 21 tahun sejak didirikan, FTIS telah menghasilkan 1.097 lulusan sampai dengan 26 Februari 2014. Sebagian dari lulusan tersebut, terutama dari prodi Teknik Informatika, membawa pula sertifikasi internasional di bidang sistem teknologi jaringan melalui program kerjasama Cisco-UNPAR. Sebagian dari mereka melanjutkan studi di perguruan tinggi dalam dan luar negeri dan beberapa berhasil mendapatkan beasiswa penuh selama studi melalui AUSAID, University of Twente, Ditjen Dikti, DEPKOMINFO, BPPS dan Asosiasi Perguruan Tinggi Katolik (APTIK). Sebagian dari mereka berkarya di bidang perbankan, industri, BUMN, dan lain-lain.</p>Saat ini FTIS dikelola oleh 41 dosen, 13 di antaranya telah bergelar Doktor atau PhD dan 26 dosen telah berijasah S-2. Saat ini 3 orang dosen sedang studi S-3 di luar negeri, 4 orang dosen sedang studi S-3 di dalam negeri, 1 orang dosen studi S-2 di dalam negeri dan 1 orang studi S-2 di luar negeri.</p><p> Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemrograman tingkat internasional yang diselenggarakan oleh organisasi ACM (*Association of Computing Machinery*), kompetisi jaringan komputer CISCO NetRiders, mengikuti kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan sebagainya. 
+	Dalam kurun waktu 21 tahun sejak didirikan, FTIS telah menghasilkan 1.097 lulusan sampai dengan 26 Februari 2014. Sebagian dari lulusan tersebut, terutama dari prodi Teknik Informatika, membawa pula sertifikasi internasional di bidang sistem teknologi jaringan melalui program kerjasama Cisco-UNPAR. Sebagian dari mereka melanjutkan studi di perguruan tinggi dalam dan luar negeri dan beberapa berhasil mendapatkan beasiswa penuh selama studi melalui AUSAID, University of Twente, Ditjen Dikti, DEPKOMINFO, BPPS dan Asosiasi Perguruan Tinggi Katolik (APTIK). Sebagian dari mereka berkarya di bidang perbankan, industri, BUMN, dan lain-lain.
+
+    Saat ini FTIS dikelola oleh 41 dosen, 13 di antaranya telah bergelar Doktor atau PhD dan 26 dosen telah berijasah S-2. Saat ini 3 orang dosen sedang studi S-3 di luar negeri, 4 orang dosen sedang studi S-3 di dalam negeri, 1 orang dosen studi S-2 di dalam negeri dan 1 orang studi S-2 di luar negeri.
+
+    Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemrograman tingkat internasional yang diselenggarakan oleh organisasi ACM (*Association of Computing Machinery*), kompetisi jaringan komputer CISCO NetRiders, mengikuti kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan sebagainya. 
+
 4. #####**Pengelolah Fakultas**
+
     1. Senat FTIS
     
         Ketua : Agus Sukmana,SSi,MSc
 
         Sekretaris : Philips Nicolas Gunawidjaja, BSc, PhD
+
     2. Dekanat
     
         Dekan : Paulus Cahyono Tjiang, SSi, PhD.
@@ -128,23 +146,27 @@ Menjelang tahun 2020, FTIS UNPAR akan lebih memberikan perhatian kepada potensi 
         WD II (Keuangan dan Sumberdaya) : Maria Anestasia, SSi, MSi
         
         WD III (Kemahasiswaan dan Alumni) : Dr.rer.nat. Cecilia         E.Nugraheni,ST,MT
+
     3. Program Studi Matematika
     
         Ketua : Dr. Ferry Jaya Permana
         
         Sekretaris : Livia Owen, SSi, MSi
+
     4. Program Studi Fisika
         Ketua : Philips Nicolas Gunawidjaja, BSc, PhD
         
         KaLab. Fisika : Dasar	Risti Suryantari, S.Si., M.Si.
         
         KaLab. Elektronika & Fisika Lanjut : Janto V. Sulungbudi, Drs.
+
     5. Program Studi Teknik Informatika
         Ketua : Dr. Thomas Anung Basuki
         
         Sekretaris : Lionov, SKom, MSc
         
-        KaLab. Komputasi : Chandra Wijaya, ST, MT<br>
+        KaLab. Komputasi : Chandra Wijaya, ST, MT
+
     6. Tata Usaha
         Kepala : Pranyoto Teguh Imanto
         
@@ -159,117 +181,134 @@ Menjelang tahun 2020, FTIS UNPAR akan lebih memberikan perhatian kepada potensi 
         Staf Akademik : Rikie Setiawan, S.AB.
         
         Staf Keuangan & Kepegawaian : Filifo Zebua, Dwina Irlistriarti, Dra.
+
 5. #####**Daftar Dosen FTIS**
     - Guru Besar
-     1. **Prof B. Suprapto Brotosiswojo**, Dr. (Purdue University,USA)
-     
-	    Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.     
-	 Email: bensupra@unpar.ac.id
+     1. **Prof B. Suprapto Brotosiswojo**, Dr. (Purdue University,USA) Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.     
+	        
+            Email: bensupra@unpar.ac.id
+
     - Lektor Kepala
-     1.  **Agus Sukmana**, Drs. (ITB), MSc (Twente Univ. – Belanda),
-     studi           S-3 (UPI): 
-        Teori Peluang, Pengendalian Mutu, Statistika Elementer.<br>
-        Email: asukmana@unpar.ac.id. 
-     2. **Aloysius Rusli**, Dr. (Leeds University, UK): Fisika Polimer,                Pengenalan Program Studi Fisika,Etika Profesi, Reologi.
-        Email: arusli@unpar.ac.id
-     3. **Benny Yong**, SSi. (UNPAR), MSi. (ITB):
-        Pemecahan Masalah Matematika, Teori Bilangan, Pemodelan Matematika.<br>          Email: benny_y@unpar.ac.id.
-     4. **Ferry Jaya Permana**, SSi (ITB), MSi (ITB), PhD (TU Delft -  Belanda)
-        Teori Risiko, Teori Suku Bunga, Kalkulus Keuangan.<br>
-        Email: ferryjp@unpar.ac.id.
-     5. 	**Iwan Sugiarto**, SSi (UNPAR), MSi (ITB):
-        Metoda Matematika, Fungsi Kompleks, Optimasi. <br>
-        Email: iwans@unpar.ac.id.
-     6. **Julius Dharma Lesmono**, SSi (ITB), SE (UNPAR), MT (ITB), MSc (Twente     University - Belanda), Dr. (University of Queenslands - Australia):
-    Proses Stokastik, Statistika Matematika, Kontrol Optimum.
-    Email: jdharma@unpar.ac.id. 
+     1.  **Agus Sukmana**, Drs. (ITB), MSc (Twente Univ. – Belanda), studi S-3 (UPI): Teori Peluang, Pengendalian Mutu, Statistika Elementer.
+            
+            Email: asukmana@unpar.ac.id. 
+
+     2. **Aloysius Rusli**, Dr. (Leeds University, UK): Fisika Polimer, Pengenalan Program Studi Fisika,Etika Profesi, Reologi.
+
+            Email: arusli@unpar.ac.id
+
+     3. **Benny Yong**, SSi. (UNPAR), MSi. (ITB): Pemecahan Masalah Matematika, Teori Bilangan, Pemodelan Matematika.         
+            
+            Email: benny_y@unpar.ac.id.
+
+     4. **Ferry Jaya Permana**, SSi (ITB), MSi (ITB), PhD (TU Delft -  Belanda) Teori Risiko, Teori Suku Bunga, Kalkulus Keuangan.
+     
+            Email: ferryjp@unpar.ac.id.
+
+     5. **Iwan Sugiarto**, SSi (UNPAR), MSi (ITB): Metoda Matematika, Fungsi Kompleks, Optimasi.
+        
+            Email: iwans@unpar.ac.id.
+
+     6. **Julius Dharma Lesmono**, SSi (ITB), SE (UNPAR), MT (ITB), MSc (Twente     University - Belanda), Dr. (University of Queenslands - Australia): Proses Stokastik, Statistika Matematika, Kontrol Optimum.
+    
+            Email: jdharma@unpar.ac.id. 
+
      7. **Nico Saputro**, ST (ITB), MT (ITB), Studi S-3 (Univ. of Illinois –           USA).
-        Email: nico@unpar.ac.id
-     8. **Paulus Cahyono Tjiang**, Drs. (ITB), PhD (Australian National                University): Listrik Magnet, Elektrodinamika, Mekanika Kuantum             Relativistik, Teori Medan Kuantum. 
-        Email: pctjiang@unpar.ac.id.
-     9. **Sylvia Hastuti Sutanto**, SSi (ITB), PhD (Australian National                University): Fisika Matematika 3 & 4, Mekanika Hamiltonian,                Dinamika Fluida. 
-        Email: sylvia@unpar.ac.id
-     10. **Marcus Wono Setya Budhi**, PhD (Univ. of Illinois – USA):
-        Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar.
-        Email: wono@math.itb.ac.id
-     11. **Veronica Sri Moertini**, ST (ITB), MT (ITB), Dr. (ITB):
-        Basis Data, Penambangan Data, Projek Sistem Informasi.
-        Email: moertini@unpar.ac.id
+        
+            Email: nico@unpar.ac.id
+     8. **Paulus Cahyono Tjiang**, Drs. (ITB), PhD (Australian National University): Listrik Magnet, Elektrodinamika, Mekanika Kuantum Relativistik, Teori Medan Kuantum. 
+     
+            Email: pctjiang@unpar.ac.id.
+
+     9. **Sylvia Hastuti Sutanto**, SSi (ITB), PhD (Australian National University): Fisika Matematika 3 & 4, Mekanika Hamiltonian, Dinamika Fluida. 
+     
+            Email: sylvia@unpar.ac.id
+
+     10. **Marcus Wono Setya Budhi**, PhD (Univ. of Illinois – USA): Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar.
+       
+            Email: wono@math.itb.ac.id
+
+     11. **Veronica Sri Moertini**, ST (ITB), MT (ITB), Dr. (ITB): Basis Data, Penambangan Data, Projek Sistem Informasi.
+        
+            Email: moertini@unpar.ac.id
+
+
     - Lektor
-        1. **Cecilia Esti Nugraheni**, ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians  		Universitaet – Germany):
-	Matematika Diskret, Jaringan Syaraf Tiruan.
-		 Email: cheni@unpar.ac.id
-        2. **Erwinna Chendra**, SSi(UNPAR), MSi(ITB), Studi S-3 Matematika di ITB.<br>
+        1. **Cecilia Esti Nugraheni**, ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians  		Universitaet – Germany): Matematika Diskret, Jaringan Syaraf Tiruan.
+		 
+            Email: cheni@unpar.ac.id
+
+        2. **Erwinna Chendra**, SSi(UNPAR), MSi(ITB), Studi S-3 Matematika di ITB.
 	       Email: erwinna@unpar.ac.id. 
 
-               Website: http://www.unpar.ac.id/erwinna
-        3. **Liem Chin**, SSi.(UNPAR), MSi.(ITB): 
-Matematika Diskret, Aljabar Linear, Komputasi Statistika.
+              Website: http://www.unpar.ac.id/erwinna
+
+        3. **Liem Chin**, SSi.(UNPAR), MSi.(ITB): Matematika Diskret, Aljabar Linear, Komputasi Statistika.
 
              Email: chin@unpar.ac.id. 
-        4. **Oerip S. Santoso**, dr (UI), MSc. (Univ. Wisconsin Madison.USA), Dr.(Univ. Paris VI): 
-Struktur Diskret, Grafika Komputer, Komputer dan Masyarakat, Projek Perangkat Lunak.
+
+        4. **Oerip S. Santoso**, dr (UI), MSc. (Univ. Wisconsin Madison.USA), Dr.(Univ. Paris VI): Struktur Diskret, Grafika Komputer, Komputer dan Masyarakat, Projek Perangkat Lunak.
 
              Email: oerip_ss@yahoo.com
+
         5. **Philips Nicolas Gunawidjaja**, BSc. (University of Warwick,UK), PhD. (University of Warwick, UK): Keterampilan Fisika, Elektronika 1 & 2, Struktur Materi.
 
              Email: philips@UNPAR.ac.id. 
-        6. **Rosa de Lima** E.P., SSi (ITB), MT (ITB), Studi S-3 di UPI:
-Sistem Informarsi, Sistem Pendukung Keputusan.<br>
-	     Email: rosad5@unpar.ac.id
-        7. **Farah Kristiani**, SSi (UNPAR), MSi (ITB), 
-Studi S-3 Matematika di Universiti Pendidikan Sultan Idris, Malaysia.<br>
-	     Email: farah@unpar.ac.id
-    - Asisten Ahli
-        1. **Elisati Hulu**, ST (ITB), MT (ITB), Studi S-3 di ITB. <br>
-	     Email: elisatih@unpar.ac.id
 
-        2. **Gede Karya**, ST (ITB), MT (ITB): 
-Pemrograman Aplikasi Bergerak, Analisis Proses Bisnis.
+        6. **Rosa de Lima** E.P., SSi (ITB), MT (ITB), Studi S-3 di UPI: Sistem Informarsi, Sistem Pendukung Keputusan.
+	     
+             Email: rosad5@unpar.ac.id
+
+        7. **Farah Kristiani**, SSi (UNPAR), MSi (ITB), Studi S-3 Matematika di Universiti Pendidikan Sultan Idris, Malaysia.
+	     
+             Email: farah@unpar.ac.id
+
+    - Asisten Ahli
+        1. **Elisati Hulu**, ST (ITB), MT (ITB), Studi S-3 di ITB.
+	     
+             Email: elisatih@unpar.ac.id
+
+        2. **Gede Karya**, ST (ITB), MT (ITB): Pemrograman Aplikasi Bergerak, Analisis Proses Bisnis.
 
             Email: gkarya@unpar.ac.id. 
 
-        3. **Ivonne Martin**, SSi (UNPAR), MSc. (TU Delft – Belanda): 
-Studi S-3 Matematika di Leiden University, Belanda.
+        3. **Ivonne Martin**, SSi (UNPAR), MSc. (TU Delft – Belanda): Studi S-3 Matematika di Leiden University, Belanda.
 
             Email: ivonne@unpar.ac.id
+
         4. **Janto Vincent Sulungbudi**, SSi (ITB): Laboratorium Fisika Instrumentasi, Instrumentasi Berbasis Komputer, Pengantar Kontrol Otomatis.
         
             Email: janto@UNPAR.ac.id, janto.sulungbudi@gmail.com. 
 
-        5. **Lionov**, SKom (UNPAR), MSc. (Utrecht Univ. – Belanda): 
-Pemrograman Berorientasi Objek, Algoritma dan Struktur Data, Koordinator Skripsi.
+        5. **Lionov**, SKom (UNPAR), MSc. (Utrecht Univ. – Belanda): Pemrograman Berorientasi Objek, Algoritma dan Struktur Data, Koordinator Skripsi.
 
              Email: lionov@unpar.ac.id. 
 
-        6. **Livia Owen**, SSi (UNPAR), MSi (ITB): 
-Kalkulus Vektor, Komputasi Matematika, Fisika Matematik II. 
+        6. **Livia Owen**, SSi (UNPAR), MSi (ITB): Kalkulus Vektor, Komputasi Matematika, Fisika Matematik II. 
 
              Email: livia.owen@unpar.ac.id
 
-        7. **Luciana Abednego**, SKom (UNPAR), MT (ITB): 
-Logika Informatika, Algoritma dan Struktur Data, Grafika Komputer. 
-	     Email: luciana@unpar.ac.id
+        7. **Luciana Abednego**, SKom (UNPAR), MT (ITB): Logika Informatika, Algoritma dan Struktur Data, Grafika Komputer. 
+	     
+             Email: luciana@unpar.ac.id
 
-        8. **Taufik Limansyah**, SSi (UNPAR), Studi S-2 Teknik Industri di UNPAR : 
-Kalkulus 1, Kalkulus II, Fisika Matematik 1.
+        8. **Taufik Limansyah**, SSi (UNPAR), Studi S-2 Teknik Industri di UNPAR : Kalkulus 1, Kalkulus II, Fisika Matematik 1.
 
              Email: taufik.limansyah@unpar.ac.id
 
-        9. **Thomas Anung Basuki**, ST (ITB), MKom (UI), Dr. (University of Pisa – Italia): 
-Pengantar Sistem Cerdas, Rekayasa Perangkat Lunak, Penulisan Ilmiah. 
+        9. **Thomas Anung Basuki**, ST (ITB), MKom (UI), Dr. (University of Pisa – Italia): Pengantar Sistem Cerdas, Rekayasa Perangkat Lunak, Penulisan Ilmiah. 
 
              Email: anung@unpar.ac.id
 
-        10. **Maria Anestasia**, SSi (ITB), MSi (ITB):
-Kalkulus 2, Persamaan Diferensial Biasa, Kalkulus Vektor.
+        10. **Maria Anestasia**, SSi (ITB), MSi (ITB):Kalkulus 2, Persamaan Diferensial Biasa, Kalkulus Vektor.
 
              Email: maria.anestasia@unpar.ac.id
-    - Golongan III
-        1. **Chandra Wijaya**, SKom (UNPAR), MT (ITB): 
-Jaringan Komputer, Sistem Digital
 
-	     Email: chandraw@unpar.ac.id
+    - Golongan III
+    
+        1. **Chandra Wijaya**, SKom (UNPAR), MT (ITB): Jaringan Komputer, Sistem Digital
+
+	          Email: chandraw@unpar.ac.id
 
         2. **Elok Fidiani**, SSi (UGM), MSc (TU Dresden): Fisika Dasar, Fisika Statistik, Pengantar Fisika Material, Nanoteknologi dan Lingkungan.
        
@@ -290,16 +329,16 @@ Jaringan Komputer, Sistem Digital
         6. **Mariskha Tri Adithia**, SSi (ITB), MSc (Universiteit Eindhoven  – Belanda), PDEng (Universiteit Eindhoven  – Belanda): Struktur Diskret, Kriptografi, Logika Informatika.
         
              Email: mariskha@unpar.ac.id
-        7. **Pascal Alfadian**, SKom (UNPAR), MCom (NUS - Singapore): 
-Analisis dan Desain Berorientasi Objek, Pemrograman Beorientasi Objek
+
+        7. **Pascal Alfadian**, SKom (UNPAR), MCom (NUS - Singapore): Analisis dan Desain Berorientasi Objek, Pemrograman Beorientasi Objek
 
              Email: pascal@unpar.ac.id
+
         8. **Risti Suryantari**, SSi (UGM), MSc (UGM): Fisika Dasar, Fisika Modern, Gelombang, Fisika Kristal Cair. 
         
              Email: ristisuryantari@UNPAR.ac.id.
 
-        9. **Husnul Hakim**, SKom (ITS), MT (ITB): 
-Pemrograman Berorientasi Obyek, Algoritma dan Struktur Data
+        9. **Husnul Hakim**, SKom (ITS), MT (ITB): Pemrograman Berorientasi Obyek, Algoritma dan Struktur Data
 
              Email: husnulhakim@unpar.ac.id
 
