@@ -24,21 +24,13 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //Code here
-        String htmlText = "<html>"
-        				+ "<body>"
-        					+ "<center>"
-        						+ "<h1>eJuklak FTIS</h1><br>"
-        						+ "<h3>v0.1-alpha</h3><br>"
-        						+ "<h4>2015</h4>"
-        					+ "</center>"
-        				+ "</body>"
-        				+ "<html>";
-		/*try {
+        String htmlText = new String();
+		try {
 			htmlText = new HTMLReader().read("file:///android_asset/MarkdownBab1.htm");
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}*/
+		}
         TextView htmlTextView = (TextView)findViewById(R.id.textView);
         htmlTextView.setText(Html.fromHtml(htmlText, null, null));
 
