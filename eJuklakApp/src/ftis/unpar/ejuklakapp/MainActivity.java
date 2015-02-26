@@ -1,7 +1,10 @@
 package ftis.unpar.ejuklakapp;
 
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.InputStreamReader;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
@@ -24,11 +27,17 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //Code here
-        String htmlText = new String();
+        String htmlText = new String();  
 		try {
-			htmlText = new HTMLReader().read("file:///android_asset/MarkdownBab1.htm");
+			InputStream file = this.getAssets().open("file:///android_asset/MarkdownBab1.htm");
+			htmlText = this.read(new InputStreamReader(file));
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			htmlText = "Masih error file not found!";
+			e.printStackTrace();
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
+			htmlText = "Masih error";
 			e.printStackTrace();
 		}
         TextView htmlTextView = (TextView)findViewById(R.id.textView);
@@ -55,4 +64,16 @@ public class MainActivity extends ActionBarActivity {
         }
         return super.onOptionsItemSelected(item);
     }
+    
+    public String read(InputStreamReader file) throws Exception{
+    	BufferedReader reader = new BufferedReader(file);
+		String res = new String();
+		String text = reader.readLine();
+		while(text!=null){
+			res += text;
+			text = reader.readLine();
+		}
+		reader.close();
+		return res;
+	}
 }
