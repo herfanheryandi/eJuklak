@@ -102,14 +102,14 @@ sesuai dengan sesanti Bakuning Hyang Mrih Guna Santyaya Bhakti, yang berarti Ber
   - Memiliki pengetahuan dasar Matematika, Fisika, atau Teknik Informatika, yang kokoh dan berkemampuan bernalar yang baik, logis, matematis, dan/atau fisis; 
   - Memiliki kemampuan memodelkan dan menyelesaikan permasalahan matematika, fisika, atau permasalahan di berbagai bidang (interdisiplin), dan khusus untuk sarjana Teknik Informatika mampu membangun perangkat lunak dan menyesuaikan diri terhadap perkembangan teknologi informasi; 
   - Memiliki wawasan yang luas tentang perkembangan Ilmu Matematika, Fisika, atau Teknik Informatika, dan penerapannya dan mampu bersaing di tataran nasional maupun internasional.  
- 4. ###### Sasaran FTIS
+ 4. Sasaran FTIS
   Sasaran FTIS adalah sebagai berikut :
   - Tercapainya sistem pengelolaan  yang profesional dan berkualitas.
   - Mencapai efektivitas dan efisiensi pemanfaatan sarana, prasarana dan dana untuk menjamin keberlanjutan dan keunggulan.
   - Menghasilkan lulusan yang unggul dan berdaya saing yang tinggi.
   - Tercapainya kerja sama berkelanjutan dengan berbagai lembaga akademik dan non akademik.
   
-##### 1.3. Keberhasilan FTIS
+##### 1.3 Keberhasilan FTIS
 Dalam kurun waktu 21 tahun sejak didirikan, FTIS telah menghasilkan 1.097 lulusan sampai dengan 26 Februari 2014. Sebagian dari lulusan tersebut, terutama dari prodi Teknik Informatika, membawa pula sertifikasi internasional di bidang sistem teknologi jaringan melalui program kerjasama Cisco-UNPAR. Sebagian dari mereka melanjutkan studi di perguruan tinggi dalam dan luar negeri dan beberapa berhasil mendapatkan beasiswa penuh selama studi melalui AUSAID, University of Twente, Ditjen Dikti, DEPKOMINFO, BPPS dan Asosiasi Perguruan Tinggi Katolik (APTIK). Sebagian dari mereka berkarya di bidang perbankan, industri, BUMN, dan lain-lain.
 
 Saat ini FTIS dikelola oleh 41 dosen, 13 di antaranya telah bergelar Doktor atau PhD dan 26 dosen telah berijasah S-2. Saat ini 3 orang dosen sedang studi S-3 di luar negeri, 4 orang dosen sedang studi S-3 di dalam negeri, 1 orang dosen studi S-2 di dalam negeri dan 1 orang studi S-2 di luar negeri.
@@ -118,24 +118,15 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 
 ##### 1.4 Pengelolah Fakultas
  1. Senat FTIS
-    
-        Ketua : Agus Sukmana,SSi,MSc
-
-        Sekretaris : Philips Nicolas Gunawidjaja, BSc, PhD
+    Ketua : Agus Sukmana,SSi,MSc  Sekretaris : Philips Nicolas Gunawidjaja, BSc, PhD
  2. Dekanat
-    
-        Dekan : Paulus Cahyono Tjiang, SSi, PhD.
-        
-        WD 1 (Akademik) : Dr. Thomas Anung Basuki
-        
-        WD II (Keuangan dan Sumberdaya) : Maria Anestasia, SSi, MSi
-        
-        WD III (Kemahasiswaan dan Alumni) : Dr.rer.nat. Cecilia         E.Nugraheni,ST,MT
+    Dekan : Paulus Cahyono Tjiang, SSi, PhD.
+    WD 1 (Akademik) : Dr. Thomas Anung Basuki
+    WD II (Keuangan dan Sumberdaya) : Maria Anestasia, SSi, MSi
+    WD III (Kemahasiswaan dan Alumni) : Dr.rer.nat. Cecilia         E.Nugraheni,ST,MT
  3. Program Studi Matematika
-    
-        Ketua : Dr. Ferry Jaya Permana
-        
-        Sekretaris : Livia Owen, SSi, MSi
+    Ketua : Dr. Ferry Jaya Permana
+    Sekretaris : Livia Owen, SSi, MSi
  4. Program Studi Fisika
         Ketua : Philips Nicolas Gunawidjaja, BSc, PhD
         
