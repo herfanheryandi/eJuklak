@@ -114,31 +114,31 @@ Saat ini FTIS dikelola oleh 41 dosen, 13 di antaranya telah bergelar Doktor atau
 Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemrograman tingkat internasional yang diselenggarakan oleh organisasi ACM (*Association of Computing Machinery*), kompetisi jaringan komputer CISCO NetRiders, mengikuti kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan sebagainya. 
 
 ##### 1.4 Pengelolah Fakultas
- **1. Senat FTIS**  
+ **`Senat FTIS`**  
   **Ketua** : Agus Sukmana,SSi,MSc  
   **Sekretaris** : Philips Nicolas Gunawidjaja, BSc, PhD  
   
-  **2. Dekanat**  
+  **`Dekanat`**  
   **Dekan** : Paulus Cahyono Tjiang, SSi, PhD.  
   **WD 1 (Akademik)** : Dr. Thomas Anung Basuki  
   **WD II (Keuangan dan Sumberdaya)** : Maria Anestasia, SSi, MSi  
   **WD III (Kemahasiswaan dan Alumni)** : Dr.rer.nat. Cecilia E.Nugraheni,ST,MT  
 
- **3. Program Studi Matematika**  
+ **`Program Studi Matematika`**  
   **Ketua** : Dr. Ferry Jaya Permana  
   **Sekretaris** : Livia Owen, SSi, MSi  
   
- **4. Program Studi Fisika**  
+ **`Program Studi Fisika`**  
   **Ketua** : Philips Nicolas Gunawidjaja, BSc, PhD  
   **KaLab. Fisika** : Dasar	Risti Suryantari, S.Si., M.Si.  
   **KaLab. Elektronika & Fisika Lanjut** : Janto V. Sulungbudi, Drs.  
   
- **5. Program Studi Teknik Informatika**  
+ **`Program Studi Teknik Informatika`** 
   **Ketua** : Dr. Thomas Anung Basuki  
   **Sekretaris** : Lionov, SKom, MSc  
   **KaLab. Komputasi** : Chandra Wijaya, ST, MT  
   
- **6. Tata Usaha**  
+ **`6. Tata Usaha`**  
   **Kepala** : Pranyoto Teguh Imanto  
   **Kasubag Akademik** : Petrus Purnomo  
   **Kasubag Keuangan & Kepegawaian** : Budi Santoso  
@@ -147,44 +147,36 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
   **Staf Akademik** : Rikie Setiawan, S.AB.  
   **Staf Keuangan & Kepegawaian** : Filifo Zebua, Dwina Irlistriarti, Dra.
 
-##### 1.5 Daftar Dosen FTIS
- ** 1. Guru Besar**  
+##### 1.5 Daftar Dosen FTIS  
+**`Guru Besar`** 
  **1. Prof B. Suprapto Brotosiswojo**, Dr. (Purdue University,USA) Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.  
      Email: bensupra@unpar.ac.id
- **2. Lektor Kepala**  
+     
+ **`Lektor Kepala`**  
  **1.  Agus Sukmana**, Drs. (ITB), MSc (Twente Univ. – Belanda), studi S-3 (UPI): Teori Peluang, Pengendalian Mutu, Statistika Elementer.  
      Email: asukmana@unpar.ac.id.  
-
 **2. Aloysius Rusli**, Dr. (Leeds University, UK): Fisika Polimer, Pengenalan Program Studi Fisika,Etika Profesi, Reologi.  
      Email: arusli@unpar.ac.id  
-     
 **3. Benny Yong**, SSi. (UNPAR), MSi. (ITB): Pemecahan Masalah Matematika, Teori Bilangan, Pemodelan Matematika.  
      Email: benny_y@unpar.ac.id.  
 **4. Ferry Jaya Permana**, SSi (ITB), MSi (ITB), PhD (TU Delft -  Belanda) Teori Risiko, Teori Suku Bunga, Kalkulus Keuangan.  
      Email: ferryjp@unpar.ac.id.  
-     
 **5. Iwan Sugiarto**, SSi (UNPAR), MSi (ITB): Metoda Matematika, Fungsi Kompleks, Optimasi.  
      Email: iwans@unpar.ac.id.  
-     
 **6. Julius Dharma Lesmono**, SSi (ITB), SE (UNPAR), MT (ITB), MSc (Twente     University - Belanda), Dr. (University of Queenslands - Australia): Proses Stokastik, Statistika Matematika, Kontrol Optimum.  
      Email: jdharma@unpar.ac.id.  
-     
 **7. Nico Saputro**, ST (ITB), MT (ITB), Studi S-3 (Univ. of Illinois – USA).  
      Email: nico@unpar.ac.id  
-     
 **8. Paulus Cahyono Tjiang**, Drs. (ITB), PhD (Australian National University): Listrik Magnet, Elektrodinamika, Mekanika Kuantum Relativistik, Teori Medan Kuantum.  
      Email: pctjiang@unpar.ac.id.  
-     
 **9. Sylvia Hastuti Sutanto**, SSi (ITB), PhD (Australian National University): Fisika Matematika 3 & 4, Mekanika Hamiltonian, Dinamika Fluida.  
      Email: sylvia@unpar.ac.id  
-     
 **10. Marcus Wono Setya Budhi**, PhD (Univ. of Illinois – USA): Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar.  
     Email: wono@math.itb.ac.id  
-    
 **11. Veronica Sri Moertini**, ST (ITB), MT (ITB), Dr. (ITB): Basis Data, Penambangan Data, Projek Sistem Informasi.  
     Email: moertini@unpar.ac.id  
     
-**3. Lektor**  
+**`Lektor`**  
  **1. Cecilia Esti Nugraheni**, ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians  		Universitaet – Germany): Matematika Diskret, Jaringan Syaraf Tiruan.  
         Email: cheni@unpar.ac.id  
 **2. Erwinna Chendra**, SSi(UNPAR), MSi(ITB), Studi S-3 Matematika di ITB  
@@ -199,65 +191,48 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 **6. Rosa de Lima** E.P., SSi (ITB), MT (ITB), Studi S-3 di UPI: Sistem Informarsi, Sistem Pendukung Keputusan.  
         Email: rosad5@unpar.ac.id.  
 **7. Farah Kristiani**, SSi (UNPAR), MSi (ITB), Studi S-3 Matematika di Universiti Pendidikan Sultan Idris, Malaysia.  
-Email: farah@unpar.ac.id.
-**4. Asisten Ahli**  
+Email: farah@unpar.ac.id.  
+
+**`Asisten Ahli`**  
  **1. Elisati Hulu**, ST (ITB), MT (ITB), Studi S-3 di ITB.  
         Email: elisatih@unpar.ac.id.  
-
 **2. Gede Karya**, ST (ITB), MT (ITB): Pemrograman Aplikasi Bergerak, Analisis Proses Bisnis.  
-
 **3. Ivonne Martin**, SSi (UNPAR), MSc. (TU Delft – Belanda): Studi S-3 Matematika di Leiden University, Belanda.  
         Email: ivonne@unpar.ac.id  
-        
-        **4. Janto Vincent Sulungbudi**, SSi (ITB): Laboratorium Fisika Instrumentasi, Instrumentasi Berbasis Komputer, Pengantar Kontrol Otomatis.  
+**4. Janto Vincent Sulungbudi**, SSi (ITB): Laboratorium Fisika Instrumentasi, Instrumentasi Berbasis Komputer, Pengantar Kontrol Otomatis.  
         Email: janto@UNPAR.ac.id, janto.sulungbudi@gmail.com.  
-        
-        **5. Lionov**, SKom (UNPAR), MSc. (Utrecht Univ. – Belanda): Pemrograman Berorientasi Objek, Algoritma dan Struktur Data, Koordinator Skripsi.  
+**5. Lionov**, SKom (UNPAR), MSc. (Utrecht Univ. – Belanda): Pemrograman Berorientasi Objek, Algoritma dan Struktur Data, Koordinator Skripsi.  
         Email: lionov@unpar.ac.id.  
-        
-        **6. Livia Owen**, SSi (UNPAR), MSi (ITB): Kalkulus Vektor, Komputasi Matematika, Fisika Matematik II.  
+ **6. Livia Owen**, SSi (UNPAR), MSi (ITB): Kalkulus Vektor, Komputasi Matematika, Fisika Matematik II.  
         Email: livia.owen@unpar.ac.id  
-        
-        **7. Luciana Abednego**, SKom (UNPAR), MT (ITB): Logika Informatika, Algoritma dan Struktur Data, Grafika Komputer.  
+**7. Luciana Abednego**, SKom (UNPAR), MT (ITB): Logika Informatika, Algoritma dan Struktur Data, Grafika Komputer.  
         Email: luciana@unpar.ac.id  
-        
-        **8. Taufik Limansyah**, SSi (UNPAR), Studi S-2 Teknik Industri di UNPAR : Kalkulus 1, Kalkulus II, Fisika Matematik 1.  
+**8. Taufik Limansyah**, SSi (UNPAR), Studi S-2 Teknik Industri di UNPAR : Kalkulus 1, Kalkulus II, Fisika Matematik 1.  
         Email: taufik.limansyah@unpar.ac.id  
-        
-        **9. Thomas Anung Basuki**, ST (ITB), MKom (UI), Dr. (University of Pisa – Italia): Pengantar Sistem Cerdas, Rekayasa Perangkat Lunak, Penulisan Ilmiah.  
+**9. Thomas Anung Basuki**, ST (ITB), MKom (UI), Dr. (University of Pisa – Italia): Pengantar Sistem Cerdas, Rekayasa Perangkat Lunak, Penulisan Ilmiah.  
         Email: anung@unpar.ac.id  
-        
-        **10. Maria Anestasia**, SSi (ITB), MSi (ITB):Kalkulus 2, Persamaan Diferensial Biasa, Kalkulus Vektor.  
+**10. Maria Anestasia**, SSi (ITB), MSi (ITB):Kalkulus 2, Persamaan Diferensial Biasa, Kalkulus Vektor.  
         Email: maria.anestasia@unpar.ac.id
         
-**5. Golongan III**  
+**`Golongan III`**  
   **1. Chandra Wijaya**, SKom (UNPAR), MT (ITB): Jaringan Komputer, Sistem Digital.  
         Email: chandraw@unpar.ac.id  
-
 **2. Elok Fidiani**, SSi (UGM), MSc (TU Dresden): Fisika Dasar, Fisika Statistik, Pengantar Fisika Material, Nanoteknologi dan Lingkungan.  
-
 **3. Flaviana Catherine**, SSi (UNPAR), MSi (ITB): Fisika Dasar, Pengantar Fisika Nuklir, Fisika Kedokteran, Fisika Instrumentasi Medis.  
         Email: flaviana@UNPAR.ac.id.  
-        
 **4. Haryanto Mangaratua Siahaan**, SSi (ITB), MSi (ITB), Studi S-3 di University of Saskatchewan.  
         Email: haryanto.siahaan@gmail.com  
-        
 **5. Kian Ming**, SSi (UNPAR), S-2 (ITB): Fisika Dasar, Teori Relativitas, Kosmologi Relativistik  
         Email: kian.ming@UNPAR.ac.id.  
-        
 **6. Mariskha Tri Adithia**, SSi (ITB), MSc (Universiteit Eindhoven  – Belanda), PDEng (Universiteit Eindhoven  – Belanda): Struktur Diskret, Kriptografi, Logika Informatika.  
         Email: mariskha@unpar.ac.id  
-        
 **7. Pascal Alfadian**, SKom (UNPAR), MCom (NUS - Singapore): Analisis dan Desain Berorientasi Objek, Pemrograman Beorientasi Objek.  
         Email: pascal@unpar.ac.id  
-        
 **8. Risti Suryantari**, SSi (UGM), MSc (UGM): Fisika Dasar, Fisika Modern, Gelombang, Fisika Kristal Cair.  
         Email: ristisuryantari@UNPAR.ac.id.  
-        
-**9. Husnul Hakim**, SKom (ITS), MT (ITB): Pemrograman Berorientasi Obyek, Algoritma dan Struktur Data.  
+ **9. Husnul Hakim**, SKom (ITS), MT (ITB): Pemrograman Berorientasi Obyek, Algoritma dan Struktur Data.  
         Email: husnulhakim@unpar.ac.id  
-        
-**10. Vania Natali**, S.Kom (UNPAR), studi S2 - ITB.  
+ **10. Vania Natali**, S.Kom (UNPAR), studi S2 - ITB.  
         Email: vania.natali@unpar.ac.id
 
 
