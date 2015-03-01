@@ -1,21 +1,21 @@
-#**PETUNJUK PELAKSANAAN KEGIATAN AKADEMIK** 
-
-#**TAHUN 2014/2015**
+#**PETUNJUK PELAKSANAAN KEGIATAN AKADEMIK TAHUN 2014/2015**
 
 
 ![alt text](images/unpar.png "Logo UNPAR")
 
 
 
-####FAKULTAS TEKNOLOGI INFORMASI DAN SAINS (FTIS)
-####UNIVERSITAS KATOLIK PARAHYANGAN
+#### FAKULTAS TEKNOLOGI INFORMASI DAN SAINS (FTIS) UNIVERSITAS KATOLIK PARAHYANGAN  
 **Jl. Ciumbuleuit 94 Bandung 40141**
 
 
 
 
 
-Tlp. +62-22-204-1964 Ext. 707  Faks. +62-22-204-2141  ftis@unpar.ac.id  [http://www.unpar.ac.id](http://www.unpar.ac.id)
+Tlp. +62-22-204-1964 Ext. 707  
+Faks. +62-22-204-2141  
+ftis@unpar.ac.id  
+[http://www.unpar.ac.id](http://www.unpar.ac.id)
 
 
 
@@ -31,7 +31,7 @@ TIM PENYUSUN
 
 
 
-#### **KATA PENGANTAR DEKAN FAKULTAS TEKNOLOGI INFORMASI DAN SAINS UNIVERSITAS KATOLIK PARAHYANGAN**
+#### **KATA PENGANTAR DEKAN FAKULTAS TEKNOLOGI INFORMASI DAN SAINS UNPAR**
 
 Sejak berdirinya Fakultas Teknologi Informasi dan Sains (d/h Fakultas Matematika dan Ilmu Pengetahuan Alam) - Universitas Katolik Parahyangan pada tahun 1993, Fakultas berupaya untuk meningkatkan kualitas pelaksanaan Tridharma Perguruan Tinggi (Pengajaran – Penelitian – Pengabdian Kepada Masyarakat) secara bertahap dan berkesinambungan sesuai dengan visi dan misi yang diembannya. Pada tahun 2007, Universitas Katolik Parahyangan berkomitmen untuk melaksanakan penjaminan mutu internal sesuai dengan ketentuan Peraturan Pemerintah Republik Indonesia Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan. Untuk menjamin bahwa standar-standar yang telah ditetapkan dalam Sistem Penjaminan Mutu Internal Universitas Katolik Parahyangan dapat terlaksana dengan baik, Fakultas menerbitkan Buku Petunjuk Pelaksanaan Kegiatan Akademik Fakultas Teknologi Informasi dan Sains Tahun Akademik 2013 – 2014 sebagai pedoman bagi seluruh civitas academica Fakultas dalam melaksanakan kegiatan akademik.
 
@@ -42,7 +42,10 @@ akan diakomodasi dalam buku petunjuk pelaksanaan kegiatan akademik tahun akademi
 Semoga buku petunjuk ini dapat membantu kelancaran pelaksanaan kegiatan akademik, yang selanjutnya akan berdampak pada peningkatan kualitas pembelajaran yang berkesinambungan. Setiap kritik dan saran berkaitan dengan penyempurnaan buku ini sangat kami harapkan dan hargai.
 Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilkan.
 
-**Bandung,  Dekan,    Paulus Cahyono Tjiang, Ph.D.**
+**Bandung**,  
+**Dekan**, 
+  
+**Paulus Cahyono Tjiang, Ph.D.**
 
 
 #### **BAB 1 PENDAHULUAN**
@@ -59,15 +62,19 @@ Ketiga program studi tersebut saat ini telah memperoleh status akreditasi dari B
 Ketiga program studi yang sekarang berada dalam naungan FTIS ini dilaksanakan berdasarkan suatu kurikulum yang berbobot 144 sks (satuan kredit semester) dengan rincian selanjutnya akan diuraikan pada bagian berikutnya.
       
 ##### 1.2 Visi, Misi, Tujuan, dan Sasaran FTIS<br>
-Visi dan Misi FTIS - UNPAR mengacu pada visi dan misi UNPAR. Visi UNPAR adalah  *Menjadi komunitas akademik humanum yang bersemangat kasih dalam kebenaran untuk  mengembangkan potensi lokal pada tataraninternasional demi peningkatan  martabat manusia dan keutuhan alam ciptaan.*  Sebagai sebuah lembaga ilmiah, misi UNPAR adalah melaksanakan  
-* pengembangan dan pewarisan nilai budaya secar kritis – kreatif;
-* proses pembelajaran yang berpusat pada mahasiswa;
-* penelitian dan penyebarluasan hasilnya melalui proses pembelajaran dan pengabdian kepada masyarakat; dan
-* pengabdian kepada masyarakat,
+Visi dan Misi FTIS - UNPAR mengacu pada visi dan misi UNPAR. Visi UNPAR adalah
+> *Menjadi komunitas akademik humanum yang bersemangat kasih dalam kebenaran untuk  mengembangkan potensi lokal pada* 
+> *tataran internasional demi peningkatan  martabat manusia dan keutuhan alam ciptaan.*  
+
+Sebagai sebuah lembaga ilmiah, misi UNPAR adalah melaksanakan  
+ > * pengembangan dan pewarisan nilai budaya secar kritis – kreatif;
+ > * proses pembelajaran yang berpusat pada mahasiswa;
+ > * penelitian dan penyebarluasan hasilnya melalui proses pembelajaran dan pengabdian kepada masyarakat; dan
+ > * pengabdian kepada masyarakat,
  
-sesuai dengan sesanti Bakuning Hyang Mrih Guna Santyaya Bhakti, yang berarti Berdasarkan Ketuhanan Menuntut Ilmu untuk Dibaktikan kepada Masyarakat. Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS UNPAR.
+sesuai dengan sesanti **Bakuning Hyang Mrih Guna Santyaya Bhakti**, yang berarti Berdasarkan Ketuhanan Menuntut Ilmu untuk Dibaktikan kepada Masyarakat. Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS UNPAR.      
  ###### 1. Visi FTIS
- >Menjadikan FTIS UNPAR sebagai suatu komunitas akademik beriman yang dapat mengembangkan bidang-bidang teknologi informasi   dan sains dengan mengangkat potensi lokal pada tataran internasional untuk peningkatan martabat manusia.
+Menjadikan FTIS UNPAR sebagai suatu komunitas akademik beriman yang dapat mengembangkan bidang-bidang teknologi informasi   dan sains dengan mengangkat potensi lokal pada tataran internasional untuk peningkatan martabat manusia.
         
  FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu masyarakat yang secara cerdas dan kritis senantiasa      mencari, menjunjung tinggi, dan menyebarluaskan kebenaran. Hal ini merupakan perwujudan dari keyakinan kepada Tuhan Yang     Maha Esa, sesuai dengan sesanti UNPAR Bakuning Hyang Mrih Guna Santyaya Bhakti.
 
