@@ -113,33 +113,33 @@ Saat ini FTIS dikelola oleh 41 dosen, 13 di antaranya telah bergelar Doktor atau
 
 Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemrograman tingkat internasional yang diselenggarakan oleh organisasi ACM (*Association of Computing Machinery*), kompetisi jaringan komputer CISCO NetRiders, mengikuti kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan sebagainya. 
 
-##### 1.4 Pengelolah Fakultas
+##### 1.4 Pengelolah Fakultas  
  **`Senat FTIS`**  
-  **Ketua** : Agus Sukmana,SSi,MSc  
+ **Ketua** : Agus Sukmana,SSi,MSc  
   **Sekretaris** : Philips Nicolas Gunawidjaja, BSc, PhD  
   
-  **`Dekanat`**  
-  **Dekan** : Paulus Cahyono Tjiang, SSi, PhD.  
+ **`Dekanat`**  
+ **Dekan** : Paulus Cahyono Tjiang, SSi, PhD.  
   **WD 1 (Akademik)** : Dr. Thomas Anung Basuki  
   **WD II (Keuangan dan Sumberdaya)** : Maria Anestasia, SSi, MSi  
   **WD III (Kemahasiswaan dan Alumni)** : Dr.rer.nat. Cecilia E.Nugraheni,ST,MT  
 
  **`Program Studi Matematika`**  
-  **Ketua** : Dr. Ferry Jaya Permana  
+ **Ketua** : Dr. Ferry Jaya Permana  
   **Sekretaris** : Livia Owen, SSi, MSi  
   
  **`Program Studi Fisika`**  
-  **Ketua** : Philips Nicolas Gunawidjaja, BSc, PhD  
+ **Ketua** : Philips Nicolas Gunawidjaja, BSc, PhD  
   **KaLab. Fisika** : Dasar	Risti Suryantari, S.Si., M.Si.  
   **KaLab. Elektronika & Fisika Lanjut** : Janto V. Sulungbudi, Drs.  
   
  **`Program Studi Teknik Informatika`** 
-  **Ketua** : Dr. Thomas Anung Basuki  
+ **Ketua** : Dr. Thomas Anung Basuki  
   **Sekretaris** : Lionov, SKom, MSc  
   **KaLab. Komputasi** : Chandra Wijaya, ST, MT  
   
  **`6. Tata Usaha`**  
-  **Kepala** : Pranyoto Teguh Imanto  
+ **Kepala** : Pranyoto Teguh Imanto  
   **Kasubag Akademik** : Petrus Purnomo  
   **Kasubag Keuangan & Kepegawaian** : Budi Santoso  
   **Kasubag Kemahasiswaan & Alumni** : Fransiscus Sudarno  
@@ -148,8 +148,8 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
   **Staf Keuangan & Kepegawaian** : Filifo Zebua, Dwina Irlistriarti, Dra.
 
 ##### 1.5 Daftar Dosen FTIS  
-**`Guru Besar`** 
- **1. Prof B. Suprapto Brotosiswojo**, Dr. (Purdue University,USA) Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.  
+**`Guru Besar`**  
+**1. Prof B. Suprapto Brotosiswojo**, Dr. (Purdue University,USA) Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.  
      Email: bensupra@unpar.ac.id
      
  **`Lektor Kepala`**  
