@@ -15,13 +15,7 @@
 
 
 
-Tlp. +62-22-204-1964 Ext. 707
-
-Faks. +62-22-204-2141
-
-ftis@unpar.ac.id
-
-[http://www.unpar.ac.id](http://www.unpar.ac.id)
+Tlp. +62-22-204-1964 Ext. 707  Faks. +62-22-204-2141  ftis@unpar.ac.id  [http://www.unpar.ac.id](http://www.unpar.ac.id)
 
 
 
@@ -37,9 +31,7 @@ TIM PENYUSUN
 
 
 
-#### **KATA PENGANTAR**
-#### **DEKAN FAKULTAS TEKNOLOGI INFORMASI DAN SAINS**
-#### **UNIVERSITAS KATOLIK PARAHYANGAN**
+#### **KATA PENGANTAR DEKAN FAKULTAS TEKNOLOGI INFORMASI DAN SAINS UNIVERSITAS KATOLIK PARAHYANGAN**
 
 Sejak berdirinya Fakultas Teknologi Informasi dan Sains (d/h Fakultas Matematika dan Ilmu Pengetahuan Alam) - Universitas Katolik Parahyangan pada tahun 1993, Fakultas berupaya untuk meningkatkan kualitas pelaksanaan Tridharma Perguruan Tinggi (Pengajaran – Penelitian – Pengabdian Kepada Masyarakat) secara bertahap dan berkesinambungan sesuai dengan visi dan misi yang diembannya. Pada tahun 2007, Universitas Katolik Parahyangan berkomitmen untuk melaksanakan penjaminan mutu internal sesuai dengan ketentuan Peraturan Pemerintah Republik Indonesia Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan. Untuk menjamin bahwa standar-standar yang telah ditetapkan dalam Sistem Penjaminan Mutu Internal Universitas Katolik Parahyangan dapat terlaksana dengan baik, Fakultas menerbitkan Buku Petunjuk Pelaksanaan Kegiatan Akademik Fakultas Teknologi Informasi dan Sains Tahun Akademik 2013 – 2014 sebagai pedoman bagi seluruh civitas academica Fakultas dalam melaksanakan kegiatan akademik.
 
@@ -50,13 +42,7 @@ akan diakomodasi dalam buku petunjuk pelaksanaan kegiatan akademik tahun akademi
 Semoga buku petunjuk ini dapat membantu kelancaran pelaksanaan kegiatan akademik, yang selanjutnya akan berdampak pada peningkatan kualitas pembelajaran yang berkesinambungan. Setiap kritik dan saran berkaitan dengan penyempurnaan buku ini sangat kami harapkan dan hargai.
 Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilkan.
 
-**Bandung,**
-
-
-**Dekan,**
-
-
-**Paulus Cahyono Tjiang, Ph.D.**
+**Bandung,  Dekan,    Paulus Cahyono Tjiang, Ph.D.**
 
 
 #### **BAB 1 PENDAHULUAN**
