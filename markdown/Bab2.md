@@ -131,6 +131,30 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 
 ###2.5.1 Susunan Mata kuliah
 
+|	|Semester 1			|	|	|
+|-------|-------------------------------|-------|-------|
+|KODE	|NAMA				|APR	|SKS	|
+|AMS121	|Kalkulus 1			|R	|4	|
+|AMS123	|Pemecahan Masalah Matematika	|	|3	|
+|AMS151	|Statistika Elementer		|	|4	|
+|APS181	|Fisika Dasar			|R,P	|4	|
+|MKU012	|Logika				|R	|2	|
+|MKU010	|Bahasa Inggris			|	|2	|
+|	|				|TOTAL	|19	|
+
+|	|Semester 2			|	|	|
+|-------|-------------------------------|-------|-------|
+|KODE	|NAMA				|APR	|SKS	|
+|AMS122	|Kalkulus 2			|	|4	|
+|AMS124	|Matematika Diskret		|	|4	|
+|AMS126	|Aljabar Matriks		|	|4	|
+|AIF112	|Pemrograman Komputer		|	|3	|
+|MKU011	|Estetika			|	|2	|
+|MKU003	|Agama Katolik +		|	|2	|
+|MKU003	|Fenomologi Agama +		|	|	|
+|	|				|TOTAL	|19	|
+
+
 
 
 
