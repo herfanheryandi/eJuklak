@@ -154,7 +154,26 @@ Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 |MKU003	|Fenomenologi Agama +		|	|	|
 |	|				|TOTAL	|19	|
 
+|	|Semester 3			|	|	|
+|-------|-------------------------------|-------|-------|
+|KODE	|NAMA				|APR	|SKS	|
+|AMS221	|Kalkulus Vektor		|R	|4	|
+|AMS231	|Teori Suku Bunga		|	|3	|
+|AMS251	|Teori Peluang			|	|4	|
+|AMS253	|Komputasi Statistika		|	|2	|
+|AMS271	|Metoda Matematika		|	|3	|
+|MKU008	|Etika				|R	|2	|
+|	|				|TOTAL	|18	|
 
+|	|Semester 4			|	|	|
+|-------|-------------------------------|-------|-------|
+|KODE	|NAMA				|APR	|SKS	|
+|AMS222	|Aljabar Linear			|R	|4	|
+|AMS252	|Statistika Matematika		|	|4	|
+|AMS261	|Optimasi			|	|4	|
+|AMS272	|Persamaan Diferensial Biasa	|	|4	|
+|AMS273	|Komputasi Matematika		|	|2	|
+|	|				|TOTAL	|18	|
 
 
 
