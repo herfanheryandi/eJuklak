@@ -1,4 +1,4 @@
-#### BAB 2 PENYELENGGARAAN MATA KULIAH
+# BAB 2 PENYELENGGARAAN MATA KULIAH
 Secara umum mata kuliah yang diselenggarakan oleh program studi dapat dikelompokkan ke dalam dua jenis yaitu **mata kuliah wajib** dan **mata kuliah pilihan**. Mata kuliah wajib merupakan mata kuliah yang sifatnya wajib/harus ditempuh oleh setiap mahasiswa. Sebagian dari mata kuliah wajib tersebut termasuk ke dalam kelompok **mata kuliah umum** (MKU), yaitu mata kuliah yang terkait dengan pengembangan kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora. 
 	
 Mata kuliah pilihan bertujuan untuk menyiapkan mahasiswa untuk memasuki dunia kerja dan memperluas wawasan mahasiswa terhadap bidang ilmu lain sehingga memungkinkan melakukan tugas interdisiplin. Mata kuliah pilihan dapat diambil dari mata kuliah pilihan yang diselenggarakan oleh program studi (prodi) yang bersangkutan, atau mata kuliah (baik wajib maupun pilihan) yang diselenggarakan oleh prodi lain di lingkungan UNPAR. Mahasiswa mengambil mata kuliah pilihan berdasarkan persetujuan dari dosen wali.
@@ -9,27 +9,26 @@ Di samping matakuliah-matakuliah yang ditujukan untuk program studinya sendiri, 
 	
 Selain tatap muka di kelas, suatu mata kuliah dapat mengandung kegiatan lain untuk mendukung perkuliahan, yaitu asistensi, responsi, atau praktikum yang biasa disingkat dengan **APR**.
 
-##2.1 Mata Kuliah Pilihan##
+##2.1 Mata Kuliah Pilihan
 
-Mahasiswa harus menempuh sejumlah SKS tertentu matakuliah pilihan, dengan sejumlah SKS di antaranya 
-mata kuliah yang diselenggarakan prodinya. Jumlah SKS matakuliah ini berbeda-beda untuk setiap prodi:
-1. Untuk Matematika, 48 SKS dengan minimal lulus 15 SKS berasal dari salah satu bidang kajian 
-   (Rekayasa Keuangan atau Matematika Industri).
-2. Untuk Fisika, 24 SKS yang dapat diambil dari seluruh prodidi UNPAR.
-3. Untuk Teknik Informatika, 30 SKS dengan banyaknya matakuliah pilihan dari luar jurusan yang dapat
-   diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) matakuliah.
+Mahasiswa harus menempuh sejumlah SKS tertentu mata kuliah pilihan, dengan sejumlah SKS di antaranya 
+mata kuliah yang diselenggarakan prodinya. Jumlah SKS mata kuliah ini berbeda-beda untuk setiap prodi:
+ 1. Untuk Matematika, 48 SKS dengan minimal lulus 15 SKS berasal dari salah satu bidang kajian 
+    (Rekayasa Keuangan atau Matematika Industri).
+ 2. Untuk Fisika, 24 SKS yang dapat diambil dari seluruh prodi di UNPAR.
+ 3. Untuk Teknik Informatika, 30 SKS dengan banyaknya mata kuliah pilihan dari luar jurusan yang dapat
+    diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.
 
- Untuk matakuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
- 1. Bila matakuliah tersebut memiliki prasyarat, mahasiswa dari prodi lain tidak perlu memenuhi prasyarat tersebut.
- 2. Matakuliah pilihan dan matakuliah di prodi lain yang ekivalen dengannya,hanya dapat diperhitungkan salah satunya.
+Untuk mata kuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
+ 1. Bila mata kuliah tersebut memiliki prasyarat, mahasiswa dari prodi lain tidak perlu memenuhi prasyarat tersebut.
+ 2. Mata kuliah pilihan dan mata kuliah di prodi lain yang ekuivalen dengannya,hanya dapat diperhitungkan salah       satunya.
     
-**2. Mata Kuliah Prasyarat**
+##2.2 Mata Kuliah Prasyarat
 
-Matakuliah prasyarat adalah matakuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu matakuliah tertentu. Berkaitan dengan hal ini,terdapat tiga kategori:
-
-1. Prasyarat tempuh, artinya matakuliah tersebut telah terdaftar dalam rencana studi mahasiswa yang bersangkutan dan bernilai akhir A, B, C, D,atau E,walaupun tentunya kelulusan akan sangat menunjang penempuhan               matakuliah berikutnya.
-2. Prasyarat lulus, artinya mahasiswa harus lulus matakuliah prasyarat tersebut terlebih dahulu. Pada umumnya syarat kelulusan adalah nilai akhir minimum D,meskipun ada juga yang lebih tinggi. Silahkan melihat silabus          matakuliah ybs. untuk keterangan lebih lanjut.
-3. Mahasiswa di luar prodi penyelenggara matakuliah tidak wajib memenuhi prasyarat ini.
+Mata kuliah prasyarat adalah mata kuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu mata kuliah tertentu. Berkaitan dengan hal ini,terdapat tiga kategori:
+ 1. Prasyarat tempuh, artinya matakuliah tersebut telah terdaftar dalam rencana studi mahasiswa yang bersangkutan dan bernilai akhir A, B, C, D,atau E,walaupun tentunya kelulusan akan sangat menunjang penempuhan               matakuliah berikutnya.
+ 2. Prasyarat lulus, artinya mahasiswa harus lulus matakuliah prasyarat tersebut terlebih dahulu. Pada umumnya syarat kelulusan adalah nilai akhir minimum D,meskipun ada juga yang lebih tinggi. Silahkan melihat silabus          matakuliah ybs. untuk keterangan lebih lanjut.
+ 3. Mahasiswa di luar prodi penyelenggara matakuliah tidak wajib memenuhi prasyarat ini.
    
 **3. Mata Kuliah Layanan**
 
