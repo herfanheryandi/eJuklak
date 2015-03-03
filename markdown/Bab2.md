@@ -209,6 +209,93 @@ Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 |ABCXYZ	|Pilihan			|	|9	|
 |	|				|TOTAL	|15	|
 
+###2.5.2 MATA KULIAH  PILIHAN PROGRAM STUDI MATEMATIKA
+
+Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliah Pilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
+
+Kelompok Bidang Kajian: Rekayasa Keuangan
+
+Matematika Asuransi
+
+|KODE	|NAMA					|SKS	|
+|-------|---------------------------------------|-------|
+|AMS330	|Pengantar  Matematika Asuransi		|3	|
+|AMS331	|Matematika Asuransi			|3	|
+|AMS431	|Metoda Statistika Asuransi		|3	|
+|AMS432	|Teori Risiko				|3	|
+|AMS430	|Kapita Selekta Matematika Asuransi	|3	|
+
+Matematika Keuangan
+
+|	|Semester 2			|	|	|
+|-------|-------------------------------|-------|-------|
+|KODE	|NAMA				|APR	|SKS	|
+|AMS122	|Kalkulus 2			|	|4	|
+|AMS124	|Matematika Diskret		|	|4	|
+|AMS126	|Aljabar Matriks		|	|4	|
+|AIF112	|Pemrograman Komputer		|	|3	|
+|MKU011	|Estetika			|	|2	|
+|MKU003	|Agama Katolik +		|	|2	|
+|MKU003	|Fenomenologi Agama +		|	|	|
+|	|				|TOTAL	|19	|
+
+|	|Semester 3			|	|	|
+|-------|-------------------------------|-------|-------|
+|KODE	|NAMA				|APR	|SKS	|
+|AMS221	|Kalkulus Vektor		|R	|4	|
+|AMS231	|Teori Suku Bunga		|	|3	|
+|AMS251	|Teori Peluang			|	|4	|
+|AMS253	|Komputasi Statistika		|	|2	|
+|AMS271	|Metoda Matematika		|	|3	|
+|MKU008	|Etika				|R	|2	|
+|	|				|TOTAL	|18	|
+
+|	|Semester 4			|	|	|
+|-------|-------------------------------|-------|-------|
+|KODE	|NAMA				|APR	|SKS	|
+|AMS222	|Aljabar Linear			|R	|4	|
+|AMS252	|Statistika Matematika		|	|4	|
+|AMS261	|Optimasi			|	|4	|
+|AMS272	|Persamaan Diferensial Biasa	|	|4	|
+|AMS273	|Komputasi Matematika		|	|2	|
+|	|				|TOTAL	|18	|
+
+|	|Semester 5			|	|	|
+|-------|-------------------------------|-------|-------|
+|KODE	|NAMA				|APR	|SKS	|
+|AMS321	|Fungsi Kompleks		|	|4	|
+|AMS351	|Proses Stokastik		|	|4	|
+|AMS373	|Metoda Numerik			|	|3	|
+|MKU002	|Pendidikan Kewarganegaraan	|	|2	|
+|ABCXYZ	|Pilihan			|	|6	|
+|	|				|TOTAL	|19	|
+
+|	|Semester 6			|	|	|
+|-------|-------------------------------|-------|-------|
+|KODE	|NAMA				|APR	|SKS	|
+|AMS322	|Analisis Real			|R	|4	|
+|MKU009	|Bahasa Indonesia		|	|2	|
+|ABCXYZ	|Pilihan			|	|12	|
+|	|				|TOTAL	|18	|
+
+|	|Semester 7			|	|	|
+|-------|-------------------------------|-------|-------|
+|KODE	|NAMA				|APR	|SKS	|
+|AMS490	|Seminar			|	|3	|
+|AMS491	|Pemodelan Matematika		|	|4	|
+|MKU001	|Pancasila			|	|2	|
+|ABCXYZ	|Pilihan			|	|9	|
+|	|				|TOTAL	|18	|
+
+|	|Semester 8			|	|	|
+|-------|-------------------------------|-------|-------|
+|KODE	|NAMA				|APR	|SKS	|
+|AMS499	|Skripsi			|	|6	|
+|ABCXYZ	|Pilihan			|	|9	|
+|	|				|TOTAL	|15	|
+
+
+
 
 
 
