@@ -294,6 +294,13 @@ Matematika Keuangan
 |ABCXYZ	|Pilihan			|	|9	|
 |	|				|TOTAL	|15	|
 
+Sangat terbuka bagi seluruh mahasiswa untuk menempuh mata kuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara mata kuliah tersebut. Adapun persyaratan Mata Kuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh mata kuliah pilihan Bidang Kajian minimal 15 sks.
+
+###2.5.3 PETA DAN PRASYARAT MATA KULIAH
+Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
+
+###2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
+
 
 
 
