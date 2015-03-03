@@ -175,7 +175,39 @@ Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 |AMS273	|Komputasi Matematika		|	|2	|
 |	|				|TOTAL	|18	|
 
+|	|Semester 5			|	|	|
+|-------|-------------------------------|-------|-------|
+|KODE	|NAMA				|APR	|SKS	|
+|AMS321	|Fungsi Kompleks		|	|4	|
+|AMS351	|Proses Stokastik		|	|4	|
+|AMS373	|Metoda Numerik			|	|3	|
+|MKU002	|Pendidikan Kewarganegaraan	|	|2	|
+|ABCXYZ	|Pilihan			|	|6	|
+|	|				|TOTAL	|19	|
 
+|	|Semester 6			|	|	|
+|-------|-------------------------------|-------|-------|
+|KODE	|NAMA				|APR	|SKS	|
+|AMS322	|Analisis Real			|R	|4	|
+|MKU009	|Bahasa Indonesia		|	|2	|
+|ABCXYZ	|Pilihan			|	|12	|
+|	|				|TOTAL	|18	|
+
+|	|Semester 7			|	|	|
+|-------|-------------------------------|-------|-------|
+|KODE	|NAMA				|APR	|SKS	|
+|AMS490	|Seminar			|	|3	|
+|AMS491	|Pemodelan Matematika		|	|4	|
+|MKU001	|Pancasila			|	|2	|
+|ABCXYZ	|Pilihan			|	|9	|
+|	|				|TOTAL	|18	|
+
+|	|Semester 8			|	|	|
+|-------|-------------------------------|-------|-------|
+|KODE	|NAMA				|APR	|SKS	|
+|AMS499	|Skripsi			|	|6	|
+|ABCXYZ	|Pilihan			|	|9	|
+|	|				|TOTAL	|15	|
 
 
 
