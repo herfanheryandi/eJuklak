@@ -369,6 +369,15 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 |MKU011	|Estetika			|	|2	|
 |	|				|TOTAL	|19	|
 
+
+
+
+
+
+
+
+
+
 |	|Semester 2			|	|	|
 |-------|-------------------------------|-------|-------|
 |KODE	|NAMA				|APR	|SKS	|
@@ -436,6 +445,22 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 |ABCXYZ	|Pilihan			|	|9	|
 |	|				|TOTAL	|15	|
 
+Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
+
+|No	|Kelompok Mata Kulia	|
+|-------|-----------------------|
+|1	|Fisika Teoretik (Mekanika, Thermodinamika, Fisika Matematika Lanjut)	|
+|2	|Fisika Teoretik (Fisika Modern, Elektromagnetik, Kuantum)	|
+|3	|Fisika Komputasi, Elektronika, dan Instrumentasi	|
+|4	|Fisika Material dan Optika	|
+|5	|Biofisika	|
+|6	|Fisika Bumi	|
+|7	|Astrofisika	|
+|8	|Mata Kuliah Layanan 	|
+|9	|Seminar dan Skripsi	|
+|10	|Kuliah Dasar, Keterampilan Umum, Lain-Lain	|
+
+### 2.6.2 Matakuliah Pilihan Program Studi Fisika
 
 
 
