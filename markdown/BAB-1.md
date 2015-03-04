@@ -124,37 +124,37 @@ Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan ten
 
 ## 1.4 Pengelolah Fakultas  
  **1. Senat FTIS**  
- **Ketua** : Agus Sukmana,SSi,MSc  
- **Sekretaris** : Philips Nicolas Gunawidjaja, BSc, PhD  
-  
- **2. Dekanat**  
- **Dekan** : Paulus Cahyono Tjiang, SSi, PhD.  
-  **WD 1 (Akademik)** : Dr. Thomas Anung Basuki  
-  **WD II (Keuangan dan Sumberdaya)** : Maria Anestasia, SSi, MSi  
-  **WD III (Kemahasiswaan dan Alumni)** : Dr.rer.nat. Cecilia E.Nugraheni,ST,MT  
-
- **3. Program Studi Matematika**  
- **Ketua** : Dr. Ferry Jaya Permana  
-  **Sekretaris** : Livia Owen, SSi, MSi  
-  
- **4. Program Studi Fisika**  
- **Ketua** : Philips Nicolas Gunawidjaja, BSc, PhD  
-  **KaLab. Fisika** : Dasar	Risti Suryantari, S.Si., M.Si.  
-  **KaLab. Elektronika & Fisika Lanjut** : Janto V. Sulungbudi, Drs.  
-  
- **5. Program Studi Teknik Informatika**  
- **Ketua** : Dr. Thomas Anung Basuki  
-  **Sekretaris** : Lionov, SKom, MSc  
-  **KaLab. Komputasi** : Chandra Wijaya, ST, MT  
-  
- **6. Tata Usaha**  
- **Kepala** : Pranyoto Teguh Imanto  
-  **Kasubag Akademik** : Petrus Purnomo  
-  **Kasubag Keuangan & Kepegawaian** : Budi Santoso  
-  **Kasubag Kemahasiswaan & Alumni** : Fransiscus Sudarno  
-  **Kasubag Umum & Perlengkapan** : Walip, A.Md  
-  **Staf Akademik** : Rikie Setiawan, S.AB.  
-  **Staf Keuangan & Kepegawaian** : Filifo Zebua, Dwina Irlistriarti, Dra.
+ - **Ketua** : Agus Sukmana,SSi,MSc  
+ - **Sekretaris** : Philips Nicolas Gunawidjaja, BSc, PhD
+ 
+**2. Dekanat**  
+ - **Dekan** : Paulus Cahyono Tjiang, SSi, PhD.  
+ - **WD 1 (Akademik)** : Dr. Thomas Anung Basuki  
+ - **WD II (Keuangan dan Sumberdaya)** : Maria Anestasia, SSi, MSi  
+ - **WD III (Kemahasiswaan dan Alumni)** : Dr.rer.nat. Cecilia E.Nugraheni,ST,MT  
+ 
+**3. Program Studi Matematika**  
+ - **Ketua** : Dr. Ferry Jaya Permana  
+ - **Sekretaris** : Livia Owen, SSi, MSi
+ 
+**4. Program Studi Fisika**  
+ - **Ketua** : Philips Nicolas Gunawidjaja, BSc, PhD  
+ - **KaLab. Fisika** : Dasar	Risti Suryantari, S.Si., M.Si.  
+ - **KaLab. Elektronika & Fisika Lanjut** : Janto V. Sulungbudi, Drs.
+ 
+**5. Program Studi Teknik Informatika**  
+ - **Ketua** : Dr. Thomas Anung Basuki  
+ - **Sekretaris** : Lionov, SKom, MSc  
+ - **KaLab. Komputasi** : Chandra Wijaya, ST, MT
+ 
+**6. Tata Usaha**  
+ - **Kepala** : Pranyoto Teguh Imanto  
+ - **Kasubag Akademik** : Petrus Purnomo  
+ - **Kasubag Keuangan & Kepegawaian** : Budi Santoso  
+ - **Kasubag Kemahasiswaan & Alumni** : Fransiscus Sudarno  
+ - **Kasubag Umum & Perlengkapan** : Walip, A.Md  
+ - **Staf Akademik** : Rikie Setiawan, S.AB.  
+ - **Staf Keuangan & Kepegawaian** : Filifo Zebua, Dwina Irlistriarti, Dra.
 
 ## 1.5 Daftar Dosen FTIS  
 Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan website. 
