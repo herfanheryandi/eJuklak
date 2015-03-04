@@ -128,8 +128,8 @@ Syarat untuk mengikuti UTS dan UAS:
   3.	**Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun;
   4.	**Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan      terbuka);
   5.	**Pinjam-meminjam** alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian       berlangsung.
-10.	Peserta ujian yang **melakukan kecurangan** pada saat ujian akan dikenakan **sanksi akademik** yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS.  
-11.	Selama ujian berlangsung, peserta ujian **tidak diperkenankan meninggalkan ruangan ujiandengan alasan apapun** (kecuali peserta yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC, harus melakukannya sebelum ujian dimulai.
+ 10.	Peserta ujian yang **melakukan kecurangan** pada saat ujian akan dikenakan **sanksi akademik** yang tertera pada   Buku Petunjuk Pelaksanaan Akademik FTIS.  
+ 11.	Selama ujian berlangsung, peserta ujian **tidak diperkenankan meninggalkan ruangan ujiandengan alasan apapun**    (kecuali peserta yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC, harus melakukannya sebelum   ujian dimulai.
 
 
 
