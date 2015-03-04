@@ -193,7 +193,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
  - **Erwinna Chendra**, SSi(UNPAR), MSi(ITB), Studi S-3 Matematika di ITB  
         Email: erwinna@unpar.ac.id.  
         Website: http://www.unpar.ac.id/erwinna  
- - **3Liem Chin**, SSi.(UNPAR), MSi.(ITB): Matematika Diskret, Aljabar Linear, Komputasi Statistika.  
+ - **Liem Chin**, SSi.(UNPAR), MSi.(ITB): Matematika Diskret, Aljabar Linear, Komputasi Statistika.  
         Email: chin@unpar.ac.id.  
  - **Oerip S. Santoso**, dr (UI), MSc. (Univ. Wisconsin Madison.USA), Dr.(Univ. Paris VI): Struktur Diskret, Grafika Komputer, Komputer dan Masyarakat, Projek Perangkat Lunak.  
         Email: oerip_ss@yahoo.com  
