@@ -61,7 +61,7 @@ Ketiga program studi tersebut saat ini telah memperoleh status akreditasi dari B
     
 Ketiga program studi yang sekarang berada dalam naungan FTIS ini dilaksanakan berdasarkan suatu kurikulum yang berbobot 144 sks (satuan kredit semester) dengan rincian selanjutnya akan diuraikan pada bagian berikutnya.
       
-## 1.2 Visi, Misi, Tujuan, dan Sasaran FTIS<br>
+## 1.2 Visi, Misi, Tujuan, dan Sasaran FTIS
 Visi dan Misi FTIS - UNPAR mengacu pada visi dan misi UNPAR. Visi UNPAR adalah
 > *Menjadi komunitas akademik humanum yang bersemangat kasih dalam kebenaran untuk  mengembangkan potensi lokal pada* 
 > *tataran internasional demi peningkatan  martabat manusia dan keutuhan alam ciptaan.*  
