@@ -131,6 +131,26 @@ Syarat untuk mengikuti UTS dan UAS:
  10.	Peserta ujian yang **melakukan kecurangan** pada saat ujian akan dikenakan **sanksi akademik** yang tertera pada   Buku Petunjuk Pelaksanaan Akademik FTIS.  
  11.	Selama ujian berlangsung, peserta ujian **tidak diperkenankan meninggalkan ruangan ujiandengan alasan apapun**    (kecuali peserta yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC, harus melakukannya sebelum   ujian dimulai.
 
+### 3.3.3 Sanksi
+Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi sanksi berupa:
+ 1.	Untuk kali pertama: peringatan dari pengawas ujian, yang wajib dicatat dalam Berita Acara Ujian dan disimpan dalam map mahasiswa terkait.
+ 2.	Untuk kali ke dua dengan kesalahan yang sama: peringatan tertulis dari pimpinan Fakultas, yang arsipnya juga disimpan dalam map mahasiswa terkait.
+ 3.	Untuk kali ke tiga dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS matakuliah dimana kesalahan ke tiga tersebut terjadi (sesuai SK Rektor Universitas Katolik Parahyangan No. III/PRT/93-01/03 tentang Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).
+ 4.	Untuk kali ke empat dan seterusnya dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS **seluruh** matakuliah pada masa ujian terkait (sesuai SK Rektor UNPAR No. III/PRT/93-01/03 tentang Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).
+Sanksi no. 3 dan 4 dikukuhkan oleh Surat Keputusan Dekan FTIS.
 
+Mahasiswa yang terbukti melakukan **pelanggaran** norma kejujuran pada saat mengikuti ujian, akan diberi sanksi akademik sebagai berikut :
+ 1.	Untuk kali pertama: nilai matakuliah yang bersangkutan ditetapkan menjadi E (tidak lulus).
+ 2.	Untuk kali kedua: seluruh nilai matakuliah pada semester terkait mahasiswa yang bersangkutan ditetapkan menjadi E (tidak lulus).
+ 3.	Untuk kali selanjutnya: sanksi yang lebih berat, yang akan ditetapkan melalui rapat pimpinan fakultas.
 
+### 3.3.4 Lain-lain
+ 1. **Tidak ada ujian khusus** untuk perbaikan nilai ujian.
+ 2. Tidak ada ujian khusus bagi mahasiswa yang tidak hadir dalam ujian. Apabila mahasiswa yang bersangkutan mengalami  hal-hal di bawah ini saat ujian matakuliah mahasiswa yang bersangkutan sedang berlangsung:
+  * Sakit, yang diperkuat oleh *surat keterangan rawat inap* dari rumah sakit.
+  * Mewakili negara / UNPAR dalam suatu kegiatan tertentu.
+  * Hal lain yang yang dapat diterima oleh pimpinan fakultas beserta pimpinan jurusan.
 
+ Maka mahasiswa tersebut dapat mengajukan permohonan ujian susulan bagi mata kuliah terkait kepada WD-1 dengan         tembusan kepada pimpinan jurusan terkait sebelum batas waktu pengajuan yang ditentukan setiap semesternya.
+
+Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahgunaan wewenang oleh pengawas ujian dapat dilakukan dalam bentuk pengaduan tertulis dalam amplop tertutup yang ditujukan kepada WD-1.
