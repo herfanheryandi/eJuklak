@@ -113,4 +113,24 @@ Syarat untuk mengikuti UTS dan UAS:
  1.	Peserta ujian harus menempati **ruang ujian** dan **tempat duduk sesuai dengan nomor ujian**. Nomor ujian dapat    dilihat pada papan pengumuman akademik fakultas. 
  2.	Pergantian tempat duduk duduk harus sepengetahuan dan ijin pengawas ujian.
 
+**E.  Pelaksanaan**
+ 1.	Peserta ujian dilarang membuka dan membaca soal ujian sebelum diperbolehkan oleh pengawas ujian. 
+ 2.	Sebelum mulai mengerjakan soal ujian, peserta ujian **wajib** mengisi nama, NPM sesuai dengan yang diminta pada    lembar jawab ujian dan menandatanganinya, serta menandatangani pernyataan akan taat pada tata tertib ujian. Lembar    ujian tanpa NPM, nama, dan tandatangan dianggap tidak sah.
+ 3.	Sejak ujian dimulai peserta ujian **wajib** menjaga ketertiban di ruang ujian dan dilarang berkomunikasi dan       bekerjasama dengan peserta lain. Hal yang belum jelas mengenai pelaksanaan ujian harus ditanyakan langsung kepada     pengawas ujian.
+ 4.	Kertas yang boleh digunakan hanya lembar jawab ujian dan kertas buram resmi (bercap FTIS). Semua kertas buram yang  digunakan diberi NPM dan dikumpulkan kembali bersama-sama lembar jawab ujian.
+ 5.	Peserta ujian **wajib** menandatangani daftar hadir yang telah disediakan dan wajib memberitahu pengawas jika      sampai ujian berakhir belum menandatangani daftar hadir.
+ 6.	Peserta ujian yang meninggalkan ruang ujian selama ujian berlangsung tanpa ijin pengawas dianggap telah            menyelesaikan ujian.
+ 7.	Peserta ujian menyerahkan lembar jawab kepada pengawas setelah menyelesaikan ujian atau tepat setelah waktu ujian  berakhir. **Kertas buram** terisi atau tidak harus **dikumpulkan kembali** bersama dengan lembar jawab.
+ 8.	Peserta ujian yang telah menyelesaikan ujian diperkenankan untuk meninggalkan ruang ujian paling cepat **30        menit** setelah ujian dimulai.
+ 9.	Dilarang keras **melakukan kecurangan** dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap  sebagai perbuatan curang:
+  1.	**Melihat** berkas ujian milik peserta ujian lain;
+  2.	**Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain;
+  3.	**Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun;
+  4.	**Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan      terbuka);
+  5.	**Pinjam-meminjam** alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian       berlangsung.
+10.	Peserta ujian yang **melakukan kecurangan** pada saat ujian akan dikenakan **sanksi akademik** yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS.  
+11.	Selama ujian berlangsung, peserta ujian **tidak diperkenankan meninggalkan ruangan ujiandengan alasan apapun** (kecuali peserta yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC, harus melakukannya sebelum ujian dimulai.
+
+
+
 
