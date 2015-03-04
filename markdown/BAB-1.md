@@ -144,7 +144,7 @@ Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan ten
  
 **5. Program Studi Teknik Informatika**  
  - **Ketua** : Dr. Thomas Anung Basuki  
- - **Sekretaris** : Lionov, SKom, MSc  
+ - **Sekretaris** : Lionov, S.Kom, MSc  
  - **KaLab. Komputasi** : Chandra Wijaya, ST, MT
  
 **6. Tata Usaha**  
@@ -231,13 +231,13 @@ Email: farah@unpar.ac.id.
  * **Janto Vincent Sulungbudi**, SSi (ITB):  
  Laboratorium Fisika Instrumentasi, Instrumentasi Berbasis Komputer, Pengantar Kontrol Otomatis.  
         Email: janto@unpar.ac.id, janto.sulungbudi@gmail.com.  
- * **Lionov**, SKom (UNPAR), MSc. (Utrecht Univ. – Belanda):  
+ * **Lionov**, S.Kom (UNPAR), MSc. (Utrecht Univ. – Belanda):  
  Pemrograman Berorientasi Objek, Algoritma dan Struktur Data, Koordinator Skripsi.  
         Email: lionov@unpar.ac.id.  
  * **Livia Owen**, SSi (UNPAR), MSi (ITB):  
  Kalkulus Vektor, Komputasi Matematika, Fisika Matematik II.  
         Email: livia.owen@unpar.ac.id  
- * **Luciana Abednego**, SKom (UNPAR), MT (ITB):  
+ * **Luciana Abednego**, S.Kom (UNPAR), MT (ITB):  
  Logika Informatika, Algoritma dan Struktur Data, Grafika Komputer.  
         Email: luciana@unpar.ac.id  
  * **Taufik Limansyah**, SSi (UNPAR), Studi S-2 Teknik Industri di UNPAR :  
@@ -251,7 +251,7 @@ Email: farah@unpar.ac.id.
         Email: maria.anestasia@unpar.ac.id
         
 **5. Golongan III**  
- * **Chandra Wijaya**, SKom (UNPAR), MT (ITB):  
+ * **Chandra Wijaya**, S.Kom (UNPAR), MT (ITB):  
  Jaringan Komputer, Sistem Digital.  
         Email: chandraw@unpar.ac.id  
  * **Elok Fidiani**, SSi (UGM), MSc (TU Dresden):  
@@ -267,13 +267,13 @@ Email: farah@unpar.ac.id.
  * **Mariskha Tri Adithia**, SSi (ITB), MSc (Universiteit Eindhoven  – Belanda), PDEng (Universiteit Eindhoven  – Belanda):  
  Struktur Diskret, Kriptografi, Logika Informatika.  
         Email: mariskha@unpar.ac.id  
- * **Pascal Alfadian**, SKom (UNPAR), MCom (NUS - Singapore):  
+ * **Pascal Alfadian**, S.Kom (UNPAR), MCom (NUS - Singapore):  
  Analisis dan Desain Berorientasi Objek, Pemrograman Beorientasi Objek.  
         Email: pascal@unpar.ac.id  
  * **Risti Suryantari**, SSi (UGM), MSc (UGM):  
  Fisika Dasar, Fisika Modern, Gelombang, Fisika Kristal Cair.  
         Email: ristisuryantari@unpar.ac.id.  
- * **Husnul Hakim**, SKom (ITS), MT (ITB):  
+ * **Husnul Hakim**, S.Kom (ITS), MT (ITB):  
  Pemrograman Berorientasi Obyek, Algoritma dan Struktur Data.  
         Email: husnulhakim@unpar.ac.id  
  * **Vania Natali**, S.Kom (UNPAR), studi S2 - ITB.  
