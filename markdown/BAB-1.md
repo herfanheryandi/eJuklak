@@ -159,11 +159,11 @@ Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan ten
 ## 1.5 Daftar Dosen FTIS  
 Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan website. 
 
-**Guru Besar**  
+**1. Guru Besar**  
 **1. Prof B. Suprapto Brotosiswojo**, Dr. (Purdue University,USA) Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.  
      Email: bensupra@unpar.ac.id
      
- **Lektor Kepala**  
+ **2. Lektor Kepala**  
  **1.  Agus Sukmana**, Drs. (ITB), MSc (Twente Univ. – Belanda), studi S-3 (UPI): Teori Peluang, Pengendalian Mutu, Statistika Elementer.  
      Email: asukmana@unpar.ac.id.  
 **2. Aloysius Rusli**, Dr. (Leeds University, UK): Fisika Polimer, Pengenalan Program Studi Fisika,Etika Profesi, Reologi.  
@@ -187,7 +187,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 **11. Veronica Sri Moertini**, ST (ITB), MT (ITB), Dr. (ITB): Basis Data, Penambangan Data, Projek Sistem Informasi.  
     Email: moertini@unpar.ac.id  
     
-**Lektor**  
+**3. Lektor**  
  **1. Cecilia Esti Nugraheni**, ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians  		Universitaet – Germany): Matematika Diskret, Jaringan Syaraf Tiruan.  
         Email: cheni@unpar.ac.id  
 **2. Erwinna Chendra**, SSi(UNPAR), MSi(ITB), Studi S-3 Matematika di ITB  
@@ -204,7 +204,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 **7. Farah Kristiani**, SSi (UNPAR), MSi (ITB), Studi S-3 Matematika di Universiti Pendidikan Sultan Idris, Malaysia.  
 Email: farah@unpar.ac.id.  
 
-**Asisten Ahli**  
+**4. Asisten Ahli**  
  **1. Elisati Hulu**, ST (ITB), MT (ITB), Studi S-3 di ITB.  
         Email: elisatih@unpar.ac.id.  
 **2. Gede Karya**, ST (ITB), MT (ITB): Pemrograman Aplikasi Bergerak, Analisis Proses Bisnis.  
@@ -225,7 +225,7 @@ Email: farah@unpar.ac.id.
 **10. Maria Anestasia**, SSi (ITB), MSi (ITB):Kalkulus 2, Persamaan Diferensial Biasa, Kalkulus Vektor.  
         Email: maria.anestasia@unpar.ac.id
         
-**Golongan III**  
+**5. Golongan III**  
   **1. Chandra Wijaya**, SKom (UNPAR), MT (ITB): Jaringan Komputer, Sistem Digital.  
         Email: chandraw@unpar.ac.id  
 **2. Elok Fidiani**, SSi (UGM), MSc (TU Dresden): Fisika Dasar, Fisika Statistik, Pengantar Fisika Material, Nanoteknologi dan Lingkungan.  
