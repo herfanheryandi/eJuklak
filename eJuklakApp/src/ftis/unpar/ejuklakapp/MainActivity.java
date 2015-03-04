@@ -27,7 +27,10 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //Code here
-        String htmlText = new String();  
+        WebView myWebView = (WebView) findViewById(R.id.webview);
+        myWebView.loadUrl("file:///android_asset/MarkdownBab1.htm");
+        /*TEXTVIEW
+         * String htmlText = new String();  
 		try {
 			InputStream file = this.getAssets().open("file:///android_asset/MarkdownBab1.htm");
 			htmlText = this.read(new InputStreamReader(file));
@@ -42,7 +45,8 @@ public class MainActivity extends ActionBarActivity {
 		}
         TextView htmlTextView = (TextView)findViewById(R.id.textView);
         htmlTextView.setText(Html.fromHtml(htmlText, null, null));
-
+		*/
+       
     }
 
 
@@ -65,7 +69,8 @@ public class MainActivity extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
     }
     
-    public String read(InputStreamReader file) throws Exception{
+    /*TEXTVIEW
+     * public String read(InputStreamReader file) throws Exception{
     	BufferedReader reader = new BufferedReader(file);
 		String res = new String();
 		String text = reader.readLine();
@@ -75,5 +80,5 @@ public class MainActivity extends ActionBarActivity {
 		}
 		reader.close();
 		return res;
-	}
+	}*/
 }
