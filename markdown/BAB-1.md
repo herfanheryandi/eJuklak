@@ -147,7 +147,7 @@ sesuai dengan sesanti **Bakuning Hyang Mrih Guna Santyaya Bhakti**, yang berarti
   **Staf Akademik** : Rikie Setiawan, S.AB.  
   **Staf Keuangan & Kepegawaian** : Filifo Zebua, Dwina Irlistriarti, Dra.
 
-##### 1.5 Daftar Dosen FTIS  
+## 1.5 Daftar Dosen FTIS  
 **`Guru Besar`**  
 **1. Prof B. Suprapto Brotosiswojo**, Dr. (Purdue University,USA) Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.  
      Email: bensupra@unpar.ac.id
