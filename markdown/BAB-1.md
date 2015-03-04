@@ -187,7 +187,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 **11. Veronica Sri Moertini**, ST (ITB), MT (ITB), Dr. (ITB): Basis Data, Penambangan Data, Projek Sistem Informasi.  
     Email: moertini@unpar.ac.id  
     
-**`Lektor`**  
+**Lektor**  
  **1. Cecilia Esti Nugraheni**, ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians  		Universitaet – Germany): Matematika Diskret, Jaringan Syaraf Tiruan.  
         Email: cheni@unpar.ac.id  
 **2. Erwinna Chendra**, SSi(UNPAR), MSi(ITB), Studi S-3 Matematika di ITB  
@@ -204,7 +204,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 **7. Farah Kristiani**, SSi (UNPAR), MSi (ITB), Studi S-3 Matematika di Universiti Pendidikan Sultan Idris, Malaysia.  
 Email: farah@unpar.ac.id.  
 
-**`Asisten Ahli`**  
+**Asisten Ahli**  
  **1. Elisati Hulu**, ST (ITB), MT (ITB), Studi S-3 di ITB.  
         Email: elisatih@unpar.ac.id.  
 **2. Gede Karya**, ST (ITB), MT (ITB): Pemrograman Aplikasi Bergerak, Analisis Proses Bisnis.  
