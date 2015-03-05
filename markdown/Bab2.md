@@ -315,7 +315,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |AMS221		|KALKULUS  VEKTOR (VECTOR CALCULUS)	|
 |AMS122		|Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.|
 
-![](images/gambar1.jpg)
+![](images/Lampiran_BAB2_1.png)
 
 Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 
@@ -591,7 +591,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 |AMS499		|SKRIPSI (*FINAL PROJECT*)	|
 |AMS490 minimal C		|Studi pustaka, penulisan dan penyajian lisan skripsi.|
 
-![](images/gambar2.jpg)
+![](images/Lampiran_BAB2_2.png)
 
 
 
