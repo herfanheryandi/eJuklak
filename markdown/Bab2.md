@@ -497,12 +497,98 @@ Kelompok Biofisika
 
 |KODE	|NAMA					|SKS	|
 |-------|---------------------------------------|-------|
-|APS331	|Pemodelan Matematika Gejala Alam	|3	|
-|APS332	|KapSel. Fisika komputasi		|3	|
-|APS336	|Instrumentasi Berbasis Komputer	|3	|
-|APS435	|Pengantar Kontrol Otomatis		|3	|
-|APS436	|KapSel. Fisika Instrumentasi		|3	|
+|APS350	|Fisika Instrumentasi Medis		|3	|
+|APS351	|Biofisika				|3	|
+|APS352	|Fisika Kedokteran			|3	|
+|APS458	|Kapita Selekta Biofisika		|3	|
+|APS459	|Kapita Selekta Fisika Kedokteran	|3	|
+
+Kelompok Fisika Material dan Optika
+
+|KODE	|NAMA					|SKS	|
+|-------|---------------------------------------|-------|
+|APS343	|Struktur Materi			|3	|
+|APS441	|Reologi				|3	|
+|APS442	|Fisika Polimer				|3	|
+|APS443	|Pengantar Kristal Cair			|3	|
+|APS444	|Fisika Kristal Cair			|3	|
+|APS445	|Pengantar Nanoteknologi		|3	|
+|APS446	|Nanoteknologi dan Lingkungan		|	|
+|APS447	|Fisika Laser				|	|
+|APS448	|Hamburan dan Spektroskopi		|	|
+|APS449	|Kapita Selekta Fisika Material 	|	|
+
+Kelompok Fisika Bumi
+
+|KODE	|NAMA					|SKS	|
+|-------|---------------------------------------|-------|
+|APS361	|Geofisika				|3	|
+|APS362	|Oseanografi Fisis			|3	|
+|APS363	|Pemanasan Global			|3	|
+|APS364	|Cuaca dan Lingkungan			|3	|
+|APS469	|Kapita Selekta Fisika Bumi		|3	|
+|APS447	|Fisika Laser				|	|
+
+Kelompok Astrofisika
+
+|KODE	|NAMA					|SKS	|
+|-------|---------------------------------------|-------|
+|APS371	|Tata Surya				|3	|
+|APS372	|Bintang				|3	|
+|APS373	|Kosmologi				|3	|
+|APS474	|Kosmologi Relativistik			|3	|
+|APS479	|Kapita Selekta Astrofisika		|3	|
+
+Komposisi Kuliah wajib dan pilihan adalah
+  
+  * Kuliah Wajib = 120 sks
+  * Kuliah Pilihan = 24 sks
+  
+Selain itu, mahasiswa dapat mengambil, baik mata kuliah wajib maupun mata kuliah pilihan dari Program Studi Teknik Sipil / Arsitektur / Teknik Industri / Teknik Kimia dan dari Fakultas Ekonomi/Fakultas Hukum/Fakultas Ilmu Sosial dan Ilmu Politik/ Fakultas Filsafat (sejauh masih ada tempat lowong di kelas paralelnya).
+
+Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari seluruh pembelajaran soft-skills berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis (logical consistency), melakukan taksiran (sense of scale), menentukan prioritas, komputasi, bekerjasama, entrepreneurship, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru (open minded), percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
+
+### 2.6.3 Peta dan Prasyarat Matakuliah
+
+Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
+
+### 2.6.4 Deskripsi Singkat Matakuliah Program Studi Fisika
 
 
+
+|KODE MK	|NAMA & DESKRIPSI MATA KULIAH	|
+|---------------|-------------------------------|
+|AMS231		|TEORI  SUKU  BUNGA (*THEORY OF INTEREST*)	|
+|AMS122		|Bunga tunggal dan bunga majemuk, diskonto, anuitas elementer dan lanjut, amortisasi dan pengakumulasian dana.|
+|AMS251		|TEORI  PELUANG (*PROBABILITY THEORY*)|
+|AMS122		|Analisis kombinatorial, aksioma-aksioma peluang, peluang bersyarat, variabel acak, distribusi variabel acak diskret, distribusi variabel acak kontinu, distribus variabel acak gabungan, ekspektasi dan sifat-sifatnya, teorema-teorema limit termasuk teorema limit pusat.|
+|AMS253		|KOMPUTASI STATISTIKA (*STATISTICAL COMPUTATION*)|
+|APS181, AMS151	|Pengenalan dan dasar-dasar pemrograman dalam R, Statistika Deskriptif dengan R, Deskripsi Populasi, Selang Kepercayaan dan Uji Hipotesis, Distribusi dan Estimasi Distribusi, Integrasi Monte Carlo dan Metoda Monte Carlo untuk Inferensi.|
+|AMS271		|METODA MATEMATIKA (*MATHEMATICAL METHODS*)	|
+|AMS122		|Persamaan Bessel dan Legendre, aproksimasi fungsi, analisis Fourier, transformasi Laplace, pengantar sistem diskrit, dan Discrete Fourier Transform.|
+|AMS222		|ALJABAR LINEAR (*LINEAR ALGEBRA*)|
+|AMS126		|Persamaan linear dan matriks, ruang vektor, determinan, transformasi linear dan nilai eigen, norm dan hasil kali dalam.|
+|AMS252		|STATISTIKA  MATEMATIKA (*MATHEMATICAL STATISTICS*)	|
+|AMS251		|Sampel dan statistik; statistik terurut, distribusi statisti terurut; penaksiran parameter:  metoda maksimum likelihood, uji maksimum likelihood, mengukur kualitas penaksir, statistik cukup. Pengujian hipotesis yang optimal: most powerful tests, uniformly most powerful test, uji rasio likelihood.  Inferensi mengenai beberapa model normal meliputi: analisis variansi dan regresi.|
+|AMS261		|OPTIMASI (*OPTIMIZATION*)	|
+|AMS126, AMS221 		|Pengantar pemrograman linear, algoritma simpleks, analisis sensitivitas, dualitas, topik lanjut dalam masalah optimasi.|
+|AMS272		|PERSAMAAN  DIFERENSIAL  BIASA (*ORDINARY DIFFERENTIAL EQUATIONS*)	|
+|AMS122, AMS126		|Persamaan diferensial orde satu, persamaan diferensial orde dua, persamaan diferensial orde-n, sistem persamaan diferensial linear orde satu, pengantar persamaan diferensial nonlinear, pengantar persamaan diferensial parsial, masalah nilai batas.|
+|AMS273		|KOMPUTASI MATEMATIKA (*COMPUTATIONAL MATHEMATICS*)|
+|AMS126, AMS151, AMS221		|Pengenalan perintah dasar di Maple, Penggunaan Maple dalam Aljabar Linear, Persamaan Diferensial Biasa, Peluang dan Statistika, Pengenalan perintah dasar di Matlab, Penggunaan Matlab dalam Aljabar Linear dan Statistika, menggambar grafik, serta pemograman di Matlab.|
+|AMS321		|FUNGSI KOMPLEKS (*Functions of A Complex Variable*)|
+|APS221		|Aksioma bilangan kompleks, fungsi kompleks dan pemetaan fungsi kompleks, limit dan turunan fungsi kompleks, integral fungsi kompleks, deret pangkat, residu dan perhitungan integral fungsi real melalui teknik residu, masalah aplikasi menggunakan teknik fungsi kompleks.|
+|AMS351		|PROSES  STOKASTIK (*STOCHASTIC PROCESSES*)	|
+|AMS251		|Distribusieksponensial dan proses Poisson, proses renewal, rantai Markov, modelantrian.|
+|AMS373		|METODE NUMERIK (*NUMERICAL METHODS*)|
+|AMS273		|Konsep numerik, akar persamaan nonlinear dan polinomial, menyelesaikan sistem persamaan linear dengan hitungan langsung (eliminasi) dan dengan hitungan tak langsung (iterasi), interpolasi dan hampiran fungsi, pengintegralan numerik, hampiran turunan, persamaan diferensial biasa.|
+|AMS322		|ANALISIS REAL (*REAL ANALYSIS*)	|
+|AMS321		|Alj. himpunan, fungsi, bil. real, barisan dan deret, limit, fungsi kontinu, dan turunan.|
+|AMS491		|PEMODELAN  MATEMATIKA (*MATHEMATICAL MODELLING*)	|
+|AMS126, AMS221, AMS253, AMS272, AMS273 		|Mengumpulkan data, mencari proporsionalitas, menggunakan metoda beda hingga, menginterpretasikan hasil, memperbaiki model, model pencocokan kurva, model eksperimental, model simulasi, model probabilistik diskrit, analisis dimensi dan keserupaan.|
+|AMS490		|SEMINAR (*SEMINAR*)	|
+|lulus minimal 110 sks		|Studi pustaka, penulisan dan presentasi karya ilmiah.|
+|AMS499		|SKRIPSI (*FINAL PROJECT*)	|
+|AMS490 minimal C		|Studi pustaka, penulisan dan penyajian lisan skripsi.|
 
 
