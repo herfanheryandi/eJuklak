@@ -6,20 +6,30 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
+import android.support.v4.app.FragmentManager;
+import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
+import android.app.Fragment;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
 import android.widget.TextView;
 import android.text.Html;
 import android.text.Html.ImageGetter;
 
 
 public class MainActivity extends ActionBarActivity {
-
+	 private String[] mPlanetTitles;
+	 private DrawerLayout mDrawerLayout;
+	 private ListView mDrawerList;
 	
 	
     @Override
@@ -27,28 +37,22 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //Code here
+        /*webview*/
         WebView myWebView = (WebView) findViewById(R.id.webview);
         myWebView.loadUrl("file:///android_asset/MarkdownBab1.htm");
-        /*TEXTVIEW
-         * String htmlText = new String();  
-		try {
-			InputStream file = this.getAssets().open("file:///android_asset/MarkdownBab1.htm");
-			htmlText = this.read(new InputStreamReader(file));
-		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
-			htmlText = "Masih error file not found!";
-			e.printStackTrace();
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			htmlText = "Masih error";
-			e.printStackTrace();
-		}
-        TextView htmlTextView = (TextView)findViewById(R.id.textView);
-        htmlTextView.setText(Html.fromHtml(htmlText, null, null));
-		*/
-       
+        /*navigation drawer*/
+        mPlanetTitles= getResources().getStringArray(R.array.navigation_drawer_items_array);
+        mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
+        mDrawerList = (ListView) findViewById(R.id.left_drawer);
+        ObjectDrawerItem[] drawerItem = new ObjectDrawerItem[3];
+        
+        drawerItem[0] = new ObjectDrawerItem(R.drawable.ic_launcher, "Create");
+        drawerItem[1] = new ObjectDrawerItem(R.drawable.ic_launcher, "Read");
+        drawerItem[2] = new ObjectDrawerItem(R.drawable.ic_launcher, "Help");
+        DrawerItemCustomAdapter adapter = new DrawerItemCustomAdapter(this, R.layout.listview_item_row, drawerItem);
+        mDrawerList.setAdapter(adapter);
+        mDrawerList.setOnItemClickListener(new DrawerItemClickListener());
     }
-
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -69,16 +73,46 @@ public class MainActivity extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
     }
     
-    /*TEXTVIEW
-     * public String read(InputStreamReader file) throws Exception{
-    	BufferedReader reader = new BufferedReader(file);
-		String res = new String();
-		String text = reader.readLine();
-		while(text!=null){
-			res += text;
-			text = reader.readLine();
-		}
-		reader.close();
-		return res;
-	}*/
+    private class DrawerItemClickListener implements ListView.OnItemClickListener {
+        
+        @Override
+        public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+            selectItem(position);
+        }
+        
+    }
+     
+    private void selectItem(int position) {
+        
+        Fragment fragment = null;
+        
+        switch (position) {
+        case 0:
+            fragment = new CustomFragment();
+            break;
+        case 1:
+            fragment = new CustomFragment();
+            break;
+        case 2:
+            fragment = new CustomFragment();
+            break;
+     
+        default:
+            break;
+        }
+        
+        if (fragment != null) {
+            android.app.FragmentManager fragmentManager = getFragmentManager();
+            fragmentManager.beginTransaction().replace(R.id.content_frame, fragment).commit();
+     
+            mDrawerList.setItemChecked(position, true);
+            mDrawerList.setSelection(position);
+            getActionBar().setTitle(mPlanetTitles[position]);
+            mDrawerLayout.closeDrawer(mDrawerList);
+            
+        } else {
+            Log.e("MainActivity", "Error in creating fragment");
+        }
+    }
+    
 }
