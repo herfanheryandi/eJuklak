@@ -369,83 +369,81 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 |MKU011	|Estetika			|	|2	|
 |	|				|TOTAL	|19	|
 
-
-
-
-
-
-
-
-
-
 |	|Semester 2			|	|	|
 |-------|-------------------------------|-------|-------|
 |KODE	|NAMA				|APR	|SKS	|
-|AMS122	|Kalkulus 2			|	|4	|
-|AMS124	|Matematika Diskret		|	|4	|
-|AMS126	|Aljabar Matriks		|	|4	|
-|AIF112	|Pemrograman Komputer		|	|3	|
-|MKU011	|Estetika			|	|2	|
-|MKU003	|Agama Katolik +		|	|2	|
-|MKU003	|Fenomenologi Agama +		|	|	|
-|	|				|TOTAL	|19	|
+|APS106	|Fisika Dasar 2			|R,P	|3	|
+|APS108	|Fisika Matematika 2		|R	|4	|
+|APS112	|Mekanika			|R	|3	|
+|APS124	|Fisika Modern			|	|3	|		
+|APS132	|Fisika Komputasi		|P	|3	|
+|MKU012	|Logika				|	|2	|
+|	|				|TOTAL	|18	|
 
 |	|Semester 3			|	|	|
 |-------|-------------------------------|-------|-------|
 |KODE	|NAMA				|APR	|SKS	|
-|AMS221	|Kalkulus Vektor		|R	|4	|
-|AMS231	|Teori Suku Bunga		|	|3	|
-|AMS251	|Teori Peluang			|	|4	|
-|AMS253	|Komputasi Statistika		|	|2	|
-|AMS271	|Metoda Matematika		|	|3	|
-|MKU008	|Etika				|R	|2	|
+|APS207	|Fisika Matematika 3		|R	|4	|
+|APS213	|Gelombang			|R	|3	|
+|APS215	|Fisika Thermal			|R	|3	|
+|APS225	|Lab. Fisika Modern		|P	|3	|
+|APS233	|Elektronika 1			|P	|3	|
+|MKU003 / MKU004|Agama Katolik / Fenomenologi Agama	|	|2	|
 |	|				|TOTAL	|18	|
 
 |	|Semester 4			|	|	|
 |-------|-------------------------------|-------|-------|
 |KODE	|NAMA				|APR	|SKS	|
-|AMS222	|Aljabar Linear			|R	|4	|
-|AMS252	|Statistika Matematika		|	|4	|
-|AMS261	|Optimasi			|	|4	|
-|AMS272	|Persamaan Diferensial Biasa	|	|4	|
-|AMS273	|Komputasi Matematika		|	|2	|
+|APS204	|Projek Bersama			|	|2	|
+|APS208	|Fisika Matematika 4		|R	|4	|
+|APS216	|Fisika Statistik		|R	|3	|
+|APS222	|Listrik Magnet			|R	|4	|
+|APS234	|Elektronika 2			|P	|3	|
+|MKU010	|Bahasa Inggris			|	|2	|
 |	|				|TOTAL	|18	|
 
 |	|Semester 5			|	|	|
 |-------|-------------------------------|-------|-------|
 |KODE	|NAMA				|APR	|SKS	|
-|AMS321	|Fungsi Kompleks		|	|4	|
-|AMS351	|Proses Stokastik		|	|4	|
-|AMS373	|Metoda Numerik			|	|3	|
-|MKU002	|Pendidikan Kewarganegaraan	|	|2	|
-|ABCXYZ	|Pilihan			|	|6	|
-|	|				|TOTAL	|19	|
+|APS323	|Elektrodinamika		|R	|3	|
+|APS327	|Fisika Kuantum			|R	|4	|
+|APS335	|Lab. Fisika Instrumentasi	|P	|3	|
+|APS341	|Pengantar Fisika Nuklir	|	|3	|
+|MKU008	|Etika				|	|2	|
+|	|Mata Kuliah Pilihan		|	|3	|
+|	|				|TOTAL	|18	|
 
 |	|Semester 6			|	|	|
 |-------|-------------------------------|-------|-------|
 |KODE	|NAMA				|APR	|SKS	|
-|AMS322	|Analisis Real			|R	|4	|
+|APS304	|Teknik Presentasi		|	|2	|
+|APS328	|Mekanika Kuantum		|	|3	|
+|APS342	|Pengantar Fisika Material	|	|3	|
+|APS348	|Optika				|	|3	|
+|APS392	|Seminar			|	|2	|
 |MKU009	|Bahasa Indonesia		|	|2	|
-|ABCXYZ	|Pilihan			|	|12	|
+|	|Mata Kuliah Pilihan		|	|3	|				
 |	|				|TOTAL	|18	|
 
 |	|Semester 7			|	|	|
 |-------|-------------------------------|-------|-------|
 |KODE	|NAMA				|APR	|SKS	|
-|AMS490	|Seminar			|	|3	|
-|AMS491	|Pemodelan Matematika		|	|4	|
+|APS497	|Tugas Akhir 1			|	|4	|
 |MKU001	|Pancasila			|	|2	|
-|ABCXYZ	|Pilihan			|	|9	|
-|	|				|TOTAL	|18	|
+|MKU002	|Kewarganegaraan		|	|2	|
+|	|Mata Kuliah Pilihan		|	|9	|
+|	|				|TOTAL	|17	|
 
 |	|Semester 8			|	|	|
 |-------|-------------------------------|-------|-------|
 |KODE	|NAMA				|APR	|SKS	|
-|AMS499	|Skripsi			|	|6	|
-|ABCXYZ	|Pilihan			|	|9	|
-|	|				|TOTAL	|15	|
+|APS402	|Etika Profesi			|	|2	|
+|APS498	|Tugas Akhir 2			|	|4	|
+|SAB315	|Kewirausahaan			|	|3	|
+|	|Mata Kuliah Pilihan		|	|9	|
+|	|				|TOTAL	|18	|
 
-Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
+Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 
 |No	|Kelompok Mata Kulia	|
 |-------|-----------------------|
@@ -462,6 +460,48 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 
 ### 2.6.2 Matakuliah Pilihan Program Studi Fisika
 
+Lain-lain
+
+|KODE	|NAMA					|SKS	|
+|-------|---------------------------------------|-------|
+|APS301	|Filsafat Sains				|2	|
+|APS302	|Dunia Digital dan Sains		|2	|
+|APS 303|Didaktika Umum				|3	|
+
+Kelompok Fisika Teoretik
+
+|KODE	|NAMA					|SKS	|
+|-------|---------------------------------------|-------|
+|APS311	|Dinamika Fluida			|3	|
+|APS411	|Mekanika Hamiltonian			|3	|
+|APS317	|Fisika Matematika Lanjut		|3	|
+|APS318	|Pemodelan Matematika			|3	|
+|APS418	|KapSel. Fisika Matematika		|3	|
+|APS424	|Teori Relativitas			|3	|
+|APS426	|Komputasi Kuantum			|3	|
+|APS427	|Mekanika Kuantum Relativistik		|3	|
+|APS428	|Teori Medan Kuantum			|3	|
+|APS429	|KapSel. Fisika Teori			|3	|
+
+Kelompok Fisika Komputasi, Elektronika dan Instrumentasi
+
+|KODE	|NAMA					|SKS	|
+|-------|---------------------------------------|-------|
+|APS331	|Pemodelan Matematika Gejala Alam	|3	|
+|APS332	|KapSel. Fisika komputasi		|3	|
+|APS336	|Instrumentasi Berbasis Komputer	|3	|
+|APS435	|Pengantar Kontrol Otomatis		|3	|
+|APS436	|KapSel. Fisika Instrumentasi		|3	|
+
+Kelompok Biofisika
+
+|KODE	|NAMA					|SKS	|
+|-------|---------------------------------------|-------|
+|APS331	|Pemodelan Matematika Gejala Alam	|3	|
+|APS332	|KapSel. Fisika komputasi		|3	|
+|APS336	|Instrumentasi Berbasis Komputer	|3	|
+|APS435	|Pengantar Kontrol Otomatis		|3	|
+|APS436	|KapSel. Fisika Instrumentasi		|3	|
 
 
 
