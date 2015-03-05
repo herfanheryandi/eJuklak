@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
+import android.support.v4.app.ActionBarDrawerToggle;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
@@ -30,6 +31,9 @@ public class MainActivity extends ActionBarActivity {
 	 private String[] mPlanetTitles;
 	 private DrawerLayout mDrawerLayout;
 	 private ListView mDrawerList;
+	 private ActionBarDrawerToggle mDrawerToggle;
+	 private CharSequence mDrawerTitle;
+	 private CharSequence mTitle;
 	
 	
     @Override
@@ -52,6 +56,33 @@ public class MainActivity extends ActionBarActivity {
         DrawerItemCustomAdapter adapter = new DrawerItemCustomAdapter(this, R.layout.listview_item_row, drawerItem);
         mDrawerList.setAdapter(adapter);
         mDrawerList.setOnItemClickListener(new DrawerItemClickListener());
+        mTitle = mDrawerTitle = getTitle();
+        mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
+        mDrawerToggle = new ActionBarDrawerToggle(
+                this,
+                mDrawerLayout,
+                R.drawable.ic_launcher, 
+                R.string.drawer_open, 
+                R.string.drawer_close 
+                ) {
+            
+            /** Called when a drawer has settled in a completely closed state. */
+            public void onDrawerClosed(View view) {
+                super.onDrawerClosed(view);
+                getActionBar().setTitle(mTitle);
+            }
+         
+            /** Called when a drawer has settled in a completely open state. */
+            public void onDrawerOpened(View drawerView) {
+                super.onDrawerOpened(drawerView);
+                getActionBar().setTitle(mDrawerTitle);
+            }
+        };
+         
+        mDrawerLayout.setDrawerListener(mDrawerToggle);
+         
+        getActionBar().setDisplayHomeAsUpEnabled(true);
+        getActionBar().setHomeButtonEnabled(true);
     }
 
     @Override
@@ -67,7 +98,11 @@ public class MainActivity extends ActionBarActivity {
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
+        
         if (id == R.id.action_settings) {
+            return true;
+        }
+        if (mDrawerToggle.onOptionsItemSelected(item)) {
             return true;
         }
         return super.onOptionsItemSelected(item);
@@ -107,12 +142,25 @@ public class MainActivity extends ActionBarActivity {
      
             mDrawerList.setItemChecked(position, true);
             mDrawerList.setSelection(position);
-            getActionBar().setTitle(mPlanetTitles[position]);
+            //getActionBar().setTitle(mPlanetTitles[position]);
+            setTitle(mPlanetTitles[position]);
             mDrawerLayout.closeDrawer(mDrawerList);
             
         } else {
             Log.e("MainActivity", "Error in creating fragment");
         }
+    }
+    
+    @Override
+    public void setTitle(CharSequence title) {
+        mTitle = title;
+        getActionBar().setTitle(mTitle);
+    }
+    
+    @Override
+    protected void onPostCreate(Bundle savedInstanceState) {
+        super.onPostCreate(savedInstanceState);
+        mDrawerToggle.syncState();
     }
     
 }
