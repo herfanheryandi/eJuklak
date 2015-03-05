@@ -98,7 +98,7 @@ IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh ma
 | 3,51 - 4,00 | Dengan Pujian (masa studi terpakai ≤ 9 semester)    |
 |             | Sangat Memuaskan (masa studi terpakai > 9 semester) |
 
-## 4.2 Kemampuan Bahasa Inggris Mahasiswa UNPAR
+## 4.3 Kemampuan Bahasa Inggris Mahasiswa UNPAR
 Berdasarkan Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-08/148 tentang Standar Kemampuan Bahasa Inggris Mahasiswa Universitas Katolik Parahyangan, mulai mahasiswa angkatan 2006 dan selanjutnya, setiap mahasiswa program Sarjana dan Pascasarjana wajib memiliki kemampuan bahasa Inggris yang dinyatakan berdasarkan hasil tes di PBB (Pusat Pendidikan Berkelanjutan) UNPAR, atau pada lembaga penyelenggara tes resmi di luar UNPAR, dengan skor minimal sebagai berikut: 
 
 1. Skor 500 (limaratus) yang diperoleh melalui pelaksanaan tes TOEFL dengan metode tes tertulis (paper-based TOEFL), atau
