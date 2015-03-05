@@ -55,6 +55,7 @@ Fakultas Teknologi Informasi dan Sains (FTIS) Universitas Katolik Parahyangan (U
 Perubahan nama FMIPA menjadi Fakultas Teknologi Informasi dan Sains (FTIS) terjadi karena adanya perubahan nama program studi Ilmu Komputer. Berdasarkan surat Direktur Jenderal Pendidikan Tinggi Departemen Pendidikan Nasional Nomor 4382/D/T/2008 tertanggal 10 Desember 2008 perihal Ralat Perpanjangan Ijin Penyelenggaraan Program Studi pada Universitas Katolik Parahyangan, dari tertulis : jurusan/program studi Ilmu Komputer diharuskan untuk berubah menjadi jurusan/program studi Teknik Informatika. Adanya perubahan nama ini membuat nama FMIPA sebagai naungan bagi Program Studi Teknik Informatika menjadi tidak selaras lagi. Perubahan nama FMIPA menjadi FTIS ini berdasarkan Keputusan Pengurus Yayasan Universitas Katolik Parahyangan Nomor : II/2009-04/05-SK tanggal 1 April 2009.
     
 Ketiga program studi tersebut saat ini telah memperoleh status akreditasi dari Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) dengan rincian sebagai berikut :
+
 * Program Studi Matematika memperoleh status akreditasi dengan peringkat A (Amat baik) berdasarkan Keputusan BAN-PT Nomor029/BAN-PT/Ak-XIII/S1/XI/2010 tertanggal 3 Desember 2010 dengan masa berlaku hingga 3 Desember 2015. 
 * Program Studi Fisika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor036/BAN-PT/AK-XIII/S1/I/2011 tertanggal 7 Januari 2011 dengan masa berlaku hingga 7 Januari 2016.
 * Program Studi Teknik Informatika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor 042/BAN-PT/Ak-XIII/S1/I/2011 tertanggal 21 Januari 2011 dengan masa berlaku hingga 21 Januari 2016
@@ -65,10 +66,12 @@ Ketiga program studi yang sekarang berada dalam naungan FTIS ini dilaksanakan be
 
 ## 1.2 Visi, Misi, Tujuan, dan Sasaran FTIS
 Visi dan Misi FTIS - UNPAR mengacu pada visi dan misi UNPAR. Visi UNPAR adalah
-> *Menjadi komunitas akademik humanum yang bersemangat kasih dalam kebenaran untuk  mengembangkan potensi lokal pada* 
-> *tataran internasional demi peningkatan  martabat manusia dan keutuhan alam ciptaan.*  
+
+> Menjadi komunitas akademik humanum yang bersemangat kasih dalam kebenaran untuk  mengembangkan potensi lokal pada
+> tataran internasional demi peningkatan  martabat manusia dan keutuhan alam ciptaan.  
 
 Sebagai sebuah lembaga ilmiah, misi UNPAR adalah melaksanakan  
+
  * pengembangan dan pewarisan nilai budaya secar kritis – kreatif;
  * proses pembelajaran yang berpusat pada mahasiswa;
  * penelitian dan penyebarluasan hasilnya melalui proses pembelajaran dan pengabdian kepada masyarakat; dan
@@ -88,7 +91,9 @@ Visi FTIS 2020 adalah sebagai berikut:
  
 ### 1.2.2 Misi FTIS
  Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
+ 
   1. Menyelenggarakan program akademik jenjang sarjana dengan memperhatikan visi FTIS untuk menghasilkan lulusan yang:
+  
 	- Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.
 	- Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.
 			
@@ -98,6 +103,7 @@ Visi FTIS 2020 adalah sebagai berikut:
 
 ### 1.2.3 Tujuan FTIS  
    Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut:
+   
   - Berbudi pekerti luhur, disiplin, jujur, cinta pada sesama dan lingkungan serta berjiwa religius dalam rangka mengamalkan Pancasila dan Undang-Undang Dasar 1945.
   - Memiliki pengetahuan dasar Matematika, Fisika, atau Teknik Informatika, yang kokoh dan berkemampuan bernalar yang baik, logis, matematis, dan/atau fisis; 
   - Memiliki kemampuan memodelkan dan menyelesaikan permasalahan matematika, fisika, atau permasalahan di berbagai bidang (interdisiplin), dan khusus untuk sarjana Teknik Informatika mampu membangun perangkat lunak dan menyesuaikan diri terhadap perkembangan teknologi informasi; 
@@ -109,6 +115,7 @@ Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan ten
 
 ### 1.2.4 Sasaran FTIS
   Sasaran FTIS adalah sebagai berikut :
+  
   - Tercapainya sistem pengelolaan  yang profesional dan berkualitas.
   - Mencapai efektivitas dan efisiensi pemanfaatan sarana, prasarana dan dana untuk menjamin keberlanjutan dan keunggulan.
   - Menghasilkan lulusan yang unggul dan berdaya saing yang tinggi.
@@ -124,30 +131,36 @@ Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan ten
 
 ## 1.4 Pengelolah Fakultas  
  **1. Senat FTIS**  
+ 
  - **Ketua** : Agus Sukmana,SSi,MSc  
  - **Sekretaris** : Philips Nicolas Gunawidjaja, BSc, PhD
  
 **2. Dekanat**  
+
  - **Dekan** : Paulus Cahyono Tjiang, SSi, PhD.  
  - **WD 1 (Akademik)** : Dr. Thomas Anung Basuki  
  - **WD II (Keuangan dan Sumberdaya)** : Maria Anestasia, SSi, MSi  
  - **WD III (Kemahasiswaan dan Alumni)** : Dr.rer.nat. Cecilia E.Nugraheni,ST,MT  
  
 **3. Program Studi Matematika**  
+
  - **Ketua** : Dr. Ferry Jaya Permana  
  - **Sekretaris** : Livia Owen, SSi, MSi
  
 **4. Program Studi Fisika**  
+
  - **Ketua** : Philips Nicolas Gunawidjaja, BSc, PhD  
  - **KaLab. Fisika** : Dasar	Risti Suryantari, S.Si., M.Si.  
  - **KaLab. Elektronika & Fisika Lanjut** : Janto V. Sulungbudi, Drs.
  
 **5. Program Studi Teknik Informatika**  
+
  - **Ketua** : Dr. Thomas Anung Basuki  
  - **Sekretaris** : Lionov, S.Kom, MSc  
  - **KaLab. Komputasi** : Chandra Wijaya, ST, MT
  
 **6. Tata Usaha**  
+
  - **Kepala** : Pranyoto Teguh Imanto  
  - **Kasubag Akademik** : Petrus Purnomo  
  - **Kasubag Keuangan & Kepegawaian** : Budi Santoso  
