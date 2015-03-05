@@ -315,9 +315,9 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |AMS221		|KALKULUS  VEKTOR (VECTOR CALCULUS)	|
 |AMS122		|Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.|
 
-![](images/gambar1.jpg)
+![](images/Lampiran_BAB2_1.png)
 
-Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
+Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 
 |KODE MK	|NAMA & DESKRIPSI MATA KULIAH	|
 |---------------|-------------------------------|
@@ -355,7 +355,7 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 |AMS490 minimal C		|Studi pustaka, penulisan dan penyajian lisan skripsi.|
 
 ## 2.6 Kurikulum Program Studi Fisika
-### 2.6.1 Susunan Matakuliah
+### 2.6.1 Susunan Mata Kuliah
 
 |	|Semester 1			|	|	|
 |-------|-------------------------------|-------|-------|
@@ -369,83 +369,81 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 |MKU011	|Estetika			|	|2	|
 |	|				|TOTAL	|19	|
 
-
-
-
-
-
-
-
-
-
 |	|Semester 2			|	|	|
 |-------|-------------------------------|-------|-------|
 |KODE	|NAMA				|APR	|SKS	|
-|AMS122	|Kalkulus 2			|	|4	|
-|AMS124	|Matematika Diskret		|	|4	|
-|AMS126	|Aljabar Matriks		|	|4	|
-|AIF112	|Pemrograman Komputer		|	|3	|
-|MKU011	|Estetika			|	|2	|
-|MKU003	|Agama Katolik +		|	|2	|
-|MKU003	|Fenomenologi Agama +		|	|	|
-|	|				|TOTAL	|19	|
+|APS106	|Fisika Dasar 2			|R,P	|3	|
+|APS108	|Fisika Matematika 2		|R	|4	|
+|APS112	|Mekanika			|R	|3	|
+|APS124	|Fisika Modern			|	|3	|		
+|APS132	|Fisika Komputasi		|P	|3	|
+|MKU012	|Logika				|	|2	|
+|	|				|TOTAL	|18	|
 
 |	|Semester 3			|	|	|
 |-------|-------------------------------|-------|-------|
 |KODE	|NAMA				|APR	|SKS	|
-|AMS221	|Kalkulus Vektor		|R	|4	|
-|AMS231	|Teori Suku Bunga		|	|3	|
-|AMS251	|Teori Peluang			|	|4	|
-|AMS253	|Komputasi Statistika		|	|2	|
-|AMS271	|Metoda Matematika		|	|3	|
-|MKU008	|Etika				|R	|2	|
+|APS207	|Fisika Matematika 3		|R	|4	|
+|APS213	|Gelombang			|R	|3	|
+|APS215	|Fisika Thermal			|R	|3	|
+|APS225	|Lab. Fisika Modern		|P	|3	|
+|APS233	|Elektronika 1			|P	|3	|
+|MKU003 / MKU004|Agama Katolik / Fenomenologi Agama	|	|2	|
 |	|				|TOTAL	|18	|
 
 |	|Semester 4			|	|	|
 |-------|-------------------------------|-------|-------|
 |KODE	|NAMA				|APR	|SKS	|
-|AMS222	|Aljabar Linear			|R	|4	|
-|AMS252	|Statistika Matematika		|	|4	|
-|AMS261	|Optimasi			|	|4	|
-|AMS272	|Persamaan Diferensial Biasa	|	|4	|
-|AMS273	|Komputasi Matematika		|	|2	|
+|APS204	|Projek Bersama			|	|2	|
+|APS208	|Fisika Matematika 4		|R	|4	|
+|APS216	|Fisika Statistik		|R	|3	|
+|APS222	|Listrik Magnet			|R	|4	|
+|APS234	|Elektronika 2			|P	|3	|
+|MKU010	|Bahasa Inggris			|	|2	|
 |	|				|TOTAL	|18	|
 
 |	|Semester 5			|	|	|
 |-------|-------------------------------|-------|-------|
 |KODE	|NAMA				|APR	|SKS	|
-|AMS321	|Fungsi Kompleks		|	|4	|
-|AMS351	|Proses Stokastik		|	|4	|
-|AMS373	|Metoda Numerik			|	|3	|
-|MKU002	|Pendidikan Kewarganegaraan	|	|2	|
-|ABCXYZ	|Pilihan			|	|6	|
-|	|				|TOTAL	|19	|
+|APS323	|Elektrodinamika		|R	|3	|
+|APS327	|Fisika Kuantum			|R	|4	|
+|APS335	|Lab. Fisika Instrumentasi	|P	|3	|
+|APS341	|Pengantar Fisika Nuklir	|	|3	|
+|MKU008	|Etika				|	|2	|
+|	|Mata Kuliah Pilihan		|	|3	|
+|	|				|TOTAL	|18	|
 
 |	|Semester 6			|	|	|
 |-------|-------------------------------|-------|-------|
 |KODE	|NAMA				|APR	|SKS	|
-|AMS322	|Analisis Real			|R	|4	|
+|APS304	|Teknik Presentasi		|	|2	|
+|APS328	|Mekanika Kuantum		|	|3	|
+|APS342	|Pengantar Fisika Material	|	|3	|
+|APS348	|Optika				|	|3	|
+|APS392	|Seminar			|	|2	|
 |MKU009	|Bahasa Indonesia		|	|2	|
-|ABCXYZ	|Pilihan			|	|12	|
+|	|Mata Kuliah Pilihan		|	|3	|				
 |	|				|TOTAL	|18	|
 
 |	|Semester 7			|	|	|
 |-------|-------------------------------|-------|-------|
 |KODE	|NAMA				|APR	|SKS	|
-|AMS490	|Seminar			|	|3	|
-|AMS491	|Pemodelan Matematika		|	|4	|
+|APS497	|Tugas Akhir 1			|	|4	|
 |MKU001	|Pancasila			|	|2	|
-|ABCXYZ	|Pilihan			|	|9	|
-|	|				|TOTAL	|18	|
+|MKU002	|Kewarganegaraan		|	|2	|
+|	|Mata Kuliah Pilihan		|	|9	|
+|	|				|TOTAL	|17	|
 
 |	|Semester 8			|	|	|
 |-------|-------------------------------|-------|-------|
 |KODE	|NAMA				|APR	|SKS	|
-|AMS499	|Skripsi			|	|6	|
-|ABCXYZ	|Pilihan			|	|9	|
-|	|				|TOTAL	|15	|
+|APS402	|Etika Profesi			|	|2	|
+|APS498	|Tugas Akhir 2			|	|4	|
+|SAB315	|Kewirausahaan			|	|3	|
+|	|Mata Kuliah Pilihan		|	|9	|
+|	|				|TOTAL	|18	|
 
-Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
+Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 
 |No	|Kelompok Mata Kulia	|
 |-------|-----------------------|
@@ -460,9 +458,225 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 |9	|Seminar dan Skripsi	|
 |10	|Kuliah Dasar, Keterampilan Umum, Lain-Lain	|
 
-### 2.6.2 Matakuliah Pilihan Program Studi Fisika
+### 2.6.2 Mata kuliah Pilihan Program Studi Fisika
+
+Lain-lain
+
+|KODE	|NAMA					|SKS	|
+|-------|---------------------------------------|-------|
+|APS301	|Filsafat Sains				|2	|
+|APS302	|Dunia Digital dan Sains		|2	|
+|APS 303|Didaktika Umum				|3	|
+
+Kelompok Fisika Teoretik
+
+|KODE	|NAMA					|SKS	|
+|-------|---------------------------------------|-------|
+|APS311	|Dinamika Fluida			|3	|
+|APS411	|Mekanika Hamiltonian			|3	|
+|APS317	|Fisika Matematika Lanjut		|3	|
+|APS318	|Pemodelan Matematika			|3	|
+|APS418	|KapSel. Fisika Matematika		|3	|
+|APS424	|Teori Relativitas			|3	|
+|APS426	|Komputasi Kuantum			|3	|
+|APS427	|Mekanika Kuantum Relativistik		|3	|
+|APS428	|Teori Medan Kuantum			|3	|
+|APS429	|KapSel. Fisika Teori			|3	|
+
+Kelompok Fisika Komputasi, Elektronika dan Instrumentasi
+
+|KODE	|NAMA					|SKS	|
+|-------|---------------------------------------|-------|
+|APS331	|Pemodelan Matematika Gejala Alam	|3	|
+|APS332	|KapSel. Fisika komputasi		|3	|
+|APS336	|Instrumentasi Berbasis Komputer	|3	|
+|APS435	|Pengantar Kontrol Otomatis		|3	|
+|APS436	|KapSel. Fisika Instrumentasi		|3	|
+
+Kelompok Biofisika
+
+|KODE	|NAMA					|SKS	|
+|-------|---------------------------------------|-------|
+|APS350	|Fisika Instrumentasi Medis		|3	|
+|APS351	|Biofisika				|3	|
+|APS352	|Fisika Kedokteran			|3	|
+|APS458	|Kapita Selekta Biofisika		|3	|
+|APS459	|Kapita Selekta Fisika Kedokteran	|3	|
+
+Kelompok Fisika Material dan Optika
+
+|KODE	|NAMA					|SKS	|
+|-------|---------------------------------------|-------|
+|APS343	|Struktur Materi			|3	|
+|APS441	|Reologi				|3	|
+|APS442	|Fisika Polimer				|3	|
+|APS443	|Pengantar Kristal Cair			|3	|
+|APS444	|Fisika Kristal Cair			|3	|
+|APS445	|Pengantar Nanoteknologi		|3	|
+|APS446	|Nanoteknologi dan Lingkungan		|	|
+|APS447	|Fisika Laser				|	|
+|APS448	|Hamburan dan Spektroskopi		|	|
+|APS449	|Kapita Selekta Fisika Material 	|	|
+
+Kelompok Fisika Bumi
+
+|KODE	|NAMA					|SKS	|
+|-------|---------------------------------------|-------|
+|APS361	|Geofisika				|3	|
+|APS362	|Oseanografi Fisis			|3	|
+|APS363	|Pemanasan Global			|3	|
+|APS364	|Cuaca dan Lingkungan			|3	|
+|APS469	|Kapita Selekta Fisika Bumi		|3	|
+|APS447	|Fisika Laser				|	|
+
+Kelompok Astrofisika
+
+|KODE	|NAMA					|SKS	|
+|-------|---------------------------------------|-------|
+|APS371	|Tata Surya				|3	|
+|APS372	|Bintang				|3	|
+|APS373	|Kosmologi				|3	|
+|APS474	|Kosmologi Relativistik			|3	|
+|APS479	|Kapita Selekta Astrofisika		|3	|
+
+Komposisi Kuliah wajib dan pilihan adalah
+  
+  * Kuliah Wajib = 120 sks
+  * Kuliah Pilihan = 24 sks
+  
+Selain itu, mahasiswa dapat mengambil, baik mata kuliah wajib maupun mata kuliah pilihan dari Program Studi Teknik Sipil / Arsitektur / Teknik Industri / Teknik Kimia dan dari Fakultas Ekonomi/Fakultas Hukum/Fakultas Ilmu Sosial dan Ilmu Politik/ Fakultas Filsafat (sejauh masih ada tempat lowong di kelas paralelnya).
+
+Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari seluruh pembelajaran soft-skills berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis (logical consistency), melakukan taksiran (sense of scale), menentukan prioritas, komputasi, bekerjasama, entrepreneurship, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru (open minded), percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
+
+### 2.6.3 Peta dan Prasyarat Mata kuliah
+
+Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
+
+### 2.6.4 Deskripsi Singkat Mata kuliah Program Studi Fisika
+
+|KODE MK	|NAMA & DESKRIPSI MATA KULIAH	|
+|---------------|-------------------------------|
+|AIF111		|Pemrograman Komputer/*Computer Programming*	|
+|	-	|Mata kuliah ini bertujuan untuk mengenalkan dan membekali mahasiswa kepada konsep-konsep dasar pemrograman.|
+|APS101		|PENGENALAN PROGRAM STUDI FISIKA/*INTRODUCTION TO PHYSICS STUDIES*|
+|	-	|Mata kuliah ini bertujuan untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan, yang meliputi: kemampuan untuk menganalisa, memecahkan masalah dan membuat kesimpulan. Selain itu, mata kuliah ini juga membahas tujuan dan struktur program studi, melatih penggunaan metode ilmiah, serta peluasan wawasan tentang fisika dan ilmu-ilmu umum, dengan melibatkan keaktifan mahasiswa.|
+|APS103		|KETRAMPILAN FISIKA/*KEY SKILLS FOR PHYSICS*|
+|	-	|Mata kuliah ini bertujuan untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan, yang meliputi: kemampuan untuk menganalisa, memecahkan masalah dan membuat kesimpulan. Selain itu, mata kuliah ini juga melatih mahasiswa untuk mengetahui bagaimana mengukur ketidak pastian dalam suatu percobaan, membuat laporan ilmiah yang profesional dan mempresentasikannya.|
+|ICE109		|Kimia Dasar/*Chemistry*	|
+|	-	|Tujuan dari mata kuliah ini adalah untuk membekali mahasiswa dengan pengetahuan kimia dasar agar dapat memahami proses-proses kimia yang dijumpai dalam kehidupan sehari-hari.|
+
+![](images/Lampiran_BAB2_2.png)
+
+|KODE MK	|NAMA & DESKRIPSI MATA KULIAH	|
+|---------------|-------------------------------|
+|APS105		|FISIKA DASAR 1/*PHYSICS 1*	|
+|	-	|Melalui mata kuliah ini diharapkan mahasiswa mampu menguasai konsep dan prinsip dasar fisika serta mampu menjelaskan berbagai fenomena fisika. Kuliah ini membahas Optika (Gejala dan Sifat Warna, Optika Geometris, Gejala Polarisasi), Bunyi (Getaran dan Gelombang, Interferensi dan Difraksi), Listrik (Elektrostatik dan Elektrodinamika), dan Magnet (Gejala Kemagnetan dan Elektromagnet serta aplikasinya). Perkuliahan menggunakan demonstrasi untuk menjelaskan berbagai konsep.
+Kuliah ini juga dilengkapi praktikum yang berorientasi pemecahan masalah (bukan prosedural) untuk menunjang penguasaan materi kuliah secara terpadu melalui kegiatan kelompok. Penggunaan komputer dalam praktikum membekali mahasiswa dengan kemampuan pemodelan untuk berbagai fenomena fisika.
+|
+|APS106		|Fisika Dasar 2/*Physics 2*|
+|APS105		|Melalui mata kuliah ini diharapkan mahasiswa mampu menguasai konsep dan prinsip dasar fisika serta mampu menjelaskan berbagai fenomena fisika. Kuliah ini membahas Mekanika (Kinematika, Dinamika, Usaha dan Energi, Momentum dan Impuls, Benda Elastik dan Tegar, Momen Inersia dan Momen Gaya, Fluida), Termodinamika (Kalor dan Perpindahannya, Proses dan Keadaan, Siklus dan Efisiensi, Entropi). Perkuliahan menggunakan demonstrasi untuk menjelaskan berbagai konsep.
+Kuliah ini juga dilengkapi praktikum yang berorientasi pemecahan masalah (bukan prosedural) untuk menunjang penguasaan materi kuliah secara terpadu melalui kegiatan kelompok. Penggunaan komputer dalam praktikum membekali mahasiswa dengan kemampuan pemodelan untuk berbagai fenomena fisika.|
+|APS107		|Fisika Matematika 1/*Mathematical Physics 1*|
+|	-	|Melalui mata kuliah ini diharapkan mahasiswa mampu menyelesaikan permasalahan dasar dalam turunan dan integral. Secara garis besar materi dalam mata kuliah ini antara lain: Limit dan Kekontinuan, Turunan dan penggunaannya, Integral dan penggunaannya, Teknik Pengintegralan, Fungsi Dua Variabel, Barisan dan Deret Tak Hingga, Persamaan Diferensial Biasa.|
+|APS108		|Fisika Matematika 2/*Mathematical Physics 2*	|
+|APS107		|Melalui mata kuliah ini diharapkan mahasiswa dapat memahami konsep dasar aljabar linier. Dalam mata kuliah ini diajarkan tentang: Sistem Persamaan Linier, Matriks dan Determinan, Vektor dalam 2 Dimensi dan 3 Dimensi, Ruang Vektor, Transformasi Linier, Nilai dan Vektor Eigen, Aplikasi Aljabar Linier.|
 
 
 
-
+|KODE MK	|NAMA & DESKRIPSI MATA KULIAH	|
+|---------------|-------------------------------|
+|APS112		|Mekanika/*Mechanics*		|
+|APS105, APS107	|Mata kuliah ini bertujuan untuk memperdalam konsep kinematika dan dinamika partikel dalam dua dimensi dan tiga dimensi berlandaskan hukum-hukum mekanika (Hukum Newton, konsep kekekalan energi mekanik dan kekekalan momentum). Setelah mengikuti perkuliahan mahasiswa diharapkan dapat menjelaskan gejala-gejala tertentu terkait mekanika partikel serta dapat menyelesaikan masalah-masalah makroskopis terkait mekanika. 
+Materi perkuliahan terkait kinematika dan dinamika partikel meliputi gerak lurus, gerak melingkar, gerak rotasi, serta diperluas untuk osilasi harmonik, fluida, gravitasi, dan sistem partikel, dengan tinjauan secara fisis maupun matematis. Untuk mengantarkan kepada konsep mekanika kuantum, maka diperkenalkan Metode Langrange-Hamilton, yang diterapkan untuk menyelesaikan permasalahan pada sistem makroskopis.|
+|APS124		|Fisika Modern/*Modern Physics*	|
+|APS105, APS107	|Dalam mata kuliah ini, mahasiswa diberikan wawasan mengenai konsep-konsep baru yang melengkapi konsep-konsep fisika klasik, mulai dari munculnya teori relativitas khusus, kegagalan fisika klasik (Hukum Newton) untuk menjelaskan berbagai fenomena dalam skala mikroskopis, eksperimen-eksperimen terkait fenomena kuantum hingga perkembangannya, yang menjadi dasar penemuan-penemuan mutakhir dalam dunia sains, industri dan komunikasi. 
+Pada Teori Relativitas Khusus dibahas mengenai konsep-konsep dasar dalam Teori Relativitas Khusus: Postulat Einstein dan konsekuensi-konsekuensinya.  Melalui Transformasi Lorentz diperoleh suatu persamaan bagi relativitas panjang, waktu dan kecepatan. Dalam perkuliahan ini juga disampaikan mengenai Efek Dopler untuk Cahaya, Paradoks Kembar, Kesetaraan Massa dan Energi dalam Relativitas. 
+Perkembangan fisika modern diawali dengan kegagalan fisika klasik untuk menjelaskan berbagai fenomena dalam skala mikroskopis. Dimulai dari konsep Radiasi Gelombang Elektromagnetik, hingga munculnya konsep dualisme gelombang-partikel melalui berbagai teori dan eksperimen (teori Planck, efek fotolistrik, efek Compton, gelombang de Broglie) yang menjadi awal dari lahirnya fisika kuantum. Dalam aplikasinya dibahas pula fenomena kuantum pada atom Hidrogen. Dalam perkuliahan ini juga diperkenalkan beberapa konsep terkait seperti ketidakpastian Heisenberg, prinsip korespondensi, persamaan gelombang dalam kuantum (persamaan Schrödinger), dan dasar-dasar struktur materi, untuk mengantarkan pada perkuliahan mekanika kuantum.|
+|APS132		|Fisika Komputasi/*Computational Physics*	|
+|AIF111		|Tujuan mata kuliah ini adalah untuk melatih mahasiswa mengungkapkan perangai obyek alam dalam lingkup fisika, yang dirumuskan dalam bentuk rumus-rumus matematika, menjadi simulai visual yang interaktif dalam tampilan komputer. Materi yang diajarkan pada mata kuliah ini adalah: Simulasi Perangai Benda Titik, Benda Pejal, Tumbukan, Getaran dan Gelombang, Modulasi Amplitudo dan Frekuensi, Interferensi dan Difraksi, Garis Gaya Medan Listrik dan Medan Magnet, Gaya Lorentz, Rangkaian LRC, Hamburan Thomas Fermi dan Rutherford.|
+|APS204		|Projek Bersama/*Physics Project*	|
+|APS103		|Penelitian, evaluasi dan presentasi informasi ilmiah merupakan kemampuan penting mahasiswa program studi Fisika pada tahun ke-2. Projek ini didesain untuk mengembangkan lebih lanjut kemapuan-kemampuan penting tersebut. Dalam pelaksanaannya, mahasiswa dalam satu kelas akan dibagi ke dalam beberapa kelompok yang masing-masing beranggotakan 6 mahasiswa yang mana setiap kelompok akan didampingi oleh staf akademik yang akan berperan sebagai mentor sekaligus penilai. Kemudian setiap kelompok akan diberikan sebuah topik untuk diteliti dan dilaporkan. Setiap minggunya masing-masing kelompok akan bertemu secara reguler untuk menetapkan tugas individu dan menyatukan informasi-informasi yang diperoleh. Menjelang akhir semester setiap mahasiswa harus memberikan presentasi tentang projek yang telah diteliti kepada semua anggota kelompoknya. Kemudian setiap kelompok harus mengatur pembuatan laporan akhir tertulis yang akan dinilai. Penilaian keseluruhan didasarkan pada hasil presentasi dan nilai laporan.|
+|APS207		|Fisika Matematika 3/*Mathematical Physics 3*|
+|APS108		|Dalam mata kuliah ini mahasiswa diperkenalkan dengan konsep-konsep matematika yang banyak berguna dalam pemecahan masalah fisika. Setelah mengikuti perkuliahan ini diharapkan mahasiswa mampu menyelesaikan permasalahan sederhana yang berkaitan dengan konsep-konsep matematika tersebut. Secara garis besar materi yang diajarkan dalam mata kuliah ini meliputi: Bilangan Kompleks, Diferensiasi Parsial, Integral Lipat dan Penggunaannya, Analisa Vektor (Teorem Green, Divergensi dan Stokes), Deret Fourier, Transformasi Integral.|
+|APS208		|Fisika Matematika 4/*Mathematical Physics 4*|
+|APS207		|Kuliah ini dimulai dengan teori transformasi Fourier dan fungsi Delta Dirac. Transformasi Fourier digunakan untuk mentransformasikan fungsi pada semua baris nyata menggunakan kombinasi linier sinus dan cosinus. Transformasi Fourer adalah implemen yang kuat dalam fisika dan aplikasi matematika. Transformasi Fourier akan mengubah persamaan turunan linier ke dalam persamaan aljabar dengan koefisien konstan yang mana secara umum lebih mudah untuk diselesaikan. Berbagai contoh yang digunakan untuk ilustrasi dalam mata kuliah ini akan diambil sebagian besar dari fenomena interferensi dan difraksi optik. Secara garis besar mata kuliah ini membahas tentang: Transformasi Koordinat, Fungsi-fungsi Khusus (Gamma, Betha, Error, Integral Eliptik, Stirling), Persamaan Diferensial dengan Solusi Deret (Legendre, Bessel, Hermite), Fungsi Kompleks, Persamaan Diferensial Parsial. Melalui mata kuliah ini diharapkan mahasiswa dapat mengenal beberapa konsep pemecahan permasalahan matematika yang banyak berguna dalam fisika dan mampu mengungkapkan  contoh-contoh peranannya dalam fisika, serta dapat menyelesaikan permasalahan sederhana yang berkaitan. |
+|APS213		|Gelombang/*Waves*	|
+|APS112, APS108		|Pemahaman mengenai gelombang secara mendalam sangat penting untuk dapat menjelaskan fenomena-fenomena terkait yang dijumpai dalam kehidupan sehari-hari.  Selain itu pendekatan gerak partikel berupa gelombang juga dipelajari dalam perkuliahan lanjut seperti mekanika kuantum. Pada mata kuliah ini, mahasiswa akan mempelajari konsep dasar yang diperlukan untuk memahami fenomena gelombang beserta aplikasinya, seperti gerak harmonik, gelombang mekanik dan elektromagnetik, analisis Fourier paket gelombang; dan beberapa aplikasi dasar fenomena gelombang. Dalam Pembahasan digunakan pendekatan secara matematis untuk mendapatkan makna fisisnya. Melalui mata kuliah ini diharapkan mahasiswa mampu memahami dan menerapkan konsep, prinsip dan  sifat gelombang.
+Perkuliahan diawali dengan pendahuluan yaitu gerak harmonik sederhana yang telah diberikan pada mata kuliah Mekanika, kemudian membahas tentang gelombang mekanik yang terdiri dari gelombang transversal dan longitudinal dalam berbagai medium. Dalam perkuliahan ini juga diperluas dengan materi gelombang elektromagnetik (yang akan sejalan dengan mata kuliah listrik magnet) dengan memperkenalkan Persamaan Maxwell yang merupakan dasar untuk memahami sifat-sifat gelombang elektromagnetik. Pada perkuliahan juga diberikan materi analisa Forier untuk meyelesaikan berbagai persoalan dalam paket gelombang, serta fenomena-fenomena lain terkait, Interferensi dan Difraksi.|
+|APS215		|Fisika Thermal/*Thermal Physics*|
+|APS106, APS108	|Mata kuliah fisika termal bertujuan untuk memberikan wawasan mengenai konsep termodinamika klasik (hukum-hukum termodinamika) yang disajikan dalam parameter-parameter termal, beserta pengantar mengenai dasar-dasar fisika statistik, baik secara fisis maupun matematis, yang sangat bermanfaat dalam bidang Material, Atom-Inti, dan Astrofisika.  
+Dalam mata kuliah ini akan diperdalam mengenai konsep termodinamika untuk sistem makroskopis dan mikroskopis dalam kesetimbangan termal, diawali dengan definisi parameter-parameter fisis dalam termodinamika seperti suhu, energi dalam dan entropi, kemudian memperkenalkan hukum-hukum termodinamika dan penerapannya untuk sistem makroskopis. 
+Dalam mata kuliah ini juga diperkenalkan beberapa istilah dan teori terkait mikrosistem untuk menjelaskan keadaan sistem meliputi persamaan keadaan untuk mikrosistem, fungsi distribusi Boltzmann, Bose-Einstein dan Fermi-Dirac, untuk mengantarkan pada perkuliahan fisika statistik, serta memahami kaitan antara termodinamika klasik dan mekanika statistik.|
+|APS216		|Fisika Statistik/*Statistical Physics*	|
+|APS215, APS207		|Ketidakpastian memainkan peranan esensial di alam. Mekanika statistik merupakan sebuah deskripsi dari peranan yang dimainkan oleh ketidakpastian-ketidakpastian tersebut. Dalam mata kuliah ini akan dipelajari tentang pencarian ”most probable distribution” dengan energi terrendah. Mekanika menurut ungkapan Hamilton, Gas Ideal, distribusi Maxwell-Boltzmann, getaran kisi pada zat padat, paham entropi dari pendekatan statistik. Statistik kuantum Fermi-Dirac dan Bose-Einstein, gas dan zat padat dalam unkapan kuantum. Melalui mata kuliah ini mahasiswa diharapkan bisa menggunakan pendekatan statistik untuk menerangkan perangai gejala fisika termal yang dibahas dalam termodinamika. Menyadarkan bahwa gejala ”non reversible” pada aturan termodinamika gas dan zat padat dapat diterangkan dari statistik kumpulan atom/molekul pembangunnya yang dinamikanya ”reversible”.|
+|AMS491		|PEMODELAN  MATEMATIKA (*MATHEMATICAL MODELLING*)	|
+|AMS126, AMS221, AMS253, AMS272, AMS273 		|Mengumpulkan data, mencari proporsionalitas, menggunakan metoda beda hingga, menginterpretasikan hasil, memperbaiki model, model pencocokan kurva, model eksperimental, model simulasi, model probabilistik diskrit, analisis dimensi dan keserupaan.|
+|AMS490		|SEMINAR (*SEMINAR*)	|
+|lulus minimal 110 sks		|Studi pustaka, penulisan dan presentasi karya ilmiah.|
+|AMS499		|SKRIPSI (*FINAL PROJECT*)	|
+|AMS490 minimal C		|Studi pustaka, penulisan dan penyajian lisan skripsi.|
+|AMS231		|TEORI  SUKU  BUNGA (*THEORY OF INTEREST*)	|
+|AMS122		|Bunga tunggal dan bunga majemuk, diskonto, anuitas elementer dan lanjut, amortisasi dan pengakumulasian dana.|
+|AMS251		|TEORI  PELUANG (*PROBABILITY THEORY*)|
+|AMS122		|Analisis kombinatorial, aksioma-aksioma peluang, peluang bersyarat, variabel acak, distribusi variabel acak diskret, distribusi variabel acak kontinu, distribus variabel acak gabungan, ekspektasi dan sifat-sifatnya, teorema-teorema limit termasuk teorema limit pusat.|
+|AMS253		|KOMPUTASI STATISTIKA (*STATISTICAL COMPUTATION*)|
+|APS181, AMS151	|Pengenalan dan dasar-dasar pemrograman dalam R, Statistika Deskriptif dengan R, Deskripsi Populasi, Selang Kepercayaan dan Uji Hipotesis, Distribusi dan Estimasi Distribusi, Integrasi Monte Carlo dan Metoda Monte Carlo untuk Inferensi.|
+|AMS271		|METODA MATEMATIKA (*MATHEMATICAL METHODS*)	|
+|AMS122		|Persamaan Bessel dan Legendre, aproksimasi fungsi, analisis Fourier, transformasi Laplace, pengantar sistem diskrit, dan Discrete Fourier Transform.|
+|AMS222		|ALJABAR LINEAR (*LINEAR ALGEBRA*)|
+|AMS126		|Persamaan linear dan matriks, ruang vektor, determinan, transformasi linear dan nilai eigen, norm dan hasil kali dalam.|
+|AMS252		|STATISTIKA  MATEMATIKA (*MATHEMATICAL STATISTICS*)	|
+|AMS251		|Sampel dan statistik; statistik terurut, distribusi statisti terurut; penaksiran parameter:  metoda maksimum likelihood, uji maksimum likelihood, mengukur kualitas penaksir, statistik cukup. Pengujian hipotesis yang optimal: most powerful tests, uniformly most powerful test, uji rasio likelihood.  Inferensi mengenai beberapa model normal meliputi: analisis variansi dan regresi.|
+|AMS261		|OPTIMASI (*OPTIMIZATION*)	|
+|AMS126, AMS221 		|Pengantar pemrograman linear, algoritma simpleks, analisis sensitivitas, dualitas, topik lanjut dalam masalah optimasi.|
+|AMS272		|PERSAMAAN  DIFERENSIAL  BIASA (*ORDINARY DIFFERENTIAL EQUATIONS*)	|
+|AMS122, AMS126		|Persamaan diferensial orde satu, persamaan diferensial orde dua, persamaan diferensial orde-n, sistem persamaan diferensial linear orde satu, pengantar persamaan diferensial nonlinear, pengantar persamaan diferensial parsial, masalah nilai batas.|
+|AMS273		|KOMPUTASI MATEMATIKA (*COMPUTATIONAL MATHEMATICS*)|
+|AMS126, AMS151, AMS221		|Pengenalan perintah dasar di Maple, Penggunaan Maple dalam Aljabar Linear, Persamaan Diferensial Biasa, Peluang dan Statistika, Pengenalan perintah dasar di Matlab, Penggunaan Matlab dalam Aljabar Linear dan Statistika, menggambar grafik, serta pemograman di Matlab.|
+|AMS321		|FUNGSI KOMPLEKS (*Functions of A Complex Variable*)|
+|APS221		|Aksioma bilangan kompleks, fungsi kompleks dan pemetaan fungsi kompleks, limit dan turunan fungsi kompleks, integral fungsi kompleks, deret pangkat, residu dan perhitungan integral fungsi real melalui teknik residu, masalah aplikasi menggunakan teknik fungsi kompleks.|
+|AMS351		|PROSES  STOKASTIK (*STOCHASTIC PROCESSES*)	|
+|AMS251		|Distribusieksponensial dan proses Poisson, proses renewal, rantai Markov, modelantrian.|
+|AMS373		|METODE NUMERIK (*NUMERICAL METHODS*)|
+|AMS273		|Konsep numerik, akar persamaan nonlinear dan polinomial, menyelesaikan sistem persamaan linear dengan hitungan langsung (eliminasi) dan dengan hitungan tak langsung (iterasi), interpolasi dan hampiran fungsi, pengintegralan numerik, hampiran turunan, persamaan diferensial biasa.|
+|AMS322		|ANALISIS REAL (*REAL ANALYSIS*)	|
+|AMS321		|Alj. himpunan, fungsi, bil. real, barisan dan deret, limit, fungsi kontinu, dan turunan.|
+|AMS491		|PEMODELAN  MATEMATIKA (*MATHEMATICAL MODELLING*)	|
+|AMS126, AMS221, AMS253, AMS272, AMS273 		|Mengumpulkan data, mencari proporsionalitas, menggunakan metoda beda hingga, menginterpretasikan hasil, memperbaiki model, model pencocokan kurva, model eksperimental, model simulasi, model probabilistik diskrit, analisis dimensi dan keserupaan.|
+|AMS490		|SEMINAR (*SEMINAR*)	|
+|lulus minimal 110 sks		|Studi pustaka, penulisan dan presentasi karya ilmiah.|
+|AMS499		|SKRIPSI (*FINAL PROJECT*)	|
+|AMS490 minimal C		|Studi pustaka, penulisan dan penyajian lisan skripsi.|
+|AMS231		|TEORI  SUKU  BUNGA (*THEORY OF INTEREST*)	|
+|AMS122		|Bunga tunggal dan bunga majemuk, diskonto, anuitas elementer dan lanjut, amortisasi dan pengakumulasian dana.|
+|AMS251		|TEORI  PELUANG (*PROBABILITY THEORY*)|
+|AMS122		|Analisis kombinatorial, aksioma-aksioma peluang, peluang bersyarat, variabel acak, distribusi variabel acak diskret, distribusi variabel acak kontinu, distribus variabel acak gabungan, ekspektasi dan sifat-sifatnya, teorema-teorema limit termasuk teorema limit pusat.|
+|AMS253		|KOMPUTASI STATISTIKA (*STATISTICAL COMPUTATION*)|
+|APS181, AMS151	|Pengenalan dan dasar-dasar pemrograman dalam R, Statistika Deskriptif dengan R, Deskripsi Populasi, Selang Kepercayaan dan Uji Hipotesis, Distribusi dan Estimasi Distribusi, Integrasi Monte Carlo dan Metoda Monte Carlo untuk Inferensi.|
+|AMS271		|METODA MATEMATIKA (*MATHEMATICAL METHODS*)	|
+|AMS122		|Persamaan Bessel dan Legendre, aproksimasi fungsi, analisis Fourier, transformasi Laplace, pengantar sistem diskrit, dan Discrete Fourier Transform.|
+|AMS222		|ALJABAR LINEAR (*LINEAR ALGEBRA*)|
+|AMS126		|Persamaan linear dan matriks, ruang vektor, determinan, transformasi linear dan nilai eigen, norm dan hasil kali dalam.|
+|AMS252		|STATISTIKA  MATEMATIKA (*MATHEMATICAL STATISTICS*)	|
+|AMS251		|Sampel dan statistik; statistik terurut, distribusi statisti terurut; penaksiran parameter:  metoda maksimum likelihood, uji maksimum likelihood, mengukur kualitas penaksir, statistik cukup. Pengujian hipotesis yang optimal: most powerful tests, uniformly most powerful test, uji rasio likelihood.  Inferensi mengenai beberapa model normal meliputi: analisis variansi dan regresi.|
+|AMS261		|OPTIMASI (*OPTIMIZATION*)	|
+|AMS126, AMS221 		|Pengantar pemrograman linear, algoritma simpleks, analisis sensitivitas, dualitas, topik lanjut dalam masalah optimasi.|
+|AMS272		|PERSAMAAN  DIFERENSIAL  BIASA (*ORDINARY DIFFERENTIAL EQUATIONS*)	|
+|AMS122, AMS126		|Persamaan diferensial orde satu, persamaan diferensial orde dua, persamaan diferensial orde-n, sistem persamaan diferensial linear orde satu, pengantar persamaan diferensial nonlinear, pengantar persamaan diferensial parsial, masalah nilai batas.|
+|AMS273		|KOMPUTASI MATEMATIKA (*COMPUTATIONAL MATHEMATICS*)|
+|AMS126, AMS151, AMS221		|Pengenalan perintah dasar di Maple, Penggunaan Maple dalam Aljabar Linear, Persamaan Diferensial Biasa, Peluang dan Statistika, Pengenalan perintah dasar di Matlab, Penggunaan Matlab dalam Aljabar Linear dan Statistika, menggambar grafik, serta pemograman di Matlab.|
+|AMS321		|FUNGSI KOMPLEKS (*Functions of A Complex Variable*)|
+|APS221		|Aksioma bilangan kompleks, fungsi kompleks dan pemetaan fungsi kompleks, limit dan turunan fungsi kompleks, integral fungsi kompleks, deret pangkat, residu dan perhitungan integral fungsi real melalui teknik residu, masalah aplikasi menggunakan teknik fungsi kompleks.|
+|AMS351		|PROSES  STOKASTIK (*STOCHASTIC PROCESSES*)	|
+|AMS251		|Distribusieksponensial dan proses Poisson, proses renewal, rantai Markov, modelantrian.|
+|AMS373		|METODE NUMERIK (*NUMERICAL METHODS*)|
+|AMS273		|Konsep numerik, akar persamaan nonlinear dan polinomial, menyelesaikan sistem persamaan linear dengan hitungan langsung (eliminasi) dan dengan hitungan tak langsung (iterasi), interpolasi dan hampiran fungsi, pengintegralan numerik, hampiran turunan, persamaan diferensial biasa.|
+|AMS322		|ANALISIS REAL (*REAL ANALYSIS*)	|
+|AMS321		|Alj. himpunan, fungsi, bil. real, barisan dan deret, limit, fungsi kontinu, dan turunan.|
+|AMS491		|PEMODELAN  MATEMATIKA (*MATHEMATICAL MODELLING*)	|
+|AMS126, AMS221, AMS253, AMS272, AMS273 		|Mengumpulkan data, mencari proporsionalitas, menggunakan metoda beda hingga, menginterpretasikan hasil, memperbaiki model, model pencocokan kurva, model eksperimental, model simulasi, model probabilistik diskrit, analisis dimensi dan keserupaan.|
+|AMS490		|SEMINAR (*SEMINAR*)	|
+|lulus minimal 110 sks		|Studi pustaka, penulisan dan presentasi karya ilmiah.|
+|AMS499		|SKRIPSI (*FINAL PROJECT*)	|
+|AMS490 minimal C		|Studi pustaka, penulisan dan penyajian lisan skripsi.|
 
