@@ -173,11 +173,13 @@ Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan ten
 Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan website. 
 
 **1.  Guru Besar**  
+
  * **Prof B. Suprapto Brotosiswojo**, Dr. (Purdue University,USA):  
  Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.  
      Email: bensupra@unpar.ac.id
      
 **2.  Lektor Kepala**  
+
  * **Agus Sukmana**, Drs. (ITB), MSc (Twente Univ. – Belanda), studi S-3 (UPI):  
  Teori Peluang, Pengendalian Mutu, Statistika Elementer.  
      Email: asukmana@unpar.ac.id.  
@@ -207,11 +209,13 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
  * **Marcus Wono Setya Budhi**, PhD (Univ. of Illinois – USA):  
  Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar.  
     Email: wono@math.itb.ac.id  
+
  * **Veronica Sri Moertini**, ST (ITB), MT (ITB), Dr. (ITB):  
  Basis Data, Penambangan Data, Projek Sistem Informasi.  
     Email: moertini@unpar.ac.id  
     
 **3. Lektor**  
+
  * **Cecilia Esti Nugraheni**, ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians  		Universitaet – Germany):  
  Matematika Diskret, Jaringan Syaraf Tiruan.  
         Email: cheni@unpar.ac.id  
@@ -234,6 +238,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 Email: farah@unpar.ac.id.  
 
 **4. Asisten Ahli**  
+
  * **Elisati Hulu**, ST (ITB), MT (ITB), Studi S-3 di ITB.  
         Email: elisatih@unpar.ac.id.  
  * **Gede Karya**, ST (ITB), MT (ITB):  
@@ -264,6 +269,7 @@ Email: farah@unpar.ac.id.
         Email: maria.anestasia@unpar.ac.id
         
 **5. Golongan III**  
+
  * **Chandra Wijaya**, S.Kom (UNPAR), MT (ITB):  
  Jaringan Komputer, Sistem Digital.  
         Email: chandraw@unpar.ac.id  
