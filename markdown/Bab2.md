@@ -13,23 +13,24 @@ Selain tatap muka di kelas, suatu mata kuliah dapat mengandung kegiatan lain unt
 ## 2.1 Mata Kuliah Pilihan
 
 Mahasiswa harus menempuh sejumlah SKS tertentu mata kuliah pilihan, dengan sejumlah SKS di antaranya 
-mata kuliah yang diselenggarakan prodinya. Jumlah SKS mata kuliah ini berbeda-beda untuk setiap prodi:
- 1. Untuk Matematika, 48 SKS dengan minimal lulus 15 SKS berasal dari salah satu bidang kajian 
-    (Rekayasa Keuangan atau Matematika Industri).
- 2. Untuk Fisika, 24 SKS yang dapat diambil dari seluruh prodi di UNPAR.
- 3. Untuk Teknik Informatika, 30 SKS dengan banyaknya mata kuliah pilihan dari luar jurusan yang dapat
-    diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.
+mata kuliah yang diselenggarakan prodinya. Jumlah SKS mata kuliah ini berbeda-beda untuk setiap prodi: 
+
+1. Untuk Matematika, 48 SKS dengan minimal lulus 15 SKS berasal dari salah satu bidang kajian (Rekayasa Keuangan atau Matematika Industri).
+2. Untuk Fisika, 24 SKS yang dapat diambil dari seluruh prodi di UNPAR.
+3. Untuk Teknik Informatika, 30 SKS dengan banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.
 
 Untuk mata kuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
- 1. Bila mata kuliah tersebut memiliki prasyarat, mahasiswa dari prodi lain tidak perlu memenuhi prasyarat tersebut.
- 2. Mata kuliah pilihan dan mata kuliah di prodi lain yang ekuivalen dengannya, hanya dapat diperhitungkan salah       satunya.
+
+1. Bila mata kuliah tersebut memiliki prasyarat, mahasiswa dari prodi lain tidak perlu memenuhi prasyarat tersebut.
+2. Mata kuliah pilihan dan mata kuliah di prodi lain yang ekuivalen dengannya, hanya dapat diperhitungkan salah       satunya.
     
 ## 2.2 Mata Kuliah Prasyarat
 
-Mata kuliah prasyarat adalah mata kuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu mata kuliah tertentu. Berkaitan dengan hal ini, terdapat tiga kategori:
- 1. Prasyarat tempuh, artinya mata kuliah tersebut telah terdaftar dalam rencana studi mahasiswa yang bersangkutan dan bernilai akhir A, B, C, D,atau E, walaupun tentunya kelulusan akan sangat menunjang penempuhan mata kuliah berikutnya.
- 2. Prasyarat lulus, artinya mahasiswa harus lulus mata kuliah prasyarat tersebut terlebih dahulu. Pada umumnya syarat kelulusan adalah nilai akhir minimum D, meskipun ada juga yang lebih tinggi. Silahkan melihat silabus mata kuliah ybs. untuk keterangan lebih lanjut.
- 3. Mahasiswa di luar prodi penyelenggara mata kuliah tidak wajib memenuhi prasyarat ini.
+Mata kuliah prasyarat adalah mata kuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu mata kuliah tertentu. Berkaitan dengan hal ini, terdapat tiga kategori:  
+
+1. Prasyarat tempuh, artinya mata kuliah tersebut telah terdaftar dalam rencana studi mahasiswa yang bersangkutan dan bernilai akhir A, B, C, D,atau E, walaupun tentunya kelulusan akan sangat menunjang penempuhan mata kuliah berikutnya.
+2. Prasyarat lulus, artinya mahasiswa harus lulus mata kuliah prasyarat tersebut terlebih dahulu. Pada umumnya syarat kelulusan adalah nilai akhir minimum D, meskipun ada juga yang lebih tinggi. Silahkan melihat silabus mata kuliah ybs. untuk keterangan lebih lanjut.
+3. Mahasiswa di luar prodi penyelenggara mata kuliah tidak wajib memenuhi prasyarat ini.
    
 ## 2.3 Mata Kuliah Layanan
 
@@ -679,4 +680,9 @@ Dalam mata kuliah ini juga diperkenalkan beberapa istilah dan teori terkait mikr
 |lulus minimal 110 sks		|Studi pustaka, penulisan dan presentasi karya ilmiah.|
 |AMS499		|SKRIPSI (*FINAL PROJECT*)	|
 |AMS490 minimal C		|Studi pustaka, penulisan dan penyajian lisan skripsi.|
+
+
+## 2.7 Kurikulum Program Studi Teknik Informatika
+
+### 2.7.1 Sususan matakuliah
 
