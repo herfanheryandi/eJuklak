@@ -19,7 +19,7 @@ ftis@unpar.ac.id
 
 
 
-TIM PENYUSUN
+**Tim Penyusun**  
 
 * Cecilia Esti Nugraheni
 * Livia Owen
