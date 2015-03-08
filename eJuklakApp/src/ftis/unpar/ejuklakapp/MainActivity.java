@@ -1,31 +1,20 @@
 package ftis.unpar.ejuklakapp;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-
-import ftis.unpar.ejuklakapp.drawer.CustomFragment;
+import android.app.Fragment;
+import android.app.FragmentManager;
+import android.os.Bundle;
 import android.support.v4.app.ActionBarDrawerToggle;
-import android.support.v4.app.FragmentManager;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
-import android.app.Fragment;
-import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.webkit.WebSettings;
 import android.webkit.WebView;
-import android.webkit.WebViewClient;
 import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
 import android.widget.ListView;
-import android.widget.TextView;
-import android.text.Html;
-import android.text.Html.ImageGetter;
+import ftis.unpar.ejuklakapp.drawer.DrawerAdapter;
+import ftis.unpar.ejuklakapp.drawer.DrawerItem;
 
 
 public class MainActivity extends ActionBarActivity {
@@ -128,13 +117,13 @@ public class MainActivity extends ActionBarActivity {
         
         switch (position) {
         case 0:
-            fragment = new CustomFragment();
+            fragment = new Fragment();
             break;
         case 1:
-            fragment = new CustomFragment();
+            fragment = null;
             break;
         case 2:
-            fragment = new CustomFragment();
+            fragment = null;
             break;
      
         default:
@@ -157,14 +146,14 @@ public class MainActivity extends ActionBarActivity {
     
     @Override
     public void setTitle(CharSequence title) {
-        mTitle = title;
-        getActionBar().setTitle(mTitle);
+        closeTitle = title;
+        getActionBar().setTitle(closeTitle);
     }
     
     @Override
     protected void onPostCreate(Bundle savedInstanceState) {
         super.onPostCreate(savedInstanceState);
-        mDrawerToggle.syncState();
+        drToggle.syncState();
     }
 }
 
