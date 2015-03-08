@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
+import ftis.unpar.ejuklakapp.drawer.CustomFragment;
 import android.support.v4.app.ActionBarDrawerToggle;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.widget.DrawerLayout;
@@ -112,7 +113,15 @@ public class MainActivity extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
     }
      
-     
+    private class DrawerListener implements ListView.OnItemClickListener {
+        
+        @Override
+        public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+            selectItem(position);
+        }
+        
+    }
+    
     private void selectItem(int position) {
         
         Fragment fragment = null;
@@ -158,3 +167,5 @@ public class MainActivity extends ActionBarActivity {
         mDrawerToggle.syncState();
     }
 }
+
+
