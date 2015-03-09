@@ -869,7 +869,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
 |AIF301		|PENGANTAR SISTEM CERDAS/*INTRODUCTION TO INTELLIGENT SYSTEMS*|
 |		|KMempelajari definisi, karakteristikagen cerdas, blind search, informed search, local search, adversarial search, representasi pengetahuan dengan Propositional Logic dan First Order Logic, agen cerdas berbasis logika, planning, penanganan ketidakpastian, pembelajaran mesin.|
 |AIF302		|PENULISAN ILMIAH/*SCIENTIFIC WRITING*	|
-|		|PMempersiapkan mahasiswa untuk mulai melakukan penelitianMemberikan penjelasan tentang penelitian dan jenis-jenisnya.|
+|		|Mempersiapkan mahasiswa untuk mulai melakukan penelitianMemberikan penjelasan tentang penelitian dan jenis-jenisnya.|
 |AIF303		|PENGANTAR SISTEM INFORMASI/*INTRODUCTION TO INFORMATION SYSTEMS*|
 |		|Mempelajaritrend Teknologi Informasi, konsep Sistem Informasi Terkomputerisasi (SIT) dan komponen SI, pemanfaatan SI bagi organisasi, pengantar pembangunan SIT, perumusan prosedur-prosedur bisnis, keamanan informasi, pengantar e-bisnis/e-commerce, pengantar Business Intelligence, pengantar, EIS, DSS, cloud computing dan mobile applications.|
 |AIF304		|PROYEK SISTEM INFORMASI 1/*INFORMATION SYSTEM PROJECT 1*	|
@@ -889,4 +889,4 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
 |AMS100		|MATEMATIKA INFORMATIKA/*MATHEMATICS FOR INFORMATICS*	|
 |		|Mempelajari pengetahuan dasar matematika yang diperlukan dalama menyelesaikan masalah informatika yang terdiri dari: Sistem Bilangan Real dan Nilai Mutlak, Fungsi dan Limit,  Turunan, Integral, Sistem Persamaan Linear dan Matriks, Determinan, Vektor 2 dan 3 Dimensi.|
 |AMS200		|PROBABILITAS & STATISTIKA/*PROBABILITY & STATISTICS*|
-|		|PMempelajari konsep-konsep dasar dalam teori peluang dan statistika.|
+|		|Mempelajari konsep-konsep dasar dalam teori peluang dan statistika.|
