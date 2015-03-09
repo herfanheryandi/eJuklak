@@ -645,5 +645,120 @@ Dalam mata kuliah ini juga diperkenalkan beberapa istilah dan teori terkait mikr
 
 ## 2.7 Kurikulum Program Studi Teknik Informatika
 
-### 2.7.1 Sususan matakuliah
+### 2.7.1 Sususan mata kuliah
+
+|	|Semester 1			|	|	|
+|-------|-------------------------------|-------|-------|
+|KODE	|NAMA				|APR	|SKS	|
+|AIF101	|Pemrograman Berorientasi Objek	|	|6	|
+|AIF103	|Matematika Diskret		|	|3	|
+|AIF105	|Pengantar Informatika		|	|3	|
+|MKU001	|Pendidikan Pancasila		|	|2	|
+|MKU008	|Etika				|	|2	|
+|MKU010	|Bahasa Inggris			|	|2	|
+|	|				|TOTAL	|18	|
+
+|	|Semester 2			|	|	|
+|-------|-------------------------------|-------|-------|
+|KODE	|NAMA				|APR	|SKS	|
+|AIF102	|Algoritma dan Struktur Data	|	|4	|
+|AIF104	|Logika Informatika		|	|3	|
+|AIF106	|Sistem Dijital			|	|3	|
+|AMS100	|Matematika Informatika		|	|4	|		
+|MKU009	|Bahasa Indonesia		|	|2	|
+|MKU011	|Estetika			|	|2	|
+|	|				|TOTAL	|18	|
+
+|	|Semester 3				|	|	|
+|-------|---------------------------------------|-------|-------|
+|KODE	|NAMA					|APR	|SKS	|
+|AIF201	|Analisis dan Desain Berorientasi Objek	|	|4	|
+|AIF203	|Struktur Diskret			|	|4	|
+|AIF205	|Arsitektur dan Organisasi Komputer	|	|3	|
+|AMS200	|Probabilitas dan Statistika		|	|3	|
+|MKU003/MKU004|Agama Katolik/Fenomenologi Agama	|	|2	|
+|MKU012	|Logika					|	|2	|
+|	|					|TOTAL	|18	|
+
+|	|Semester 4				|	|	|
+|-------|---------------------------------------|-------|-------|
+|KODE	|NAMA					|APR	|SKS	|
+|AIF202	|Desain dan Analisis Algoritma		|	|2	|
+|AIF204	|Manajemen Informasi dan Basisdata	|R	|4	|
+|AIF206	|Sistem Operasi				|R	|3	|
+|AIF208	|Rekayasa Perangkat Lunak		|R	|4	|
+|AIF210	|Interaksi Manusia Komputer		|P	|3	|
+|	|					|TOTAL	|18	|
+
+|	|Semester 5			|	|	|
+|-------|-------------------------------|-------|-------|
+|KODE	|NAMA				|APR	|SKS	|
+|AIF301	|Pengantar Sistem Cerdas	|	|3	|
+|AIF303	|Pengantar Sistem Informasi	|	|3	|
+|AIF305	|Jaringan Komputer		|	|2	|
+|AIF311	|Pemrograman Fungsional1	|R	|2	|
+|AIF313	|Grafika Komputer1		|R	|2	|
+|AIF315	|Pemrograman Berbasis Web1	|R	|2	|
+|AIF317	|Desain Antarmuka Grafis1	|R	|2	|
+|AIFXXX	|MK Pilihan			|	|2	|
+|MKU002	|Kewarganegaraan		|	|2	|
+|	|				|TOTAL	|18	|
+
+|	|Semester 6			|	|	|
+|-------|-------------------------------|-------|-------|
+|KODE	|NAMA				|APR	|SKS	|
+|AIF302	|Penulisan Ilmiah		|	|2	|
+|AIF304	|Proyek Sistem Informasi 12	|	|3	|
+|AIF306	|Proyek Informatika2		|	|6	|
+|AIF312	|Keamanan Informasi1		|R	|2	|
+|AIF314	|Pemrograman Basisdata1		|R	|2	|
+|AIF316	|Komputasi Paralel 1		|R	|2	|
+|AIF318	|Pemrograman Aplikasi Bergerak1	|R	|2	|
+|AIFXXX	|MK Pilihan			|	|6	|
+|	|				|TOTAL	|18	|
+
+|	|Semester 7			|	|	|
+|-------|-------------------------------|-------|-------|
+|KODE	|NAMA				|APR	|SKS	|
+|AIF401	|Skripsi 1			|	|4	|
+|AIF403	|Komputer dan Masyarakat	|	|3	|
+|AIF405	|Proyek Sistem Informasi 22	|	|2	|
+|AIFXXX	|MK Pilihan			|	|12	|
+|	|				|TOTAL	|18	|
+
+|	|Semester 8			|	|	|
+|-------|-------------------------------|-------|-------|
+|KODE	|NAMA				|APR	|SKS	|
+|AIF402	|Skripsi 2			|	|6	|
+|AIFXXX	|MK Pilihan			|	|10	|
+|APS402	|Etika Profesi			|	|2	|
+|	|				|TOTAL	|18	|
+
+Keterangan :
+
+	1 Mata kuliah pilihan wajib.
+          Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut 
+           
+	2 Mata kuliah projek.
+          Mahasiswa harus lulus salah satu dari 
+          * Projek Informatika, atau 
+          * Projek Sistem Informasi 1 dan Projek Sistem Informasi 2 
+
+Aturan tambahan :  
+
+	1.Mata kuliah pilihan dari luar jurusan 
+           Banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.
+           Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai mata kuliah pilihan dari dalam jurusan 
+	2.Skor Coding
+           Beberapa mata kuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan mata kuliah setiap semester, memiliki jumlah skor coding> 0.
+	3.Nilai minimum kuliah jalur pemrograman/algoritma
+           Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
+            a.Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+            b.Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+            c.Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
+            d.Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
+            
+### 2.7.2 Mata Kuliah Pilihan Program Studi Teknik Informatika  
+
+
 
