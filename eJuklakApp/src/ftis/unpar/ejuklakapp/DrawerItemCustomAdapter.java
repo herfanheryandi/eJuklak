@@ -34,8 +34,7 @@ public class DrawerItemCustomAdapter extends ArrayAdapter<DrawerItem> {
         TextView textViewName = (TextView) listItem.findViewById(R.id.textViewName);
         
         DrawerItem folder = data[position];
- 
-        
+
         imageViewIcon.setImageResource(folder.icon);
         textViewName.setText(folder.name);
         

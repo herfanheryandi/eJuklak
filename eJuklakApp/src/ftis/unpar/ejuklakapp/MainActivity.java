@@ -25,45 +25,43 @@ import android.widget.ListView;
 
 public class MainActivity extends ActionBarActivity {
 	private WebView webView;
-	HTMLHeader[] headers;
-	private String[] mNavigationDrawerItemTitles;
-	private DrawerLayout mDrawerLayout;
-	private ListView mDrawerList;
-	ActionBarDrawerToggle mDrawerToggle;
-	private CharSequence mDrawerTitle;
-	private CharSequence mTitle;
+	private String HTMLPath;
+	private String HTMLName;
+	private HTMLHeader[] headers;
+	private DrawerLayout drLayout;
+	private ListView drList;
+	ActionBarDrawerToggle drToggle;
 	
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        mTitle = mDrawerTitle = getTitle();
         //Code here
         
-        /*webview*/
+        /*WEBVIEW*/
         webView = (WebView) findViewById(R.id.webview);
-        webView.loadUrl("file:///android_asset/BAB-1.html");
+        HTMLName = "BAB-1.html";
+        HTMLPath = "file:///android_asset/" + HTMLName;
+        webView.loadUrl(HTMLPath);
         
-        /*navigation drawer*/ 
+        /*NAVIGATION DRAWER*/ 
         headers = this.getHTMLHeaders();
-        mNavigationDrawerItemTitles= new String[headers.length];
-        mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
-        mDrawerList = (ListView) findViewById(R.id.left_drawer);
+        drLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
+        drList = (ListView) findViewById(R.id.left_drawer);
         
         DrawerItem[] drawerItem = new DrawerItem[headers.length];
         for(int i = 0; i < drawerItem.length; i++){
-        	mNavigationDrawerItemTitles[i] =  headers[i].getValue();
         	drawerItem[i] = new DrawerItem(R.drawable.ic_paper, headers[i].getValue());
         }
+        
         DrawerItemCustomAdapter adapter = new DrawerItemCustomAdapter(this, R.layout.listview_item_row, drawerItem);
-        mDrawerList.setAdapter(adapter);
+        drList.setAdapter(adapter);
+        drList.setOnItemClickListener(new DrawerItemClickListener());
         
-        mDrawerList.setOnItemClickListener(new DrawerItemClickListener());
-        
-        mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
-        mDrawerToggle = new ActionBarDrawerToggle(
+        drLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
+        drToggle = new ActionBarDrawerToggle(
                 this,
-                mDrawerLayout,
+                drLayout,
                 R.drawable.ic_menu, 
                 R.string.drawer_open, 
                 R.string.drawer_close 
@@ -72,50 +70,47 @@ public class MainActivity extends ActionBarActivity {
             /** Called when a drawer has settled in a completely closed state. */
             public void onDrawerClosed(View view) {
                 super.onDrawerClosed(view);
-                getActionBar().setTitle(mTitle);
             }
          
             /** Called when a drawer has settled in a completely open state. */
             public void onDrawerOpened(View drawerView) {
                 super.onDrawerOpened(drawerView);
-                getActionBar().setTitle(mDrawerTitle);
             }
         };
          
-        mDrawerLayout.setDrawerListener(mDrawerToggle);
+        drLayout.setDrawerListener(drToggle);
          
-        getActionBar().setDisplayHomeAsUpEnabled(true);
-        getActionBar().setHomeButtonEnabled(true);
-        
-        
+       getActionBar().setDisplayHomeAsUpEnabled(true);
+       getActionBar().setHomeButtonEnabled(true);
     }
     
+    
     public HTMLHeader[] getHTMLHeaders(){
-		 AssetManager assetManager = getAssets();
-		 String text = new String();
-	     InputStream input;
-	       try {
-		       input = assetManager.open("BAB-1.html");
-		       int size = input.available();
-		       byte[] buffer = new byte[size];
-		       input.read(buffer);
-		       input.close();
-		       text = new String(buffer);
-	       } catch (IOException e) {
-	           // TODO Auto-generated catch block
-	           //e.printStackTrace();
-	       }
-	       LinkedList<HTMLHeader> headerList = new LinkedList<HTMLHeader>();
-	       String content = StringUtils.substringBetween(text, "<body>", "</body>");
-           String[] headers = StringUtils.substringsBetween(content, "<h", "/h");
-           for (String header : headers) {
-				String number  = StringUtils.substringBetween(header, "", " id");
-              	String id  = StringUtils.substringBetween(header, "id=\"", "\">");
-              	String value  = StringUtils.substringBetween(header, ">", "<");
-              	headerList.add(new HTMLHeader(Integer.parseInt(number),id,value));
-		   }
-           HTMLHeader[] headerArr = headerList.toArray(new HTMLHeader[headerList.size()]);
-	       return headerArr;
+    	AssetManager assetManager = getAssets();
+		String text = new String();
+	    InputStream input;
+	    try {
+		    input = assetManager.open(HTMLName);
+			int size = input.available();
+		    byte[] buffer = new byte[size];
+		    input.read(buffer);
+		    input.close();
+		    text = new String(buffer);
+	    } catch (IOException e) {
+           e.printStackTrace();
+        }
+	    
+	    LinkedList<HTMLHeader> headerList = new LinkedList<HTMLHeader>();
+	    String content = StringUtils.substringBetween(text, "<body>", "</body>");
+	    String[] headers = StringUtils.substringsBetween(content, "<h", "/h");
+	    for (String header : headers) {
+			String number  = StringUtils.substringBetween(header, "", " id");
+          	String id  = StringUtils.substringBetween(header, "id=\"", "\">");
+          	String value  = StringUtils.substringBetween(header, ">", "<");
+          	headerList.add(new HTMLHeader(Integer.parseInt(number),id,value));
+	    }
+	    HTMLHeader[] headerArr = headerList.toArray(new HTMLHeader[headerList.size()]);
+	    return headerArr;
     }
     
     private class DrawerItemClickListener implements ListView.OnItemClickListener {
@@ -128,7 +123,7 @@ public class MainActivity extends ActionBarActivity {
     }
      
     private void selectItem(int position) {
-    	webView.loadUrl("file:///android_asset/BAB-1.html#" + headers[position].getID());
+    	webView.loadUrl(HTMLPath+ "#" + headers[position].getID());
     }
 
     @Override
@@ -144,25 +139,19 @@ public class MainActivity extends ActionBarActivity {
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
-        if (id == R.id.action_settings) {
+        /*if (id == R.id.action_settings) {
             return true;
-        }
-        if (mDrawerToggle.onOptionsItemSelected(item)) {
+        }*/
+        if (drToggle.onOptionsItemSelected(item)) {
             return true;
         }
         return super.onOptionsItemSelected(item);
-    }
-    
-    @Override
-    public void setTitle(CharSequence title) {
-        mTitle = title;
-        getActionBar().setTitle(mTitle);
-    }
+    } 
     
     @Override
     protected void onPostCreate(Bundle savedInstanceState) {
         super.onPostCreate(savedInstanceState);
-        mDrawerToggle.syncState();
+        drToggle.syncState();
     }
 }
 
