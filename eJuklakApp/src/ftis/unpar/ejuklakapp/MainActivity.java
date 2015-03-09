@@ -1,7 +1,14 @@
 package ftis.unpar.ejuklakapp;
 
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.LinkedList;
+
+import org.apache.commons.lang3.StringUtils;
+
 import android.app.Fragment;
 import android.app.FragmentManager;
+import android.content.res.AssetManager;
 import android.os.Bundle;
 import android.support.v4.app.ActionBarDrawerToggle;
 import android.support.v4.widget.DrawerLayout;
@@ -18,6 +25,7 @@ import android.widget.ListView;
 
 public class MainActivity extends ActionBarActivity {
 	private WebView webView;
+	HTMLHeader[] headers;
 	private String[] mNavigationDrawerItemTitles;
 	private DrawerLayout mDrawerLayout;
 	private ListView mDrawerList;
@@ -37,16 +45,16 @@ public class MainActivity extends ActionBarActivity {
         webView.loadUrl("file:///android_asset/BAB-1.html");
         
         /*navigation drawer*/ 
-        mNavigationDrawerItemTitles= getResources().getStringArray(R.array.navigation_drawer_items_array);
+        headers = this.getHTMLHeaders();
+        mNavigationDrawerItemTitles= new String[headers.length];
         mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
         mDrawerList = (ListView) findViewById(R.id.left_drawer);
         
-        ObjectDrawerItem[] drawerItem = new ObjectDrawerItem[3];
-        
-        drawerItem[0] = new ObjectDrawerItem(R.drawable.ic_paper, "Create");
-        drawerItem[1] = new ObjectDrawerItem(R.drawable.ic_paper, "Read");
-        drawerItem[2] = new ObjectDrawerItem(R.drawable.ic_paper, "Help");
-        
+        DrawerItem[] drawerItem = new DrawerItem[headers.length];
+        for(int i = 0; i < drawerItem.length; i++){
+        	mNavigationDrawerItemTitles[i] =  headers[i].getValue();
+        	drawerItem[i] = new DrawerItem(R.drawable.ic_paper, headers[i].getValue());
+        }
         DrawerItemCustomAdapter adapter = new DrawerItemCustomAdapter(this, R.layout.listview_item_row, drawerItem);
         mDrawerList.setAdapter(adapter);
         
@@ -78,6 +86,36 @@ public class MainActivity extends ActionBarActivity {
          
         getActionBar().setDisplayHomeAsUpEnabled(true);
         getActionBar().setHomeButtonEnabled(true);
+        
+        
+    }
+    
+    public HTMLHeader[] getHTMLHeaders(){
+		 AssetManager assetManager = getAssets();
+		 String text = new String();
+	     InputStream input;
+	       try {
+		       input = assetManager.open("BAB-1.html");
+		       int size = input.available();
+		       byte[] buffer = new byte[size];
+		       input.read(buffer);
+		       input.close();
+		       text = new String(buffer);
+	       } catch (IOException e) {
+	           // TODO Auto-generated catch block
+	           //e.printStackTrace();
+	       }
+	       LinkedList<HTMLHeader> headerList = new LinkedList<HTMLHeader>();
+	       String content = StringUtils.substringBetween(text, "<body>", "</body>");
+           String[] headers = StringUtils.substringsBetween(content, "<h", "/h");
+           for (String header : headers) {
+				String number  = StringUtils.substringBetween(header, "", " id");
+              	String id  = StringUtils.substringBetween(header, "id=\"", "\">");
+              	String value  = StringUtils.substringBetween(header, ">", "<");
+              	headerList.add(new HTMLHeader(Integer.parseInt(number),id,value));
+		   }
+           HTMLHeader[] headerArr = headerList.toArray(new HTMLHeader[headerList.size()]);
+	       return headerArr;
     }
     
     private class DrawerItemClickListener implements ListView.OnItemClickListener {
@@ -90,37 +128,7 @@ public class MainActivity extends ActionBarActivity {
     }
      
     private void selectItem(int position) {
-        
-        Fragment fragment = null;
-        
-        switch (position) {
-        case 0:
-        	webView.loadUrl("file:///android_asset/BAB-1.html#kata-pengantar-dekan-fakultas-teknologi-informasi-dan-sains-unpar");
-            break;
-        case 1:
-        	webView.loadUrl("file:///android_asset/BAB-1.html#");
-            break;
-        case 2:
-        	webView.loadUrl("file:///android_asset/BAB-1.html#");
-            //fragment = new CreateFragment();
-            break;
-     
-        default:
-            break;
-        }
-        
-        if (fragment != null) {
-            FragmentManager fragmentManager = getFragmentManager();
-            fragmentManager.beginTransaction().replace(R.id.content_frame, fragment).commit();
-     
-            mDrawerList.setItemChecked(position, true);
-            mDrawerList.setSelection(position);
-            setTitle(mNavigationDrawerItemTitles[position]);
-            mDrawerLayout.closeDrawer(mDrawerList);
-            
-        } else {
-            Log.e("MainActivity", "Error in creating fragment");
-        }
+    	webView.loadUrl("file:///android_asset/BAB-1.html#" + headers[position].getID());
     }
 
     @Override
