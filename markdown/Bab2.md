@@ -890,4 +890,3 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
 |		|Mempelajari pengetahuan dasar matematika yang diperlukan dalama menyelesaikan masalah informatika yang terdiri dari: Sistem Bilangan Real dan Nilai Mutlak, Fungsi dan Limit,  Turunan, Integral, Sistem Persamaan Linear dan Matriks, Determinan, Vektor 2 dan 3 Dimensi.|
 |AMS200		|PROBABILITAS & STATISTIKA/*PROBABILITY & STATISTICS*|
 |		|PMempelajari konsep-konsep dasar dalam teori peluang dan statistika.|
-
