@@ -34,7 +34,7 @@ public class MainActivity extends ActionBarActivity {
         
         /*webview*/
         webView = (WebView) findViewById(R.id.webview);
-        webView.loadUrl("file:///android_asset/MarkdownBab1.htm");
+        webView.loadUrl("file:///android_asset/BAB-1.html");
         
         /*navigation drawer*/ 
         mNavigationDrawerItemTitles= getResources().getStringArray(R.array.navigation_drawer_items_array);
@@ -95,13 +95,14 @@ public class MainActivity extends ActionBarActivity {
         
         switch (position) {
         case 0:
-            fragment = new CreateFragment();
+        	webView.loadUrl("file:///android_asset/BAB-1.html#kata-pengantar-dekan-fakultas-teknologi-informasi-dan-sains-unpar");
             break;
         case 1:
-            fragment = new CreateFragment();
+        	webView.loadUrl("file:///android_asset/BAB-1.html#");
             break;
         case 2:
-            fragment = new CreateFragment();
+        	webView.loadUrl("file:///android_asset/BAB-1.html#");
+            //fragment = new CreateFragment();
             break;
      
         default:
