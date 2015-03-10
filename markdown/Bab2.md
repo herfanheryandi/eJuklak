@@ -360,7 +360,7 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 ## 2.6 Kurikulum Program Studi Fisika
 ### 2.6.1 Susunan Mata Kuliah  
 
-- **Semester 1**
+- Semester 1
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
@@ -373,7 +373,7 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |MKU011	|Estetika			|	|2	|
 |	|				|TOTAL	|19	|
 
-- **Semester 2**
+- Semester 2
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
@@ -385,7 +385,7 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |MKU012	|Logika				|	|2	|
 |	|				|TOTAL	|18	|
 
-- **Semester 3**
+- Semester 3
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
@@ -397,7 +397,7 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |MKU003/MKU004|Agama Katolik/Fenomenologi Agama	|	|2	|
 |	|				|TOTAL	|18	|
 
-- **Semester 4**
+- Semester 4
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
@@ -409,7 +409,7 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |MKU010	|Bahasa Inggris			|	|2	|
 |	|				|TOTAL	|18	|
 
-- **Semester 5**
+- Semester 5
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
@@ -421,7 +421,7 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |	|Mata Kuliah Pilihan		|	|3	|
 |	|				|TOTAL	|18	|
 
-- **Semester 6**
+- Semester 6
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
@@ -434,7 +434,7 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |	|Mata Kuliah Pilihan		|	|3	|				
 |	|				|TOTAL	|18	|
 
-- **Semester 7**
+- Semester 7
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
@@ -444,7 +444,7 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |	|Mata Kuliah Pilihan		|	|9	|
 |	|				|TOTAL	|17	|
 
-- **Semester 8**
+- Semester 8
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
@@ -578,6 +578,8 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 
 ![](images/Lampiran_BAB2_2.png)
 
+Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
+
 |KODE MK	|NAMA & DESKRIPSI MATA KULIAH	|
 |---------------|-------------------------------|
 |APS105		|FISIKA DASAR 1/*PHYSICS 1*	|
@@ -618,7 +620,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 |	-	|Salah satu kemampuan dasar yang wajib dimiliki oleh seorang mahasiswa adalah kemampuan untuk berkomunikasi baik secara lisan maupun tertulis. Di dalam mata kuliah ini mahasiswa akan dilatih untuk membuat laporan ilmiah yang profesional dan dibekali dengan kemampuan untuk dapat memberikan presentasi yang efektif.|
 |APS323		|Elektrodinamika/*Electrodynamics*|
 |APS222, APS208	|Mata kuliah ini mengembangkan gagasan-gagasan tentang listrik magnet yang telah dipelajari pada semester sebelumnya ke dalam teori Maxwell tentang elektromagnetik. Persamaan Maxwell menarik berbagai macam hukum tentang listrik magnet (Hukum Faraday, Hukum Ampere, Hukum Lenz, Hukum Gauss) ke dalam satu kesatuan teori yang elegan. Penetapan teori elektromagnetik yang komplit telah membuktikan salah satu pencapaian besar dalam fisika. Secara garis besar dalam mata kuliah ini akan dibahas beberapa konsep elektrodinamika yang mengaitkan hubungan antara medan listrik dan medan magnetik (hukum Ohm dan hukum Faraday) dan berujung pada persamaan Maxwell yang menggabungkan deskripsi medan listrik dan medan magnetik. Beberapa sifat gelombang elektromagnetik yang ditimbulkan sebagai solusi persamaan Maxwell dibahas dalam kuliah ini, seperti persamaan gelombang elektromagnetik dan perambatannya dalam medium serta dispersi gelombang elektromagnetik. Beberapa aplikasi sederhana gelombang elektromagnetik diberikan, seperti pandu gelombang dan radiasi elektromagnetik. Masalah invariansi teori elektromagnetik terhadap kerangka inersial dimunculkan, yang pada akhirnya berujung pada ide teori relativitas khusus yang dikembangkan oleh Einstein. Melalui mata kuliah ini diharapkan mahasiswa dapat memahami secara kualitatif dan kuantitatif fenomena medan listrik dan magnet dinamis.|
-|APS328		|Mekanika Kuantum/Quantum Mechanics*	|
+|APS328		|Mekanika Kuantum/*Quantum Mechanics*	|
 |APS327, APS208		|Melalui mata kuliah ini mahasiswa akan diperkenalkan struktur matematika mekanika kuantum dan menjelaskan bagaimana untuk menghitung nilai harapan untuk jumlah yang diamati dari suatu sistem. Selain itu untuk menunjukkan bagaimana teori perhitungan kuantum dari sifat atom, partikel dasar, inti dan padatan. Secara umum dalam mata kuliah ini akan dibahas lebih lanjut tentang Revisi fungsi gelombang, kepadatan probabilitas dan persamaan Schrödinger dalam 1 dimensi. Atom Hidrogen: momentum sudut orbital, bilangan kuantum, distribusi probabilitas. Spektrum atom dan efek Zeeman. Elektron berputar: Stern-Gerlach, kuantum spin angka, spin-orbit kopling, prinsip pengecualian dan tabel periodik. X-ray spektrum.|
 |APS335		|Lab. Fisika Instrumentasi/*Instrumentation Physics Laboratory*|
 |APS234		|Pada kuliah ini materi dipelajari dengan menerapkannya pada robot agar proses pembelajaran menarik dan langsung diterapkan. Isi kuliah meliputi sensor, pengkondisian sinyal, ADC, DAC, Pengolahan data, Fourier, Sistem tertutup. Tujuan mata kuliah ini untuk membekali mahasiswa dengan pengalaman antarmuka dalam instrumentasi.|
@@ -637,7 +639,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 |APS498		|Tugas Akhir 2/*Final Project 2*|
 |APS497		|Tujuan dari Tugas Akhir 2 adalah untuk Memberi kemampuan menyelesaikan telaahan suatu topik terbatas dalam bidang fisika dan/atau aplikasinya, secara cukup mandiri di bawah bimbingan seorang dosen, dan menuliskannya dalam bentuk karya ilmiah. Tugas Akhir 2 merupakan bagian kedua dari tugas akhir. Pada Tugas Akhir 2 ini lebih fokus dengan pendalaman dari topik dan menyajikan hasil kerja lengkap dalam bentuk tulisan yang baik dan standar, juga secara lisan. Topik tugas akhir ditentukan bersama dengan dosen pembimbing.|
 |SAB315		|Kewirausahaan/*Entrepreneurship*	|
-|		|Mata kuliah ini membahas pengertian Kewirausahaan serta bagaimana sebaiknya mengembangkan usaha agar dapat menjadi wirausaha yang berhasil dan beretika. Pembahasan mengenai inti dan hakekat kewirausahaan, disiplin ilmu, obyek studi dan perkembangannya, karakteristik dan ciri umum kewirausahaan, faktor-faktor pemicu, model, proses, tahapan, keberhasilan dan kegagalan, ide dan sumber wirausaha, cara memasuki dunia usaha, pengelolaan dunia usaha, kompetisi dan strategi, pembuatan studi kelayakan dan etika bisnis dan prinsip-prinsip usaha yang baik. Selain itu juga dipresentasikan hasil kunjungan ke perusahaan agar dapat membedakan dunia nyata dengan teori, sehingga mahasiswa diharapkan memiliki kemampuan soft skill.|
+|		|Mata kuliah ini membahas pengertian Kewirausahaan serta bagaimana sebaiknya mengembangkan usaha agar dapat menjadi wirausaha yang berhasil dan beretika. Pembahasan mengenai inti dan hakekat kewirausahaan, disiplin ilmu, obyek studi dan perkembangannya, karakteristik dan ciri umum kewirausahaan, faktor-faktor pemicu, model, proses, tahapan, keberhasilan dan kegagalan, ide dan sumber wirausaha, cara memasuki dunia usaha, pengelolaan dunia usaha, kompetisi dan strategi, pembuatan studi kelayakan dan etika bisnis dan prinsip-prinsip usaha yang baik. Selain itu juga dipresentasikan hasil kunjungan ke perusahaan agar dapat membedakan dunia nyata dengan teori, sehingga mahasiswa diharapkan memiliki kemampuan *soft skill*.|
 
 ## 2.7 Kurikulum Program Studi Teknik Informatika
 
@@ -851,9 +853,11 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
 |AIF104		|LOGIKA INFORMATIKA/*LOGICS FOR INFORMATICS*	|
 |		|Memberikan pengetahuan dasar kalkulus kepada mahasiswa, yang nanti digunakan di bidang informatika, misalnya tentang sistem bilangan real, limit, turunan, dan integral. Memberi pengetahuan dasar aljabar matriks yang berkaitan dengan jenis-jenis matriks, operasi matriks, dan sistem persamaan linier. Memberikan pengetahuan kepada mahasiswa bagaimana menyelesaikan masalah dengan menggunakan metode yang telah dijelaskan.|
 |AIF105		|PENGANTAR INFORMATIKA/*INTRODUCTION TO INFORMATICS*	|
-|		|Mengenal terminologi umum dalam informatika,mampu menggunakan kakas umum dalam informatika seperti MS Excel,mengenal cakupan ilmu informatika.|
+|		|Mengenal terminologi umum dalam informatika, mampu menggunakan kakas umum dalam informatika seperti MS Excel, mengenal cakupan ilmu informatika.|
 
 ![](images/Lampiran_BAB2_3.png)
+
+Gambar 3. Peta dan Prasyarat Mata Kuliah Program Studi Teknik Informatika
 
 |KODE MK	|NAMA & DESKRIPSI MATA KULIAH	|
 |---------------|-------------------------------|
@@ -870,31 +874,31 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
 |AIF206		|SISTEM OPERASI/*OPERATING SYSTEMS*	|
 |		|Mempelajari pengertian sistem operasi, peran dan fungsinya dalam sebuah sistem perangkat keras, khususnya komputer. Mempelajari prinsip-prinsip, teknik dan algoritma yang digunakan di dalam sebuah sistem operasi, penjadwalan, dan aspek keamanan dalam sistem operasi. Memperkenalkan dan menggunakan lebih dalam beberapa sistem operasi yang umum.|
 |AIF208		|REKAYASA PERANGKAT LUNAK/*REKAYASA PERANGKAT LUNAK*	|
-|		|Mempelajari terminologi, definisi, Software Process Model, review paradigma berorientasi objek, kebutuhan perangkat lunak, *use case modeling, class modelling, dynamic modelling: state transition diagram, sequence diagram, activity diagram, reusability dan design pattern, data flow diagram, testing, software process management.*|
+|		|Mempelajari terminologi, definisi, Software Process Model, review paradigma berorientasi objek, kebutuhan perangkat lunak, *use case modeling, class modelling, dynamic modelling: state transition diagram, sequence diagram, activity diagram, reusability dan design pattern, data flow diagram, testing, software process management*.|
 |AIF210		|INTERAKSI MANUSIA KOMPUTER/*HUMAN-COMPUTER INTERACTION*	|
 |		|Mempelajari konsep-konsep interaksi manusia dan komputer serta mengimplementasikan dalam bentuk pemrograman di lingkungan GUI dan event driven).|
 |AIF294		|MANAJEMEN INFORMASI & BASIS DATA/*INFORMATION MANAGEMENT & DATABASES*|
 |		|Mengajarkan konsep dan macam-macam Sistem Manajemen Basis Data (DBMS), pengenalan basis data sederhana mulai dari spreadsheet, merancang dan memodelkan basis data menggunakan ER-D,implementasi tabel, penyimpanan data multimedia, serta cara penggunaan sintaks-sintaks SQL pada DBMS.|
 |AIF301		|PENGANTAR SISTEM CERDAS/*INTRODUCTION TO INTELLIGENT SYSTEMS*|
-|		|KMempelajari definisi, karakteristikagen cerdas, blind search, informed search, local search, adversarial search, representasi pengetahuan dengan Propositional Logic dan First Order Logic, agen cerdas berbasis logika, planning, penanganan ketidakpastian, pembelajaran mesin.|
+|		|KMempelajari definisi, karakteristikagen cerdas, *blind search, informed search, local search, adversarial search*, representasi pengetahuan dengan *Propositional Logic* dan *First Order Logic*, agen cerdas berbasis logika, *planning*, penanganan ketidakpastian, pembelajaran mesin.|
 |AIF302		|PENULISAN ILMIAH/*SCIENTIFIC WRITING*	|
-|		|Mempersiapkan mahasiswa untuk mulai melakukan penelitianMemberikan penjelasan tentang penelitian dan jenis-jenisnya.|
+|		|Mempersiapkan mahasiswa untuk mulai melakukan penelitian. Memberikan penjelasan tentang penelitian dan jenis-jenisnya.|
 |AIF303		|PENGANTAR SISTEM INFORMASI/*INTRODUCTION TO INFORMATION SYSTEMS*|
-|		|Mempelajaritrend Teknologi Informasi, konsep Sistem Informasi Terkomputerisasi (SIT) dan komponen SI, pemanfaatan SI bagi organisasi, pengantar pembangunan SIT, perumusan prosedur-prosedur bisnis, keamanan informasi, pengantar e-bisnis/e-commerce, pengantar Business Intelligence, pengantar, EIS, DSS, cloud computing dan mobile applications.|
+|		|Mempelajaritrend Teknologi Informasi, konsep Sistem Informasi Terkomputerisasi (SIT) dan komponen SI, pemanfaatan SI bagi organisasi, pengantar pembangunan SIT, perumusan prosedur-prosedur bisnis, keamanan informasi, pengantar e-bisnis/*e-commerce*, pengantar *Business Intelligence*, pengantar EIS, DSS, *cloud computing* dan *mobile applications*.|
 |AIF304		|PROYEK SISTEM INFORMASI 1/*INFORMATION SYSTEM PROJECT 1*	|
-|		|Mempelajari pendalaman manajemen projek (penyusunan Project Implementation Plan), perumusan lingkup projek untuk organisasi studi kasus, analisis kebutuhan dengan pembuatan prototype penyusunan dokumen spesifikasi sistem (SRS).|
+|		|Mempelajari pendalaman manajemen projek (penyusunan *Project Implementation Plan*), perumusan lingkup projek untuk organisasi studi kasus, analisis kebutuhan dengan pembuatan *prototype* penyusunan dokumen spesifikasi sistem (SRS).|
 |AIF305		|JARINGAN KOMPUTER/*COMPUTER NETWORKS*	|
-|		|Memperkenalkan organisasi yang berkaitan dengan internet; topologi jaringan;layering; komponen-komponen jaringan; aplikasi jaringan; Membangun aplikasi jaringan; lapisan transport – TCP; Reliable data delivery; Lapisan jaringan; Local Area Network; Resource Allocation; Mobility; Multimedia Networking;Memperkenalkan keamanan jaringan; Social Networking;  Membangun dan administrasi jaringan LAN.|
+|		|Memperkenalkan organisasi yang berkaitan dengan internet; topologi jaringan;*layering*; komponen-komponen jaringan; aplikasi jaringan; Membangun aplikasi jaringan; lapisan transport – TCP; *Reliable data delivery*; Lapisan jaringan; *Local Area Network*; *Resource Allocation*; *Mobility*; *Multimedia Networking*;Memperkenalkan keamanan jaringan; *Social Networking*;  Membangun dan administrasi jaringan LAN.|
 |AIF306		|PROYEK INFORMATIKA/*INFORMATICS PROJECT*	|
 |		|Mempelajari dan mempraktekkan tahap-tahap rekayasa perangkat lunak termasuk manajemen projek pada sebuah projek perangkat lunak nyata pada skala menengah.|
 |AIF401		|SKRIPSI 1/*UNDERGRADUATE THESIS 1*	|
 |		|Skripsi 1 merupakan bagian pertama skripsi dengan titik berat pada studi pustaka, pemahaman, pelaporan hasil kerja secara tertulis dan lisan. Topik ditentukan bersama dosen pembimbing.|
 |AIF402		|SKRIPSI 2/*UNDERGRADUATE THESIS 2*	|
-|		|Skripsi 2 merupakan bagian kedua skripsi, Pendalaman topik dan hasil kerja lengkap bentuk tulisan yang baik dan standar, juga secara lisan. Topik ditentukan bersama dosen pembimbing.|
+|		|Skripsi 2 merupakan bagian kedua skripsi, pendalaman topik dan hasil kerja lengkap bentuk tulisan yang baik dan standar, juga secara lisan. Topik ditentukan bersama dosen pembimbing.|
 |AIF403		|KOMPUTER & MASYARAKAT/*COMPUTER & SOCIETY*|
 |Lulus 72 SKS	|Menganalisis dan mengkritisi peran, kedudukan dan peluang dalam bidang TIK. Memberi pemahaman mengenai pentingnya peran TIK sebagai “process enabler” dan “process improvement driver”, serta memperkenalkan isu-isu teknologi & non-teknologi yang penting dalam bidang TIK. Prasyarat : sudah lulus 72 SKS.|
 |AIF405		|PROYEK SISTEM INFORMASI 2/*INFORMATION SYSTEM PROJECT 2*|
-|		|Mempelajari perancangan sistem informasi untuk organisasi studi kasus, implementasi sistem secara gadual,pengujian modul, integrasi dan penerimaan user (UAT).|
+|		|Mempelajari perancangan sistem informasi untuk organisasi studi kasus, implementasi sistem secara gadual, pengujian modul, integrasi dan penerimaan *user* (UAT).|
 |AMS100		|MATEMATIKA INFORMATIKA/*MATHEMATICS FOR INFORMATICS*	|
 |		|Mempelajari pengetahuan dasar matematika yang diperlukan dalama menyelesaikan masalah informatika yang terdiri dari: Sistem Bilangan Real dan Nilai Mutlak, Fungsi dan Limit,  Turunan, Integral, Sistem Persamaan Linear dan Matriks, Determinan, Vektor 2 dan 3 Dimensi.|
 |AMS200		|PROBABILITAS & STATISTIKA/*PROBABILITY & STATISTICS*|
