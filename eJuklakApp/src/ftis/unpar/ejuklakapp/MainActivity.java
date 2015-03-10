@@ -24,7 +24,7 @@ import android.widget.ListView;
 
 
 public class MainActivity extends ActionBarActivity {
-	private WebView webView;
+	private ViewFragment webView;
 	private String HTMLPath;
 	private String HTMLName;
 	private HTMLHeader[] headers;
@@ -41,10 +41,11 @@ public class MainActivity extends ActionBarActivity {
         //Code here
         
         /*WEBVIEW*/
-        webView = (WebView) findViewById(R.id.webview);
         HTMLName = "BAB-1.html";
         HTMLPath = "file:///android_asset/" + HTMLName;
-        webView.loadUrl(HTMLPath);
+        webView = new ViewFragment(HTMLPath);
+        FragmentManager fragmentManager = getFragmentManager();
+        fragmentManager.beginTransaction().replace(R.id.content_frame, webView).commit();
         
         /*NAVIGATION DRAWER*/ 
         headers = this.getHTMLHeaders();
@@ -110,6 +111,7 @@ public class MainActivity extends ActionBarActivity {
           	String value  = StringUtils.substringBetween(header, ">", "<");
           	headerList.add(new HTMLHeader(Integer.parseInt(number),id,value));
 	    }
+	    headerList.addFirst(new HTMLHeader(1,"","HOME"));
 	    HTMLHeader[] headerArr = headerList.toArray(new HTMLHeader[headerList.size()]);
 	    return headerArr;
     }
@@ -124,7 +126,13 @@ public class MainActivity extends ActionBarActivity {
     }
      
     private void selectItem(int position) {
-    	webView.loadUrl(HTMLPath+ "#" + headers[position].getID());
+    	//webView.loadUrl(HTMLPath+ "#" + headers[position].getID());
+    	//Fragment fragment = new ViewFragment(HTMLPath+"#"+headers[position].getID());
+    	webView.loadURL(HTMLPath+"#"+headers[position].getID());
+    	FragmentManager fragmentManager = getFragmentManager();
+        fragmentManager.beginTransaction().replace(R.id.content_frame, webView).commit();
+        drList.setItemChecked(position, true);
+        drList.setSelection(position);
     	drLayout.closeDrawers();
     }
 
