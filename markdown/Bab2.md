@@ -96,50 +96,51 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 
 ### 2.4.2 Uraian Singkat Mata Kuliah Umum  
 
-**1. PENDIDIKAN PANCASILA / _PANCASILA EDUCATION_**
+1. PENDIDIKAN PANCASILA/*PANCASILA EDUCATION*
  - **Kode Mata Kuliah**: MKU001
  - **Deskripsi Mata Kuliah**: Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian (*character building*) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila.  
 
-**2. PENDIDIKAN KEWARGANEGARAAN / _CIVICS_**
+2. PENDIDIKAN KEWARGANEGARAAN/*CIVICS*
  - **Kode Mata Kuliah**: MKU002
  - **Deskripsi Mata Kuliah**: Pendidikan Kewarganegaraan menjelaskan pentingnya pemahaman tentang identitas nasional Indonesia, hak dan kewajiban warga negara Indonesia serta hubungannya dengan hak dan kewajiban asasi manusia. Materi kuliah mencakup juga wawasan nusantara, ketahanan nasional, politik dan strategi nasional, serta implementasinya dalam kehidupan bermasyarakat, berbangsa dan bernegara kesatuan Republik Indonesia.
- 
-**3. AGAMA KATOLIK / _CATHOLIC RELIGION_**
+
+3. AGAMA KATOLIK/*CATHOLIC RELIGION*
  - **Kode Mata Kuliah**: MKU003
  - **Deskripsi Mata Kuliah**: Mata kuliah ini membentuk karakteristik mahasiswa sebagai manusia yang memiliki religiusitas melalui pendalaman akan makna agama dan beragama, mendeteksi dinamika Wahyu Tuhan dan iman mereka, memahami relasi dengan Tuhan dan sesama, mengenal makna keselamatan dalam konteks Kerajaan Allah, dan mampu menyatakan ajaran Gereja dalam pelayanan terhadap orang miskin dan terlantar.
 
-**4. FENOMENOLOGI AGAMA / _PHENOMENOLOGY OF RELIGION_**
+4. FENOMENOLOGI AGAMA/*PHENOMENOLOGY OF RELIGION*
  - **Kode Mata Kuliah**: MKU004
  - **Deskripsi Mata Kuliah**: Fenomenologi Agama merupakan bagian yang tak terpisahkan dari kajian filosofis, kritis, rasional, dan obyektif mengenai substansi ajaran agama. Fenomenologi merupakan sebuah disiplin ilmu yang secara kritis-rasional mengkaji fenomena dan dinamika kehidupan manusia beragama, dari upaya menjadikan Tuhan sebagai tujuan sesembahan sampai menempatkan Tuhan sebagai instrumen legitimasi untuk melakukan tindakan yang justru bertolak belakang dengan kehendak Tuhan yang disembah. Sehubungan dengan itu, kritik konstruktif terhadap perilaku manusia beragama menjadi salah satu poin utama dalam mata kuliah ini. Kesediaan untuk melakukan otoritik terhadap agama sendiri erat terkait dengan upaya menemukan kembali nilai sejati agama atau otentisitas hidup beragama.
 
-**5. ETIKA / _ETHICS_**
+5. ETIKA/*ETHICS*
  - **Kode Mata Kuliah**: MKU008
  - **Deskripsi Mata Kuliah**: Fenomenologi Agama merupakan bagian yang tak terpisahkan dari kajian filosofis, kritis, rasional, dan obyektif mengenai substansi ajaran agama. Fenomenologi merupakan sebuah disiplin ilmu yang secara kritis-rasional mengkaji fenomena dan dinamika kehidupan manusia beragama, dari upaya menjadikan Tuhan sebagai tujuan sesembahan sampai menempatkan Tuhan sebagai instrumen legitimasi untuk melakukan tindakan yang justru bertolak belakang dengan kehendak Tuhan yang disembah. Sehubungan dengan itu, kritik konstruktif terhadap perilaku manusia beragama menjadi salah satu poin utama dalam mata kuliah ini. Kesediaan untuk melakukan otoritik terhadap agama sendiri erat terkait dengan upaya menemukan kembali nilai sejati agama atau otentisitas hidup beragama.
 
-**6. BAHASA INDONESIA / _INDONESIAN_**
+6. BAHASA INDONESIA/*INDONESIAN*
  - **Kode Mata Kuliah**: MKU009
  - **Deskripsi Mata Kuliah**: Tujuan dari mata kuliah ini adalah untuk mendalami keterampilan berbahasa Indonesia, agar mampu mengkomunikasikan hasil pemikiran serta meningkatkan keterampilan dalam menyusun karya ilmiah. Mata kuliah Bahasa Indonesia ini dimulai dengan mempelajari penulisan kata baku dan non baku serta pengungkapan pikiran dengan pungtuasi yang benar. Selanjutnya dipelajari penyusunan kalimat yang baku serta menghubungkan kalimat-kalimat yang padu dalam menuangkan gagasan dalam sebuah paragraf. Selain itu, dalam matakuliah ini dipelajari cara menyusun surat dinas yang jelas dan komunikatif. Di akhir kuliah ini, mahasiswa diberi tugas penyusunan makalah dengan benar.
 
-**7. BAHASA INGGRIS / _ENGLISH_**  
+7. BAHASA INGGRIS/*ENGLISH* 
  - **Kode Mata Kuliah**: MKU010
  - **Deskripsi Mata Kuliah**: Mata kuliah ini difokuskan pada pemahaman sumber referensi dalam Bahasa Inggris dan pengembangan kosakata Bahasa Inggris (*vocabularies*). Hampir keseluruhan waktu perkuliahan didedikasikan untuk menjelaskan metode mengekstraksi isi bacaan secara tepat dan melatih mahasiswa untuk menerapkan metode tersebut seraya menambah kosakata-kosakata baru. Mahasiswa juga dilatih untuk mempresentasikan hasil pemahamannya akan isi bahan bacaan.
 
-**8. ESTETIKA / _ESTHETICS_**
+8. ESTETIKA/*ESTHETICS*
  - **Kode Mata Kuliah**: MKU011
  - **Deskripsi Mata Kuliah**: Mata kuliah estetika memberi pemahaman konseptual filosofis “seni” dalam khasanah keilmuan, pembentukan kesadaran ekologis juga dalam proses pembudayaan dan peradaban. Mata kuliah ini akan menjadi fondasi bagi mahasiswa untuk memahami dan mempraktekkan seni dari sudut pandang filsafat, sejarah, kultural, dan global. Melalui mata kuliah ini, mahasiswa mempelajari mengenai dunia manusia (manusia dan pikirannya), pluralitas dan relativitas seni, serta aliran-aliran seni rupa Barat.
 
-**9. LOGIKA / _LOGICS_**
+9. LOGIKA/*LOGICS*
  - **Kode Mata Kuliah**: MKU012
  - **Deskripsi Mata Kuliah**: Perkuliahan logika ditujukan untuk memberikan dasar-dasar ketrampilan berpikir rasional dan sistematik. Isinya mencakup ketrampilan berpikir deduktif dan induktif, seperti silogisme, argumen analogikal dan generalisasi induktif. Pembahasan teoretis disertai pula dengan pelatihan praktis yang diarahkan pada proses berpikir. Untuk menajamkan kemampuan berpikir tersebut, mahasiswa dilatih pula mengidentifikasi kerancuan-kerancuan (*fallacies*) yang sering dijumpai baik dalam kehidupan sehari-hari maupun dalam konteks akademik.
 
 
-**Mata kuliah yang saling menggantikan: Agama Katolik - Fenomenologi Agama**
+**Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama**
 
 ## 2.5 Kurikulum Program Studi Matematika
 
 ### 2.5.1 Susunan Mata kuliah  
 
 - **Semester 1**
+
 | KODE   | NAMA                         | APR   | SKS |
 |--------|------------------------------|-------|-----|
 | AMS121 | Kalkulus 1                   | R     | 4   |
@@ -148,74 +149,82 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 | APS181 | Fisika Dasar                 | R,P   | 4   |
 | MKU012 | Logika                       | R     | 2   |
 | MKU010 | Bahasa Inggris               |       | 2   |
-|        |                              | TOTAL | 19  |
+|        |                              | TOTAL | 19  |  
 
-|	|Semester 2			|	|	|
-|-------|-------------------------------|-------|-------|
-|KODE	|NAMA				|APR	|SKS	|
-|AMS122	|Kalkulus 2			|	|4	|
-|AMS124	|Matematika Diskret		|	|4	|
-|AMS126	|Aljabar Matriks		|	|4	|
-|AIF112	|Pemrograman Komputer		|	|3	|
-|MKU011	|Estetika			|	|2	|
-|MKU003	|Agama Katolik +		|	|2	|
-|MKU003	|Fenomenologi Agama +		|	|	|
-|	|				|TOTAL	|19	|
+- **Semester 2**
 
-|	|Semester 3			|	|	|
-|-------|-------------------------------|-------|-------|
-|KODE	|NAMA				|APR	|SKS	|
-|AMS221	|Kalkulus Vektor		|R	|4	|
-|AMS231	|Teori Suku Bunga		|	|3	|
-|AMS251	|Teori Peluang			|	|4	|
-|AMS253	|Komputasi Statistika		|	|2	|
-|AMS271	|Metoda Matematika		|	|3	|
-|MKU008	|Etika				|R	|2	|
-|	|				|TOTAL	|18	|
+| KODE   | NAMA                 | APR   | SKS |
+|--------|----------------------|-------|-----|
+| AMS122 | Kalkulus 2           |       | 4   |
+| AMS124 | Matematika Diskret   |       | 4   |
+| AMS126 | Aljabar Matriks      |       | 4   |
+| AIF112 | Pemrograman Komputer |       | 3   |
+| MKU011 | Estetika             |       | 2   |
+| MKU003 | Agama Katolik +      |       | 2   |
+| MKU004 | Fenomologi Agama +   |       | 2   |
+|        |                      | TOTAL | 19  |  
 
-|	|Semester 4			|	|	|
-|-------|-------------------------------|-------|-------|
-|KODE	|NAMA				|APR	|SKS	|
-|AMS222	|Aljabar Linear			|R	|4	|
-|AMS252	|Statistika Matematika		|	|4	|
-|AMS261	|Optimasi			|	|4	|
-|AMS272	|Persamaan Diferensial Biasa	|	|4	|
-|AMS273	|Komputasi Matematika		|	|2	|
-|	|				|TOTAL	|18	|
+- **Semester 3**
 
-|	|Semester 5			|	|	|
-|-------|-------------------------------|-------|-------|
-|KODE	|NAMA				|APR	|SKS	|
-|AMS321	|Fungsi Kompleks		|	|4	|
-|AMS351	|Proses Stokastik		|	|4	|
-|AMS373	|Metoda Numerik			|	|3	|
-|MKU002	|Pendidikan Kewarganegaraan	|	|2	|
-|ABCXYZ	|Pilihan			|	|6	|
-|	|				|TOTAL	|19	|
+| KODE   | NAMA                 | APR   | SKS |
+|--------|----------------------|-------|-----|
+| AMS221 | Kalkulus Vektor      | R     | 4   |
+| AMS231 | Teori Suku Bunga     |       | 3   |
+| AMS251 | Teori Peluang        |       | 4   |
+| AMS253 | Komputasi Statistika |       | 2   |
+| AMS271 | Metoda Matematika    |       | 3   |
+| MKU008 | Etika                | R     | 2   |
+|        |                      | TOTAL | 18  |  
 
-|	|Semester 6			|	|	|
-|-------|-------------------------------|-------|-------|
-|KODE	|NAMA				|APR	|SKS	|
-|AMS322	|Analisis Real			|R	|4	|
-|MKU009	|Bahasa Indonesia		|	|2	|
-|ABCXYZ	|Pilihan			|	|12	|
-|	|				|TOTAL	|18	|
+- **Semester 4**
 
-|	|Semester 7			|	|	|
-|-------|-------------------------------|-------|-------|
-|KODE	|NAMA				|APR	|SKS	|
-|AMS490	|Seminar			|	|3	|
-|AMS491	|Pemodelan Matematika		|	|4	|
-|MKU001	|Pancasila			|	|2	|
-|ABCXYZ	|Pilihan			|	|9	|
-|	|				|TOTAL	|18	|
+| KODE    | NAMA                        | APR   | SKS |
+|---------|-----------------------------|-------|-----|
+| AMS 222 | Aljabar Linear              | R     | 4   |
+| AMS 252 | Statistika Matematika       |       | 4   |
+| AMS 261 | Optimasi                    |       | 4   |
+| AMS 272 | Persamaan Diferensial Biasa |       | 4   |
+| AMS 273 | Komputasi Matematika        |       | 2   |
+|         |                             | TOTAL | 18  |  
 
-|	|Semester 8			|	|	|
-|-------|-------------------------------|-------|-------|
-|KODE	|NAMA				|APR	|SKS	|
-|AMS499	|Skripsi			|	|6	|
-|ABCXYZ	|Pilihan			|	|9	|
-|	|				|TOTAL	|15	|
+- **Semester 5**
+
+| KODE   | NAMA                       | APR   | SKS |
+|--------|----------------------------|-------|-----|
+| AMS321 | Fungsi Kompleks            |       | 4   |
+| AMS351 | Proses Stokastik           |       | 4   |
+| AMS373 | Metoda Numerik             |       | 3   |
+| MKU002 | Pendidikan Kewarganegaraan |       | 2   |
+| ABCXYZ | Pilihan                    |       | 6   |
+|        |                            | TOTAL | 19  |  
+
+- **Semester 6**
+
+| KODE   | NAMA             | APR   | SKS |
+|--------|------------------|-------|-----|
+| AMS322 | Analisis Real    | R     | 4   |
+| MKU009 | Bahasa Indonesia |       | 2   |
+| ABCXYZ | Pilihan          |       | 12  |
+|        |                  | TOTAL | 18  |  
+
+- **Semester 7**
+
+| KODE   | NAMA                 | APR   | SKS |
+|--------|----------------------|-------|-----|
+| AMS490 | Seminar              |       | 3   |
+| AMS491 | Pemodelan Matematika |       | 4   |
+| MKU001 | Pancasila            |       | 2   |
+| ABCXYZ | Pilihan              |       | 9   |
+|        |                      | TOTAL | 18  |  
+
+- **Semester 8**
+
+| KODE   | NAMA    | APR   | SKS |
+|--------|---------|-------|-----|
+| AMS499 | Skripsi |       | 6   |
+| ABCXYZ | Pilihan |       | 9   |
+|        |         | TOTAL | 15  |
+
 
 ### 2.5.2 MATA KULIAH  PILIHAN PROGRAM STUDI MATEMATIKA
 
@@ -223,15 +232,16 @@ Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian 
 
 1. Kelompok Bidang Kajian: Rekayasa Keuangan
  - Matematika Asuransi
+
 |KODE	|NAMA					|SKS	|
 |-------|---------------------------------------|-------|
 |AMS330	|Pengantar  Matematika Asuransi		|3	|
 |AMS331	|Matematika Asuransi			|3	|
 |AMS431	|Metoda Statistika Asuransi		|3	|
 |AMS432	|Teori Risiko				|3	|
-|AMS430	|Kapita Selekta Matematika Asuransi	|3	|
+|AMS430	|Kapita Selekta Matematika Asuransi	|3	|  
 
-Matematika Keuangan
+- Matematika Keuangan
 
 |KODE	|NAMA					|SKS	|
 |-------|---------------------------------------|-------|
@@ -240,19 +250,19 @@ Matematika Keuangan
 |AMS343	|Analisis Deret Waktu			|3	|
 |AMS441	|Teori Manajemen Investasi		|3	|
 |AMS442	|Ekonometrika Keuangan			|3	|
-|AMS440	|Kapita Selekta Matematika Keuangan	|3	|
+|AMS440	|Kapita Selekta Matematika Keuangan	|3	|  
 
-Kelompok Bidang Kajian: Rekayasa Keuangan
+2. Kelompok Bidang Kajian: Rekayasa Keuangan
 
-Optimasi dan Teori Kontrol
+- Optimasi dan Teori Kontrol
 
 |KODE	|NAMA					|SKS	|
 |-------|---------------------------------------|-------|
 |AMS361	|Pemrograman NonLinear			|3	|
 |AMS461	|Kontrol Optimum			|3	|
-|AMS462	|Kontrol Linear				|3	|
+|AMS462	|Kontrol Linear				|3	|  
 
-Statistika & Penelitian Operasional
+- Statistika & Penelitian Operasional
 
 |KODE	|NAMA					|SKS	|
 |-------|---------------------------------------|-------|
@@ -267,9 +277,9 @@ Statistika & Penelitian Operasional
 |AMS456	|Teori Antrian				|3	|
 |AMS457	|Keandalan				|3	|
 |AMS350	|Kapita Selekta Statistika		|3	|
-|AMS450	|Kapita Selekta Penelitian Operasional	|3	|
+|AMS450	|Kapita Selekta Penelitian Operasional	|3	|  
 
-Matematika Terapan
+- Matematika Terapan
 
 |KODE	|NAMA					|SKS	|
 |-------|---------------------------------------|-------|
@@ -278,9 +288,9 @@ Matematika Terapan
 |AMS371	|Persamaan Diferensial Parsial		|3	|
 |AMS372	|Metoda Matematika Lanjut		|3	|
 |AMS374	|Analisis Numerik			|3	|
-|AMS470	|Kapita Selekta Matematika Terapan	|3	|
+|AMS470	|Kapita Selekta Matematika Terapan	|3	|  
 
-Lain-lain
+3. Lain-lain
 
 |KODE	|NAMA					|SKS	|
 |-------|---------------------------------------|-------|
