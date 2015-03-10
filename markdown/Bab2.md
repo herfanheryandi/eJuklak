@@ -730,24 +730,24 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 
 Keterangan :
 
-1. Mata kuliah pilihan wajib.
-  Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut
-2. Mata kuliah projek.
-  Mahasiswa harus lulus salah satu dari  
+1. Mata kuliah pilihan wajib.  
+Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut
+2. Mata kuliah projek.  
+Mahasiswa harus lulus salah satu dari  
  - Projek Informatika, atau
  - Projek Sistem Informasi 1 dan Projek Sistem Informasi 2 
 
 Aturan tambahan :  
 
-1. Mata kuliah pilihan dari luar jurusan
-  Banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.  
+1. Mata kuliah pilihan dari luar jurusan  
+Banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.  
 Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai mata kuliah pilihan dari dalam jurusan
 
-2. Skor Coding
-  Beberapa mata kuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan mata kuliah setiap semester, memiliki jumlah skor coding > 0.
+2. *Skor Coding*  
+Beberapa mata kuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan mata kuliah setiap semester, memiliki jumlah skor coding > 0.
 
-3. Nilai minimum kuliah jalur pemrograman/algoritma
-  Untuk mahasiswa yang ingin mengambil mata kuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:  
+3. Nilai minimum kuliah jalur pemrograman/algoritma  
+Untuk mahasiswa yang ingin mengambil mata kuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:  
  - Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
  - Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
  - Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
