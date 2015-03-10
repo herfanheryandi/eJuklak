@@ -273,7 +273,7 @@ Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian 
 |AMS371	|Persamaan Diferensial Parsial		|3	|
 |AMS372	|Metoda Matematika Lanjut		|3	|
 |AMS374	|Analisis Numerik			|3	|
-|AMS470	|Kapita Selekta Matematika Terapan	|3	|
+|AMS470	|Kapita Selekta Matematika Terapan	|3	|  
 
 2. Lain-lain
 
@@ -356,11 +356,12 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |AMS490 minimal C		|Studi pustaka, penulisan dan penyajian lisan skripsi.|
 
 ## 2.6 Kurikulum Program Studi Fisika
-### 2.6.1 Susunan Mata Kuliah
+### 2.6.1 Susunan Mata Kuliah  
 
-|	|Semester 1			|	|	|
-|-------|-------------------------------|-------|-------|
+- **Semester 1**
+
 |KODE	|NAMA				|APR	|SKS	|
+|-------|-------------------------------|-------|-------|
 |APS101	|Pengenalan Program Studi	|	|3	|
 |APS103	|Keterampilan Fisika		|	|2	|
 |APS105	|Fisika Dasar 1			|R,P	|3	|
@@ -370,9 +371,10 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |MKU011	|Estetika			|	|2	|
 |	|				|TOTAL	|19	|
 
-|	|Semester 2			|	|	|
-|-------|-------------------------------|-------|-------|
+- **Semester 2**
+
 |KODE	|NAMA				|APR	|SKS	|
+|-------|-------------------------------|-------|-------|
 |APS106	|Fisika Dasar 2			|R,P	|3	|
 |APS108	|Fisika Matematika 2		|R	|4	|
 |APS112	|Mekanika			|R	|3	|
@@ -381,9 +383,10 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |MKU012	|Logika				|	|2	|
 |	|				|TOTAL	|18	|
 
-|	|Semester 3			|	|	|
-|-------|-------------------------------|-------|-------|
+- **Semester 3**
+
 |KODE	|NAMA				|APR	|SKS	|
+|-------|-------------------------------|-------|-------|
 |APS207	|Fisika Matematika 3		|R	|4	|
 |APS213	|Gelombang			|R	|3	|
 |APS215	|Fisika Thermal			|R	|3	|
@@ -392,9 +395,10 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |MKU003/MKU004|Agama Katolik/Fenomenologi Agama	|	|2	|
 |	|				|TOTAL	|18	|
 
-|	|Semester 4			|	|	|
-|-------|-------------------------------|-------|-------|
+- **Semester 4**
+
 |KODE	|NAMA				|APR	|SKS	|
+|-------|-------------------------------|-------|-------|
 |APS204	|Projek Bersama			|	|2	|
 |APS208	|Fisika Matematika 4		|R	|4	|
 |APS216	|Fisika Statistik		|R	|3	|
@@ -403,9 +407,10 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |MKU010	|Bahasa Inggris			|	|2	|
 |	|				|TOTAL	|18	|
 
-|	|Semester 5			|	|	|
-|-------|-------------------------------|-------|-------|
+- **Semester 5**
+
 |KODE	|NAMA				|APR	|SKS	|
+|-------|-------------------------------|-------|-------|
 |APS323	|Elektrodinamika		|R	|3	|
 |APS327	|Fisika Kuantum			|R	|4	|
 |APS335	|Lab. Fisika Instrumentasi	|P	|3	|
@@ -414,9 +419,10 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |	|Mata Kuliah Pilihan		|	|3	|
 |	|				|TOTAL	|18	|
 
-|	|Semester 6			|	|	|
-|-------|-------------------------------|-------|-------|
+- **Semester 6**
+
 |KODE	|NAMA				|APR	|SKS	|
+|-------|-------------------------------|-------|-------|
 |APS304	|Teknik Presentasi		|	|2	|
 |APS328	|Mekanika Kuantum		|	|3	|
 |APS342	|Pengantar Fisika Material	|	|3	|
@@ -426,18 +432,20 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |	|Mata Kuliah Pilihan		|	|3	|				
 |	|				|TOTAL	|18	|
 
-|	|Semester 7			|	|	|
-|-------|-------------------------------|-------|-------|
+- **Semester 7**
+
 |KODE	|NAMA				|APR	|SKS	|
+|-------|-------------------------------|-------|-------|
 |APS497	|Tugas Akhir 1			|	|4	|
 |MKU001	|Pancasila			|	|2	|
 |MKU002	|Kewarganegaraan		|	|2	|
 |	|Mata Kuliah Pilihan		|	|9	|
 |	|				|TOTAL	|17	|
 
-|	|Semester 8			|	|	|
-|-------|-------------------------------|-------|-------|
+- **Semester 8**
+
 |KODE	|NAMA				|APR	|SKS	|
+|-------|-------------------------------|-------|-------|
 |APS402	|Etika Profesi			|	|2	|
 |APS498	|Tugas Akhir 2			|	|4	|
 |SAB315	|Kewirausahaan			|	|3	|
@@ -446,7 +454,7 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 
 Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 
-|No	|Kelompok Mata Kulia	|
+|No	|Kelompok Mata Kuliah	|
 |-------|-----------------------|
 |1	|Fisika Teoretik (Mekanika, Thermodinamika, Fisika Matematika Lanjut)	|
 |2	|Fisika Teoretik (Fisika Modern, Elektromagnetik, Kuantum)	|
@@ -722,27 +730,28 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 
 Keterangan :
 
-	1 Mata kuliah pilihan wajib.
-          Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut 
-           
-	2 Mata kuliah projek.
-          Mahasiswa harus lulus salah satu dari 
-          * Projek Informatika, atau 
-          * Projek Sistem Informasi 1 dan Projek Sistem Informasi 2 
+1. Mata kuliah pilihan wajib.
+  Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut
+2. Mata kuliah projek.
+  Mahasiswa harus lulus salah satu dari  
+ - Projek Informatika, atau
+ - Projek Sistem Informasi 1 dan Projek Sistem Informasi 2 
 
 Aturan tambahan :  
 
-	1.Mata kuliah pilihan dari luar jurusan 
-           Banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.
-           Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai mata kuliah pilihan dari dalam jurusan 
-	2.Skor Coding
-           Beberapa mata kuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan mata kuliah setiap semester, memiliki jumlah skor coding> 0.
-	3.Nilai minimum kuliah jalur pemrograman/algoritma
-           Untuk mahasiswa yang ingin mengambil mata kuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
-            a.Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
-            b.Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
-            c.Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
-            d.Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
+1. Mata kuliah pilihan dari luar jurusan
+  Banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.  
+Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai mata kuliah pilihan dari dalam jurusan
+
+2. Skor Coding
+  Beberapa mata kuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan mata kuliah setiap semester, memiliki jumlah skor coding > 0.
+
+3. Nilai minimum kuliah jalur pemrograman/algoritma
+  Untuk mahasiswa yang ingin mengambil mata kuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:  
+ - Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+ - Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+ - Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
+ - Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
             
 ### 2.7.2 Mata Kuliah Pilihan Program Studi Teknik Informatika  
 
