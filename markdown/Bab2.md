@@ -57,28 +57,18 @@ Mata kuliah layanan adalah mata kuliah yang dibina oleh prodi yang ada di FTIS u
 
 ### 2.3.2 KULIAH LAYANAN PROGRAM STUDI TEKNIK FISIKA
 
-| Kode   | Mata Kuliah                 | SKS |  Prodi yang dilayani |
-|--------|-----------------------------|-----|----------------------|
-| APS181 | Fisika Dasar      | 4   | Matematika|
-| APS182 | Fisika Dasar | 3   |  Teknik Sipil  |
-| APS183 | Fisika Dasar 1         | 2   | Teknik Industri               |
-| APS184 | Fisika Dasar 2         | 3   | Teknik Industri            |
-| APS185 | Fisika Dasar  1                 | 2   | Teknik Kimia      |
-| APS186 | Fisika Dasar 2 | 2   | Teknik Kimia      |
-| APS187 | Praktikum Fisika Dasar | 1   | Matematika      |
-| APS188 | Praktikum Fisika Dasar | 1   | Teknik Sipil      |
-| APS189 | Praktikum Fisika Dasar | 1   | Teknik Industri         |
-| FFT189 | Kosmologi| 2   | Filsafat         |
-| APS101 | Matematika 1                | 3   | Teknik Sipil         |
-| AMS102 | Matematika 2                | 3   | Teknik Sipil         |
-| AMS201 | Matematika 3                | 3   | Teknik Sipil         |
-| AMS202 | Matematika 4                | 3   | Teknik Sipil         |
-
-### 2.3.3 KULIAH LAYANAN PROGRAM STUDI TEKNIK INFORMATIKA
-
-| Kode   | Mata Kuliah                 | SKS |  Prodi yang dilayani |
-|--------|-----------------------------|-----|----------------------|
-| AKS144 | Pemrograman Komputer        | 3   | Matematika	    |
+| Kode    | Mata Kuliah            | SKS | Prodi yang dilayani |
+|---------|------------------------|-----|---------------------|
+| APS 181 | Fisika Dasar           | 4   | Matematika          |
+| APS 182 | Fisika Dasar           | 3   | Teknik Sipil        |
+| APS 183 | Fisika Dasar 1         | 2   | Teknik Industri     |
+| APS 184 | Fisika Dasar 2         | 2   | Teknik Industri     |
+| APS 185 | Fisika Dasar 1         | 2   | Teknik Kimia        |
+| APS 186 | Fisika Dasar 2         | 2   | Teknik Kimia        |
+| APS 187 | Praktikum Fisika Dasar | 1   | Matematika          |
+| APS 188 | Praktikum Fisika Dasar | 1   | Teknik Sipil        |
+| APS 189 | Praktikum Fisika Dasar | 1   | Teknik Industri     |
+| FFT 113 | Kosmologi              | 2   | Filsafat            |
 
 ## 2.4 Mata Kuliah Umum
 
