@@ -83,51 +83,48 @@ sesuai dengan sesanti *Bakuning Hyang Mrih Guna Santyaya Bhakti*, yang berarti B
 Visi FTIS 2020 adalah sebagai berikut: 
 > Menjadikan FTIS UNPAR sebagai suatu komunitas akademik beriman yang dapat mengembangkan bidang-bidang teknologi informasi   dan sains dengan mengangkat potensi lokal pada tataran internasional untuk peningkatan martabat manusia.
         
- FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu masyarakat yang secara cerdas dan kritis senantiasa      mencari, menjunjung tinggi, dan menyebarluaskan kebenaran. Hal ini merupakan perwujudan dari keyakinan kepada Tuhan Yang     Maha Esa, sesuai dengan sesanti UNPAR *Bakuning Hyang Mrih Guna Santyaya Bhakti*.
+FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu masyarakat yang secara cerdas dan kritis senantiasa mencari, menjunjung tinggi, dan menyebarluaskan kebenaran. Hal ini merupakan perwujudan dari keyakinan kepada Tuhan Yang Maha Esa, sesuai dengan sesanti UNPAR *Bakuning Hyang Mrih Guna Santyaya Bhakti*.
 
- Menjelang tahun 2020, FTIS UNPAR akan lebih memberikan perhatian kepada potensi lokal, yaitu kekuatan, keunggulan, keunikan  asli (*indigenous*) yang terkandung di bumi Indonesia, khususnya di wilayah Jawa Barat. Ini berarti bahwa proses pendidikan,   penelitian, dan pengabdian kepada masyarakat harus memberi perhatian pada masalah-masalah yang secara nyata dihadapi oleh    masyarakat dan bangsa Indonesia, khususnya di wilayah Jawa Barat. Dengan mengacu kepada bidang-bidang keilmuan di dalam      FTIS, potensi lokal tersebut harus dikembangkan secara kreatif dan kritis, sehingga mampu untuk disejajarkan dan             dikompetisikan pada tataran internasional.
+Menjelang tahun 2020, FTIS UNPAR akan lebih memberikan perhatian kepada potensi lokal, yaitu kekuatan, keunggulan, keunikan  asli (*indigenous*) yang terkandung di bumi Indonesia, khususnya di wilayah Jawa Barat. Ini berarti bahwa proses pendidikan,   penelitian, dan pengabdian kepada masyarakat harus memberi perhatian pada masalah-masalah yang secara nyata dihadapi oleh    masyarakat dan bangsa Indonesia, khususnya di wilayah Jawa Barat. Dengan mengacu kepada bidang-bidang keilmuan di dalam FTIS, potensi lokal tersebut harus dikembangkan secara kreatif dan kritis, sehingga mampu untuk disejajarkan dan dikompetisikan pada tataran internasional.
 
- Sebagai Universitas Katolik, UNPAR menaruh perhatian utama pada peningkatan martabat manusia. Kegiatan pendidikan yang       ditujukan untuk menyiapkan generasi muda sebagai calon pemimpin masa depan dimaskudkan agara mereka berkembang menjadi       manusia yang utuh yang memiliki keseimbangan antara rasio, rasa, raga, dan rukun. Untuk itu, proses pendidikan yang          berlangsung di UNPAR dan di dalam FTIS harus mampu memberikan pengalaman belajar kepada para mahasiswa, bukan hanya dalam    pengembangan rasio yang dilaksanakan berdasarkan kurikulum, melainkan juga pengembangan rasa, raga, dan rukun melalui        interaksi dan pergaulan hidup sehari-hari di lingkungan kampus UNPAR. Untuk mencapai keunggulan di dalam hal di atas, FTIS   UNPAR harus senantiasa mengembangkan potensi lokal ke tataran internasional. Oleh karena itu, pembangunan suasana akademik   yang kondusif merupakan bagian yang sangat penting dalam pembentukan manusia yang bermartabat dan pengembangan potensi lokal  tersebut.
+Sebagai Universitas Katolik, UNPAR menaruh perhatian utama pada peningkatan martabat manusia. Kegiatan pendidikan yang ditujukan untuk menyiapkan generasi muda sebagai calon pemimpin masa depan dimaskudkan agara mereka berkembang menjadi manusia yang utuh yang memiliki keseimbangan antara rasio, rasa, raga, dan rukun. Untuk itu, proses pendidikan yang berlangsung di UNPAR dan di dalam FTIS harus mampu memberikan pengalaman belajar kepada para mahasiswa, bukan hanya dalam pengembangan rasio yang dilaksanakan berdasarkan kurikulum, melainkan juga pengembangan rasa, raga, dan rukun melalui interaksi dan pergaulan hidup sehari-hari di lingkungan kampus UNPAR. Untuk mencapai keunggulan di dalam hal di atas, FTIS UNPAR harus senantiasa mengembangkan potensi lokal ke tataran internasional. Oleh karena itu, pembangunan suasana akademik yang kondusif merupakan bagian yang sangat penting dalam pembentukan manusia yang bermartabat dan pengembangan potensi lokal  tersebut.
  
 ### 1.2.2 Misi FTIS
- Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
- 
-  1. Menyelenggarakan program akademik jenjang sarjana dengan memperhatikan visi FTIS untuk menghasilkan lulusan yang:
-  
-	- Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.
-	- Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.
-			
-  2. Menghasilkan penelitian di bidang teknologi informasi dan sains yang dapat meningkatkan martabat manusia secara langsung ataupun tidak langsung, serta memanfaatkan hasil penelitian untuk pengembangan proses pembelajaran dan pengabdian kepada masyarakat.
-  3. Menjalin kerja sama dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan keterkaitan proses pembelajaran, penelitian dan pengabdian kepada masyarakat.
+
+Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:  
+
+1. Menyelenggarakan program akademik jenjang sarjana dengan memperhatikan visi FTIS untuk menghasilkan lulusan yang:  
+- Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.
+- Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.
+2. Menghasilkan penelitian di bidang teknologi informasi dan sains yang dapat meningkatkan martabat manusia secara langsung ataupun tidak langsung, serta memanfaatkan hasil penelitian untuk pengembangan proses pembelajaran dan pengabdian kepada masyarakat.
+3. Menjalin kerja sama dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan keterkaitan proses pembelajaran, penelitian dan pengabdian kepada masyarakat.
  
 
-### 1.2.3 Tujuan FTIS  
-   Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut:
-   
-  - Berbudi pekerti luhur, disiplin, jujur, cinta pada sesama dan lingkungan serta berjiwa religius dalam rangka mengamalkan Pancasila dan Undang-Undang Dasar 1945.
-  - Memiliki pengetahuan dasar Matematika, Fisika, atau Teknik Informatika, yang kokoh dan berkemampuan bernalar yang baik, logis, matematis, dan/atau fisis; 
-  - Memiliki kemampuan memodelkan dan menyelesaikan permasalahan matematika, fisika, atau permasalahan di berbagai bidang (interdisiplin), dan khusus untuk sarjana Teknik Informatika mampu membangun perangkat lunak dan menyesuaikan diri terhadap perkembangan teknologi informasi; 
-  - Memiliki wawasan yang luas tentang perkembangan Ilmu Matematika, Fisika, atau Teknik Informatika, dan penerapannya dan mampu bersaing di tataran nasional maupun internasional. 
-   
+### 1.2.3 Tujuan FTIS
+
+Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut:  
+- Berbudi pekerti luhur, disiplin, jujur, cinta pada sesama dan lingkungan serta berjiwa religius dalam rangka mengamalkan Pancasila dan Undang-Undang Dasar 1945.
+- Memiliki pengetahuan dasar Matematika, Fisika, atau Teknik Informatika, yang kokoh dan berkemampuan bernalar yang baik, logis, matematis, dan/atau fisis; 
+- Memiliki kemampuan memodelkan dan menyelesaikan permasalahan matematika, fisika, atau permasalahan di berbagai bidang (interdisiplin), dan khusus untuk sarjana Teknik Informatika mampu membangun perangkat lunak dan menyesuaikan diri terhadap perkembangan teknologi informasi; 
+- Memiliki wawasan yang luas tentang perkembangan Ilmu Matematika, Fisika, atau Teknik Informatika, dan penerapannya dan mampu bersaing di tataran nasional maupun internasional.
+
 Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan tenaga kependidikan agar mampu memberikan pelayanan prima di bidang akademik dan non akademik serta mengembangkan sarana dan prasarana yang memadai yang memenuhi standar nasional maupun internasional.
 
-
-
 ### 1.2.4 Sasaran FTIS
-  Sasaran FTIS adalah sebagai berikut :
-  
-  - Tercapainya sistem pengelolaan  yang profesional dan berkualitas.
-  - Mencapai efektivitas dan efisiensi pemanfaatan sarana, prasarana dan dana untuk menjamin keberlanjutan dan keunggulan.
-  - Menghasilkan lulusan yang unggul dan berdaya saing yang tinggi.
-  - Tercapainya kerja sama berkelanjutan dengan berbagai lembaga akademik dan non akademik.
-  
+
+Sasaran FTIS adalah sebagai berikut:  
+- Tercapainya sistem pengelolaan  yang profesional dan berkualitas.
+- Mencapai efektivitas dan efisiensi pemanfaatan sarana, prasarana dan dana untuk menjamin keberlanjutan dan keunggulan.
+- Menghasilkan lulusan yang unggul dan berdaya saing yang tinggi.
+- Tercapainya kerja sama berkelanjutan dengan berbagai lembaga akademik dan non akademik.
 
 ## 1.3 Keberhasilan FTIS
-  Dalam kurun waktu 21 tahun sejak didirikan, FTIS telah menghasilkan 1.097 lulusan sampai dengan 26 Februari 2014. Sebagian dari lulusan tersebut, terutama dari prodi Teknik Informatika, membawa pula sertifikasi internasional di bidang sistem teknologi jaringan melalui program kerjasama Cisco-UNPAR. Sebagian dari mereka melanjutkan studi di perguruan tinggi dalam dan luar negeri dan beberapa berhasil mendapatkan beasiswa penuh selama studi melalui AUSAID, University of Twente, Ditjen Dikti, DEPKOMINFO, BPPS dan Asosiasi Perguruan Tinggi Katolik (APTIK). Sebagian dari mereka berkarya di bidang perbankan, industri, BUMN, dan lain-lain.
 
-  Saat ini FTIS dikelola oleh 41 dosen, 13 di antaranya telah bergelar Doktor atau PhD dan 26 dosen telah berijasah S-2. Saat ini 3 orang dosen sedang studi S-3 di luar negeri, 4 orang dosen sedang studi S-3 di dalam negeri, 1 orang dosen studi S-2 di dalam negeri dan 1 orang studi S-2 di luar negeri.
+Dalam kurun waktu 21 tahun sejak didirikan, FTIS telah menghasilkan 1.097 lulusan sampai dengan 26 Februari 2014. Sebagian dari lulusan tersebut, terutama dari prodi Teknik Informatika, membawa pula sertifikasi internasional di bidang sistem teknologi jaringan melalui program kerjasama Cisco-UNPAR. Sebagian dari mereka melanjutkan studi di perguruan tinggi dalam dan luar negeri dan beberapa berhasil mendapatkan beasiswa penuh selama studi melalui AUSAID, University of Twente, Ditjen Dikti, DEPKOMINFO, BPPS dan Asosiasi Perguruan Tinggi Katolik (APTIK). Sebagian dari mereka berkarya di bidang perbankan, industri, BUMN, dan lain-lain.
 
-  Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemrograman tingkat internasional yang diselenggarakan oleh organisasi ACM (*Association of Computing Machinery*), kompetisi jaringan komputer CISCO NetRiders, mengikuti kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan sebagainya. 
+Saat ini FTIS dikelola oleh 41 dosen, 13 di antaranya telah bergelar Doktor atau PhD dan 26 dosen telah berijasah S-2. Saat ini 3 orang dosen sedang studi S-3 di luar negeri, 4 orang dosen sedang studi S-3 di dalam negeri, 1 orang dosen studi S-2 di dalam negeri dan 1 orang studi S-2 di luar negeri.
+
+Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemrograman tingkat internasional yang diselenggarakan oleh organisasi ACM (*Association of Computing Machinery*), kompetisi jaringan komputer CISCO NetRiders, mengikuti kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan sebagainya. 
 
 ## 1.4 Pengelolah Fakultas  
  **1. Senat FTIS**  
@@ -170,6 +167,7 @@ Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan ten
  - **Staf Keuangan & Kepegawaian** : Filifo Zebua, Dwina Irlistriarti, Dra.
 
 ## 1.5 Daftar Dosen FTIS  
+
 Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan website. 
 
 **1.  Guru Besar**  
@@ -216,7 +214,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
     
 **3. Lektor**  
 
- * **Cecilia Esti Nugraheni**, ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians  		Universitaet – Germany):  
+ * **Cecilia Esti Nugraheni**, ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians Universitaet – Germany):  
  Matematika Diskret, Jaringan Syaraf Tiruan.  
         Email: cheni@unpar.ac.id  
  * **Erwinna Chendra**, SSi(UNPAR), MSi(ITB), Studi S-3 Matematika di ITB  
