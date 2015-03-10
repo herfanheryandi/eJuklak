@@ -70,53 +70,70 @@ Mata kuliah layanan adalah mata kuliah yang dibina oleh prodi yang ada di FTIS u
 | APS 189 | Praktikum Fisika Dasar | 1   | Teknik Industri     |
 | FFT 113 | Kosmologi              | 2   | Filsafat            |
 
+### 2.3.3 KULIAH LAYANAN PROGRAM STUDI TEKNIK INFORMATIKA
+
+| Kode   | Mata Kuliah          | SKS | Prodi yang dilayani |
+|--------|----------------------|-----|---------------------|
+| AKS144 | Pemrograman Komputer | 3   | Matematika          |
+
 ## 2.4 Mata Kuliah Umum
 
 Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi. 
 
 ### 2.4.1 Susunan Mata kuliah Umum
 
-| Kode   | Mata Kuliah                 | SKS |  Prodi yang dilayani |
-|--------|-----------------------------|-----|----------------------|
-| MKU001 | Pendidikan Pancasila      | 4   | Teknik Informatika   |
-| MKU002 | Pendidikan Kewarganegaraan | 3   |  Teknik Informatika  |
-| MKU003 | Agama Katolik         | 4   | Fisika               |
-| MKU004 | Fenomenologi Agama         | 4   | Fisika               |
-| MKU008 | Etika                  | 2   | Teknik Industri      |
+| Kode   | Mata Kuliah                | SKS |
+|--------|----------------------------|-----|
+| MKU001 | Pendidikan Pancasila       | 2   |
+| MKU002 | Pendidikan Kewarganegaraan | 2   |
+| MKU003 | Agama Katolik              | 2   |
+| MKU004 | Fenomenologi Agama         | 2   |
+| MKU008 | Etika                      | 2   |
+| MKU009 | Bahasa Indonesia           | 2   |
+| MKU010 | Bahasa Inggris             | 2   |
+| MKU011 | Estetika                   | 2   |
+| MKU012 | Logika                     | 2   |
 
-| Kode   | Mata Kuliah                 | SKS |
-|--------|-----------------------------|-----|
-| MKU009 | Bahasa Indonesia     | 2   |
-| MKU010 | Bahasa Inggris | 2   |
-| MKU011 | Estetika         | 2   |
-| MKU012 | Logika        | 2   |
-|  | |  | |
+### 2.4.2 Uraian Singkat Mata Kuliah Umum  
 
-### 2.4.2 Uraian Singkat Mata Kuliah Umum
+**1. PENDIDIKAN PANCASILA / _PANCASILA EDUCATION_**
+ - **Kode Mata Kuliah**: MKU001
+ - **Deskripsi Mata Kuliah**: Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian (*character building*) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila.  
 
-| NAMA MK   	|NAMA MATA KULIAH                		|
-|---------------|-----------------------------------------------|
-| PRASYARAT   	|DESPRKIPSI MATA KULIAH           		|
-|MKU001 	|PENDIDIKAN PANCASILA/*PANCASILA EDUCATION*	| 
-|		|Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian (character building) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila.		| 
-| MKU002	 |PENDIDIKAN KEWARGANEGARAAN/*CIVIC*	        | 	
-|		 |Pendidikan Kewarganegaraan menjelaskan pentingnya pemahaman tentang identitas nasional Indonesia, hak dan kewajiban warga negara Indonesia serta hubungannya dengan hak dan kewajiban asasi manusia. Materi kuliah mencakup juga wawasan nusantara, ketahanan nasional, politik dan strategi nasional, serta implementasinya dalam kehidupan bermasyarakat, berbangsa dan bernegara kesatuan Republik Indonesia.       | 
-| MKU003	 |AGAMA KATOLIK/*CATHOLIC RELIGION* 		| 	
-| 		 |Mata kuliah ini membentuk karakteristik mahasiswa sebagai manusia yang memiliki religiusitas melalui pendalaman akan makna agama dan beragama, mendeteksi dinamika Wahyu Tuhan dan iman mereka, memahami relasi dengan Tuhan dan sesama, mengenal makna keselamatan dalam konteks Kerajaan Allah, dan mampu menyatakan ajaran Gereja dalam pelayanan terhadap orang miskin dan terlantar.          	| 
-| MKU004	 |FENOMENOLOGI AGAMA/*PHENOMENOLOGY OF RELIGION*    | 	
-|		 |Fenomenologi Agama merupakan bagian yang tak terpisahkan dari kajian filosofis, kritis, rasional, dan obyektif mengenai substansi ajaran agama. Fenomenologi merupakan sebuah disiplin ilmu yang secara kritis-rasional mengkaji fenomena dan dinamika kehidupan manusia beragama, dari upaya menjadikan Tuhan sebagai tujuan sesembahan sampai menempatkan Tuhan sebagai instrumen legitimasi untuk melakukan tindakan yang justru bertolak belakang dengan kehendak Tuhan yang disembah. Sehubungan dengan itu, kritik konstruktif terhadap perilaku manusia beragama menjadi salah satu poin utama dalam mata kuliah ini. Kesediaan untuk melakukan otoritik terhadap agama sendiri erat terkait dengan upaya menemukan kembali nilai sejati agama atau otentisitas hidup beragama.      | 
-| MKU008 	 |ETIKA/*ETHIC*	        			|	
-| 		 |Mendalami perilaku sehari-hari yang baik dalam bermasyarakat.                | 
-| MKU009	 |BAHASA INDONESIA/*INDONESIAN*         	| 	
-|		 |Tujuan dari mata kuliah ini adalah untuk mendalami keterampilan berbahasa Indonesia, agar mampu mengkomunikasikan hasil pemikiran serta meningkatkan keterampilan dalam menyusun karya ilmiah. Mata kuliah Bahasa Indonesia ini dimulai dengan mempelajari penulisan kata baku dan non baku serta pengungkapan pikiran dengan pungtuasi yang benar. Selanjutnya dipelajari penyusunan kalimat yang baku serta menghubungkan kalimat-kalimat yang padu dalam menuangkan gagasan dalam sebuah paragraf. Selain itu, dalam mata kuliah ini dipelajari cara menyusun surat dinas yang jelas dan komunikatif. Di akhir kuliah ini, mahasiswa diberi tugas penyusunan makalah dengan benar.                | 
-| MKU010	 |BAHASA INGGRIS/*ENGLISH*              	|	
-|		 |Mata kuliah ini difokuskan pada pemahaman sumber referensi dalam Bahasa Inggris dan pengembangan kosakata Bahasa Inggris (vocabularies). Hampir keseluruhan waktu perkuliahan didedikasikan untuk menjelaskan metode mengekstraksi isi bacaan secara tepat dan melatih mahasiswa untuk menerapkan metode tersebut seraya menambah kosakata-kosakata baru. Mahasiswa juga dilatih untuk mempresentasikan hasil pemahamannya akan isi bahan bacaan. |
-|MKU011		 |ESTETIKA/*ESTHETICS*				|
-|		 |Mata kuliah estetika memberi pemahaman konseptual filosofis “seni” dalam khasanah keilmuan, pembentukan kesadaran ekologis juga dalam proses pembudayaan dan peradaban. Mata kuliah ini akan menjadi fondasi bagi mahasiswa untuk memahami dan mempraktekkan seni dari sudut pandang filsafat, sejarah, kultural, dan global. Melalui mata kuliah ini, mahasiswa mempelajari mengenai dunia manusia (manusia dan pikirannya), pluralitas dan relativitas seni, serta aliran-aliran seni rupa Barat.|	
-|MKU012		|LOGIKA/*LOGICS*					|
-|		|Perkuliahan logika ditujukan untuk memberikan dasar-dasar ketrampilan berpikir rasional dan sistematik. Isinya mencakup ketrampilan berpikir deduktif dan induktif, seperti silogisme, argumen analogikal dan generalisasi induktif. Pembahasan teoretis disertai pula dengan pelatihan praktis yang diarahkan pada proses berpikir. Untuk menajamkan kemampuan berpikir tersebut, mahasiswa dilatih pula mengidentifikasi kerancuan-kerancuan (fallacies) yang sering dijumpai baik dalam kehidupan sehari-hari maupun dalam konteks akademik.|
+**2. PENDIDIKAN KEWARGANEGARAAN / _CIVICS_**
+ - **Kode Mata Kuliah**: MKU002
+ - **Deskripsi Mata Kuliah**: Pendidikan Kewarganegaraan menjelaskan pentingnya pemahaman tentang identitas nasional Indonesia, hak dan kewajiban warga negara Indonesia serta hubungannya dengan hak dan kewajiban asasi manusia. Materi kuliah mencakup juga wawasan nusantara, ketahanan nasional, politik dan strategi nasional, serta implementasinya dalam kehidupan bermasyarakat, berbangsa dan bernegara kesatuan Republik Indonesia.
+ 
+**3. AGAMA KATOLIK / _CATHOLIC RELIGION_**
+ - **Kode Mata Kuliah**: MKU003
+ - **Deskripsi Mata Kuliah**: Mata kuliah ini membentuk karakteristik mahasiswa sebagai manusia yang memiliki religiusitas melalui pendalaman akan makna agama dan beragama, mendeteksi dinamika Wahyu Tuhan dan iman mereka, memahami relasi dengan Tuhan dan sesama, mengenal makna keselamatan dalam konteks Kerajaan Allah, dan mampu menyatakan ajaran Gereja dalam pelayanan terhadap orang miskin dan terlantar.
 
-Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
+**4. FENOMENOLOGI AGAMA / _PHENOMENOLOGY OF RELIGION_**
+ - **Kode Mata Kuliah**: MKU004
+ - **Deskripsi Mata Kuliah**: Fenomenologi Agama merupakan bagian yang tak terpisahkan dari kajian filosofis, kritis, rasional, dan obyektif mengenai substansi ajaran agama. Fenomenologi merupakan sebuah disiplin ilmu yang secara kritis-rasional mengkaji fenomena dan dinamika kehidupan manusia beragama, dari upaya menjadikan Tuhan sebagai tujuan sesembahan sampai menempatkan Tuhan sebagai instrumen legitimasi untuk melakukan tindakan yang justru bertolak belakang dengan kehendak Tuhan yang disembah. Sehubungan dengan itu, kritik konstruktif terhadap perilaku manusia beragama menjadi salah satu poin utama dalam mata kuliah ini. Kesediaan untuk melakukan otoritik terhadap agama sendiri erat terkait dengan upaya menemukan kembali nilai sejati agama atau otentisitas hidup beragama.
+
+**5. ETIKA / _ETHICS_**
+ - **Kode Mata Kuliah**: MKU008
+ - **Deskripsi Mata Kuliah**: Fenomenologi Agama merupakan bagian yang tak terpisahkan dari kajian filosofis, kritis, rasional, dan obyektif mengenai substansi ajaran agama. Fenomenologi merupakan sebuah disiplin ilmu yang secara kritis-rasional mengkaji fenomena dan dinamika kehidupan manusia beragama, dari upaya menjadikan Tuhan sebagai tujuan sesembahan sampai menempatkan Tuhan sebagai instrumen legitimasi untuk melakukan tindakan yang justru bertolak belakang dengan kehendak Tuhan yang disembah. Sehubungan dengan itu, kritik konstruktif terhadap perilaku manusia beragama menjadi salah satu poin utama dalam mata kuliah ini. Kesediaan untuk melakukan otoritik terhadap agama sendiri erat terkait dengan upaya menemukan kembali nilai sejati agama atau otentisitas hidup beragama.
+
+**6. BAHASA INDONESIA / _INDONESIAN_**
+ - **Kode Mata Kuliah**: MKU009
+ - **Deskripsi Mata Kuliah**: Tujuan dari mata kuliah ini adalah untuk mendalami keterampilan berbahasa Indonesia, agar mampu mengkomunikasikan hasil pemikiran serta meningkatkan keterampilan dalam menyusun karya ilmiah. Mata kuliah Bahasa Indonesia ini dimulai dengan mempelajari penulisan kata baku dan non baku serta pengungkapan pikiran dengan pungtuasi yang benar. Selanjutnya dipelajari penyusunan kalimat yang baku serta menghubungkan kalimat-kalimat yang padu dalam menuangkan gagasan dalam sebuah paragraf. Selain itu, dalam matakuliah ini dipelajari cara menyusun surat dinas yang jelas dan komunikatif. Di akhir kuliah ini, mahasiswa diberi tugas penyusunan makalah dengan benar.
+
+**7. BAHASA INGGRIS / _ENGLISH_**  
+ - **Kode Mata Kuliah**: MKU010
+ - **Deskripsi Mata Kuliah**: Mata kuliah ini difokuskan pada pemahaman sumber referensi dalam Bahasa Inggris dan pengembangan kosakata Bahasa Inggris (*vocabularies*). Hampir keseluruhan waktu perkuliahan didedikasikan untuk menjelaskan metode mengekstraksi isi bacaan secara tepat dan melatih mahasiswa untuk menerapkan metode tersebut seraya menambah kosakata-kosakata baru. Mahasiswa juga dilatih untuk mempresentasikan hasil pemahamannya akan isi bahan bacaan.
+
+**8. ESTETIKA / _ESTHETICS_**
+ - **Kode Mata Kuliah**: MKU011
+ - **Deskripsi Mata Kuliah**: Mata kuliah estetika memberi pemahaman konseptual filosofis “seni” dalam khasanah keilmuan, pembentukan kesadaran ekologis juga dalam proses pembudayaan dan peradaban. Mata kuliah ini akan menjadi fondasi bagi mahasiswa untuk memahami dan mempraktekkan seni dari sudut pandang filsafat, sejarah, kultural, dan global. Melalui mata kuliah ini, mahasiswa mempelajari mengenai dunia manusia (manusia dan pikirannya), pluralitas dan relativitas seni, serta aliran-aliran seni rupa Barat.
+
+**9. LOGIKA / _LOGICS_**
+ - **Kode Mata Kuliah**: MKU012
+ - **Deskripsi Mata Kuliah**: Perkuliahan logika ditujukan untuk memberikan dasar-dasar ketrampilan berpikir rasional dan sistematik. Isinya mencakup ketrampilan berpikir deduktif dan induktif, seperti silogisme, argumen analogikal dan generalisasi induktif. Pembahasan teoretis disertai pula dengan pelatihan praktis yang diarahkan pada proses berpikir. Untuk menajamkan kemampuan berpikir tersebut, mahasiswa dilatih pula mengidentifikasi kerancuan-kerancuan (*fallacies*) yang sering dijumpai baik dalam kehidupan sehari-hari maupun dalam konteks akademik.
+
+
+**Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama**
 
 ## 2.5 Kurikulum Program Studi Matematika
 
