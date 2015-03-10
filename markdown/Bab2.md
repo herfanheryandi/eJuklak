@@ -125,7 +125,7 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 
 ### 2.5.1 Susunan Mata kuliah  
 
-- Semester 1
+**Semester 1**
 
 | KODE   | NAMA                         | APR   | SKS |
 |--------|------------------------------|-------|-----|
@@ -137,7 +137,7 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 | MKU010 | Bahasa Inggris               |       | 2   |
 |        |                              | TOTAL | 19  |  
 
-- Semester 2
+**Semester 2**
 
 | KODE   | NAMA                 | APR   | SKS |
 |--------|----------------------|-------|-----|
@@ -150,7 +150,7 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 | MKU004 | Fenomologi Agama +   |       | 2   |
 |        |                      | TOTAL | 19  |  
 
-- Semester 3
+**Semester 3**
 
 | KODE   | NAMA                 | APR   | SKS |
 |--------|----------------------|-------|-----|
@@ -162,7 +162,7 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 | MKU008 | Etika                | R     | 2   |
 |        |                      | TOTAL | 18  |  
 
-- Semester 4
+**Semester 4**
 
 | KODE    | NAMA                        | APR   | SKS |
 |---------|-----------------------------|-------|-----|
@@ -173,7 +173,7 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 | AMS 273 | Komputasi Matematika        |       | 2   |
 |         |                             | TOTAL | 18  |  
 
-- Semester 5
+**Semester 5**
 
 | KODE   | NAMA                       | APR   | SKS |
 |--------|----------------------------|-------|-----|
@@ -184,7 +184,7 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 | ABCXYZ | Pilihan                    |       | 6   |
 |        |                            | TOTAL | 19  |  
 
-- Semester 6
+**Semester 6**
 
 | KODE   | NAMA             | APR   | SKS |
 |--------|------------------|-------|-----|
@@ -193,7 +193,7 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 | ABCXYZ | Pilihan          |       | 12  |
 |        |                  | TOTAL | 18  |  
 
-- Semester 7
+**Semester 7**
 
 | KODE   | NAMA                 | APR   | SKS |
 |--------|----------------------|-------|-----|
@@ -203,7 +203,7 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 | ABCXYZ | Pilihan              |       | 9   |
 |        |                      | TOTAL | 18  |  
 
-- Semester 8
+**Semester 8**
 
 | KODE   | NAMA    | APR   | SKS |
 |--------|---------|-------|-----|
@@ -360,7 +360,7 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 ## 2.6 Kurikulum Program Studi Fisika
 ### 2.6.1 Susunan Mata Kuliah  
 
-- Semester 1
+**Semester 1**
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
@@ -373,7 +373,7 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |MKU011	|Estetika			|	|2	|
 |	|				|TOTAL	|19	|
 
-- Semester 2
+**Semester 2**
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
@@ -385,7 +385,7 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |MKU012	|Logika				|	|2	|
 |	|				|TOTAL	|18	|
 
-- Semester 3
+**Semester 3**
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
@@ -397,7 +397,7 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |MKU003/MKU004|Agama Katolik/Fenomenologi Agama	|	|2	|
 |	|				|TOTAL	|18	|
 
-- Semester 4
+**Semester 4**
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
@@ -409,7 +409,7 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |MKU010	|Bahasa Inggris			|	|2	|
 |	|				|TOTAL	|18	|
 
-- Semester 5
+**Semester 5**
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
@@ -421,7 +421,7 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |	|Mata Kuliah Pilihan		|	|3	|
 |	|				|TOTAL	|18	|
 
-- Semester 6
+**Semester 6**
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
@@ -434,7 +434,7 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |	|Mata Kuliah Pilihan		|	|3	|				
 |	|				|TOTAL	|18	|
 
-- Semester 7
+**Semester 7**
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
@@ -444,7 +444,7 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |	|Mata Kuliah Pilihan		|	|9	|
 |	|				|TOTAL	|17	|
 
-- Semester 8
+**Semester 8**
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
@@ -645,7 +645,7 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 
 ### 2.7.1 Sususan mata kuliah  
 
-- Semester 1
+**Semester 1**
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
@@ -657,7 +657,7 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 |MKU010	|Bahasa Inggris			|	|2	|
 |	|				|TOTAL	|18	|
 
-- Semester 2
+**Semester 2**
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
@@ -669,7 +669,7 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 |MKU011	|Estetika			|	|2	|
 |	|				|TOTAL	|18	|
 
-- Semester 3
+**Semester 3**
 
 |KODE	|NAMA					|APR	|SKS	|
 |-------|---------------------------------------|-------|-------|
@@ -681,7 +681,7 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 |MKU012	|Logika					|	|2	|
 |	|					|TOTAL	|18	|
 
-- Semester 4
+**Semester 4**
 
 |KODE	|NAMA					|APR	|SKS	|
 |-------|---------------------------------------|-------|-------|
@@ -692,7 +692,7 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 |AIF210	|Interaksi Manusia Komputer		|P	|3	|
 |	|					|TOTAL	|18	|
 
-- Semester 5
+**Semester 5**
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
@@ -707,7 +707,7 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 |MKU002	|Kewarganegaraan		|	|2	|
 |	|				|TOTAL	|18	|
 
-- Semester 6
+**Semester 6**
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
@@ -721,7 +721,7 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 |AIFXXX	|MK Pilihan			|	|6	|
 |	|				|TOTAL	|18	|
 
-- Semester 7
+**Semester 7**
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
@@ -731,7 +731,7 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 |AIFXXX	|MK Pilihan			|	|12	|
 |	|				|TOTAL	|18	|
 
-- Semester 8
+**Semester 8**
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
