@@ -1,0 +1,3974 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">
+  code{
+  white-space: pre;
+  }
+  
+table {
+   border-collapse: collapse;
+}
+
+th {
+    background-color: #297ACC;
+    color: white;
+}
+
+td, th {
+    padding: 5px;
+}
+
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%;
+  margin: 15px 10px 10px 10px;
+}
+
+.deskripsi-gambar
+{
+	text-align:center;
+}
+  </style>
+</head>
+<body>
+
+<p><strong>PETUNJUK PELAKSANAAN KEGIATAN AKADEMIK TAHUN 2014/2015</strong></p>
+<div class="figure">
+<img src="images/unpar.png" title="Logo UNPAR" alt="alt text" />
+
+</div>
+<p><strong>FAKULTAS TEKNOLOGI INFORMASI DAN SAINS (FTIS) UNIVERSITAS KATOLIK PARAHYANGAN</strong><br /><strong>Jl. Ciumbuleuit 94 Bandung 40141</strong></p>
+<p>Tlp. +62-22-204-1964 Ext. 707<br />Faks. +62-22-204-2141<br />ftis@unpar.ac.id<br /><a href="http://www.unpar.ac.id" class="uri">http://www.unpar.ac.id</a></p>
+<p><strong>Tim Penyusun</strong></p>
+<ul>
+<li>Cecilia Esti Nugraheni</li>
+<li>Livia Owen</li>
+<li>Farica Edgina Yosafat</li>
+<li>Luciana Abednego</li>
+<li>Pranyoto Teguh Imanto</li>
+<li>Thomas Anung Basuki</li>
+</ul>
+<h1 id="kata-pengantar-dekan-fakultas-teknologi-informasi-dan-sains-unpar">KATA PENGANTAR DEKAN FAKULTAS TEKNOLOGI INFORMASI DAN SAINS UNPAR</h1>
+<p>Sejak berdirinya Fakultas Teknologi Informasi dan Sains (d/h Fakultas Matematika dan Ilmu Pengetahuan Alam) - Universitas Katolik Parahyangan pada tahun 1993, Fakultas berupaya untuk meningkatkan kualitas pelaksanaan Tridharma Perguruan Tinggi (Pengajaran – Penelitian – Pengabdian Kepada Masyarakat) secara bertahap dan berkesinambungan sesuai dengan visi dan misi yang diembannya. Pada tahun 2007, Universitas Katolik Parahyangan berkomitmen untuk melaksanakan penjaminan mutu internal sesuai dengan ketentuan Peraturan Pemerintah Republik Indonesia Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan. Untuk menjamin bahwa standar-standar yang telah ditetapkan dalam Sistem Penjaminan Mutu Internal Universitas Katolik Parahyangan dapat terlaksana dengan baik, Fakultas menerbitkan Buku Petunjuk Pelaksanaan Kegiatan Akademik Fakultas Teknologi Informasi dan Sains Tahun Akademik 2013 – 2014 sebagai pedoman bagi seluruh civitas academica Fakultas dalam melaksanakan kegiatan akademik.</p>
+<p>Berdasarkan pengalaman dalam pengelolaan Fakultas, didapati sejumlah kasus kegagalan dalam pelaksanaan kegiatan akademik dan administrasi yang disebabkan karena ketidaktahuan civitas academica pada sejumlah ketentuan akademik dan administratif yang berlaku. Oleh karena itu, setiap anggota civitas academica Fakultas diharapkan mempelajari dan memahami dengan seksama setiap ketentuan yang tertuang dalam buku petunjuk pelaksanaan kegiatan akademik tersebut. Penerbitan buku petunjuk versi terbaru akan dilakukan secara rutin pada setiap awal tahun akademik, sehingga civitas academica di lingkungan Fakultas memperoleh informasi terkini tentang tatacara pelaksanaan kegiatan akademik yang berlaku di lingkungan Fakultas. Dengan demikian, diharapkan civitas academica Fakultas selalu mengacu pada informasi-informasi yang tercantum dalam buku petunjuk terkini dalam melaksanakan kegiatan akademik. Apabila dalam pelaksanaan kegiatan akademik ditemukan hal-hal yang kurang jelas dalam buku petunjuk tersebut, maka civitas academica dapat menghubungi para pimpinan di lingkungan Fakultas untuk memperoleh penjelasan. Beberapa hal yang belum tercantum dalam buku petunjuk ini akan disampaikan melalui papan pengumuman serta media komunikasi lainnya, dan akan diakomodasi dalam buku petunjuk pelaksanaan kegiatan akademik tahun akademik berikutnya.</p>
+<p>Semoga buku petunjuk ini dapat membantu kelancaran pelaksanaan kegiatan akademik, yang selanjutnya akan berdampak pada peningkatan kualitas pembelajaran yang berkesinambungan. Setiap kritik dan saran berkaitan dengan penyempurnaan buku ini sangat kami harapkan dan hargai. Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilkan.</p>
+<p><strong>Bandung</strong>,<br /><strong>Dekan</strong>,</p>
+<p><strong>Paulus Cahyono Tjiang, Ph.D.</strong></p>
+<h1 id="bab-1-pendahuluan">BAB 1 PENDAHULUAN</h1>
+<h2 id="sejarah-fakultas-teknologi-dan-sains">1.1 Sejarah Fakultas Teknologi dan Sains</h2>
+<p>Fakultas Teknologi Informasi dan Sains (FTIS) Universitas Katolik Parahyangan (UNPAR) berawal dari Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA). Pendirian FMIPA telah dikukuhkan dengan terbitnya Surat Keputusan Menteri Pendidikan dan Kebudayaan Republik Indonesia nomor 34/D/O/1993 tanggal 20 April 1993, yang langsung menetapkan status akreditasi &quot;terdaftar&quot; bagi dua program studi FMIPA, yaitu program studi Matematika dan Fisika. Dengan terbitnya Keputusan Direktur Jenderal Pendidikan Tinggi Departemen Pendidikan dan Kebudayaan Republik Indonesia nomor: 420/DIKTI/Kep/1996 tanggal 8 Agustus 1996, ditetapkan status &quot;terdaftar&quot; pula untuk program studi Ilmu Komputer.</p>
+<p>Perubahan nama FMIPA menjadi Fakultas Teknologi Informasi dan Sains (FTIS) terjadi karena adanya perubahan nama program studi Ilmu Komputer. Berdasarkan surat Direktur Jenderal Pendidikan Tinggi Departemen Pendidikan Nasional Nomor 4382/D/T/2008 tertanggal 10 Desember 2008 perihal Ralat Perpanjangan Ijin Penyelenggaraan Program Studi pada Universitas Katolik Parahyangan, dari tertulis : jurusan/program studi Ilmu Komputer diharuskan untuk berubah menjadi jurusan/program studi Teknik Informatika. Adanya perubahan nama ini membuat nama FMIPA sebagai naungan bagi Program Studi Teknik Informatika menjadi tidak selaras lagi. Perubahan nama FMIPA menjadi FTIS ini berdasarkan Keputusan Pengurus Yayasan Universitas Katolik Parahyangan Nomor : II/2009-04/05-SK tanggal 1 April 2009.</p>
+<p>Ketiga program studi tersebut saat ini telah memperoleh status akreditasi dari Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) dengan rincian sebagai berikut :</p>
+<ul>
+<li>Program Studi Matematika memperoleh status akreditasi dengan peringkat A (Amat baik) berdasarkan Keputusan BAN-PT Nomor029/BAN-PT/Ak-XIII/S1/XI/2010 tertanggal 3 Desember 2010 dengan masa berlaku hingga 3 Desember 2015.</li>
+<li>Program Studi Fisika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor036/BAN-PT/AK-XIII/S1/I/2011 tertanggal 7 Januari 2011 dengan masa berlaku hingga 7 Januari 2016.</li>
+<li>Program Studi Teknik Informatika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor 042/BAN-PT/Ak-XIII/S1/I/2011 tertanggal 21 Januari 2011 dengan masa berlaku hingga 21 Januari 2016</li>
+</ul>
+<p>Ketiga program studi yang sekarang berada dalam naungan FTIS ini dilaksanakan berdasarkan suatu kurikulum yang berbobot 144 sks (satuan kredit semester) dengan rincian selanjutnya akan diuraikan pada bagian berikutnya.</p>
+<h2 id="visi-misi-tujuan-dan-sasaran-ftis">1.2 Visi, Misi, Tujuan, dan Sasaran FTIS</h2>
+<p>Visi dan Misi FTIS - UNPAR mengacu pada visi dan misi UNPAR. Visi UNPAR adalah</p>
+<blockquote>
+<p>Menjadi komunitas akademik humanum yang bersemangat kasih dalam kebenaran untuk mengembangkan potensi lokal pada tataran internasional demi peningkatan martabat manusia dan keutuhan alam ciptaan.</p>
+</blockquote>
+<p>Sebagai sebuah lembaga ilmiah, misi UNPAR adalah melaksanakan</p>
+<ul>
+<li>pengembangan dan pewarisan nilai budaya secar kritis – kreatif;</li>
+<li>proses pembelajaran yang berpusat pada mahasiswa;</li>
+<li>penelitian dan penyebarluasan hasilnya melalui proses pembelajaran dan pengabdian kepada masyarakat; dan</li>
+<li>pengabdian kepada masyarakat,</li>
+</ul>
+<p>sesuai dengan sesanti <em>Bakuning Hyang Mrih Guna Santyaya Bhakti</em>, yang berarti Berdasarkan Ketuhanan Menuntut Ilmu untuk Dibaktikan kepada Masyarakat. Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS UNPAR.</p>
+<h3 id="visi-ftis">1.2.1 Visi FTIS</h3>
+<p>Visi FTIS 2020 adalah sebagai berikut:</p>
+<blockquote>
+<p>Menjadikan FTIS UNPAR sebagai suatu komunitas akademik beriman yang dapat mengembangkan bidang-bidang teknologi informasi dan sains dengan mengangkat potensi lokal pada tataran internasional untuk peningkatan martabat manusia.</p>
+</blockquote>
+<p>FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu masyarakat yang secara cerdas dan kritis senantiasa mencari, menjunjung tinggi, dan menyebarluaskan kebenaran. Hal ini merupakan perwujudan dari keyakinan kepada Tuhan Yang Maha Esa, sesuai dengan sesanti UNPAR <em>Bakuning Hyang Mrih Guna Santyaya Bhakti</em>.</p>
+<p>Menjelang tahun 2020, FTIS UNPAR akan lebih memberikan perhatian kepada potensi lokal, yaitu kekuatan, keunggulan, keunikan asli (<em>indigenous</em>) yang terkandung di bumi Indonesia, khususnya di wilayah Jawa Barat. Ini berarti bahwa proses pendidikan, penelitian, dan pengabdian kepada masyarakat harus memberi perhatian pada masalah-masalah yang secara nyata dihadapi oleh masyarakat dan bangsa Indonesia, khususnya di wilayah Jawa Barat. Dengan mengacu kepada bidang-bidang keilmuan di dalam FTIS, potensi lokal tersebut harus dikembangkan secara kreatif dan kritis, sehingga mampu untuk disejajarkan dan dikompetisikan pada tataran internasional.</p>
+<p>Sebagai Universitas Katolik, UNPAR menaruh perhatian utama pada peningkatan martabat manusia. Kegiatan pendidikan yang ditujukan untuk menyiapkan generasi muda sebagai calon pemimpin masa depan dimaskudkan agara mereka berkembang menjadi manusia yang utuh yang memiliki keseimbangan antara rasio, rasa, raga, dan rukun. Untuk itu, proses pendidikan yang berlangsung di UNPAR dan di dalam FTIS harus mampu memberikan pengalaman belajar kepada para mahasiswa, bukan hanya dalam pengembangan rasio yang dilaksanakan berdasarkan kurikulum, melainkan juga pengembangan rasa, raga, dan rukun melalui interaksi dan pergaulan hidup sehari-hari di lingkungan kampus UNPAR. Untuk mencapai keunggulan di dalam hal di atas, FTIS UNPAR harus senantiasa mengembangkan potensi lokal ke tataran internasional. Oleh karena itu, pembangunan suasana akademik yang kondusif merupakan bagian yang sangat penting dalam pembentukan manusia yang bermartabat dan pengembangan potensi lokal tersebut.</p>
+<h3 id="misi-ftis">1.2.2 Misi FTIS</h3>
+<p>Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:</p>
+<ol style="list-style-type: decimal">
+<li>Menyelenggarakan program akademik jenjang sarjana dengan memperhatikan visi FTIS untuk menghasilkan lulusan yang:<br /></li>
+</ol>
+<ul>
+<li>Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.</li>
+<li>Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.</li>
+</ul>
+<ol start="2" style="list-style-type: decimal">
+<li>Menghasilkan penelitian di bidang teknologi informasi dan sains yang dapat meningkatkan martabat manusia secara langsung ataupun tidak langsung, serta memanfaatkan hasil penelitian untuk pengembangan proses pembelajaran dan pengabdian kepada masyarakat.</li>
+<li>Menjalin kerja sama dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan keterkaitan proses pembelajaran, penelitian dan pengabdian kepada masyarakat.</li>
+</ol>
+<h3 id="tujuan-ftis">1.2.3 Tujuan FTIS</h3>
+<p>Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut:</p>
+<ul>
+<li>Berbudi pekerti luhur, disiplin, jujur, cinta pada sesama dan lingkungan serta berjiwa religius dalam rangka mengamalkan Pancasila dan Undang-Undang Dasar 1945.</li>
+<li>Memiliki pengetahuan dasar Matematika, Fisika, atau Teknik Informatika, yang kokoh dan berkemampuan bernalar yang baik, logis, matematis, dan/atau fisis;</li>
+<li>Memiliki kemampuan memodelkan dan menyelesaikan permasalahan matematika, fisika, atau permasalahan di berbagai bidang (interdisiplin), dan khusus untuk sarjana Teknik Informatika mampu membangun perangkat lunak dan menyesuaikan diri terhadap perkembangan teknologi informasi;</li>
+<li>Memiliki wawasan yang luas tentang perkembangan Ilmu Matematika, Fisika, atau Teknik Informatika, dan penerapannya dan mampu bersaing di tataran nasional maupun internasional.</li>
+</ul>
+<p>Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan tenaga kependidikan agar mampu memberikan pelayanan prima di bidang akademik dan non akademik serta mengembangkan sarana dan prasarana yang memadai yang memenuhi standar nasional maupun internasional.</p>
+<h3 id="sasaran-ftis">1.2.4 Sasaran FTIS</h3>
+<p>Sasaran FTIS adalah sebagai berikut:</p>
+<ul>
+<li>Tercapainya sistem pengelolaan yang profesional dan berkualitas.</li>
+<li>Mencapai efektivitas dan efisiensi pemanfaatan sarana, prasarana dan dana untuk menjamin keberlanjutan dan keunggulan.</li>
+<li>Menghasilkan lulusan yang unggul dan berdaya saing yang tinggi.</li>
+<li>Tercapainya kerja sama berkelanjutan dengan berbagai lembaga akademik dan non akademik.</li>
+</ul>
+<h2 id="keberhasilan-ftis">1.3 Keberhasilan FTIS</h2>
+<p>Dalam kurun waktu 21 tahun sejak didirikan, FTIS telah menghasilkan 1.097 lulusan sampai dengan 26 Februari 2014. Sebagian dari lulusan tersebut, terutama dari prodi Teknik Informatika, membawa pula sertifikasi internasional di bidang sistem teknologi jaringan melalui program kerjasama Cisco-UNPAR. Sebagian dari mereka melanjutkan studi di perguruan tinggi dalam dan luar negeri dan beberapa berhasil mendapatkan beasiswa penuh selama studi melalui AUSAID, University of Twente, Ditjen Dikti, DEPKOMINFO, BPPS dan Asosiasi Perguruan Tinggi Katolik (APTIK). Sebagian dari mereka berkarya di bidang perbankan, industri, BUMN, dan lain-lain.</p>
+<p>Saat ini FTIS dikelola oleh 41 dosen, 13 di antaranya telah bergelar Doktor atau PhD dan 26 dosen telah berijasah S-2. Saat ini 3 orang dosen sedang studi S-3 di luar negeri, 4 orang dosen sedang studi S-3 di dalam negeri, 1 orang dosen studi S-2 di dalam negeri dan 1 orang studi S-2 di luar negeri.</p>
+<p>Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemrograman tingkat internasional yang diselenggarakan oleh organisasi ACM (<em>Association of Computing Machinery</em>), kompetisi jaringan komputer CISCO NetRiders, mengikuti kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan sebagainya.</p>
+<h2 id="pengelolah-fakultas">1.4 Pengelolah Fakultas</h2>
+<ol style="list-style-type: decimal">
+<li>Senat FTIS</li>
+</ol>
+<ul>
+<li>Ketua : Agus Sukmana,SSi,MSc<br /></li>
+<li>Sekretaris : Philips Nicolas Gunawidjaja, BSc, PhD</li>
+</ul>
+<ol start="2" style="list-style-type: decimal">
+<li>Dekanat</li>
+</ol>
+<ul>
+<li>Dekan : Paulus Cahyono Tjiang, SSi, PhD.<br /></li>
+<li>WD 1 (Akademik) : Dr. Thomas Anung Basuki<br /></li>
+<li>WD II (Keuangan dan Sumberdaya) : Maria Anestasia, SSi, MSi<br /></li>
+<li>WD III (Kemahasiswaan dan Alumni) : Dr.rer.nat. Cecilia E.Nugraheni,ST,MT</li>
+</ul>
+<ol start="3" style="list-style-type: decimal">
+<li>Program Studi Matematika<br /></li>
+</ol>
+<ul>
+<li>Ketua : Dr. Ferry Jaya Permana<br /></li>
+<li>Sekretaris : Livia Owen, SSi, MSi</li>
+</ul>
+<ol start="4" style="list-style-type: decimal">
+<li>Program Studi Fisika<br /></li>
+</ol>
+<ul>
+<li>Ketua : Philips Nicolas Gunawidjaja, BSc, PhD<br /></li>
+<li>KaLab. Fisika : Dasar Risti Suryantari, S.Si., M.Si.<br /></li>
+<li>KaLab. Elektronika &amp; Fisika Lanjut : Janto V. Sulungbudi, Drs.</li>
+</ul>
+<ol start="5" style="list-style-type: decimal">
+<li>Program Studi Teknik Informatika<br /></li>
+</ol>
+<ul>
+<li>Ketua : Dr. Thomas Anung Basuki<br /></li>
+<li>Sekretaris : Lionov, S.Kom, MSc<br /></li>
+<li>KaLab. Komputasi : Chandra Wijaya, ST, MT</li>
+</ul>
+<ol start="6" style="list-style-type: decimal">
+<li>Tata Usaha<br /></li>
+</ol>
+<ul>
+<li>Kepala : Pranyoto Teguh Imanto<br /></li>
+<li>Kasubag Akademik : Petrus Purnomo<br /></li>
+<li>Kasubag Keuangan &amp; Kepegawaian : Budi Santoso<br /></li>
+<li>Kasubag Kemahasiswaan &amp; Alumni : Fransiscus Sudarno<br /></li>
+<li>Kasubag Umum &amp; Perlengkapan : Walip, A.Md<br /></li>
+<li>Staf Akademik : Rikie Setiawan, S.AB.<br /></li>
+<li>Staf Keuangan &amp; Kepegawaian : Filifo Zebua, Dwina Irlistriarti, Dra.</li>
+</ul>
+<h2 id="daftar-dosen-ftis">1.5 Daftar Dosen FTIS</h2>
+<p>Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan <em>website</em>.</p>
+<ol style="list-style-type: decimal">
+<li>Guru Besar<br /></li>
+</ol>
+<ul>
+<li>Prof B. Suprapto Brotosiswojo, Dr. (Purdue University,USA):<br /> Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.<br /> Email: bensupra@unpar.ac.id</li>
+</ul>
+<ol start="2" style="list-style-type: decimal">
+<li>Lektor Kepala<br /></li>
+</ol>
+<ul>
+<li>Agus Sukmana, Drs. (ITB), MSc (Twente Univ. - Belanda), studi S-3 (UPI):<br /> Teori Peluang, Pengendalian Mutu, Statistika Elementer.<br /> Email: asukmana@unpar.ac.id<br /></li>
+<li>Aloysius Rusli, Dr. (Leeds University, UK):<br /> Fisika Polimer, Pengenalan Program Studi Fisika,Etika Profesi, Reologi.<br /> Email: arusli@unpar.ac.id<br /></li>
+<li>Benny Yong, SSi. (UNPAR), MSi. (ITB):<br /> Pemecahan Masalah Matematika, Teori Bilangan, Pemodelan Matematika.<br /> Email: benny_y@unpar.ac.id<br /></li>
+<li>Ferry Jaya Permana, SSi (ITB), MSi (ITB), PhD (TU Delft - Belanda):<br /> Teori Risiko, Teori Suku Bunga, Kalkulus Keuangan.<br /> Email: ferryjp@unpar.ac.id<br /></li>
+<li>Iwan Sugiarto, SSi (UNPAR), MSi (ITB):<br /> Metoda Matematika, Fungsi Kompleks, Optimasi.<br /> Email: iwans@unpar.ac.id<br /></li>
+<li>Julius Dharma Lesmono, SSi (ITB), SE (UNPAR), MT (ITB), MSc (Twente University - Belanda), Dr. (University of Queenslands - Australia):<br /> Proses Stokastik, Statistika Matematika, Kontrol Optimum.<br /> Email: jdharma@unpar.ac.id<br /></li>
+<li>Nico Saputro, ST (ITB), MT (ITB), Studi S-3 (Univ. of Illinois - USA).<br /> Email: nico@unpar.ac.id<br /></li>
+<li>Paulus Cahyono Tjiang, Drs. (ITB), PhD (Australian National University):<br /> Listrik Magnet, Elektrodinamika, Mekanika Kuantum Relativistik, Teori Medan Kuantum.<br /> Email: pctjiang@unpar.ac.id<br /></li>
+<li>Sylvia Hastuti Sutanto, SSi (ITB), PhD (Australian National University):<br /> Fisika Matematika 3 &amp; 4, Mekanika Hamiltonian, Dinamika Fluida.<br /> Email: sylvia@unpar.ac.id<br /></li>
+<li>Marcus Wono Setya Budhi, PhD (Univ. of Illinois - USA): Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar.<br /> Email: wono@math.itb.ac.id<br /></li>
+<li>Veronica Sri Moertini, ST (ITB), MT (ITB), Dr. (ITB):<br /> Basis Data, Penambangan Data, Projek Sistem Informasi.<br /> Email: moertini@unpar.ac.id</li>
+</ul>
+<ol start="3" style="list-style-type: decimal">
+<li>Lektor<br /></li>
+</ol>
+<ul>
+<li>Cecilia Esti Nugraheni, ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig - Maximilians Universitaet - Germany):<br /> Matematika Diskret, Jaringan Syaraf Tiruan.<br /> Email: cheni@unpar.ac.id<br /></li>
+<li>Erwinna Chendra, SSi(UNPAR), MSi(ITB), Studi S-3 Matematika di ITB<br /> Email: erwinna@unpar.ac.id<br /> Website: http://www.unpar.ac.id/erwinna<br /></li>
+<li>Liem Chin, SSi.(UNPAR), MSi.(ITB):<br /> Matematika Diskret, Aljabar Linear, Komputasi Statistika.<br /> Email: chin@unpar.ac.id<br /></li>
+<li>Oerip S. Santoso, dr (UI), MSc. (Univ. Wisconsin Madison.USA), Dr.(Univ. Paris VI):<br /> Struktur Diskret, Grafika Komputer, Komputer dan Masyarakat, Projek Perangkat Lunak.<br /> Email: oerip_ss@yahoo.com<br /></li>
+<li>Philips Nicolas Gunawidjaja, BSc. (University of Warwick,UK), PhD. (University of Warwick, UK):<br /> Keterampilan Fisika, Elektronika 1 &amp; 2, Struktur Materi.<br /> Email: philips@unpar.ac.id<br /></li>
+<li>Rosa de Lima E.P., SSi (ITB), MT (ITB), Studi S-3 di UPI:<br /> Sistem Informarsi, Sistem Pendukung Keputusan.<br /> Email: rosad5@unpar.ac.id<br /></li>
+<li>Farah Kristiani, SSi (UNPAR), MSi (ITB), Studi S-3 Matematika di Universiti Pendidikan Sultan Idris, Malaysia.<br /> Email: farah@unpar.ac.id</li>
+</ul>
+<ol start="4" style="list-style-type: decimal">
+<li>Asisten Ahli<br /></li>
+</ol>
+<ul>
+<li>Elisati Hulu, ST (ITB), MT (ITB), Studi S-3 di ITB.<br /> Email: elisatih@unpar.ac.id<br /></li>
+<li>Gede Karya, ST (ITB), MT (ITB):<br /> Pemrograman Aplikasi Bergerak, Analisis Proses Bisnis.<br /> Email: gkarya@unpar.ac.id</li>
+<li>Ivonne Martin, SSi (UNPAR), MSc. (TU Delft - Belanda):<br /> Studi S-3 Matematika di Leiden University, Belanda.<br /> Email: ivonne@unpar.ac.id<br /></li>
+<li>Janto Vincent Sulungbudi, SSi (ITB):<br /> Laboratorium Fisika Instrumentasi, Instrumentasi Berbasis Komputer, Pengantar Kontrol Otomatis.<br /> Email: janto@unpar.ac.id, janto.sulungbudi@gmail.com<br /></li>
+<li>Lionov, S.Kom (UNPAR), MSc. (Utrecht Univ. - Belanda):<br /> Pemrograman Berorientasi Objek, Algoritma dan Struktur Data, Koordinator Skripsi.<br /> Email: lionov@unpar.ac.id<br /></li>
+<li>Livia Owen, SSi (UNPAR), MSi (ITB):<br /> Kalkulus Vektor, Komputasi Matematika, Fisika Matematik II.<br /> Email: livia.owen@unpar.ac.id<br /></li>
+<li>Luciana Abednego, S.Kom (UNPAR), MT (ITB):<br /> Logika Informatika, Algoritma dan Struktur Data, Grafika Komputer.<br /> Email: luciana@unpar.ac.id<br /></li>
+<li>Taufik Limansyah, SSi (UNPAR), Studi S-2 Teknik Industri di UNPAR :<br /> Kalkulus 1, Kalkulus II, Fisika Matematik 1.<br /> Email: taufik.limansyah@unpar.ac.id<br /></li>
+<li>Thomas Anung Basuki, ST (ITB), MKom (UI), Dr. (University of Pisa - Italia):<br /> Pengantar Sistem Cerdas, Rekayasa Perangkat Lunak, Penulisan Ilmiah.<br /> Email: anung@unpar.ac.id<br /></li>
+<li>Maria Anestasia, SSi (ITB), MSi (ITB):<br /> Kalkulus 2, Persamaan Diferensial Biasa, Kalkulus Vektor.<br /> Email: maria.anestasia@unpar.ac.id</li>
+</ul>
+<ol start="5" style="list-style-type: decimal">
+<li>Golongan III<br /></li>
+</ol>
+<ul>
+<li>Chandra Wijaya, S.Kom (UNPAR), MT (ITB):<br /> Jaringan Komputer, Sistem Digital.<br /> Email: chandraw@unpar.ac.id<br /></li>
+<li>Elok Fidiani, SSi (UGM), MSc (TU Dresden):<br /> Fisika Dasar, Fisika Statistik, Pengantar Fisika Material, Nanoteknologi dan Lingkungan.<br /> Email: elokfidiani@unpar.ac.id, elokfidiani@gmail.com</li>
+<li>Flaviana Catherine, SSi (UNPAR), MSi (ITB):<br /> Fisika Dasar, Pengantar Fisika Nuklir, Fisika Kedokteran, Fisika Instrumentasi Medis.<br /> Email: flaviana@unpar.ac.id<br /></li>
+<li>Haryanto Mangaratua Siahaan, SSi (ITB), MSi (ITB), Studi S-3 di University of Saskatchewan.<br /> Email: haryanto.siahaan@gmail.com<br /></li>
+<li>Kian Ming, SSi (UNPAR), S-2 (ITB):<br /> Fisika Dasar, Teori Relativitas, Kosmologi Relativistik<br /> Email: kian.ming@unpar.ac.id.<br /></li>
+<li>Mariskha Tri Adithia, SSi (ITB), MSc (Universiteit Eindhoven - Belanda), PDEng (Universiteit Eindhoven - Belanda):<br /> Struktur Diskret, Kriptografi, Logika Informatika.<br /> Email: mariskha@unpar.ac.id<br /></li>
+<li>Pascal Alfadian, S.Kom (UNPAR), MCom (NUS - Singapore):<br /> Analisis dan Desain Berorientasi Objek, Pemrograman Beorientasi Objek.<br /> Email: pascal@unpar.ac.id<br /></li>
+<li>Risti Suryantari, SSi (UGM), MSc (UGM):<br /> Fisika Dasar, Fisika Modern, Gelombang, Fisika Kristal Cair.<br /> Email: ristisuryantari@unpar.ac.id.<br /></li>
+<li>Husnul Hakim, S.Kom (ITS), MT (ITB):<br /> Pemrograman Berorientasi Obyek, Algoritma dan Struktur Data.<br /> Email: husnulhakim@unpar.ac.id<br /></li>
+<li>Vania Natali, S.Kom (UNPAR), studi S2 - ITB.<br /> Email: vania.natali@unpar.ac.id</li>
+</ul>
+
+<h1 id="bab-2-penyelenggaraan-mata-kuliah">BAB 2 PENYELENGGARAAN MATA KULIAH</h1>
+<p>Secara umum mata kuliah yang diselenggarakan oleh program studi dapat dikelompokkan ke dalam dua jenis yaitu <strong>mata kuliah wajib</strong> dan <strong>mata kuliah pilihan</strong>. Mata kuliah wajib merupakan mata kuliah yang sifatnya wajib/harus ditempuh oleh setiap mahasiswa. Sebagian dari mata kuliah wajib tersebut termasuk ke dalam kelompok <strong>mata kuliah umum</strong> (MKU), yaitu mata kuliah yang terkait dengan pengembangan kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora.</p>
+<p>Mata kuliah pilihan bertujuan untuk menyiapkan mahasiswa untuk memasuki dunia kerja dan memperluas wawasan mahasiswa terhadap bidang ilmu lain sehingga memungkinkan melakukan tugas interdisiplin. Mata kuliah pilihan dapat diambil dari mata kuliah pilihan yang diselenggarakan oleh program studi (prodi) yang bersangkutan, atau mata kuliah (baik wajib maupun pilihan) yang diselenggarakan oleh prodi lain di lingkungan UNPAR. Mahasiswa mengambil mata kuliah pilihan berdasarkan persetujuan dari dosen wali.</p>
+<p>Selain mata kuliah-mata kuliah di atas, dikenal juga apa yang disebut dengan <strong>mata kuliah prasyarat</strong>. Mata kuliah prasyarat adalah mata kuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu mata kuliah tertentu.</p>
+<p>Di samping mata kuliah-mata kuliah yang ditujukan untuk program studinya sendiri, prodi-prodi juga menyelenggarakan mata kuliah yang ditujukan untuk program studi lain. Mata kuliah ini disebut dengan <strong>mata kuliah layanan</strong>.</p>
+<p>Selain tatap muka di kelas, suatu mata kuliah dapat mengandung kegiatan lain untuk mendukung perkuliahan, yaitu asistensi, responsi, atau praktikum yang biasa disingkat dengan <strong>APR</strong>.</p>
+<h2 id="mata-kuliah-pilihan">2.1 Mata Kuliah Pilihan</h2>
+<p>Mahasiswa harus menempuh sejumlah SKS tertentu mata kuliah pilihan, dengan sejumlah SKS di antaranya mata kuliah yang diselenggarakan prodinya. Jumlah SKS mata kuliah ini berbeda-beda untuk setiap prodi:</p>
+<ol style="list-style-type: decimal">
+<li>Untuk Matematika, 48 SKS dengan minimal lulus 15 SKS berasal dari salah satu bidang kajian (Rekayasa Keuangan atau Matematika Industri).</li>
+<li>Untuk Fisika, 24 SKS yang dapat diambil dari seluruh prodi di UNPAR.</li>
+<li>Untuk Teknik Informatika, 30 SKS dengan banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.</li>
+</ol>
+<p>Untuk mata kuliah pilihan, terdapat beberapa ketentuan sebagai berikut:</p>
+<ol style="list-style-type: decimal">
+<li>Bila mata kuliah tersebut memiliki prasyarat, mahasiswa dari prodi lain tidak perlu memenuhi prasyarat tersebut.</li>
+<li>Mata kuliah pilihan dan mata kuliah di prodi lain yang ekuivalen dengannya, hanya dapat diperhitungkan salah satunya.</li>
+</ol>
+<h2 id="mata-kuliah-prasyarat">2.2 Mata Kuliah Prasyarat</h2>
+<p>Mata kuliah prasyarat adalah mata kuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu mata kuliah tertentu. Berkaitan dengan hal ini, terdapat tiga kategori:</p>
+<ol style="list-style-type: decimal">
+<li>Prasyarat tempuh, artinya mata kuliah tersebut telah terdaftar dalam rencana studi mahasiswa yang bersangkutan dan bernilai akhir A, B, C, D,atau E, walaupun tentunya kelulusan akan sangat menunjang penempuhan mata kuliah berikutnya.</li>
+<li>Prasyarat lulus, artinya mahasiswa harus lulus mata kuliah prasyarat tersebut terlebih dahulu. Pada umumnya syarat kelulusan adalah nilai akhir minimum D, meskipun ada juga yang lebih tinggi. Silahkan melihat silabus mata kuliah ybs. untuk keterangan lebih lanjut.</li>
+<li>Mahasiswa di luar prodi penyelenggara mata kuliah tidak wajib memenuhi prasyarat ini.</li>
+</ol>
+<h2 id="mata-kuliah-layanan">2.3 Mata Kuliah Layanan</h2>
+<p>Mata kuliah layanan adalah mata kuliah yang dibina oleh prodi yang ada di FTIS untuk memenuhi kebutuhan mata kuliah pada prodi lain di lingkungan UNPAR.</p>
+<h3 id="kuliah-layanan-program-studi-teknik-metematika">2.3.1 KULIAH LAYANAN PROGRAM STUDI TEKNIK METEMATIKA</h3>
+<table border="2">
+<thead>
+<tr class="header">
+<th align="left">Kode</th>
+<th align="left">Mata Kuliah</th>
+<th align="left">SKS</th>
+<th align="left">Prodi yang dilayani</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AMS100</td>
+<td align="left">Matematika Informatika</td>
+<td align="left">4</td>
+<td align="left">Teknik Informatika</td>
+</tr>
+<tr class="even">
+<td align="left">AMS200</td>
+<td align="left">Probabilitas dan Statistika</td>
+<td align="left">3</td>
+<td align="left">Teknik Informatika</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS107</td>
+<td align="left">Fisika Matematika 1</td>
+<td align="left">4</td>
+<td align="left">Fisika</td>
+</tr>
+<tr class="even">
+<td align="left">AMS108</td>
+<td align="left">Fisika Matematika 2</td>
+<td align="left">4</td>
+<td align="left">Fisika</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS103</td>
+<td align="left">Kalkulus I</td>
+<td align="left">2</td>
+<td align="left">Teknik Industri</td>
+</tr>
+<tr class="even">
+<td align="left">AMS104</td>
+<td align="left">Kalkulus II</td>
+<td align="left">2</td>
+<td align="left">Teknik Industri</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS203</td>
+<td align="left">Matriks dan Ruang Vektor</td>
+<td align="left">3</td>
+<td align="left">Teknik Industri</td>
+</tr>
+<tr class="even">
+<td align="left">AMS204</td>
+<td align="left">Kalkulus Peubah Banyak</td>
+<td align="left">2</td>
+<td align="left">Teknik Industri</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS105</td>
+<td align="left">Kalkulus I</td>
+<td align="left">3</td>
+<td align="left">Teknik Kimia</td>
+</tr>
+<tr class="even">
+<td align="left">AMS106</td>
+<td align="left">Kalkulus II</td>
+<td align="left">3</td>
+<td align="left">Teknik Kimia</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS101</td>
+<td align="left">Matematika 1</td>
+<td align="left">3</td>
+<td align="left">Teknik Sipil</td>
+</tr>
+<tr class="even">
+<td align="left">AMS102</td>
+<td align="left">Matematika 2</td>
+<td align="left">3</td>
+<td align="left">Teknik Sipil</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS201</td>
+<td align="left">Matematika 3</td>
+<td align="left">3</td>
+<td align="left">Teknik Sipil</td>
+</tr>
+<tr class="even">
+<td align="left">AMS202</td>
+<td align="left">Matematika 4</td>
+<td align="left">3</td>
+<td align="left">Teknik Sipil</td>
+</tr>
+</tbody>
+</table>
+<h3 id="kuliah-layanan-program-studi-teknik-fisika">2.3.2 KULIAH LAYANAN PROGRAM STUDI TEKNIK FISIKA</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Kode</th>
+<th align="left">Mata Kuliah</th>
+<th align="left">SKS</th>
+<th align="left">Prodi yang dilayani</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">APS 181</td>
+<td align="left">Fisika Dasar</td>
+<td align="left">4</td>
+<td align="left">Matematika</td>
+</tr>
+<tr class="even">
+<td align="left">APS 182</td>
+<td align="left">Fisika Dasar</td>
+<td align="left">3</td>
+<td align="left">Teknik Sipil</td>
+</tr>
+<tr class="odd">
+<td align="left">APS 183</td>
+<td align="left">Fisika Dasar 1</td>
+<td align="left">2</td>
+<td align="left">Teknik Industri</td>
+</tr>
+<tr class="even">
+<td align="left">APS 184</td>
+<td align="left">Fisika Dasar 2</td>
+<td align="left">2</td>
+<td align="left">Teknik Industri</td>
+</tr>
+<tr class="odd">
+<td align="left">APS 185</td>
+<td align="left">Fisika Dasar 1</td>
+<td align="left">2</td>
+<td align="left">Teknik Kimia</td>
+</tr>
+<tr class="even">
+<td align="left">APS 186</td>
+<td align="left">Fisika Dasar 2</td>
+<td align="left">2</td>
+<td align="left">Teknik Kimia</td>
+</tr>
+<tr class="odd">
+<td align="left">APS 187</td>
+<td align="left">Praktikum Fisika Dasar</td>
+<td align="left">1</td>
+<td align="left">Matematika</td>
+</tr>
+<tr class="even">
+<td align="left">APS 188</td>
+<td align="left">Praktikum Fisika Dasar</td>
+<td align="left">1</td>
+<td align="left">Teknik Sipil</td>
+</tr>
+<tr class="odd">
+<td align="left">APS 189</td>
+<td align="left">Praktikum Fisika Dasar</td>
+<td align="left">1</td>
+<td align="left">Teknik Industri</td>
+</tr>
+<tr class="even">
+<td align="left">FFT 113</td>
+<td align="left">Kosmologi</td>
+<td align="left">2</td>
+<td align="left">Filsafat</td>
+</tr>
+</tbody>
+</table>
+<h3 id="kuliah-layanan-program-studi-teknik-informatika">2.3.3 KULIAH LAYANAN PROGRAM STUDI TEKNIK INFORMATIKA</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Kode</th>
+<th align="left">Mata Kuliah</th>
+<th align="left">SKS</th>
+<th align="left">Prodi yang dilayani</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AKS144</td>
+<td align="left">Pemrograman Komputer</td>
+<td align="left">3</td>
+<td align="left">Matematika</td>
+</tr>
+</tbody>
+</table>
+<h2 id="mata-kuliah-umum">2.4 Mata Kuliah Umum</h2>
+<p>Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi.</p>
+<h3 id="susunan-mata-kuliah-umum">2.4.1 Susunan Mata kuliah Umum</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Kode</th>
+<th align="left">Mata Kuliah</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">MKU001</td>
+<td align="left">Pendidikan Pancasila</td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">MKU002</td>
+<td align="left">Pendidikan Kewarganegaraan</td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">MKU003</td>
+<td align="left">Agama Katolik</td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">MKU004</td>
+<td align="left">Fenomenologi Agama</td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">MKU008</td>
+<td align="left">Etika</td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">MKU009</td>
+<td align="left">Bahasa Indonesia</td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">MKU010</td>
+<td align="left">Bahasa Inggris</td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">MKU011</td>
+<td align="left">Estetika</td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">MKU012</td>
+<td align="left">Logika</td>
+<td align="left">2</td>
+</tr>
+</tbody>
+</table>
+<h3 id="uraian-singkat-mata-kuliah-umum">2.4.2 Uraian Singkat Mata Kuliah Umum</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="left">NAMA MK</th>
+<th align="left">NAMA MATA KULIAH</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">PRASYARAT</td>
+<td align="left">DESPRKIPSI MATA KULIAH</td>
+</tr>
+<tr class="even">
+<td align="left">MKU001</td>
+<td align="left">PENDIDIKAN PANCASILA/<em>PANCASILA EDUCATION</em></td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left">Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian (<em>character building</em>) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila.</td>
+</tr>
+<tr class="even">
+<td align="left">MKU002</td>
+<td align="left">PENDIDIKAN KEWARGANEGARAAN/<em>CIVIC</em></td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left">Pendidikan Kewarganegaraan menjelaskan pentingnya pemahaman tentang identitas nasional Indonesia, hak dan kewajiban warga negara Indonesia serta hubungannya dengan hak dan kewajiban asasi manusia. Materi kuliah mencakup juga wawasan nusantara, ketahanan nasional, politik dan strategi nasional, serta implementasinya dalam kehidupan bermasyarakat, berbangsa dan bernegara kesatuan Republik Indonesia.</td>
+</tr>
+<tr class="even">
+<td align="left">MKU003</td>
+<td align="left">AGAMA KATOLIK/<em>CATHOLIC RELIGION</em></td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left">Mata kuliah ini membentuk karakteristik mahasiswa sebagai manusia yang memiliki religiusitas melalui pendalaman akan makna agama dan beragama, mendeteksi dinamika Wahyu Tuhan dan iman mereka, memahami relasi dengan Tuhan dan sesama, mengenal makna keselamatan dalam konteks Kerajaan Allah, dan mampu menyatakan ajaran Gereja dalam pelayanan terhadap orang miskin dan terlantar.</td>
+</tr>
+<tr class="even">
+<td align="left">MKU004</td>
+<td align="left">FENOMENOLOGI AGAMA/<em>PHENOMENOLOGY OF RELIGION</em></td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left">Fenomenologi Agama merupakan bagian yang tak terpisahkan dari kajian filosofis, kritis, rasional, dan obyektif mengenai substansi ajaran agama. Fenomenologi merupakan sebuah disiplin ilmu yang secara kritis-rasional mengkaji fenomena dan dinamika kehidupan manusia beragama, dari upaya menjadikan Tuhan sebagai tujuan sesembahan sampai menempatkan Tuhan sebagai instrumen legitimasi untuk melakukan tindakan yang justru bertolak belakang dengan kehendak Tuhan yang disembah. Sehubungan dengan itu, kritik konstruktif terhadap perilaku manusia beragama menjadi salah satu poin utama dalam mata kuliah ini. Kesediaan untuk melakukan otoritik terhadap agama sendiri erat terkait dengan upaya menemukan kembali nilai sejati agama atau otentisitas hidup beragama.</td>
+</tr>
+<tr class="even">
+<td align="left">MKU008</td>
+<td align="left">ETIKA/<em>ETHIC</em></td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left">Mendalami perilaku sehari-hari yang baik dalam bermasyarakat.</td>
+</tr>
+<tr class="even">
+<td align="left">MKU009</td>
+<td align="left">BAHASA INDONESIA/<em>INDONESIAN</em></td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left">Tujuan dari mata kuliah ini adalah untuk mendalami keterampilan berbahasa Indonesia, agar mampu mengkomunikasikan hasil pemikiran serta meningkatkan keterampilan dalam menyusun karya ilmiah. Mata kuliah Bahasa Indonesia ini dimulai dengan mempelajari penulisan kata baku dan non baku serta pengungkapan pikiran dengan pungtuasi yang benar. Selanjutnya dipelajari penyusunan kalimat yang baku serta menghubungkan kalimat-kalimat yang padu dalam menuangkan gagasan dalam sebuah paragraf. Selain itu, dalam mata kuliah ini dipelajari cara menyusun surat dinas yang jelas dan komunikatif. Di akhir kuliah ini, mahasiswa diberi tugas penyusunan makalah dengan benar.</td>
+</tr>
+<tr class="even">
+<td align="left">MKU010</td>
+<td align="left">BAHASA INGGRIS/<em>ENGLISH</em></td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left">Mata kuliah ini difokuskan pada pemahaman sumber referensi dalam Bahasa Inggris dan pengembangan kosakata Bahasa Inggris (<em>vocabularies</em>). Hampir keseluruhan waktu perkuliahan didedikasikan untuk menjelaskan metode mengekstraksi isi bacaan secara tepat dan melatih mahasiswa untuk menerapkan metode tersebut seraya menambah kosakata-kosakata baru. Mahasiswa juga dilatih untuk mempresentasikan hasil pemahamannya akan isi bahan bacaan.</td>
+</tr>
+<tr class="even">
+<td align="left">MKU011</td>
+<td align="left">ESTETIKA/<em>ESTHETICS</em></td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left">Mata kuliah estetika memberi pemahaman konseptual filosofis “seni” dalam khasanah keilmuan, pembentukan kesadaran ekologis juga dalam proses pembudayaan dan peradaban. Mata kuliah ini akan menjadi fondasi bagi mahasiswa untuk memahami dan mempraktekkan seni dari sudut pandang filsafat, sejarah, kultural, dan global. Melalui mata kuliah ini, mahasiswa mempelajari mengenai dunia manusia (manusia dan pikirannya), pluralitas dan relativitas seni, serta aliran-aliran seni rupa Barat.</td>
+</tr>
+<tr class="even">
+<td align="left">MKU012</td>
+<td align="left">LOGIKA/<em>LOGICS</em></td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left">Perkuliahan logika ditujukan untuk memberikan dasar-dasar ketrampilan berpikir rasional dan sistematik. Isinya mencakup ketrampilan berpikir deduktif dan induktif, seperti silogisme, argumen analogikal dan generalisasi induktif. Pembahasan teoretis disertai pula dengan pelatihan praktis yang diarahkan pada proses berpikir. Untuk menajamkan kemampuan berpikir tersebut, mahasiswa dilatih pula mengidentifikasi kerancuan-kerancuan (<em>fallacies</em>) yang sering dijumpai baik dalam kehidupan sehari-hari maupun dalam konteks akademik.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama</strong></p>
+<h2 id="kurikulum-program-studi-matematika">2.5 Kurikulum Program Studi Matematika</h2>
+<h3 id="susunan-mata-kuliah">2.5.1 Susunan Mata kuliah</h3>
+<p><strong>Semester 1</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AMS121</td>
+<td align="left">Kalkulus 1</td>
+<td align="left">R</td>
+<td align="left">4</td>
+</tr>
+<tr class="even">
+<td align="left">AMS123</td>
+<td align="left">Pemecahan Masalah Matematika</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS151</td>
+<td align="left">Statistika Elementer</td>
+<td align="left"></td>
+<td align="left">4</td>
+</tr>
+<tr class="even">
+<td align="left">APS181</td>
+<td align="left">Fisika Dasar</td>
+<td align="left">R,P</td>
+<td align="left">4</td>
+</tr>
+<tr class="odd">
+<td align="left">MKU012</td>
+<td align="left">Logika</td>
+<td align="left">R</td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">MKU010</td>
+<td align="left">Bahasa Inggris</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">19</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 2</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AMS122</td>
+<td align="left">Kalkulus 2</td>
+<td align="left"></td>
+<td align="left">4</td>
+</tr>
+<tr class="even">
+<td align="left">AMS124</td>
+<td align="left">Matematika Diskret</td>
+<td align="left"></td>
+<td align="left">4</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS126</td>
+<td align="left">Aljabar Matriks</td>
+<td align="left"></td>
+<td align="left">4</td>
+</tr>
+<tr class="even">
+<td align="left">AIF112</td>
+<td align="left">Pemrograman Komputer</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">MKU011</td>
+<td align="left">Estetika</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">MKU003</td>
+<td align="left">Agama Katolik +</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">MKU004</td>
+<td align="left">Fenomologi Agama +</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">19</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 3</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AMS221</td>
+<td align="left">Kalkulus Vektor</td>
+<td align="left">R</td>
+<td align="left">4</td>
+</tr>
+<tr class="even">
+<td align="left">AMS231</td>
+<td align="left">Teori Suku Bunga</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS251</td>
+<td align="left">Teori Peluang</td>
+<td align="left"></td>
+<td align="left">4</td>
+</tr>
+<tr class="even">
+<td align="left">AMS253</td>
+<td align="left">Komputasi Statistika</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS271</td>
+<td align="left">Metoda Matematika</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">MKU008</td>
+<td align="left">Etika</td>
+<td align="left">R</td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">18</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 4</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AMS 222</td>
+<td align="left">Aljabar Linear</td>
+<td align="left">R</td>
+<td align="left">4</td>
+</tr>
+<tr class="even">
+<td align="left">AMS 252</td>
+<td align="left">Statistika Matematika</td>
+<td align="left"></td>
+<td align="left">4</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS 261</td>
+<td align="left">Optimasi</td>
+<td align="left"></td>
+<td align="left">4</td>
+</tr>
+<tr class="even">
+<td align="left">AMS 272</td>
+<td align="left">Persamaan Diferensial Biasa</td>
+<td align="left"></td>
+<td align="left">4</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS 273</td>
+<td align="left">Komputasi Matematika</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">18</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 5</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AMS321</td>
+<td align="left">Fungsi Kompleks</td>
+<td align="left"></td>
+<td align="left">4</td>
+</tr>
+<tr class="even">
+<td align="left">AMS351</td>
+<td align="left">Proses Stokastik</td>
+<td align="left"></td>
+<td align="left">4</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS373</td>
+<td align="left">Metoda Numerik</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">MKU002</td>
+<td align="left">Pendidikan Kewarganegaraan</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">ABCXYZ</td>
+<td align="left">Pilihan</td>
+<td align="left"></td>
+<td align="left">6</td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">19</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 6</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AMS322</td>
+<td align="left">Analisis Real</td>
+<td align="left">R</td>
+<td align="left">4</td>
+</tr>
+<tr class="even">
+<td align="left">MKU009</td>
+<td align="left">Bahasa Indonesia</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">ABCXYZ</td>
+<td align="left">Pilihan</td>
+<td align="left"></td>
+<td align="left">12</td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">18</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 7</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AMS490</td>
+<td align="left">Seminar</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS491</td>
+<td align="left">Pemodelan Matematika</td>
+<td align="left"></td>
+<td align="left">4</td>
+</tr>
+<tr class="odd">
+<td align="left">MKU001</td>
+<td align="left">Pancasila</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">ABCXYZ</td>
+<td align="left">Pilihan</td>
+<td align="left"></td>
+<td align="left">9</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">18</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 8</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AMS499</td>
+<td align="left">Skripsi</td>
+<td align="left"></td>
+<td align="left">6</td>
+</tr>
+<tr class="even">
+<td align="left">ABCXYZ</td>
+<td align="left">Pilihan</td>
+<td align="left"></td>
+<td align="left">9</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">15</td>
+</tr>
+</tbody>
+</table>
+<h3 id="mata-kuliah-pilihan-program-studi-matematika">2.5.2 MATA KULIAH PILIHAN PROGRAM STUDI MATEMATIKA</h3>
+<p>Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliah Pilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.</p>
+<ol style="list-style-type: decimal">
+<li>Kelompok Bidang Kajian: Rekayasa Keuangan</li>
+</ol>
+<ul>
+<li>Matematika Asuransi</li>
+</ul>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AMS330</td>
+<td align="left">Pengantar Matematika Asuransi</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS331</td>
+<td align="left">Matematika Asuransi</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS431</td>
+<td align="left">Metoda Statistika Asuransi</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS432</td>
+<td align="left">Teori Risiko</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS430</td>
+<td align="left">Kapita Selekta Matematika Asuransi</td>
+<td align="left">3</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Matematika Keuangan</li>
+</ul>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AMS341</td>
+<td align="left">Komputasi Keuangan</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS342</td>
+<td align="left">Matematika Keuangan</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS343</td>
+<td align="left">Analisis Deret Waktu</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS441</td>
+<td align="left">Teori Manajemen Investasi</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS442</td>
+<td align="left">Ekonometrika Keuangan</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS440</td>
+<td align="left">Kapita Selekta Matematika Keuangan</td>
+<td align="left">3</td>
+</tr>
+</tbody>
+</table>
+<ol start="2" style="list-style-type: decimal">
+<li>Kelompok Bidang Kajian: Matematika Industri</li>
+</ol>
+<ul>
+<li>Optimasi dan Teori Kontrol</li>
+</ul>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AMS361</td>
+<td align="left">Pemrograman NonLinear</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS461</td>
+<td align="left">Kontrol Optimum</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS462</td>
+<td align="left">Kontrol Linear</td>
+<td align="left">3</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Statistika &amp; Penelitian Operasional</li>
+</ul>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AMS352</td>
+<td align="left">Pemrograman Stokastik</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS353</td>
+<td align="left">Pengendalian Mutu</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS354</td>
+<td align="left">Model Statistika</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS451</td>
+<td align="left">Teori Permainan</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS452</td>
+<td align="left">Proyek Pemodelan</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS453</td>
+<td align="left">Statistika Multivariat</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS454</td>
+<td align="left">Statistika Non Parameter</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS455</td>
+<td align="left">Perancangan Percobaan</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS456</td>
+<td align="left">Teori Antrian</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS457</td>
+<td align="left">Keandalan</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS350</td>
+<td align="left">Kapita Selekta Statistika</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS450</td>
+<td align="left">Kapita Selekta Penelitian Operasional</td>
+<td align="left">3</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Matematika Terapan</li>
+</ul>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AMS471</td>
+<td align="left">Sistem Dinamik</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS472</td>
+<td align="left">Matematika Biologi</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS371</td>
+<td align="left">Persamaan Diferensial Parsial</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS372</td>
+<td align="left">Metoda Matematika Lanjut</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS374</td>
+<td align="left">Analisis Numerik</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS470</td>
+<td align="left">Kapita Selekta Matematika Terapan</td>
+<td align="left">3</td>
+</tr>
+</tbody>
+</table>
+<ol start="3" style="list-style-type: decimal">
+<li>Lain-lain</li>
+</ol>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AMS323</td>
+<td align="left">Geometri</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS324</td>
+<td align="left">Teori Bilangan</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS344</td>
+<td align="left">Komputasi Saintifik</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS421</td>
+<td align="left">Struktur Aljabar</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS422</td>
+<td align="left">Kriptografi</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS423</td>
+<td align="left">Teori Graf</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS424</td>
+<td align="left">Struktur Aljabar Lanjut</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS425</td>
+<td align="left">Analisis Lanjut</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS480</td>
+<td align="left">Kapita Selekta Pembelajaran Matematika</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS381</td>
+<td align="left">Inovasi Pembelajaran Matematika</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS382</td>
+<td align="left">Pembelajaran Matematika Sekolah</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS481</td>
+<td align="left">Kerja Praktek</td>
+<td align="left">3</td>
+</tr>
+</tbody>
+</table>
+<p>Sangat terbuka bagi seluruh mahasiswa untuk menempuh mata kuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara mata kuliah tersebut. Adapun persyaratan Mata Kuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh mata kuliah pilihan Bidang Kajian minimal 15 sks.</p>
+<h3 id="peta-dan-prasyarat-mata-kuliah">2.5.3 PETA DAN PRASYARAT MATA KULIAH</h3>
+<p>Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.</p>
+<h3 id="deskripsi-singkat-mata-kuliah-prodi-matematika">2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE MK</th>
+<th align="left">NAMA &amp; DESKRIPSI MATA KULIAH</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AMS121</td>
+<td align="left">KALKULUS 1 (<em>CALCULUS 1</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">-</td>
+<td align="left">Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan konsep dasar dari integral.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS123</td>
+<td align="left">PEMECAHAN MASALAH MATEMATIKA (<em>MATHEMATICAL PROBLEM SOLVING</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">-</td>
+<td align="left">Menebak dan mengumpulkan data dalam <em>problem solving</em>, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS151</td>
+<td align="left">STATISTIKA ELEMENTER (<em>ELEMENTARY STATISTICS</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">-</td>
+<td align="left">Statistik deskriptif, peluang, distribusi peluang diskret dan kontinu, distribusi sampling, penaksiran parameter, uji hipotesis, korelasi dan regresi, khi kuadrat, analisis variansi, SPSS, Minitab.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS122</td>
+<td align="left">KALKULUS 2 (<em>CALCULUS 2</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">AMS121</td>
+<td align="left">Fungsi transenden, teknik pengintegralan dan penggunaannya, persamaan diferensial dan deret tak hingga.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS124</td>
+<td align="left">MATEMATIKA DISKRET (<em>DISCRETE MATHEMATICS</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">AMS123</td>
+<td align="left">Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (<em>counting</em>), dan teori graf.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS126</td>
+<td align="left">ALJABAR MATRIKS (<em>Matrix Algebra</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">-</td>
+<td align="left">Sistem persamaan linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS221</td>
+<td align="left">KALKULUS VEKTOR (<em>VECTOR CALCULUS</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">AMS122</td>
+<td align="left">Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.</td>
+</tr>
+</tbody>
+</table>
+<div class="figure">
+<img src="images/Lampiran_BAB2_1.png" />
+
+</div>
+<p class="deskripsi-gambar">Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika</p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE MK</th>
+<th align="left">NAMA &amp; DESKRIPSI MATA KULIAH</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AMS231</td>
+<td align="left">TEORI SUKU BUNGA (<em>THEORY OF INTEREST</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">AMS122</td>
+<td align="left">Bunga tunggal dan bunga majemuk, diskonto, anuitas elementer dan lanjut, amortisasi dan pengakumulasian dana.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS251</td>
+<td align="left">TEORI PELUANG (<em>PROBABILITY THEORY</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">AMS122</td>
+<td align="left">Analisis kombinatorial, aksioma-aksioma peluang, peluang bersyarat, variabel acak, distribusi variabel acak diskret, distribusi variabel acak kontinu, distribus variabel acak gabungan, ekspektasi dan sifat-sifatnya, teorema-teorema limit termasuk teorema limit pusat.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS253</td>
+<td align="left">KOMPUTASI STATISTIKA (<em>STATISTICAL COMPUTATION</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">APS181, AMS151</td>
+<td align="left">Pengenalan dan dasar-dasar pemrograman dalam R, Statistika Deskriptif dengan R, Deskripsi Populasi, Selang Kepercayaan dan Uji Hipotesis, Distribusi dan Estimasi Distribusi, Integrasi Monte Carlo dan Metoda Monte Carlo untuk Inferensi.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS271</td>
+<td align="left">METODA MATEMATIKA (<em>MATHEMATICAL METHODS</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">AMS122</td>
+<td align="left">Persamaan Bessel dan Legendre, aproksimasi fungsi, analisis Fourier, transformasi Laplace, pengantar sistem diskrit, dan <em>Discrete Fourier Transform</em>.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS222</td>
+<td align="left">ALJABAR LINEAR (<em>LINEAR ALGEBRA</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">AMS126</td>
+<td align="left">Persamaan linear dan matriks, ruang vektor, determinan, transformasi linear dan nilai eigen, norm dan hasil kali dalam.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS252</td>
+<td align="left">STATISTIKA MATEMATIKA (<em>MATHEMATICAL STATISTICS</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">AMS251</td>
+<td align="left">Sampel dan statistik; statistik terurut, distribusi statisti terurut; penaksiran parameter: metoda maksimum likelihood, uji maksimum likelihood, mengukur kualitas penaksir, statistik cukup. Pengujian hipotesis yang optimal: most powerful tests, uniformly most powerful test, uji rasio likelihood. Inferensi mengenai beberapa model normal meliputi: analisis variansi dan regresi.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS261</td>
+<td align="left">OPTIMASI (<em>OPTIMIZATION</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">AMS126, AMS221</td>
+<td align="left">Pengantar pemrograman linear, algoritma simpleks, analisis sensitivitas, dualitas, topik lanjut dalam masalah optimasi.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS272</td>
+<td align="left">PERSAMAAN DIFERENSIAL BIASA (<em>ORDINARY DIFFERENTIAL EQUATIONS</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">AMS122, AMS126</td>
+<td align="left">Persamaan diferensial orde satu, persamaan diferensial orde dua, persamaan diferensial orde-n, sistem persamaan diferensial linear orde satu, pengantar persamaan diferensial nonlinear, pengantar persamaan diferensial parsial, masalah nilai batas.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS273</td>
+<td align="left">KOMPUTASI MATEMATIKA (<em>COMPUTATIONAL MATHEMATICS</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">AMS126, AMS151, AMS221</td>
+<td align="left">Pengenalan perintah dasar di Maple, Penggunaan Maple dalam Aljabar Linear, Persamaan Diferensial Biasa, Peluang dan Statistika, Pengenalan perintah dasar di Matlab, Penggunaan Matlab dalam Aljabar Linear dan Statistika, menggambar grafik, serta pemograman di Matlab.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS321</td>
+<td align="left">FUNGSI KOMPLEKS (<em>Functions of A Complex Variable</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">APS221</td>
+<td align="left">Aksioma bilangan kompleks, fungsi kompleks dan pemetaan fungsi kompleks, limit dan turunan fungsi kompleks, integral fungsi kompleks, deret pangkat, residu dan perhitungan integral fungsi real melalui teknik residu, masalah aplikasi menggunakan teknik fungsi kompleks.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS351</td>
+<td align="left">PROSES STOKASTIK (<em>STOCHASTIC PROCESSES</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">AMS251</td>
+<td align="left">Distribusieksponensial dan proses Poisson, proses renewal, rantai Markov, modelantrian.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS373</td>
+<td align="left">METODE NUMERIK (<em>NUMERICAL METHODS</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">AMS273</td>
+<td align="left">Konsep numerik, akar persamaan nonlinear dan polinomial, menyelesaikan sistem persamaan linear dengan hitungan langsung (eliminasi) dan dengan hitungan tak langsung (iterasi), interpolasi dan hampiran fungsi, pengintegralan numerik, hampiran turunan, persamaan diferensial biasa.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS322</td>
+<td align="left">ANALISIS REAL (<em>REAL ANALYSIS</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">AMS321</td>
+<td align="left">Alj. himpunan, fungsi, bil. real, barisan dan deret, limit, fungsi kontinu, dan turunan.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS491</td>
+<td align="left">PEMODELAN MATEMATIKA (<em>MATHEMATICAL MODELLING</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">AMS126, AMS221, AMS253, AMS272, AMS273</td>
+<td align="left">Mengumpulkan data, mencari proporsionalitas, menggunakan metoda beda hingga, menginterpretasikan hasil, memperbaiki model, model pencocokan kurva, model eksperimental, model simulasi, model probabilistik diskrit, analisis dimensi dan keserupaan.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS490</td>
+<td align="left">SEMINAR (<em>SEMINAR</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">lulus minimal 110 sks</td>
+<td align="left">Studi pustaka, penulisan dan presentasi karya ilmiah.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS499</td>
+<td align="left">SKRIPSI (<em>FINAL PROJECT</em>)</td>
+</tr>
+<tr class="even">
+<td align="left">AMS490 minimal C</td>
+<td align="left">Studi pustaka, penulisan dan penyajian lisan skripsi.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="kurikulum-program-studi-fisika">2.6 Kurikulum Program Studi Fisika</h2>
+<h3 id="susunan-mata-kuliah-1">2.6.1 Susunan Mata Kuliah</h3>
+<p><strong>Semester 1</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">APS101</td>
+<td align="left">Pengenalan Program Studi</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS103</td>
+<td align="left">Keterampilan Fisika</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">APS105</td>
+<td align="left">Fisika Dasar 1</td>
+<td align="left">R,P</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS107</td>
+<td align="left">Fisika Matematika 1</td>
+<td align="left">R</td>
+<td align="left">4</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF111</td>
+<td align="left">Pemrograman Komputer</td>
+<td align="left">P</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">ICE109</td>
+<td align="left">Kimia Dasar</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">MKU011</td>
+<td align="left">Estetika</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">19</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 2</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">APS106</td>
+<td align="left">Fisika Dasar 2</td>
+<td align="left">R,P</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS108</td>
+<td align="left">Fisika Matematika 2</td>
+<td align="left">R</td>
+<td align="left">4</td>
+</tr>
+<tr class="odd">
+<td align="left">APS112</td>
+<td align="left">Mekanika</td>
+<td align="left">R</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS124</td>
+<td align="left">Fisika Modern</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">APS132</td>
+<td align="left">Fisika Komputasi</td>
+<td align="left">P</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">MKU012</td>
+<td align="left">Logika</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">18</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 3</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">APS207</td>
+<td align="left">Fisika Matematika 3</td>
+<td align="left">R</td>
+<td align="left">4</td>
+</tr>
+<tr class="even">
+<td align="left">APS213</td>
+<td align="left">Gelombang</td>
+<td align="left">R</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">APS215</td>
+<td align="left">Fisika Thermal</td>
+<td align="left">R</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS225</td>
+<td align="left">Lab. Fisika Modern</td>
+<td align="left">P</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">APS233</td>
+<td align="left">Elektronika 1</td>
+<td align="left">P</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">MKU003/MKU004</td>
+<td align="left">Agama Katolik/Fenomenologi Agama</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">18</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 4</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">APS204</td>
+<td align="left">Projek Bersama</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">APS208</td>
+<td align="left">Fisika Matematika 4</td>
+<td align="left">R</td>
+<td align="left">4</td>
+</tr>
+<tr class="odd">
+<td align="left">APS216</td>
+<td align="left">Fisika Statistik</td>
+<td align="left">R</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS222</td>
+<td align="left">Listrik Magnet</td>
+<td align="left">R</td>
+<td align="left">4</td>
+</tr>
+<tr class="odd">
+<td align="left">APS234</td>
+<td align="left">Elektronika 2</td>
+<td align="left">P</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">MKU010</td>
+<td align="left">Bahasa Inggris</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">18</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 5</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">APS323</td>
+<td align="left">Elektrodinamika</td>
+<td align="left">R</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS327</td>
+<td align="left">Fisika Kuantum</td>
+<td align="left">R</td>
+<td align="left">4</td>
+</tr>
+<tr class="odd">
+<td align="left">APS335</td>
+<td align="left">Lab. Fisika Instrumentasi</td>
+<td align="left">P</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS341</td>
+<td align="left">Pengantar Fisika Nuklir</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">MKU008</td>
+<td align="left">Etika</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Mata Kuliah Pilihan</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">18</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 6</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">APS304</td>
+<td align="left">Teknik Presentasi</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">APS328</td>
+<td align="left">Mekanika Kuantum</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">APS342</td>
+<td align="left">Pengantar Fisika Material</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS348</td>
+<td align="left">Optika</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">APS392</td>
+<td align="left">Seminar</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">MKU009</td>
+<td align="left">Bahasa Indonesia</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left">Mata Kuliah Pilihan</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">18</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 7</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">APS497</td>
+<td align="left">Tugas Akhir 1</td>
+<td align="left"></td>
+<td align="left">4</td>
+</tr>
+<tr class="even">
+<td align="left">MKU001</td>
+<td align="left">Pancasila</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">MKU002</td>
+<td align="left">Kewarganegaraan</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Mata Kuliah Pilihan</td>
+<td align="left"></td>
+<td align="left">9</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">17</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 8</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">APS402</td>
+<td align="left">Etika Profesi</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">APS498</td>
+<td align="left">Tugas Akhir 2</td>
+<td align="left"></td>
+<td align="left">4</td>
+</tr>
+<tr class="odd">
+<td align="left">SAB315</td>
+<td align="left">Kewirausahaan</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Mata Kuliah Pilihan</td>
+<td align="left"></td>
+<td align="left">9</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">18</td>
+</tr>
+</tbody>
+</table>
+<p>Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):</p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">No</th>
+<th align="left">Kelompok Mata Kuliah</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">1</td>
+<td align="left">Fisika Teoretik (Mekanika, Thermodinamika, Fisika Matematika Lanjut)</td>
+</tr>
+<tr class="even">
+<td align="left">2</td>
+<td align="left">Fisika Teoretik (Fisika Modern, Elektromagnetik, Kuantum)</td>
+</tr>
+<tr class="odd">
+<td align="left">3</td>
+<td align="left">Fisika Komputasi, Elektronika, dan Instrumentasi</td>
+</tr>
+<tr class="even">
+<td align="left">4</td>
+<td align="left">Fisika Material dan Optika</td>
+</tr>
+<tr class="odd">
+<td align="left">5</td>
+<td align="left">Biofisika</td>
+</tr>
+<tr class="even">
+<td align="left">6</td>
+<td align="left">Fisika Bumi</td>
+</tr>
+<tr class="odd">
+<td align="left">7</td>
+<td align="left">Astrofisika</td>
+</tr>
+<tr class="even">
+<td align="left">8</td>
+<td align="left">Mata Kuliah Layanan</td>
+</tr>
+<tr class="odd">
+<td align="left">9</td>
+<td align="left">Seminar dan Skripsi</td>
+</tr>
+<tr class="even">
+<td align="left">10</td>
+<td align="left">Kuliah Dasar, Keterampilan Umum, Lain-Lain</td>
+</tr>
+</tbody>
+</table>
+<h3 id="mata-kuliah-pilihan-program-studi-fisika">2.6.2 Mata kuliah Pilihan Program Studi Fisika</h3>
+<p><strong>Lain-lain</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">APS301</td>
+<td align="left">Filsafat Sains</td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">APS302</td>
+<td align="left">Dunia Digital dan Sains</td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">APS 303</td>
+<td align="left">Didaktika Umum</td>
+<td align="left">3</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kelompok Fisika Teoretik</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">APS311</td>
+<td align="left">Dinamika Fluida</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS411</td>
+<td align="left">Mekanika Hamiltonian</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">APS317</td>
+<td align="left">Fisika Matematika Lanjut</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS318</td>
+<td align="left">Pemodelan Matematika</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">APS418</td>
+<td align="left">KapSel. Fisika Matematika</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS424</td>
+<td align="left">Teori Relativitas</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">APS426</td>
+<td align="left">Komputasi Kuantum</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS427</td>
+<td align="left">Mekanika Kuantum Relativistik</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">APS428</td>
+<td align="left">Teori Medan Kuantum</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS429</td>
+<td align="left">KapSel. Fisika Teori</td>
+<td align="left">3</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kelompok Fisika Komputasi, Elektronika dan Instrumentasi</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">APS331</td>
+<td align="left">Pemodelan Matematika Gejala Alam</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS332</td>
+<td align="left">KapSel. Fisika komputasi</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">APS336</td>
+<td align="left">Instrumentasi Berbasis Komputer</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS435</td>
+<td align="left">Pengantar Kontrol Otomatis</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">APS436</td>
+<td align="left">KapSel. Fisika Instrumentasi</td>
+<td align="left">3</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kelompok Biofisika</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">APS350</td>
+<td align="left">Fisika Instrumentasi Medis</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS351</td>
+<td align="left">Biofisika</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">APS352</td>
+<td align="left">Fisika Kedokteran</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS458</td>
+<td align="left">Kapita Selekta Biofisika</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">APS459</td>
+<td align="left">Kapita Selekta Fisika Kedokteran</td>
+<td align="left">3</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kelompok Fisika Material dan Optika</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">APS343</td>
+<td align="left">Struktur Materi</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS441</td>
+<td align="left">Reologi</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">APS442</td>
+<td align="left">Fisika Polimer</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS443</td>
+<td align="left">Pengantar Kristal Cair</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">APS444</td>
+<td align="left">Fisika Kristal Cair</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS445</td>
+<td align="left">Pengantar Nanoteknologi</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">APS446</td>
+<td align="left">Nanoteknologi dan Lingkungan</td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">APS447</td>
+<td align="left">Fisika Laser</td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">APS448</td>
+<td align="left">Hamburan dan Spektroskopi</td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">APS449</td>
+<td align="left">Kapita Selekta Fisika Material</td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kelompok Fisika Bumi</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">APS361</td>
+<td align="left">Geofisika</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS362</td>
+<td align="left">Oseanografi Fisis</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">APS363</td>
+<td align="left">Pemanasan Global</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS364</td>
+<td align="left">Cuaca dan Lingkungan</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">APS469</td>
+<td align="left">Kapita Selekta Fisika Bumi</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS447</td>
+<td align="left">Fisika Laser</td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kelompok Astrofisika</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">APS371</td>
+<td align="left">Tata Surya</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS372</td>
+<td align="left">Bintang</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">APS373</td>
+<td align="left">Kosmologi</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">APS474</td>
+<td align="left">Kosmologi Relativistik</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">APS479</td>
+<td align="left">Kapita Selekta Astrofisika</td>
+<td align="left">3</td>
+</tr>
+</tbody>
+</table>
+<p>Komposisi Kuliah wajib dan pilihan adalah</p>
+<ul>
+<li>Kuliah Wajib = 120 sks</li>
+<li>Kuliah Pilihan = 24 sks</li>
+</ul>
+<p>Selain itu, mahasiswa dapat mengambil, baik mata kuliah wajib maupun mata kuliah pilihan dari Program Studi Teknik Sipil/Arsitektur/Teknik Industri/Teknik Kimia dan dari Fakultas Ekonomi/Fakultas Hukum/Fakultas Ilmu Sosial dan Ilmu Politik/ Fakultas Filsafat (sejauh masih ada tempat lowong di kelas paralelnya).</p>
+<p>Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari seluruh pembelajaran <em>soft-skills</em> berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis (<em>logical consistency</em>), melakukan taksiran (<em>sense of scale</em>), menentukan prioritas, komputasi, bekerjasama, <em>entrepreneurship</em>, interpersonal, beradaptasi, mandiri, memimpin, berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru (<em>open minded</em>), percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.</p>
+<h3 id="peta-dan-prasyarat-mata-kuliah-1">2.6.3 Peta dan Prasyarat Mata kuliah</h3>
+<p>Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.</p>
+<h3 id="deskripsi-singkat-mata-kuliah-program-studi-fisika">2.6.4 Deskripsi Singkat Mata kuliah Program Studi Fisika</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE MK</th>
+<th align="left">NAMA &amp; DESKRIPSI MATA KULIAH</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AIF111</td>
+<td align="left">Pemrograman Komputer/<em>Computer Programming</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Mata kuliah ini bertujuan untuk mengenalkan dan membekali mahasiswa kepada konsep-konsep dasar pemrograman.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS101</td>
+<td align="left">PENGENALAN PROGRAM STUDI FISIKA/<em>INTRODUCTION TO PHYSICS STUDIES</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Mata kuliah ini bertujuan untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan, yang meliputi: kemampuan untuk menganalisa, memecahkan masalah dan membuat kesimpulan. Selain itu, mata kuliah ini juga membahas tujuan dan struktur program studi, melatih penggunaan metode ilmiah, serta peluasan wawasan tentang fisika dan ilmu-ilmu umum, dengan melibatkan keaktifan mahasiswa.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS103</td>
+<td align="left">KETRAMPILAN FISIKA/<em>KEY SKILLS FOR PHYSICS</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Mata kuliah ini bertujuan untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan, yang meliputi: kemampuan untuk menganalisa, memecahkan masalah dan membuat kesimpulan. Selain itu, mata kuliah ini juga melatih mahasiswa untuk mengetahui bagaimana mengukur ketidak pastian dalam suatu percobaan, membuat laporan ilmiah yang profesional dan mempresentasikannya.</td>
+</tr>
+<tr class="odd">
+<td align="left">ICE109</td>
+<td align="left">Kimia Dasar/<em>Chemistry</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Tujuan dari mata kuliah ini adalah untuk membekali mahasiswa dengan pengetahuan kimia dasar agar dapat memahami proses-proses kimia yang dijumpai dalam kehidupan sehari-hari.</td>
+</tr>
+</tbody>
+</table>
+<div class="figure">
+<img src="images/Lampiran_BAB2_2.png" />
+
+</div>
+<p class="deskripsi-gambar">Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika</p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE MK</th>
+<th align="left">NAMA &amp; DESKRIPSI MATA KULIAH</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">APS105</td>
+<td align="left">FISIKA DASAR 1/<em>PHYSICS 1</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Melalui mata kuliah ini diharapkan mahasiswa mampu menguasai konsep dan prinsip dasar fisika serta mampu menjelaskan berbagai fenomena fisika. Kuliah ini membahas Optika (Gejala dan Sifat Warna, Optika Geometris, Gejala Polarisasi), Bunyi (Getaran dan Gelombang, Interferensi dan Difraksi), Listrik (Elektrostatik dan Elektrodinamika), dan Magnet (Gejala Kemagnetan dan Elektromagnet serta aplikasinya). Perkuliahan menggunakan demonstrasi untuk menjelaskan berbagai konsep. Kuliah ini juga dilengkapi praktikum yang berorientasi pemecahan masalah (bukan prosedural) untuk menunjang penguasaan materi kuliah secara terpadu melalui kegiatan kelompok. Penggunaan komputer dalam praktikum membekali mahasiswa dengan kemampuan pemodelan untuk berbagai fenomena fisika.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS106</td>
+<td align="left">Fisika Dasar 2/<em>Physics 2</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS105</td>
+<td align="left">Melalui mata kuliah ini diharapkan mahasiswa mampu menguasai konsep dan prinsip dasar fisika serta mampu menjelaskan berbagai fenomena fisika. Kuliah ini membahas Mekanika (Kinematika, Dinamika, Usaha dan Energi, Momentum dan Impuls, Benda Elastik dan Tegar, Momen Inersia dan Momen Gaya, Fluida), Termodinamika (Kalor dan Perpindahannya, Proses dan Keadaan, Siklus dan Efisiensi, Entropi). Perkuliahan menggunakan demonstrasi untuk menjelaskan berbagai konsep. Kuliah ini juga dilengkapi praktikum yang berorientasi pemecahan masalah (bukan prosedural) untuk menunjang penguasaan materi kuliah secara terpadu melalui kegiatan kelompok. Penggunaan komputer dalam praktikum membekali mahasiswa dengan kemampuan pemodelan untuk berbagai fenomena fisika.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS107</td>
+<td align="left">Fisika Matematika 1/<em>Mathematical Physics 1</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Melalui mata kuliah ini diharapkan mahasiswa mampu menyelesaikan permasalahan dasar dalam turunan dan integral. Secara garis besar materi dalam mata kuliah ini antara lain: Limit dan Kekontinuan, Turunan dan penggunaannya, Integral dan penggunaannya, Teknik Pengintegralan, Fungsi Dua Variabel, Barisan dan Deret Tak Hingga, Persamaan Diferensial Biasa.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS108</td>
+<td align="left">Fisika Matematika 2/<em>Mathematical Physics 2</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS107</td>
+<td align="left">Melalui mata kuliah ini diharapkan mahasiswa dapat memahami konsep dasar aljabar linier. Dalam mata kuliah ini diajarkan tentang: Sistem Persamaan Linier, Matriks dan Determinan, Vektor dalam 2 Dimensi dan 3 Dimensi, Ruang Vektor, Transformasi Linier, Nilai dan Vektor Eigen, Aplikasi Aljabar Linier.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS112</td>
+<td align="left">Mekanika/<em>Mechanics</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS105, APS107</td>
+<td align="left">Mata kuliah ini bertujuan untuk memperdalam konsep kinematika dan dinamika partikel dalam dua dimensi dan tiga dimensi berlandaskan hukum-hukum mekanika (Hukum Newton, konsep kekekalan energi mekanik dan kekekalan momentum). Setelah mengikuti perkuliahan mahasiswa diharapkan dapat menjelaskan gejala-gejala tertentu terkait mekanika partikel serta dapat menyelesaikan masalah-masalah makroskopis terkait mekanika. Materi perkuliahan terkait kinematika dan dinamika partikel meliputi gerak lurus, gerak melingkar, gerak rotasi, serta diperluas untuk osilasi harmonik, fluida, gravitasi, dan sistem partikel, dengan tinjauan secara fisis maupun matematis. Untuk mengantarkan kepada konsep mekanika kuantum, maka diperkenalkan Metode Langrange-Hamilton, yang diterapkan untuk menyelesaikan permasalahan pada sistem makroskopis.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS124</td>
+<td align="left">Fisika Modern/<em>Modern Physics</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS105, APS107</td>
+<td align="left">Dalam mata kuliah ini, mahasiswa diberikan wawasan mengenai konsep-konsep baru yang melengkapi konsep-konsep fisika klasik, mulai dari munculnya teori relativitas khusus, kegagalan fisika klasik (Hukum Newton) untuk menjelaskan berbagai fenomena dalam skala mikroskopis, eksperimen-eksperimen terkait fenomena kuantum hingga perkembangannya, yang menjadi dasar penemuan-penemuan mutakhir dalam dunia sains, industri dan komunikasi. Pada Teori Relativitas Khusus dibahas mengenai konsep-konsep dasar dalam Teori Relativitas Khusus: Postulat Einstein dan konsekuensi-konsekuensinya. Melalui Transformasi Lorentz diperoleh suatu persamaan bagi relativitas panjang, waktu dan kecepatan. Dalam perkuliahan ini juga disampaikan mengenai Efek Dopler untuk Cahaya, Paradoks Kembar, Kesetaraan Massa dan Energi dalam Relativitas. Perkembangan fisika modern diawali dengan kegagalan fisika klasik untuk menjelaskan berbagai fenomena dalam skala mikroskopis. Dimulai dari konsep Radiasi Gelombang Elektromagnetik, hingga munculnya konsep dualisme gelombang-partikel melalui berbagai teori dan eksperimen (teori Planck, efek fotolistrik, efek Compton, gelombang de Broglie) yang menjadi awal dari lahirnya fisika kuantum. Dalam aplikasinya dibahas pula fenomena kuantum pada atom Hidrogen. Dalam perkuliahan ini juga diperkenalkan beberapa konsep terkait seperti ketidakpastian Heisenberg, prinsip korespondensi, persamaan gelombang dalam kuantum (persamaan Schrödinger), dan dasar-dasar struktur materi, untuk mengantarkan pada perkuliahan mekanika kuantum.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS132</td>
+<td align="left">Fisika Komputasi/<em>Computational Physics</em></td>
+</tr>
+<tr class="even">
+<td align="left">AIF111</td>
+<td align="left">Tujuan mata kuliah ini adalah untuk melatih mahasiswa mengungkapkan perangai obyek alam dalam lingkup fisika, yang dirumuskan dalam bentuk rumus-rumus matematika, menjadi simulai visual yang interaktif dalam tampilan komputer. Materi yang diajarkan pada mata kuliah ini adalah: Simulasi Perangai Benda Titik, Benda Pejal, Tumbukan, Getaran dan Gelombang, Modulasi Amplitudo dan Frekuensi, Interferensi dan Difraksi, Garis Gaya Medan Listrik dan Medan Magnet, Gaya Lorentz, Rangkaian LRC, Hamburan Thomas Fermi dan Rutherford.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS204</td>
+<td align="left">Projek Bersama/<em>Physics Project</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS103</td>
+<td align="left">Penelitian, evaluasi dan presentasi informasi ilmiah merupakan kemampuan penting mahasiswa program studi Fisika pada tahun ke-2. Projek ini didesain untuk mengembangkan lebih lanjut kemapuan-kemampuan penting tersebut. Dalam pelaksanaannya, mahasiswa dalam satu kelas akan dibagi ke dalam beberapa kelompok yang masing-masing beranggotakan 6 mahasiswa yang mana setiap kelompok akan didampingi oleh staf akademik yang akan berperan sebagai mentor sekaligus penilai. Kemudian setiap kelompok akan diberikan sebuah topik untuk diteliti dan dilaporkan. Setiap minggunya masing-masing kelompok akan bertemu secara reguler untuk menetapkan tugas individu dan menyatukan informasi-informasi yang diperoleh. Menjelang akhir semester setiap mahasiswa harus memberikan presentasi tentang projek yang telah diteliti kepada semua anggota kelompoknya. Kemudian setiap kelompok harus mengatur pembuatan laporan akhir tertulis yang akan dinilai. Penilaian keseluruhan didasarkan pada hasil presentasi dan nilai laporan.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS207</td>
+<td align="left">Fisika Matematika 3/<em>Mathematical Physics 3</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS108</td>
+<td align="left">Dalam mata kuliah ini mahasiswa diperkenalkan dengan konsep-konsep matematika yang banyak berguna dalam pemecahan masalah fisika. Setelah mengikuti perkuliahan ini diharapkan mahasiswa mampu menyelesaikan permasalahan sederhana yang berkaitan dengan konsep-konsep matematika tersebut. Secara garis besar materi yang diajarkan dalam mata kuliah ini meliputi: Bilangan Kompleks, Diferensiasi Parsial, Integral Lipat dan Penggunaannya, Analisa Vektor (Teorem Green, Divergensi dan Stokes), Deret Fourier, Transformasi Integral.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS208</td>
+<td align="left">Fisika Matematika 4/<em>Mathematical Physics 4</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS207</td>
+<td align="left">Kuliah ini dimulai dengan teori transformasi Fourier dan fungsi Delta Dirac. Transformasi Fourier digunakan untuk mentransformasikan fungsi pada semua baris nyata menggunakan kombinasi linier sinus dan cosinus. Transformasi Fourer adalah implemen yang kuat dalam fisika dan aplikasi matematika. Transformasi Fourier akan mengubah persamaan turunan linier ke dalam persamaan aljabar dengan koefisien konstan yang mana secara umum lebih mudah untuk diselesaikan. Berbagai contoh yang digunakan untuk ilustrasi dalam mata kuliah ini akan diambil sebagian besar dari fenomena interferensi dan difraksi optik. Secara garis besar mata kuliah ini membahas tentang: Transformasi Koordinat, Fungsi-fungsi Khusus (Gamma, Betha, Error, Integral Eliptik, Stirling), Persamaan Diferensial dengan Solusi Deret (Legendre, Bessel, Hermite), Fungsi Kompleks, Persamaan Diferensial Parsial. Melalui mata kuliah ini diharapkan mahasiswa dapat mengenal beberapa konsep pemecahan permasalahan matematika yang banyak berguna dalam fisika dan mampu mengungkapkan contoh-contoh peranannya dalam fisika, serta dapat menyelesaikan permasalahan sederhana yang berkaitan.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS213</td>
+<td align="left">Gelombang/<em>Waves</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS112, APS108</td>
+<td align="left">Pemahaman mengenai gelombang secara mendalam sangat penting untuk dapat menjelaskan fenomena-fenomena terkait yang dijumpai dalam kehidupan sehari-hari. Selain itu pendekatan gerak partikel berupa gelombang juga dipelajari dalam perkuliahan lanjut seperti mekanika kuantum. Pada mata kuliah ini, mahasiswa akan mempelajari konsep dasar yang diperlukan untuk memahami fenomena gelombang beserta aplikasinya, seperti gerak harmonik, gelombang mekanik dan elektromagnetik, analisis Fourier paket gelombang; dan beberapa aplikasi dasar fenomena gelombang. Dalam Pembahasan digunakan pendekatan secara matematis untuk mendapatkan makna fisisnya. Melalui mata kuliah ini diharapkan mahasiswa mampu memahami dan menerapkan konsep, prinsip dan sifat gelombang. Perkuliahan diawali dengan pendahuluan yaitu gerak harmonik sederhana yang telah diberikan pada mata kuliah Mekanika, kemudian membahas tentang gelombang mekanik yang terdiri dari gelombang transversal dan longitudinal dalam berbagai medium. Dalam perkuliahan ini juga diperluas dengan materi gelombang elektromagnetik (yang akan sejalan dengan mata kuliah listrik magnet) dengan memperkenalkan Persamaan Maxwell yang merupakan dasar untuk memahami sifat-sifat gelombang elektromagnetik. Pada perkuliahan juga diberikan materi analisa Forier untuk meyelesaikan berbagai persoalan dalam paket gelombang, serta fenomena-fenomena lain terkait, Interferensi dan Difraksi.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS215</td>
+<td align="left">Fisika Thermal/<em>Thermal Physics</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS106, APS108</td>
+<td align="left">Mata kuliah fisika termal bertujuan untuk memberikan wawasan mengenai konsep termodinamika klasik (hukum-hukum termodinamika) yang disajikan dalam parameter-parameter termal, beserta pengantar mengenai dasar-dasar fisika statistik, baik secara fisis maupun matematis, yang sangat bermanfaat dalam bidang Material, Atom-Inti, dan Astrofisika. Dalam mata kuliah ini akan diperdalam mengenai konsep termodinamika untuk sistem makroskopis dan mikroskopis dalam kesetimbangan termal, diawali dengan definisi parameter-parameter fisis dalam termodinamika seperti suhu, energi dalam dan entropi, kemudian memperkenalkan hukum-hukum termodinamika dan penerapannya untuk sistem makroskopis. Dalam mata kuliah ini juga diperkenalkan beberapa istilah dan teori terkait mikrosistem untuk menjelaskan keadaan sistem meliputi persamaan keadaan untuk mikrosistem, fungsi distribusi Boltzmann, Bose-Einstein dan Fermi-Dirac, untuk mengantarkan pada perkuliahan fisika statistik, serta memahami kaitan antara termodinamika klasik dan mekanika statistik.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS216</td>
+<td align="left">Fisika Statistik/<em>Statistical Physics</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS215, APS207</td>
+<td align="left">Ketidakpastian memainkan peranan esensial di alam. Mekanika statistik merupakan sebuah deskripsi dari peranan yang dimainkan oleh ketidakpastian-ketidakpastian tersebut. Dalam mata kuliah ini akan dipelajari tentang pencarian ”most probable distribution” dengan energi terrendah. Mekanika menurut ungkapan Hamilton, Gas Ideal, distribusi Maxwell-Boltzmann, getaran kisi pada zat padat, paham entropi dari pendekatan statistik. Statistik kuantum Fermi-Dirac dan Bose-Einstein, gas dan zat padat dalam unkapan kuantum. Melalui mata kuliah ini mahasiswa diharapkan bisa menggunakan pendekatan statistik untuk menerangkan perangai gejala fisika termal yang dibahas dalam termodinamika. Menyadarkan bahwa gejala ”non reversible” pada aturan termodinamika gas dan zat padat dapat diterangkan dari statistik kumpulan atom/molekul pembangunnya yang dinamikanya ”reversible”.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS222</td>
+<td align="left">Listrik Magnet/<em>Electricity and Magnetism</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS106, APS207, APS213</td>
+<td align="left">Pada mata kuliah ini secara luas fokus dengan perkembangan besar pada listrik dan magnet dalam 2 abad terakhir, yakni menitikberatkan pada medan-medan yang tidak bergantung pada waktu. Sebelum pembahasan medan-medan tersebut di atas, diberikan dasar-dasar analisis vektor beserta arti fisis yang terkandung di dalamnya. Pembahasan pokok meliputi medan listrik statis (konsep medan listrik, potensial listrik, pemecahan persamaan yang berkaitan dengan potensial listrik statis : masalah syarat batas, sifat bahan dielektrik) dan medan magnetik statis (konsep mdan magnetik, potensial magnetik, pemecahan persamaan yang berkaitan dengan potensial magnetik : masalah syarat batas, sifat bahan magnetik). Melalui mata kuliah ini diharapkan mahasiswa mampu memahami secara kualitatif dan kuantitatif fenomena medan listrik dan magnet statis.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS225</td>
+<td align="left">Laboratorium Fisika Modern/<em>Modern Physics Laboratory</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS124</td>
+<td align="left">Kuliah ini berisi kegiatan ekperimen Fisika Modern yang bertujuan membuka wawasan serta memperkenalkan konsep baru tentang Fisika Modern kepada mahasiswa melalui kegiatan eksperimen. Kegiatan eksperimen ini berisikan berbagai percobaan Fisika Modern seperti percobaan Efek Fotolistrik, percobaan Difraksi Elektron, percobaan Frank-Hertz, percobaan Interferometri Michelson, percobaan tetes minyak Millikan. Selain untuk meningkatkan kemampuan serta keterampilan mahasiswa menggunakan peralatan untuk melakukan pengukuran secara ilmiah, melalui eksperimen ini diharapkan mahasiswa mulai terlatih untuk menulis laporan dengan format penulisan ilmiah.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS233</td>
+<td align="left">Elektronika 1/<em>Electronics 1</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS108, APS132</td>
+<td align="left">Instrumentasi elektronik digunakan secara luas pada hampir semua area fisika eksperimen. Melalui mata kuliah ini diharapkan mahasiswa dapat menguasai konsep dasar untuk memecahkan permasalahan, analisa rangkaian dan desain rangkaian elektronika. Secara garis besar dalam kuliah ini akan dibahas tentang arus searah, arus bolak-balik, rangkaian filter, rangkaian filter, dioda, transistor dan operasional amplifier.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS234</td>
+<td align="left">Elektronika 2/<em>Electronics 2</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS233, APS207</td>
+<td align="left">Mata kuliah ini merupakan kelanjutan dari mata kuliah Elektronika 1. Dalam mata kuliah ini dibahas tentang konversi bilangan, logika kombinasi (tabel kebenaran, aljabar boolean, karnaugh map, gerbang logika), Logika sekuensial (flip-flop, register, diagram keadaan, diagram perwaktuan), Aplikasi (pencacah, dekoder, enkoder, multiplekser, adc, dac, komponen opto-elektronika). Mata kuliah ini bertujuan untuk membekali mahasiswa dengan konsep dasar dan pengalaman dalam bidang elektronika digital.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS304</td>
+<td align="left">Teknik Presentasi/<em>Presentation Skills</em></td>
+</tr>
+<tr class="even">
+<td align="left">-</td>
+<td align="left">Salah satu kemampuan dasar yang wajib dimiliki oleh seorang mahasiswa adalah kemampuan untuk berkomunikasi baik secara lisan maupun tertulis. Di dalam mata kuliah ini mahasiswa akan dilatih untuk membuat laporan ilmiah yang profesional dan dibekali dengan kemampuan untuk dapat memberikan presentasi yang efektif.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS323</td>
+<td align="left">Elektrodinamika/<em>Electrodynamics</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS222, APS208</td>
+<td align="left">Mata kuliah ini mengembangkan gagasan-gagasan tentang listrik magnet yang telah dipelajari pada semester sebelumnya ke dalam teori Maxwell tentang elektromagnetik. Persamaan Maxwell menarik berbagai macam hukum tentang listrik magnet (Hukum Faraday, Hukum Ampere, Hukum Lenz, Hukum Gauss) ke dalam satu kesatuan teori yang elegan. Penetapan teori elektromagnetik yang komplit telah membuktikan salah satu pencapaian besar dalam fisika. Secara garis besar dalam mata kuliah ini akan dibahas beberapa konsep elektrodinamika yang mengaitkan hubungan antara medan listrik dan medan magnetik (hukum Ohm dan hukum Faraday) dan berujung pada persamaan Maxwell yang menggabungkan deskripsi medan listrik dan medan magnetik. Beberapa sifat gelombang elektromagnetik yang ditimbulkan sebagai solusi persamaan Maxwell dibahas dalam kuliah ini, seperti persamaan gelombang elektromagnetik dan perambatannya dalam medium serta dispersi gelombang elektromagnetik. Beberapa aplikasi sederhana gelombang elektromagnetik diberikan, seperti pandu gelombang dan radiasi elektromagnetik. Masalah invariansi teori elektromagnetik terhadap kerangka inersial dimunculkan, yang pada akhirnya berujung pada ide teori relativitas khusus yang dikembangkan oleh Einstein. Melalui mata kuliah ini diharapkan mahasiswa dapat memahami secara kualitatif dan kuantitatif fenomena medan listrik dan magnet dinamis.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS328</td>
+<td align="left">Mekanika Kuantum/<em>Quantum Mechanics</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS327, APS208</td>
+<td align="left">Melalui mata kuliah ini mahasiswa akan diperkenalkan struktur matematika mekanika kuantum dan menjelaskan bagaimana untuk menghitung nilai harapan untuk jumlah yang diamati dari suatu sistem. Selain itu untuk menunjukkan bagaimana teori perhitungan kuantum dari sifat atom, partikel dasar, inti dan padatan. Secara umum dalam mata kuliah ini akan dibahas lebih lanjut tentang Revisi fungsi gelombang, kepadatan probabilitas dan persamaan Schrödinger dalam 1 dimensi. Atom Hidrogen: momentum sudut orbital, bilangan kuantum, distribusi probabilitas. Spektrum atom dan efek Zeeman. Elektron berputar: Stern-Gerlach, kuantum spin angka, spin-orbit kopling, prinsip pengecualian dan tabel periodik. X-ray spektrum.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS335</td>
+<td align="left">Lab. Fisika Instrumentasi/<em>Instrumentation Physics Laboratory</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS234</td>
+<td align="left">Pada kuliah ini materi dipelajari dengan menerapkannya pada robot agar proses pembelajaran menarik dan langsung diterapkan. Isi kuliah meliputi sensor, pengkondisian sinyal, ADC, DAC, Pengolahan data, Fourier, Sistem tertutup. Tujuan mata kuliah ini untuk membekali mahasiswa dengan pengalaman antarmuka dalam instrumentasi.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS341</td>
+<td align="left">Pengantar Fisika Nuklir/<em>Introduction to Nuclear Physics</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS208, APS106</td>
+<td align="left">Dasar penyusun materi diklasifikasikan menjadi tiga generasi Quarks dan Leptons (elektron dan neutrino), yang saling berinteraksi melalui gaya elektromagnetik, gaya lemah dan gaya kuat. Pada mata kuliah ini dipelajari cara mengklasifikasikan partikel-partikel dasar dan interaksinya serta deskripsi beberapa alat eksperimen yang digunakan untuk memahami sifat-sifat partikel tersebut. Modul pada mata kuliah ini diawali dengan mendiskusikan hubungan antara gaya konservatif dengan sifat simetris dari partikel-partikel dasar. Pemahaman akan hubungan ini menjadi kunci pengetahuan mengenai perilaku partikel-partikel dasar. Selain itu juga dibahas mengenai partikel-partikel yang dipelajari secara eksperimen dan mendeskripsikan pengoperasian beberapa peralatan meliputi tabung sinar katoda, spectrometer massa dan akselerator partikel. Di akhir kuliah akan dipelajari interaksi partikel dengan materi.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS342</td>
+<td align="left">Pengantar Fisika Material/<em>Introduction to Material Physics</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS106, APS208</td>
+<td align="left">Kuliah ini berisi pengenalan material dimulai dengan struktur atom, struktur kristal ideal dan tak ideal, proses difusi, mekasnisme dislokasi, failure, diagram fasa dan transformasi fasa, material processing, sifat dan aplikasi material logam, alloys, keramik, polimer, material fotonik dan contoh-contoh devaisnya. Kuliah ini dimaksudkan untuk memberikan gambaran secara lengkap mengenai material dalam kehidupan sehari-hari sampai dengan penerapannya pada teknologi mutakhir.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS348</td>
+<td align="left">Optika/<em>Optics</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS106, APS208</td>
+<td align="left">Kuliah ini berisikan konsep-konsep dasar dalam Optika dan aplikasinya serta perkembangan terkini dalam bidang Optika baik itu Optika klasik hingga Optika modern. Kuliah ini terbagi atas 4 bagian besar yaitu konsep dasar yang merupakan tools untuk dapat memahami Optika, sifat dan perilaku sumber cahaya laser, sistem optik (material, pandu gelombang, optika nonlinear, optika Fourier), dan sistem detektor (optional). Kuliah ini bertujuan untuk memperluas cakrawala dan wawasan serta pemahaman mahasiswa mengenai konsep-konsep dasar dan aplikasinya serta perkembangan terkini dalam bidang Optika.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS392</td>
+<td align="left">Seminar/<em>Seminar</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS204</td>
+<td align="left">Dalam mata kuliah ini mahasiswa akan berlatih memahami artikel-artikel fisika hasil karya orang lain yang tersedia di internet, maupun buku pustaka. Disisni mahasiswa memilih sendiri topik untuk berlatih menyampaikan gagasan sendiri dalam lingkup fisika yang dipahaminya dalam wujud tulisan. Adapun tujuan mata kuliah ini adalah Melatih peserta dalam kemahiran berkomunikasi dalam lingkup fisika yang melibatkan lambang-lambang matematika untuk melukiskan gejala-gejala alam.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS402</td>
+<td align="left">Etika Profesi/<em>Professional Ethics</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Melalui mata kuliah ini mahasiswa akan mendapatkan wawasan tentang peran etika di bidang profesi. Pembahasan tentang etika profesi ini mengacu pada referensi tentang kode etik ilmuwan, tetapi sebetulnya penerapannya sangatlah luas termasuk untuk bidang keprofesian lain. Nilai dan hakikat dari kode etik yang berlaku di bidang ilmiah berguna pula untuk diterapkan oleh mahasiswa di segala bidang pekerjaan yang akan ditekuni. Dengan berlandaskan pada nilai-nilai etika itulah diharapkan mahasiswa dapat menjadi seorang manusia yang etis dalam menjalani profesinya.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS497</td>
+<td align="left">Tugas Akhir 1/<em>Final Project 1</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS392</td>
+<td align="left">Melalui Tugas Akhir 1 ini diharapkan mahasiswa dapat mempunyai kemampuan menelaah suatu topik terbatas dalam bidang fisika dan/atau aplikasinya, secara mandiri di bawah bimbingan seorang dosen, dan menuliskannya dalam bentuk karya ilmiah. Tugas Akhir 1 ini merupakan bagian pertama dari tugas akhir dengan titik berat pada studi pustaka, pemahaman, pelaporan hasil kerja secara tertulis dan lisan. Topik tugas akhir ditentukan bersama dengan dosen pembimbing.</td>
+</tr>
+<tr class="odd">
+<td align="left">APS498</td>
+<td align="left">Tugas Akhir 2/<em>Final Project 2</em></td>
+</tr>
+<tr class="even">
+<td align="left">APS497</td>
+<td align="left">Tujuan dari Tugas Akhir 2 adalah untuk Memberi kemampuan menyelesaikan telaahan suatu topik terbatas dalam bidang fisika dan/atau aplikasinya, secara cukup mandiri di bawah bimbingan seorang dosen, dan menuliskannya dalam bentuk karya ilmiah. Tugas Akhir 2 merupakan bagian kedua dari tugas akhir. Pada Tugas Akhir 2 ini lebih fokus dengan pendalaman dari topik dan menyajikan hasil kerja lengkap dalam bentuk tulisan yang baik dan standar, juga secara lisan. Topik tugas akhir ditentukan bersama dengan dosen pembimbing.</td>
+</tr>
+<tr class="odd">
+<td align="left">SAB315</td>
+<td align="left">Kewirausahaan/<em>Entrepreneurship</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Mata kuliah ini membahas pengertian Kewirausahaan serta bagaimana sebaiknya mengembangkan usaha agar dapat menjadi wirausaha yang berhasil dan beretika. Pembahasan mengenai inti dan hakekat kewirausahaan, disiplin ilmu, obyek studi dan perkembangannya, karakteristik dan ciri umum kewirausahaan, faktor-faktor pemicu, model, proses, tahapan, keberhasilan dan kegagalan, ide dan sumber wirausaha, cara memasuki dunia usaha, pengelolaan dunia usaha, kompetisi dan strategi, pembuatan studi kelayakan dan etika bisnis dan prinsip-prinsip usaha yang baik. Selain itu juga dipresentasikan hasil kunjungan ke perusahaan agar dapat membedakan dunia nyata dengan teori, sehingga mahasiswa diharapkan memiliki kemampuan <em>soft skill</em>.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="kurikulum-program-studi-teknik-informatika">2.7 Kurikulum Program Studi Teknik Informatika</h2>
+<h3 id="sususan-mata-kuliah">2.7.1 Sususan mata kuliah</h3>
+<p><strong>Semester 1</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AIF101</td>
+<td align="left">Pemrograman Berorientasi Objek</td>
+<td align="left"></td>
+<td align="left">6</td>
+</tr>
+<tr class="even">
+<td align="left">AIF103</td>
+<td align="left">Matematika Diskret</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF105</td>
+<td align="left">Pengantar Informatika</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">MKU001</td>
+<td align="left">Pendidikan Pancasila</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">MKU008</td>
+<td align="left">Etika</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">MKU010</td>
+<td align="left">Bahasa Inggris</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">18</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 2</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AIF102</td>
+<td align="left">Algoritma dan Struktur Data</td>
+<td align="left"></td>
+<td align="left">4</td>
+</tr>
+<tr class="even">
+<td align="left">AIF104</td>
+<td align="left">Logika Informatika</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF106</td>
+<td align="left">Sistem Dijital</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS100</td>
+<td align="left">Matematika Informatika</td>
+<td align="left"></td>
+<td align="left">4</td>
+</tr>
+<tr class="odd">
+<td align="left">MKU009</td>
+<td align="left">Bahasa Indonesia</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">MKU011</td>
+<td align="left">Estetika</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">18</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 3</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AIF201</td>
+<td align="left">Analisis dan Desain Berorientasi Objek</td>
+<td align="left"></td>
+<td align="left">4</td>
+</tr>
+<tr class="even">
+<td align="left">AIF203</td>
+<td align="left">Struktur Diskret</td>
+<td align="left"></td>
+<td align="left">4</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF205</td>
+<td align="left">Arsitektur dan Organisasi Komputer</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AMS200</td>
+<td align="left">Probabilitas dan Statistika</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">MKU003/MKU004</td>
+<td align="left">Agama Katolik/Fenomenologi Agama</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">MKU012</td>
+<td align="left">Logika</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">18</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 4</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AIF202</td>
+<td align="left">Desain dan Analisis Algoritma</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">AIF204</td>
+<td align="left">Manajemen Informasi dan Basisdata</td>
+<td align="left">R</td>
+<td align="left">4</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF206</td>
+<td align="left">Sistem Operasi</td>
+<td align="left">R</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AIF208</td>
+<td align="left">Rekayasa Perangkat Lunak</td>
+<td align="left">R</td>
+<td align="left">4</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF210</td>
+<td align="left">Interaksi Manusia Komputer</td>
+<td align="left">P</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">18</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 5</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AIF301</td>
+<td align="left">Pengantar Sistem Cerdas</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AIF303</td>
+<td align="left">Pengantar Sistem Informasi</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF305</td>
+<td align="left">Jaringan Komputer</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">AIF311</td>
+<td align="left">Pemrograman Fungsional1</td>
+<td align="left">R</td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF313</td>
+<td align="left">Grafika Komputer1</td>
+<td align="left">R</td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">AIF315</td>
+<td align="left">Pemrograman Berbasis Web1</td>
+<td align="left">R</td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF317</td>
+<td align="left">Desain Antarmuka Grafis1</td>
+<td align="left">R</td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">AIFXXX</td>
+<td align="left">MK Pilihan</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">MKU002</td>
+<td align="left">Kewarganegaraan</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">18</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 6</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AIF302</td>
+<td align="left">Penulisan Ilmiah</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">AIF304</td>
+<td align="left">Proyek Sistem Informasi 12</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF306</td>
+<td align="left">Proyek Informatika2</td>
+<td align="left"></td>
+<td align="left">6</td>
+</tr>
+<tr class="even">
+<td align="left">AIF312</td>
+<td align="left">Keamanan Informasi1</td>
+<td align="left">R</td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF314</td>
+<td align="left">Pemrograman Basisdata1</td>
+<td align="left">R</td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">AIF316</td>
+<td align="left">Komputasi Paralel 1</td>
+<td align="left">R</td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF318</td>
+<td align="left">Pemrograman Aplikasi Bergerak1</td>
+<td align="left">R</td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">AIFXXX</td>
+<td align="left">MK Pilihan</td>
+<td align="left"></td>
+<td align="left">6</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">18</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 7</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AIF401</td>
+<td align="left">Skripsi 1</td>
+<td align="left"></td>
+<td align="left">4</td>
+</tr>
+<tr class="even">
+<td align="left">AIF403</td>
+<td align="left">Komputer dan Masyarakat</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF405</td>
+<td align="left">Proyek Sistem Informasi 22</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">AIFXXX</td>
+<td align="left">MK Pilihan</td>
+<td align="left"></td>
+<td align="left">12</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">18</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 8</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AIF402</td>
+<td align="left">Skripsi 2</td>
+<td align="left"></td>
+<td align="left">6</td>
+</tr>
+<tr class="even">
+<td align="left">AIFXXX</td>
+<td align="left">MK Pilihan</td>
+<td align="left"></td>
+<td align="left">10</td>
+</tr>
+<tr class="odd">
+<td align="left">APS402</td>
+<td align="left">Etika Profesi</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">TOTAL</td>
+<td align="left">18</td>
+</tr>
+</tbody>
+</table>
+<p>Keterangan :</p>
+<ol style="list-style-type: decimal">
+<li>Mata kuliah pilihan wajib.<br />Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut</li>
+<li>Mata kuliah projek.<br />Mahasiswa harus lulus salah satu dari<br /></li>
+</ol>
+<ul>
+<li>Projek Informatika, atau</li>
+<li>Projek Sistem Informasi 1 dan Projek Sistem Informasi 2</li>
+</ul>
+<p>Aturan tambahan :</p>
+<ol style="list-style-type: decimal">
+<li><p>Mata kuliah pilihan dari luar jurusan<br /> Banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.<br /> Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai mata kuliah pilihan dari dalam jurusan</p></li>
+<li><p><em>Skor Coding</em><br /> Beberapa mata kuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan mata kuliah setiap semester, memiliki jumlah skor coding &gt; 0.</p></li>
+<li><p>Nilai minimum kuliah jalur pemrograman/algoritma<br /> Untuk mahasiswa yang ingin mengambil mata kuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:</p></li>
+</ol>
+<ul>
+<li>Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek</li>
+<li>Desain &amp; Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek</li>
+<li>Algoritma &amp; Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek</li>
+<li>Desain &amp; Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek</li>
+</ul>
+<p>maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.</p>
+<h3 id="mata-kuliah-pilihan-program-studi-teknik-informatika">2.7.2 Mata Kuliah Pilihan Program Studi Teknik Informatika</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE</th>
+<th align="left">NAMA</th>
+<th align="left">APR</th>
+<th align="left">SKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AIF330</td>
+<td align="left">Kerja Praktek 1</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">AIF331</td>
+<td align="left">Topik Khusus Informatika 1</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF332</td>
+<td align="left">Topik Khusus Informatika 2</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AIF333</td>
+<td align="left">Topik Khusus Sistem Informasi 1</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF335</td>
+<td align="left">Pembelajaran Mesin</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AIF336</td>
+<td align="left">Algoritma Kriptografi</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF337</td>
+<td align="left">Matematika Teknik</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AIF338</td>
+<td align="left">Bioinformatika</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF339</td>
+<td align="left">Pemodelan Formal</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AIF340</td>
+<td align="left">Komputasi Geometri</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF341</td>
+<td align="left">Adm. Jaringan Komputer 1</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AIF342</td>
+<td align="left">Adm. Jaringan Komputer 2</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF343</td>
+<td align="left">Pemrograman Kompetitif</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AIF344</td>
+<td align="left">Pemodelan &amp; Simulasi</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF345</td>
+<td align="left">Pengujian Perangkat Lunak</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">AIF346</td>
+<td align="left">Perancangan Permainan Komputer</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF347</td>
+<td align="left">e-Commerce</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">AIF348</td>
+<td align="left">Verifikasi Formal</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF350</td>
+<td align="left">Algoritma Genetika</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">AIF352</td>
+<td align="left">Jaringan Syaraf Tiruan</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF354</td>
+<td align="left">Teori Bahasa &amp; Kompilasi</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">AIF356</td>
+<td align="left">Analisis Proses Bisnis</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF358</td>
+<td align="left">Jaringan Komputer Lanjut</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AIF360</td>
+<td align="left">Pemrograman Berbasis Web Lanjut</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF362</td>
+<td align="left">Sistem &amp; Aplikasi Telematika</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AIF431</td>
+<td align="left">Topik Khusus Informatika 3</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF432</td>
+<td align="left">Topik Khusus Informatika 4</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">AIF433</td>
+<td align="left">Topik Khusus Sistem Informasi 3</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF434</td>
+<td align="left">Topik Khusus Sistem Informasi 4</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">AIF435</td>
+<td align="left">Grafika Komputer Lanjut</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF436</td>
+<td align="left">Bio-Inspired Computing</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AIF437</td>
+<td align="left">Kecerdasan Buatan Untuk Permainan Komputer</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF438</td>
+<td align="left">Penambangan Data</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AIF439</td>
+<td align="left">Kerja Praktek 2</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF440</td>
+<td align="left">Kerja Praktek 3</td>
+<td align="left"></td>
+<td align="left">4</td>
+</tr>
+<tr class="even">
+<td align="left">AIF441</td>
+<td align="left">Administrasi Jaringan Komputer 3</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF442</td>
+<td align="left">Administrasi Jaringan Komputer 4</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AIF443</td>
+<td align="left">Matematika Kombinatorial</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF444</td>
+<td align="left">Pemrograman Permainan Komputer</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AIF445</td>
+<td align="left">Metode Numerik</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF446</td>
+<td align="left">Kompresi Data</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AIF447</td>
+<td align="left">Metode Optimisasi</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF448</td>
+<td align="left">Pemrosesan Data Geografis</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AIF449</td>
+<td align="left">Teknologi Mesin Pencari</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF450</td>
+<td align="left">Pengolahan Citra</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">AIF451</td>
+<td align="left">Audit Sistem Informasi</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF452</td>
+<td align="left">Pemrograman Lojik</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">AIF453</td>
+<td align="left">Kecerdasan Bisnis</td>
+<td align="left"></td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF454</td>
+<td align="left">Sistem Multi Agen</td>
+<td align="left"></td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">AIF455</td>
+<td align="left">Sistem Pendukung Keputusan</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">AIF456</td>
+<td align="left">Strategi Sistem Informasi &amp; Arsitektur Perusahaan Berskala Besar</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">AIF457</td>
+<td align="left">Kewirausahaan Berbasis Teknologi</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">AIF458</td>
+<td align="left">Kontrol &amp; Audit Teknologi Informasi</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">AIF459</td>
+<td align="left">Administrasi Basis Data</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">AIF460</td>
+<td align="left">Manajemen Pengetahuan</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">AIF461</td>
+<td align="left">Pencarian &amp; Temu Kembali Informasi</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">AIF462</td>
+<td align="left">Manajemen Proses Bisnis</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">AIF463</td>
+<td align="left">Jaringan Nirkabel</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">AIF464</td>
+<td align="left">Sistem Perusahaan Berskala Besar</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">AIF465</td>
+<td align="left">Teknologi Middleware</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">AIF466</td>
+<td align="left">Sistem Terdistribusi</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">AIF468</td>
+<td align="left">Teknologi Multimedia</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">AIF469</td>
+<td align="left">Layanan Berbasis Web</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">AIF470</td>
+<td align="left">Pemrograman Jaringan</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
+<h3 id="peta-dan-prasyarat-mata-kuliah-2">2.7.3 Peta dan Prasyarat Mata Kuliah</h3>
+<p>Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.</p>
+<h3 id="deskripsi-matakuliah">2.7.4 Deskripsi Matakuliah</h3>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE MK</th>
+<th align="left">NAMA &amp; DESKRIPSI MATA KULIAH</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AIF101</td>
+<td align="left">PEMROGRAMAN BERORIENTASI OBJEK/<em>OBJECT-ORIENTED PROGRAMMING</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Memperkenalkan konsep-konsep dasar pemrograman dari perspektif berorientasi objek dan membangun dasar-dasar ketrampilan membuat program dengan menggunakan bahasa pemrograman berorientasi objek.</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF102</td>
+<td align="left">ALGORITMA &amp; STRUKTUR DATA/<em>ALGORITHMS &amp; DATA STRUCTURES</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Memperkenalkan konsep–konsep dasar algoritma, analisis algoritma, beberapa algoritma tingkat dasar (searching dan sorting) dan konsep penting mengenai struktur data (list) serta algoritma untuk memprosesnya.</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF103</td>
+<td align="left">MATEMATIKA DISKRIT/<em>DISCRETE MATHEMATICS</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Memberikan dasar pengetahuan tentang matematika diskret yang banyak digunakan pada bidang informatika, misalnya himpunan, fungsi dan relasi, dan matematika kombinatorial. Memberikan dasar pengetahuan bagaimana menggunakan matematika diskret untuk memodelkan dan menyelesaikan permasalahan.</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF104</td>
+<td align="left">LOGIKA INFORMATIKA/<em>LOGICS FOR INFORMATICS</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Memberikan pengetahuan dasar kalkulus kepada mahasiswa, yang nanti digunakan di bidang informatika, misalnya tentang sistem bilangan real, limit, turunan, dan integral. Memberi pengetahuan dasar aljabar matriks yang berkaitan dengan jenis-jenis matriks, operasi matriks, dan sistem persamaan linier. Memberikan pengetahuan kepada mahasiswa bagaimana menyelesaikan masalah dengan menggunakan metode yang telah dijelaskan.</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF105</td>
+<td align="left">PENGANTAR INFORMATIKA/<em>INTRODUCTION TO INFORMATICS</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Mengenal terminologi umum dalam informatika, mampu menggunakan kakas umum dalam informatika seperti MS Excel, mengenal cakupan ilmu informatika.</td>
+</tr>
+</tbody>
+</table>
+<div class="figure">
+<img src="images/Lampiran_BAB2_3.png" />
+
+</div>
+<p class="deskripsi-gambar">Gambar 3. Peta dan Prasyarat Mata Kuliah Program Studi Teknik Informatika</p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">KODE MK</th>
+<th align="left">NAMA &amp; DESKRIPSI MATA KULIAH</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">AIF106</td>
+<td align="left">SISTEM DIJITAL/<em>DIGITAL SYSTEMS</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Memberi pengetahuan dasar kepada mahasiswa tentang struktur komputer dan fungsi masing-masing pembentuknya, memberi pengetahuan kepada mahasiswa tentang representasi data di dalam computer serta operasi-operasi aritmatika yang terkait, memberi pengetahuan kepada mahasiswa tentang arsitektur perancangan beberapa bagian penting di dalam komputer.</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF201</td>
+<td align="left">ANALISIS &amp; DESAIN BERORIENTASI OBJEK/<em>OBJECT-ORIENTED ANALYSIS &amp; DESIGN</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Mempelajari dasar-dasar serta beberapa prinsip dalam perancangan program berorientasi objek. Mempelajari diagram UML (Unified Modeling Language) untuk mengkomunikasikan desain secara visual. Mempelajari beberapa design pattern dari Gang of Four untuk membantu mempercepat menyelesaikan masalah desain.</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF202</td>
+<td align="left">DESAIN &amp; ANALISIS ALGORITMA/<em>DESIGN &amp; ANALYSIS OF ALGORITHMS</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Menggunakan dan merancang algoritma dan struktur data sederhana untuk menyelesaikan masalah-masalah komputasi tertentu dan mengimplementasikannya menggunakan bahasa pemrograman berorientasi obyek.</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF203</td>
+<td align="left">STRUKTUR DISKRIT/<em>DISCRETE STRUCTURES</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Memberikan dasar pengetahuan tentang struktur diskret yang banyak digunakan pada bidang informatika, khususnya graph, pohon dan finite state machine. Memberikan dasar pengetahuan bagaimana menggunakan struktur diskret untuk memodelkan dan menyelesaikan permasalahan.</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF205</td>
+<td align="left">ARSITEKTUR &amp; ORGANISASI KOMPUTER/<em>COMPUTER ARCHITECTURES &amp; ORGANISATION</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Mempelajari cara kerja antar bagian komputer dan arsitektur komputer, cara kerja dari komponen-komponen komputer, dan perkembangan arsitektur komputer modern.</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF206</td>
+<td align="left">SISTEM OPERASI/<em>OPERATING SYSTEMS</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Mempelajari pengertian sistem operasi, peran dan fungsinya dalam sebuah sistem perangkat keras, khususnya komputer. Mempelajari prinsip-prinsip, teknik dan algoritma yang digunakan di dalam sebuah sistem operasi, penjadwalan, dan aspek keamanan dalam sistem operasi. Memperkenalkan dan menggunakan lebih dalam beberapa sistem operasi yang umum.</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF208</td>
+<td align="left">REKAYASA PERANGKAT LUNAK/<em>REKAYASA PERANGKAT LUNAK</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Mempelajari terminologi, definisi, Software Process Model, review paradigma berorientasi objek, kebutuhan perangkat lunak, <em>use case modeling, class modelling, dynamic modelling: state transition diagram, sequence diagram, activity diagram, reusability dan design pattern, data flow diagram, testing, software process management</em>.</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF210</td>
+<td align="left">INTERAKSI MANUSIA KOMPUTER/<em>HUMAN-COMPUTER INTERACTION</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Mempelajari konsep-konsep interaksi manusia dan komputer serta mengimplementasikan dalam bentuk pemrograman di lingkungan GUI dan event driven).</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF294</td>
+<td align="left">MANAJEMEN INFORMASI &amp; BASIS DATA/<em>INFORMATION MANAGEMENT &amp; DATABASES</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Mengajarkan konsep dan macam-macam Sistem Manajemen Basis Data (DBMS), pengenalan basis data sederhana mulai dari spreadsheet, merancang dan memodelkan basis data menggunakan ER-D, implementasi tabel, penyimpanan data multimedia, serta cara penggunaan sintaks-sintaks SQL pada DBMS.</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF301</td>
+<td align="left">PENGANTAR SISTEM CERDAS/<em>INTRODUCTION TO INTELLIGENT SYSTEMS</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">KMempelajari definisi, karakteristikagen cerdas, <em>blind search, informed search, local search, adversarial search</em>, representasi pengetahuan dengan <em>Propositional Logic</em> dan <em>First Order Logic</em>, agen cerdas berbasis logika, <em>planning</em>, penanganan ketidakpastian, pembelajaran mesin.</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF302</td>
+<td align="left">PENULISAN ILMIAH/<em>SCIENTIFIC WRITING</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Mempersiapkan mahasiswa untuk mulai melakukan penelitian. Memberikan penjelasan tentang penelitian dan jenis-jenisnya.</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF303</td>
+<td align="left">PENGANTAR SISTEM INFORMASI/<em>INTRODUCTION TO INFORMATION SYSTEMS</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Mempelajaritrend Teknologi Informasi, konsep Sistem Informasi Terkomputerisasi (SIT) dan komponen SI, pemanfaatan SI bagi organisasi, pengantar pembangunan SIT, perumusan prosedur-prosedur bisnis, keamanan informasi, pengantar e-bisnis/<em>e-commerce</em>, pengantar <em>Business Intelligence</em>, pengantar EIS, DSS, <em>cloud computing</em> dan <em>mobile applications</em>.</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF304</td>
+<td align="left">PROYEK SISTEM INFORMASI 1/<em>INFORMATION SYSTEM PROJECT 1</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Mempelajari pendalaman manajemen projek (penyusunan <em>Project Implementation Plan</em>), perumusan lingkup projek untuk organisasi studi kasus, analisis kebutuhan dengan pembuatan <em>prototype</em> penyusunan dokumen spesifikasi sistem (SRS).</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF305</td>
+<td align="left">JARINGAN KOMPUTER/<em>COMPUTER NETWORKS</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Memperkenalkan organisasi yang berkaitan dengan internet; topologi jaringan;<em>layering</em>; komponen-komponen jaringan; aplikasi jaringan; Membangun aplikasi jaringan; lapisan transport – TCP; <em>Reliable data delivery</em>; Lapisan jaringan; <em>Local Area Network</em>; <em>Resource Allocation</em>; <em>Mobility</em>; <em>Multimedia Networking</em>; Memperkenalkan keamanan jaringan; <em>Social Networking</em>; Membangun dan administrasi jaringan LAN.</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF306</td>
+<td align="left">PROYEK INFORMATIKA/<em>INFORMATICS PROJECT</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Mempelajari dan mempraktekkan tahap-tahap rekayasa perangkat lunak termasuk manajemen projek pada sebuah projek perangkat lunak nyata pada skala menengah.</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF401</td>
+<td align="left">SKRIPSI 1/<em>UNDERGRADUATE THESIS 1</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Skripsi 1 merupakan bagian pertama skripsi dengan titik berat pada studi pustaka, pemahaman, pelaporan hasil kerja secara tertulis dan lisan. Topik ditentukan bersama dosen pembimbing.</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF402</td>
+<td align="left">SKRIPSI 2/<em>UNDERGRADUATE THESIS 2</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Skripsi 2 merupakan bagian kedua skripsi, pendalaman topik dan hasil kerja lengkap bentuk tulisan yang baik dan standar, juga secara lisan. Topik ditentukan bersama dosen pembimbing.</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF403</td>
+<td align="left">KOMPUTER &amp; MASYARAKAT/<em>COMPUTER &amp; SOCIETY</em></td>
+</tr>
+<tr class="even">
+<td align="left">Lulus 72 SKS</td>
+<td align="left">Menganalisis dan mengkritisi peran, kedudukan dan peluang dalam bidang TIK. Memberi pemahaman mengenai pentingnya peran TIK sebagai “process enabler” dan “process improvement driver”, serta memperkenalkan isu-isu teknologi &amp; non-teknologi yang penting dalam bidang TIK. Prasyarat : sudah lulus 72 SKS.</td>
+</tr>
+<tr class="odd">
+<td align="left">AIF405</td>
+<td align="left">PROYEK SISTEM INFORMASI 2/<em>INFORMATION SYSTEM PROJECT 2</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Mempelajari perancangan sistem informasi untuk organisasi studi kasus, implementasi sistem secara gadual, pengujian modul, integrasi dan penerimaan <em>user</em> (UAT).</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS100</td>
+<td align="left">MATEMATIKA INFORMATIKA/<em>MATHEMATICS FOR INFORMATICS</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Mempelajari pengetahuan dasar matematika yang diperlukan dalama menyelesaikan masalah informatika yang terdiri dari: Sistem Bilangan Real dan Nilai Mutlak, Fungsi dan Limit, Turunan, Integral, Sistem Persamaan Linear dan Matriks, Determinan, Vektor 2 dan 3 Dimensi.</td>
+</tr>
+<tr class="odd">
+<td align="left">AMS200</td>
+<td align="left">PROBABILITAS &amp; STATISTIKA/<em>PROBABILITY &amp; STATISTICS</em></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Mempelajari konsep-konsep dasar dalam teori peluang dan statistika.</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
