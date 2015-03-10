@@ -303,17 +303,17 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |---------------|-------------------------------|
 |AMS121		|KALKULUS 1 (*CALCULUS 1*)	|
 |		|Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan konsep dasar dari integral.|
-|AMS123		|PEMECAHAN  MASALAH  MATEMATIKA (MATHEMATICAL PROBLEM SOLVING)|
-|		|Menebak dan mengumpulkan data dalam problem solving, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.|
+|AMS123		|PEMECAHAN  MASALAH  MATEMATIKA (*MATHEMATICAL PROBLEM SOLVING*)|
+|		|Menebak dan mengumpulkan data dalam *problem solving*, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.|
 |AMS151		|STATISTIKA ELEMENTER (*ELEMENTARY STATISTICS*)|
 |		|Statistik deskriptif, peluang, distribusi peluang diskret dan kontinu, distribusi sampling, penaksiran parameter, uji hipotesis, korelasi dan regresi, khi kuadrat, analisis variansi,  SPSS, Minitab.|
 |AMS122		|KALKULUS 2 (*CALCULUS 2*)	|
 |AMS121		|Fungsi transenden, teknik pengintegralan dan penggunaannya, persamaan diferensial dan deret tak hingga.|
 |AMS124		|MATEMATIKA DISKRET (*DISCRETE MATHEMATICS*)|
-|AMS123		|Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (counting), dan teori graf.|
+|AMS123		|Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (*counting*), dan teori graf.|
 |AMS126		|ALJABAR MATRIKS (*Matrix Algebra*)	|
 |		|Sistem persamaan linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen.|
-|AMS221		|KALKULUS  VEKTOR (VECTOR CALCULUS)	|
+|AMS221		|KALKULUS  VEKTOR (*VECTOR CALCULUS*)	|
 |AMS122		|Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.|
 
 ![](images/Lampiran_BAB2_1.png)
@@ -329,7 +329,7 @@ Gambar 1. Peta dan Prasyarat Mata kuliah Program Studi Matematika
 |AMS253		|KOMPUTASI STATISTIKA (*STATISTICAL COMPUTATION*)|
 |APS181, AMS151	|Pengenalan dan dasar-dasar pemrograman dalam R, Statistika Deskriptif dengan R, Deskripsi Populasi, Selang Kepercayaan dan Uji Hipotesis, Distribusi dan Estimasi Distribusi, Integrasi Monte Carlo dan Metoda Monte Carlo untuk Inferensi.|
 |AMS271		|METODA MATEMATIKA (*MATHEMATICAL METHODS*)	|
-|AMS122		|Persamaan Bessel dan Legendre, aproksimasi fungsi, analisis Fourier, transformasi Laplace, pengantar sistem diskrit, dan Discrete Fourier Transform.|
+|AMS122		|Persamaan Bessel dan Legendre, aproksimasi fungsi, analisis Fourier, transformasi Laplace, pengantar sistem diskrit, dan *Discrete Fourier Transform*.|
 |AMS222		|ALJABAR LINEAR (*LINEAR ALGEBRA*)|
 |AMS126		|Persamaan linear dan matriks, ruang vektor, determinan, transformasi linear dan nilai eigen, norm dan hasil kali dalam.|
 |AMS252		|STATISTIKA  MATEMATIKA (*MATHEMATICAL STATISTICS*)	|
@@ -469,7 +469,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 
 ### 2.6.2 Mata kuliah Pilihan Program Studi Fisika
 
-Lain-lain
+**Lain-lain**
 
 |KODE	|NAMA					|SKS	|
 |-------|---------------------------------------|-------|
@@ -477,7 +477,7 @@ Lain-lain
 |APS302	|Dunia Digital dan Sains		|2	|
 |APS 303|Didaktika Umum				|3	|
 
-Kelompok Fisika Teoretik
+**Kelompok Fisika Teoretik**
 
 |KODE	|NAMA					|SKS	|
 |-------|---------------------------------------|-------|
@@ -492,7 +492,7 @@ Kelompok Fisika Teoretik
 |APS428	|Teori Medan Kuantum			|3	|
 |APS429	|KapSel. Fisika Teori			|3	|
 
-Kelompok Fisika Komputasi, Elektronika dan Instrumentasi
+**Kelompok Fisika Komputasi, Elektronika dan Instrumentasi**
 
 |KODE	|NAMA					|SKS	|
 |-------|---------------------------------------|-------|
@@ -502,7 +502,7 @@ Kelompok Fisika Komputasi, Elektronika dan Instrumentasi
 |APS435	|Pengantar Kontrol Otomatis		|3	|
 |APS436	|KapSel. Fisika Instrumentasi		|3	|
 
-Kelompok Biofisika
+**Kelompok Biofisika**
 
 |KODE	|NAMA					|SKS	|
 |-------|---------------------------------------|-------|
@@ -512,7 +512,7 @@ Kelompok Biofisika
 |APS458	|Kapita Selekta Biofisika		|3	|
 |APS459	|Kapita Selekta Fisika Kedokteran	|3	|
 
-Kelompok Fisika Material dan Optika
+**Kelompok Fisika Material dan Optika**
 
 |KODE	|NAMA					|SKS	|
 |-------|---------------------------------------|-------|
@@ -527,7 +527,7 @@ Kelompok Fisika Material dan Optika
 |APS448	|Hamburan dan Spektroskopi		|	|
 |APS449	|Kapita Selekta Fisika Material 	|	|
 
-Kelompok Fisika Bumi
+**Kelompok Fisika Bumi**
 
 |KODE	|NAMA					|SKS	|
 |-------|---------------------------------------|-------|
@@ -538,7 +538,7 @@ Kelompok Fisika Bumi
 |APS469	|Kapita Selekta Fisika Bumi		|3	|
 |APS447	|Fisika Laser				|	|
 
-Kelompok Astrofisika
+**Kelompok Astrofisika**
 
 |KODE	|NAMA					|SKS	|
 |-------|---------------------------------------|-------|
@@ -555,7 +555,7 @@ Komposisi Kuliah wajib dan pilihan adalah
   
 Selain itu, mahasiswa dapat mengambil, baik mata kuliah wajib maupun mata kuliah pilihan dari Program Studi Teknik Sipil/Arsitektur/Teknik Industri/Teknik Kimia dan dari Fakultas Ekonomi/Fakultas Hukum/Fakultas Ilmu Sosial dan Ilmu Politik/ Fakultas Filsafat (sejauh masih ada tempat lowong di kelas paralelnya).
 
-Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari seluruh pembelajaran soft-skills berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis (logical consistency), melakukan taksiran (sense of scale), menentukan prioritas, komputasi, bekerjasama, entrepreneurship, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru (open minded), percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
+Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari seluruh pembelajaran *soft-skills* berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis (*logical consistency*), melakukan taksiran (*sense of scale*), menentukan prioritas, komputasi, bekerjasama, *entrepreneurship*, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru (*open minded*), percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
 
 ### 2.6.3 Peta dan Prasyarat Mata kuliah
 
@@ -639,11 +639,12 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 
 ## 2.7 Kurikulum Program Studi Teknik Informatika
 
-### 2.7.1 Sususan mata kuliah
+### 2.7.1 Sususan mata kuliah  
 
-|	|Semester 1			|	|	|
-|-------|-------------------------------|-------|-------|
+- Semester 1
+
 |KODE	|NAMA				|APR	|SKS	|
+|-------|-------------------------------|-------|-------|
 |AIF101	|Pemrograman Berorientasi Objek	|	|6	|
 |AIF103	|Matematika Diskret		|	|3	|
 |AIF105	|Pengantar Informatika		|	|3	|
@@ -652,9 +653,10 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 |MKU010	|Bahasa Inggris			|	|2	|
 |	|				|TOTAL	|18	|
 
-|	|Semester 2			|	|	|
-|-------|-------------------------------|-------|-------|
+- Semester 2
+
 |KODE	|NAMA				|APR	|SKS	|
+|-------|-------------------------------|-------|-------|
 |AIF102	|Algoritma dan Struktur Data	|	|4	|
 |AIF104	|Logika Informatika		|	|3	|
 |AIF106	|Sistem Dijital			|	|3	|
@@ -663,9 +665,10 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 |MKU011	|Estetika			|	|2	|
 |	|				|TOTAL	|18	|
 
-|	|Semester 3				|	|	|
-|-------|---------------------------------------|-------|-------|
+- Semester 3
+
 |KODE	|NAMA					|APR	|SKS	|
+|-------|---------------------------------------|-------|-------|
 |AIF201	|Analisis dan Desain Berorientasi Objek	|	|4	|
 |AIF203	|Struktur Diskret			|	|4	|
 |AIF205	|Arsitektur dan Organisasi Komputer	|	|3	|
@@ -674,9 +677,10 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 |MKU012	|Logika					|	|2	|
 |	|					|TOTAL	|18	|
 
-|	|Semester 4				|	|	|
-|-------|---------------------------------------|-------|-------|
+- Semester 4
+
 |KODE	|NAMA					|APR	|SKS	|
+|-------|---------------------------------------|-------|-------|
 |AIF202	|Desain dan Analisis Algoritma		|	|2	|
 |AIF204	|Manajemen Informasi dan Basisdata	|R	|4	|
 |AIF206	|Sistem Operasi				|R	|3	|
@@ -684,9 +688,10 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 |AIF210	|Interaksi Manusia Komputer		|P	|3	|
 |	|					|TOTAL	|18	|
 
-|	|Semester 5			|	|	|
-|-------|-------------------------------|-------|-------|
+- Semester 5
+
 |KODE	|NAMA				|APR	|SKS	|
+|-------|-------------------------------|-------|-------|
 |AIF301	|Pengantar Sistem Cerdas	|	|3	|
 |AIF303	|Pengantar Sistem Informasi	|	|3	|
 |AIF305	|Jaringan Komputer		|	|2	|
@@ -698,9 +703,10 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 |MKU002	|Kewarganegaraan		|	|2	|
 |	|				|TOTAL	|18	|
 
-|	|Semester 6			|	|	|
-|-------|-------------------------------|-------|-------|
+- Semester 6
+
 |KODE	|NAMA				|APR	|SKS	|
+|-------|-------------------------------|-------|-------|
 |AIF302	|Penulisan Ilmiah		|	|2	|
 |AIF304	|Proyek Sistem Informasi 12	|	|3	|
 |AIF306	|Proyek Informatika2		|	|6	|
@@ -711,18 +717,20 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 |AIFXXX	|MK Pilihan			|	|6	|
 |	|				|TOTAL	|18	|
 
-|	|Semester 7			|	|	|
-|-------|-------------------------------|-------|-------|
+- Semester 7
+
 |KODE	|NAMA				|APR	|SKS	|
+|-------|-------------------------------|-------|-------|
 |AIF401	|Skripsi 1			|	|4	|
 |AIF403	|Komputer dan Masyarakat	|	|3	|
 |AIF405	|Proyek Sistem Informasi 22	|	|2	|
 |AIFXXX	|MK Pilihan			|	|12	|
 |	|				|TOTAL	|18	|
 
-|	|Semester 8			|	|	|
-|-------|-------------------------------|-------|-------|
+- Semester 8
+
 |KODE	|NAMA				|APR	|SKS	|
+|-------|-------------------------------|-------|-------|
 |AIF402	|Skripsi 2			|	|6	|
 |AIFXXX	|MK Pilihan			|	|10	|
 |APS402	|Etika Profesi			|	|2	|
@@ -752,7 +760,7 @@ Untuk mahasiswa yang ingin mengambil mata kuliah jalur pemrograman/algoritma yan
  - Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
  - Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
  - Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
-            
+
 ### 2.7.2 Mata Kuliah Pilihan Program Studi Teknik Informatika  
 
 |KODE	|NAMA									|APR	|SKS	|
