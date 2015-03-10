@@ -137,18 +137,18 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 
 ## 2.5 Kurikulum Program Studi Matematika
 
-### 2.5.1 Susunan Mata kuliah
+### 2.5.1 Susunan Mata kuliah  
 
-|	|Semester 1			|	|	|
-|-------|-------------------------------|-------|-------|
-|KODE	|NAMA				|APR	|SKS	|
-|AMS121	|Kalkulus 1			|R	|4	|
-|AMS123	|Pemecahan Masalah Matematika	|	|3	|
-|AMS151	|Statistika Elementer		|	|4	|
-|APS181	|Fisika Dasar			|R,P	|4	|
-|MKU012	|Logika				|R	|2	|
-|MKU010	|Bahasa Inggris			|	|2	|
-|	|				|TOTAL	|19	|
+- **Semester 1**
+| KODE   | NAMA                         | APR   | SKS |
+|--------|------------------------------|-------|-----|
+| AMS121 | Kalkulus 1                   | R     | 4   |
+| AMS123 | Pemecahan Masalah Matematika |       | 3   |
+| AMS151 | Statistika Elementer         |       | 4   |
+| APS181 | Fisika Dasar                 | R,P   | 4   |
+| MKU012 | Logika                       | R     | 2   |
+| MKU010 | Bahasa Inggris               |       | 2   |
+|        |                              | TOTAL | 19  |
 
 |	|Semester 2			|	|	|
 |-------|-------------------------------|-------|-------|
@@ -219,12 +219,10 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 
 ### 2.5.2 MATA KULIAH  PILIHAN PROGRAM STUDI MATEMATIKA
 
-Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliah Pilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
+Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliah Pilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.  
 
-Kelompok Bidang Kajian: Rekayasa Keuangan
-
-Matematika Asuransi
-
+1. Kelompok Bidang Kajian: Rekayasa Keuangan
+ - Matematika Asuransi
 |KODE	|NAMA					|SKS	|
 |-------|---------------------------------------|-------|
 |AMS330	|Pengantar  Matematika Asuransi		|3	|
