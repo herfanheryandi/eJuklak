@@ -218,79 +218,79 @@ Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian 
 
 1. Kelompok Bidang Kajian: Rekayasa Keuangan  
  
-- Matematika Asuransi
+ - Matematika Asuransi
 
-|KODE	|NAMA					|SKS	|
-|-------|---------------------------------------|-------|
-|AMS330	|Pengantar  Matematika Asuransi		|3	|
-|AMS331	|Matematika Asuransi			|3	|
-|AMS431	|Metoda Statistika Asuransi		|3	|
-|AMS432	|Teori Risiko				|3	|
-|AMS430	|Kapita Selekta Matematika Asuransi	|3	|  
+ |KODE	|NAMA					|SKS	|
+ |-------|---------------------------------------|-------|
+ |AMS330	|Pengantar  Matematika Asuransi		|3	|
+ |AMS331	|Matematika Asuransi			|3	|
+ |AMS431	|Metoda Statistika Asuransi		|3	|
+ |AMS432	|Teori Risiko				|3	|
+ |AMS430	|Kapita Selekta Matematika Asuransi	|3	|  
 
-- Matematika Keuangan
+ - Matematika Keuangan
 
-|KODE	|NAMA					|SKS	|
-|-------|---------------------------------------|-------|
-|AMS341	|Komputasi Keuangan			|3	|
-|AMS342	|Matematika Keuangan			|3	|
-|AMS343	|Analisis Deret Waktu			|3	|
-|AMS441	|Teori Manajemen Investasi		|3	|
-|AMS442	|Ekonometrika Keuangan			|3	|
-|AMS440	|Kapita Selekta Matematika Keuangan	|3	|  
+ |KODE	|NAMA					|SKS	|
+ |-------|---------------------------------------|-------|
+ |AMS341	|Komputasi Keuangan			|3	|
+ |AMS342	|Matematika Keuangan			|3	|
+ |AMS343	|Analisis Deret Waktu			|3	|
+ |AMS441	|Teori Manajemen Investasi		|3	|
+ |AMS442	|Ekonometrika Keuangan			|3	|
+ |AMS440	|Kapita Selekta Matematika Keuangan	|3	|  
 
-- Optimasi dan Teori Kontrol
+ - Optimasi dan Teori Kontrol
 
-|KODE	|NAMA					|SKS	|
-|-------|---------------------------------------|-------|
-|AMS361	|Pemrograman NonLinear			|3	|
-|AMS461	|Kontrol Optimum			|3	|
-|AMS462	|Kontrol Linear				|3	|  
+ |KODE	|NAMA					|SKS	|
+ |-------|---------------------------------------|-------|
+ |AMS361	|Pemrograman NonLinear			|3	|
+ |AMS461	|Kontrol Optimum			|3	|
+ |AMS462	|Kontrol Linear				|3	|  
 
-- Statistika & Penelitian Operasional
+ - Statistika & Penelitian Operasional
 
-|KODE	|NAMA					|SKS	|
-|-------|---------------------------------------|-------|
-|AMS352	|Pemrograman Stokastik			|3	|
-|AMS353	|Pengendalian Mutu			|3	|
-|AMS354	|Model  Statistika			|3	|
-|AMS451	|Teori Permainan			|3	|
-|AMS452	|Proyek Pemodelan			|3	|
-|AMS453	|Statistika Multivariat			|3	|
-|AMS454	|Statistika Non Parameter		|3	|
-|AMS455	|Perancangan Percobaan			|3	|
-|AMS456	|Teori Antrian				|3	|
-|AMS457	|Keandalan				|3	|
-|AMS350	|Kapita Selekta Statistika		|3	|
-|AMS450	|Kapita Selekta Penelitian Operasional	|3	|  
+ |KODE	|NAMA					|SKS	|
+ |-------|---------------------------------------|-------|
+ |AMS352	|Pemrograman Stokastik			|3	|
+ |AMS353	|Pengendalian Mutu			|3	|
+ |AMS354	|Model  Statistika			|3	|
+ |AMS451	|Teori Permainan			|3	|
+ |AMS452	|Proyek Pemodelan			|3	|
+ |AMS453	|Statistika Multivariat			|3	|
+ |AMS454	|Statistika Non Parameter		|3	|
+ |AMS455	|Perancangan Percobaan			|3	|
+ |AMS456	|Teori Antrian				|3	|
+ |AMS457	|Keandalan				|3	|
+ |AMS350	|Kapita Selekta Statistika		|3	|
+ |AMS450	|Kapita Selekta Penelitian Operasional	|3	|  
 
-- Matematika Terapan
+ - Matematika Terapan
 
-|KODE	|NAMA					|SKS	|
-|-------|---------------------------------------|-------|
-|AMS471	|Sistem Dinamik				|3	|
-|AMS472	|Matematika Biologi			|3	|
-|AMS371	|Persamaan Diferensial Parsial		|3	|
-|AMS372	|Metoda Matematika Lanjut		|3	|
-|AMS374	|Analisis Numerik			|3	|
-|AMS470	|Kapita Selekta Matematika Terapan	|3	|  
+ |KODE	|NAMA					|SKS	|
+ |-------|---------------------------------------|-------|
+ |AMS471	|Sistem Dinamik				|3	|
+ |AMS472	|Matematika Biologi			|3	|
+ |AMS371	|Persamaan Diferensial Parsial		|3	|
+ |AMS372	|Metoda Matematika Lanjut		|3	|
+ |AMS374	|Analisis Numerik			|3	|
+ |AMS470	|Kapita Selekta Matematika Terapan	|3	|  
 
-1. Lain-lain
+2. Lain-lain
 
-|KODE	|NAMA					|SKS	|
-|-------|---------------------------------------|-------|
-|AMS323	|Geometri				|3	|
-|AMS324	|Teori Bilangan				|3	|
-|AMS344	|Komputasi Saintifik			|3	|
-|AMS421	|Struktur Aljabar			|3	|
-|AMS422	|Kriptografi				|3	|
-|AMS423	|Teori Graf				|3	|
-|AMS424	|Struktur Aljabar Lanjut		|3	|
-|AMS425	|Analisis Lanjut			|3	|
-|AMS480	|Kapita Selekta Pembelajaran Matematika	|3	|
-|AMS381	|Inovasi Pembelajaran Matematika	|3	|
-|AMS382	|Pembelajaran Matematika Sekolah	|3	|
-|AMS481	|Kerja Praktek				|3	|
+ |KODE	|NAMA					|SKS	|
+ |-------|---------------------------------------|-------|
+ |AMS323	|Geometri				|3	|
+ |AMS324	|Teori Bilangan				|3	|
+ |AMS344	|Komputasi Saintifik			|3	|
+ |AMS421	|Struktur Aljabar			|3	|
+ |AMS422	|Kriptografi				|3	|
+ |AMS423	|Teori Graf				|3	|
+ |AMS424	|Struktur Aljabar Lanjut		|3	|
+ |AMS425	|Analisis Lanjut			|3	|
+ |AMS480	|Kapita Selekta Pembelajaran Matematika	|3	|
+ |AMS381	|Inovasi Pembelajaran Matematika	|3	|
+ |AMS382	|Pembelajaran Matematika Sekolah	|3	|
+ |AMS481	|Kerja Praktek				|3	|
 
 Sangat terbuka bagi seluruh mahasiswa untuk menempuh mata kuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara mata kuliah tersebut. Adapun persyaratan Mata Kuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh mata kuliah pilihan Bidang Kajian minimal 15 sks.
 
