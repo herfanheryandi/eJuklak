@@ -70,7 +70,8 @@ Sebagai sebuah lembaga ilmiah, misi UNPAR adalah melaksanakan
 sesuai dengan sesanti *Bakuning Hyang Mrih Guna Santyaya Bhakti*, yang berarti Berdasarkan Ketuhanan Menuntut Ilmu untuk Dibaktikan kepada Masyarakat. Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS UNPAR.
 
 ### 1.2.1 Visi FTIS  
-Visi FTIS 2020 adalah sebagai berikut: 
+Visi FTIS 2020 adalah sebagai berikut:  
+
 > Menjadikan FTIS UNPAR sebagai suatu komunitas akademik beriman yang dapat mengembangkan bidang-bidang teknologi informasi   dan sains dengan mengangkat potensi lokal pada tataran internasional untuk peningkatan martabat manusia.
         
 FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu masyarakat yang secara cerdas dan kritis senantiasa mencari, menjunjung tinggi, dan menyebarluaskan kebenaran. Hal ini merupakan perwujudan dari keyakinan kepada Tuhan Yang Maha Esa, sesuai dengan sesanti UNPAR *Bakuning Hyang Mrih Guna Santyaya Bhakti*.
