@@ -23,7 +23,7 @@ Untuk mata kuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
 
 1. Bila mata kuliah tersebut memiliki prasyarat, mahasiswa dari prodi lain tidak perlu memenuhi prasyarat tersebut.
 2. Mata kuliah pilihan dan mata kuliah di prodi lain yang ekuivalen dengannya, hanya dapat diperhitungkan salah       satunya.
-    
+
 ## 2.2 Mata Kuliah Prasyarat
 
 Mata kuliah prasyarat adalah mata kuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu mata kuliah tertentu. Berkaitan dengan hal ini, terdapat tiga kategori:  
@@ -31,7 +31,7 @@ Mata kuliah prasyarat adalah mata kuliah yang harus ditempuh seorang mahasiswa s
 1. Prasyarat tempuh, artinya mata kuliah tersebut telah terdaftar dalam rencana studi mahasiswa yang bersangkutan dan bernilai akhir A, B, C, D,atau E, walaupun tentunya kelulusan akan sangat menunjang penempuhan mata kuliah berikutnya.
 2. Prasyarat lulus, artinya mahasiswa harus lulus mata kuliah prasyarat tersebut terlebih dahulu. Pada umumnya syarat kelulusan adalah nilai akhir minimum D, meskipun ada juga yang lebih tinggi. Silahkan melihat silabus mata kuliah ybs. untuk keterangan lebih lanjut.
 3. Mahasiswa di luar prodi penyelenggara mata kuliah tidak wajib memenuhi prasyarat ini.
-   
+
 ## 2.3 Mata Kuliah Layanan
 
 Mata kuliah layanan adalah mata kuliah yang dibina oleh prodi yang ada di FTIS untuk memenuhi kebutuhan mata kuliah pada prodi lain di lingkungan UNPAR. 
@@ -41,7 +41,7 @@ Mata kuliah layanan adalah mata kuliah yang dibina oleh prodi yang ada di FTIS u
 | Kode   | Mata Kuliah                 | SKS |  Prodi yang dilayani |
 |--------|-----------------------------|-----|----------------------|
 | AMS100 | Matematika Informatika      | 4   | Teknik Informatika   |
-| AMS200 | Probabilitas dan Statistika | 3   |  Teknik Informatika  |
+| AMS200 | Probabilitas dan Statistika | 3   | Teknik Informatika   |
 | AMS107 | Fisika Matematika 1         | 4   | Fisika               |
 | AMS108 | Fisika Matematika 2         | 4   | Fisika               |
 | AMS103 | Kalkulus I                  | 2   | Teknik Industri      |
