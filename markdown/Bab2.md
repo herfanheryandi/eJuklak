@@ -304,17 +304,17 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |KODE MK	|NAMA & DESKRIPSI MATA KULIAH	|
 |---------------|-------------------------------|
 |AMS121		|KALKULUS 1 (*CALCULUS 1*)	|
-|		|Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan konsep dasar dari integral.|
+|-		|Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan konsep dasar dari integral.|
 |AMS123		|PEMECAHAN  MASALAH  MATEMATIKA (*MATHEMATICAL PROBLEM SOLVING*)|
-|		|Menebak dan mengumpulkan data dalam *problem solving*, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.|
+|-		|Menebak dan mengumpulkan data dalam *problem solving*, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.|
 |AMS151		|STATISTIKA ELEMENTER (*ELEMENTARY STATISTICS*)|
-|		|Statistik deskriptif, peluang, distribusi peluang diskret dan kontinu, distribusi sampling, penaksiran parameter, uji hipotesis, korelasi dan regresi, khi kuadrat, analisis variansi,  SPSS, Minitab.|
+|-		|Statistik deskriptif, peluang, distribusi peluang diskret dan kontinu, distribusi sampling, penaksiran parameter, uji hipotesis, korelasi dan regresi, khi kuadrat, analisis variansi,  SPSS, Minitab.|
 |AMS122		|KALKULUS 2 (*CALCULUS 2*)	|
 |AMS121		|Fungsi transenden, teknik pengintegralan dan penggunaannya, persamaan diferensial dan deret tak hingga.|
 |AMS124		|MATEMATIKA DISKRET (*DISCRETE MATHEMATICS*)|
 |AMS123		|Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (*counting*), dan teori graf.|
 |AMS126		|ALJABAR MATRIKS (*Matrix Algebra*)	|
-|		|Sistem persamaan linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen.|
+|-	|Sistem persamaan linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen.|
 |AMS221		|KALKULUS  VEKTOR (*VECTOR CALCULUS*)	|
 |AMS122		|Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.|
 
@@ -878,7 +878,7 @@ Gambar 3. Peta dan Prasyarat Mata Kuliah Program Studi Teknik Informatika
 |AIF210		|INTERAKSI MANUSIA KOMPUTER/*HUMAN-COMPUTER INTERACTION*	|
 |		|Mempelajari konsep-konsep interaksi manusia dan komputer serta mengimplementasikan dalam bentuk pemrograman di lingkungan GUI dan event driven).|
 |AIF294		|MANAJEMEN INFORMASI & BASIS DATA/*INFORMATION MANAGEMENT & DATABASES*|
-|		|Mengajarkan konsep dan macam-macam Sistem Manajemen Basis Data (DBMS), pengenalan basis data sederhana mulai dari spreadsheet, merancang dan memodelkan basis data menggunakan ER-D,implementasi tabel, penyimpanan data multimedia, serta cara penggunaan sintaks-sintaks SQL pada DBMS.|
+|		|Mengajarkan konsep dan macam-macam Sistem Manajemen Basis Data (DBMS), pengenalan basis data sederhana mulai dari spreadsheet, merancang dan memodelkan basis data menggunakan ER-D, implementasi tabel, penyimpanan data multimedia, serta cara penggunaan sintaks-sintaks SQL pada DBMS.|
 |AIF301		|PENGANTAR SISTEM CERDAS/*INTRODUCTION TO INTELLIGENT SYSTEMS*|
 |		|KMempelajari definisi, karakteristikagen cerdas, *blind search, informed search, local search, adversarial search*, representasi pengetahuan dengan *Propositional Logic* dan *First Order Logic*, agen cerdas berbasis logika, *planning*, penanganan ketidakpastian, pembelajaran mesin.|
 |AIF302		|PENULISAN ILMIAH/*SCIENTIFIC WRITING*	|
@@ -888,7 +888,7 @@ Gambar 3. Peta dan Prasyarat Mata Kuliah Program Studi Teknik Informatika
 |AIF304		|PROYEK SISTEM INFORMASI 1/*INFORMATION SYSTEM PROJECT 1*	|
 |		|Mempelajari pendalaman manajemen projek (penyusunan *Project Implementation Plan*), perumusan lingkup projek untuk organisasi studi kasus, analisis kebutuhan dengan pembuatan *prototype* penyusunan dokumen spesifikasi sistem (SRS).|
 |AIF305		|JARINGAN KOMPUTER/*COMPUTER NETWORKS*	|
-|		|Memperkenalkan organisasi yang berkaitan dengan internet; topologi jaringan;*layering*; komponen-komponen jaringan; aplikasi jaringan; Membangun aplikasi jaringan; lapisan transport – TCP; *Reliable data delivery*; Lapisan jaringan; *Local Area Network*; *Resource Allocation*; *Mobility*; *Multimedia Networking*;Memperkenalkan keamanan jaringan; *Social Networking*;  Membangun dan administrasi jaringan LAN.|
+|		|Memperkenalkan organisasi yang berkaitan dengan internet; topologi jaringan;*layering*; komponen-komponen jaringan; aplikasi jaringan; Membangun aplikasi jaringan; lapisan transport – TCP; *Reliable data delivery*; Lapisan jaringan; *Local Area Network*; *Resource Allocation*; *Mobility*; *Multimedia Networking*; Memperkenalkan keamanan jaringan; *Social Networking*; Membangun dan administrasi jaringan LAN.|
 |AIF306		|PROYEK INFORMATIKA/*INFORMATICS PROJECT*	|
 |		|Mempelajari dan mempraktekkan tahap-tahap rekayasa perangkat lunak termasuk manajemen projek pada sebuah projek perangkat lunak nyata pada skala menengah.|
 |AIF401		|SKRIPSI 1/*UNDERGRADUATE THESIS 1*	|
