@@ -35,6 +35,8 @@ public class MainActivity extends ActionBarActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        getActionBar().setDisplayShowHomeEnabled(false);
+        getActionBar().setDisplayShowTitleEnabled(false);
         setContentView(R.layout.activity_main);
         //Code here
         
@@ -79,9 +81,8 @@ public class MainActivity extends ActionBarActivity {
         };
          
         drLayout.setDrawerListener(drToggle);
-         
-       getActionBar().setDisplayHomeAsUpEnabled(true);
-       getActionBar().setHomeButtonEnabled(true);
+        getActionBar().setDisplayHomeAsUpEnabled(true);
+        getActionBar().setHomeButtonEnabled(true);
     }
     
     
@@ -124,6 +125,7 @@ public class MainActivity extends ActionBarActivity {
      
     private void selectItem(int position) {
     	webView.loadUrl(HTMLPath+ "#" + headers[position].getID());
+    	drLayout.closeDrawers();
     }
 
     @Override
