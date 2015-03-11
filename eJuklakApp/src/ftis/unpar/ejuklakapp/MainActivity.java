@@ -6,18 +6,14 @@ import java.util.LinkedList;
 
 import org.apache.commons.lang3.StringUtils;
 
-import android.app.Fragment;
-import android.app.FragmentManager;
 import android.content.res.AssetManager;
 import android.os.Bundle;
 import android.support.v4.app.ActionBarDrawerToggle;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.webkit.WebView;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
@@ -36,16 +32,15 @@ public class MainActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         getActionBar().setDisplayShowHomeEnabled(false);
-        getActionBar().setDisplayShowTitleEnabled(false);
+        //getActionBar().setDisplayShowTitleEnabled(false);
         setContentView(R.layout.activity_main);
         //Code here
         
         /*WEBVIEW*/
-        HTMLName = "BAB-1.html";
+        HTMLName = "eJuklak_FTIS.html";
         HTMLPath = "file:///android_asset/" + HTMLName;
         webView = new ViewFragment(HTMLPath);
-        FragmentManager fragmentManager = getFragmentManager();
-        fragmentManager.beginTransaction().replace(R.id.content_frame, webView).commit();
+        getFragmentManager().beginTransaction().replace(R.id.content_frame, webView).commit();
         
         /*NAVIGATION DRAWER*/ 
         headers = this.getHTMLHeaders();
@@ -128,9 +123,8 @@ public class MainActivity extends ActionBarActivity {
     private void selectItem(int position) {
     	//webView.loadUrl(HTMLPath+ "#" + headers[position].getID());
     	//Fragment fragment = new ViewFragment(HTMLPath+"#"+headers[position].getID());
-    	webView.loadURL(HTMLPath+"#"+headers[position].getID());
-    	FragmentManager fragmentManager = getFragmentManager();
-        fragmentManager.beginTransaction().replace(R.id.content_frame, webView).commit();
+    	webView.viewID(headers[position].getID());
+    	getFragmentManager().beginTransaction().replace(R.id.content_frame, webView).commit();
         drList.setItemChecked(position, true);
         drList.setSelection(position);
     	drLayout.closeDrawers();
@@ -149,9 +143,9 @@ public class MainActivity extends ActionBarActivity {
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
-        /*if (id == R.id.action_settings) {
+        if (id == R.id.action_settings) {
             return true;
-        }*/
+        }
         if (drToggle.onOptionsItemSelected(item)) {
             return true;
         }

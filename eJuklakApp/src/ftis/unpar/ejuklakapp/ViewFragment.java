@@ -23,8 +23,8 @@ public class ViewFragment extends Fragment{
         return rootView;
     }
 	
-	public void loadURL(String newPath){
-		webView.loadUrl(newPath); 
+	public void viewID(String namePath){
+		webView.loadUrl(HTMLPath+"#"+namePath); 
 	}
 	
 	
