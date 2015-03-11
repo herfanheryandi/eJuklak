@@ -1,7 +1,7 @@
 **PETUNJUK PELAKSANAAN KEGIATAN AKADEMIK TAHUN 2014/2015**
 
 
-![alt text](images/unpar.png "Logo UNPAR")
+![Logo UNPAR](images/unpar.png "Logo UNPAR")
 
 
 
@@ -21,6 +21,9 @@ ftis@unpar.ac.id
 * Luciana Abednego
 * Pranyoto Teguh Imanto
 * Thomas Anung Basuki  
+
+
+Copyright © 2014 FTIS UNPAR
 
 # KATA PENGANTAR DEKAN FAKULTAS TEKNOLOGI INFORMASI DAN SAINS UNPAR
 
@@ -46,9 +49,9 @@ Perubahan nama FMIPA menjadi Fakultas Teknologi Informasi dan Sains (FTIS) terja
     
 Ketiga program studi tersebut saat ini telah memperoleh status akreditasi dari Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) dengan rincian sebagai berikut :
 
-* Program Studi Matematika memperoleh status akreditasi dengan peringkat A (Amat baik) berdasarkan Keputusan BAN-PT Nomor029/BAN-PT/Ak-XIII/S1/XI/2010 tertanggal 3 Desember 2010 dengan masa berlaku hingga 3 Desember 2015. 
+* Program Studi Matematika memperoleh status akreditasi dengan peringkat A (Amat baik) berdasarkan Keputusan BAN-PT Nomor029/BAN-PT/AK-XIII/S1/XI/2010 tertanggal 3 Desember 2010 dengan masa berlaku hingga 3 Desember 2015. 
 * Program Studi Fisika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor036/BAN-PT/AK-XIII/S1/I/2011 tertanggal 7 Januari 2011 dengan masa berlaku hingga 7 Januari 2016.
-* Program Studi Teknik Informatika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor 042/BAN-PT/Ak-XIII/S1/I/2011 tertanggal 21 Januari 2011 dengan masa berlaku hingga 21 Januari 2016
+* Program Studi Teknik Informatika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor 042/BAN-PT/AK-XIII/S1/I/2011 tertanggal 21 Januari 2011 dengan masa berlaku hingga 21 Januari 2016
     
 Ketiga program studi yang sekarang berada dalam naungan FTIS ini dilaksanakan berdasarkan suatu kurikulum yang berbobot 144 sks (satuan kredit semester) dengan rincian selanjutnya akan diuraikan pada bagian berikutnya.
      
@@ -122,14 +125,14 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 ## 1.4 Pengelolah Fakultas  
 
 1. Senat FTIS 
- - Ketua : Agus Sukmana,SSi,MSc  
+ - Ketua : Agus Sukmana, SSi, MSc  
  - Sekretaris : Philips Nicolas Gunawidjaja, BSc, PhD
 
 2. Dekanat 
  - Dekan : Paulus Cahyono Tjiang, SSi, PhD.  
  - WD 1 (Akademik) : Dr. Thomas Anung Basuki  
  - WD II (Keuangan dan Sumberdaya) : Maria Anestasia, SSi, MSi  
- - WD III (Kemahasiswaan dan Alumni) : Dr.rer.nat. Cecilia E.Nugraheni,ST,MT  
+ - WD III (Kemahasiswaan dan Alumni) : Dr.rer.nat. Cecilia E.Nugraheni, ST, MT  
  
 3. Program Studi Matematika  
  - Ketua : Dr. Ferry Jaya Permana  
@@ -137,7 +140,7 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
  
 4. Program Studi Fisika  
  - Ketua : Philips Nicolas Gunawidjaja, BSc, PhD  
- - KaLab. Fisika : Dasar	Risti Suryantari, S.Si., M.Si.  
+ - KaLab. Fisika Dasar : Risti Suryantari, S.Si., M.Si.  
  - KaLab. Elektronika & Fisika Lanjut : Janto V. Sulungbudi, Drs.
 
 5. Program Studi Teknik Informatika  
@@ -379,7 +382,7 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 ### 2.4.2 Uraian Singkat Mata Kuliah Umum  
 
 
-| KODE MK   	|NAMA DAN DESKRIPSI MATA KULIAH                	|
+| KODE MK   	|NAMA & DESKRIPSI MATA KULIAH                	|
 |---------------|-----------------------------------------------|
 |MKU001 	|PENDIDIKAN PANCASILA/*PANCASILA EDUCATION*	| 
 |		|Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian (*character building*) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila.		| 
@@ -416,7 +419,8 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 | APS181 | Fisika Dasar                 | R,P   | 4   |
 | MKU012 | Logika                       | R     | 2   |
 | MKU010 | Bahasa Inggris               |       | 2   |
-|        |                              | TOTAL | 19  |  
+
+TOTAL SKS = 19
 
 **Semester 2**
 
@@ -429,7 +433,8 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 | MKU011 | Estetika             |       | 2   |
 | MKU003 | Agama Katolik +      |       | 2   |
 | MKU004 | Fenomologi Agama +   |       | 2   |
-|        |                      | TOTAL | 19  |  
+
+TOTAL SKS = 19 
 
 **Semester 3**
 
@@ -441,7 +446,8 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 | AMS253 | Komputasi Statistika |       | 2   |
 | AMS271 | Metoda Matematika    |       | 3   |
 | MKU008 | Etika                | R     | 2   |
-|        |                      | TOTAL | 18  |  
+
+TOTAL SKS = 18  
 
 **Semester 4**
 
@@ -452,7 +458,8 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 | AMS 261 | Optimasi                    |       | 4   |
 | AMS 272 | Persamaan Diferensial Biasa |       | 4   |
 | AMS 273 | Komputasi Matematika        |       | 2   |
-|         |                             | TOTAL | 18  |  
+
+TOTAL SKS = 18 
 
 **Semester 5**
 
@@ -463,7 +470,8 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 | AMS373 | Metoda Numerik             |       | 3   |
 | MKU002 | Pendidikan Kewarganegaraan |       | 2   |
 | ABCXYZ | Pilihan                    |       | 6   |
-|        |                            | TOTAL | 19  |  
+
+TOTAL SKS = 18 
 
 **Semester 6**
 
@@ -472,7 +480,8 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 | AMS322 | Analisis Real    | R     | 4   |
 | MKU009 | Bahasa Indonesia |       | 2   |
 | ABCXYZ | Pilihan          |       | 12  |
-|        |                  | TOTAL | 18  |  
+
+TOTAL SKS = 18  
 
 **Semester 7**
 
@@ -482,7 +491,8 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 | AMS491 | Pemodelan Matematika |       | 4   |
 | MKU001 | Pancasila            |       | 2   |
 | ABCXYZ | Pilihan              |       | 9   |
-|        |                      | TOTAL | 18  |  
+
+TOTAL SKS = 18  
 
 **Semester 8**
 
@@ -490,7 +500,8 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 |--------|---------|-------|-----|
 | AMS499 | Skripsi |       | 6   |
 | ABCXYZ | Pilihan |       | 9   |
-|        |         | TOTAL | 15  |
+
+TOTAL SKS = 15
 
 
 ### 2.5.2 MATA KULIAH  PILIHAN PROGRAM STUDI MATEMATIKA
