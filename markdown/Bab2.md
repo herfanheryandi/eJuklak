@@ -36,7 +36,7 @@ Mata kuliah prasyarat adalah mata kuliah yang harus ditempuh seorang mahasiswa s
 
 Mata kuliah layanan adalah mata kuliah yang dibina oleh prodi yang ada di FTIS untuk memenuhi kebutuhan mata kuliah pada prodi lain di lingkungan UNPAR. 
 
-### 2.3.1 KULIAH LAYANAN PROGRAM STUDI TEKNIK METEMATIKA
+### 2.3.1 KULIAH LAYANAN PROGRAM STUDI METEMATIKA
 
 | Kode   | Mata Kuliah                 | SKS |  Prodi yang dilayani |
 |--------|-----------------------------|-----|----------------------|
@@ -55,7 +55,7 @@ Mata kuliah layanan adalah mata kuliah yang dibina oleh prodi yang ada di FTIS u
 | AMS201 | Matematika 3                | 3   | Teknik Sipil         |
 | AMS202 | Matematika 4                | 3   | Teknik Sipil         |
 
-### 2.3.2 KULIAH LAYANAN PROGRAM STUDI TEKNIK FISIKA
+### 2.3.2 KULIAH LAYANAN PROGRAM STUDI FISIKA
 
 | Kode    | Mata Kuliah            | SKS | Prodi yang dilayani |
 |---------|------------------------|-----|---------------------|
@@ -97,9 +97,8 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 ### 2.4.2 Uraian Singkat Mata Kuliah Umum  
 
 
-| NAMA MK   	|NAMA MATA KULIAH                		|
+| KODE MK   	|NAMA DAN DESKRIPSI MATA KULIAH                	|
 |---------------|-----------------------------------------------|
-| PRASYARAT   	|DESPRKIPSI MATA KULIAH           		|
 |MKU001 	|PENDIDIKAN PANCASILA/*PANCASILA EDUCATION*	| 
 |		|Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian (*character building*) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila.		| 
 | MKU002	 |PENDIDIKAN KEWARGANEGARAAN/*CIVIC*	        | 	
