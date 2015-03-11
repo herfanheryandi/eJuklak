@@ -1154,7 +1154,7 @@ Gambar 3. Peta dan Prasyarat Mata Kuliah Program Studi Teknik Informatika
 |		|Mempelajari cara kerja antar bagian komputer dan arsitektur komputer, cara kerja dari komponen-komponen komputer, dan perkembangan arsitektur komputer modern.|
 |AIF206		|SISTEM OPERASI/*OPERATING SYSTEMS*	|
 |		|Mempelajari pengertian sistem operasi, peran dan fungsinya dalam sebuah sistem perangkat keras, khususnya komputer. Mempelajari prinsip-prinsip, teknik dan algoritma yang digunakan di dalam sebuah sistem operasi, penjadwalan, dan aspek keamanan dalam sistem operasi. Memperkenalkan dan menggunakan lebih dalam beberapa sistem operasi yang umum.|
-|AIF208		|REKAYASA PERANGKAT LUNAK/*REKAYASA PERANGKAT LUNAK*	|
+|AIF208		|REKAYASA PERANGKAT LUNAK/*SOFTWARE ENGINEERING*	|
 |		|Mempelajari terminologi, definisi, Software Process Model, review paradigma berorientasi objek, kebutuhan perangkat lunak, *use case modeling, class modelling, dynamic modelling: state transition diagram, sequence diagram, activity diagram, reusability dan design pattern, data flow diagram, testing, software process management*.|
 |AIF210		|INTERAKSI MANUSIA KOMPUTER/*HUMAN-COMPUTER INTERACTION*	|
 |		|Mempelajari konsep-konsep interaksi manusia dan komputer serta mengimplementasikan dalam bentuk pemrograman di lingkungan GUI dan event driven).|
