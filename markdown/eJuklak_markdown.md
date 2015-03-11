@@ -362,7 +362,7 @@ Mata kuliah layanan adalah mata kuliah yang dibina oleh prodi yang ada di FTIS u
 
 Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi. 
 
-### 2.4.1 Susunan Mata kuliah Umum
+### 2.4.1 Susunan Mata Kuliah Umum
 
 | Kode   | Mata Kuliah                | SKS |
 |--------|----------------------------|-----|
@@ -750,7 +750,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 |9	|Seminar dan Skripsi	|
 |10	|Kuliah Dasar, Keterampilan Umum, Lain-Lain	|
 
-### 2.6.2 Mata kuliah Pilihan Program Studi Fisika
+### 2.6.2 Mata Kuliah Pilihan Program Studi Fisika
 
 **Lain-lain**
 
@@ -840,11 +840,11 @@ Selain itu, mahasiswa dapat mengambil, baik mata kuliah wajib maupun mata kuliah
 
 Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari seluruh pembelajaran *soft-skills* berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis (*logical consistency*), melakukan taksiran (*sense of scale*), menentukan prioritas, komputasi, bekerjasama, *entrepreneurship*, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru (*open minded*), percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
 
-### 2.6.3 Peta dan Prasyarat Mata kuliah
+### 2.6.3 Peta dan Prasyarat Mata Kuliah
 
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 
-### 2.6.4 Deskripsi Singkat Mata kuliah Program Studi Fisika
+### 2.6.4 Deskripsi Singkat Mata Kuliah Program Studi Fisika
 
 |KODE MK	|NAMA & DESKRIPSI MATA KULIAH	|
 |---------------|-------------------------------|
@@ -924,7 +924,7 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 
 ## 2.7 Kurikulum Program Studi Teknik Informatika
 
-### 2.7.1 Sususan mata kuliah  
+### 2.7.1 Sususan Mata Kuliah  
 
 **Semester 1**
 
@@ -1122,7 +1122,7 @@ Aturan tambahan :
 
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
 
-### 2.7.4 Deskripsi Matakuliah
+### 2.7.4 Deskripsi Mata Kuliah
 |KODE MK	|NAMA & DESKRIPSI MATA KULIAH	|
 |---------------|-------------------------------|
 |AIF101		|PEMROGRAMAN BERORIENTASI OBJEK/*OBJECT-ORIENTED PROGRAMMING*	|
