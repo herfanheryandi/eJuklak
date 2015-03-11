@@ -1,7 +1,7 @@
 **PETUNJUK PELAKSANAAN KEGIATAN AKADEMIK TAHUN 2014/2015**
 
 
-![alt text](images/unpar.png "Logo UNPAR")
+![Logo UNPAR](images/unpar.png "Logo UNPAR")
 
 
 
