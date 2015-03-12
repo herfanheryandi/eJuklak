@@ -7,6 +7,8 @@ import java.util.LinkedList;
 import org.apache.commons.lang3.StringUtils;
 
 import android.content.res.AssetManager;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.support.v4.app.ActionBarDrawerToggle;
 import android.support.v4.widget.DrawerLayout;
@@ -31,8 +33,7 @@ public class MainActivity extends ActionBarActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        getActionBar().setDisplayShowHomeEnabled(false);
-        //getActionBar().setDisplayShowTitleEnabled(false);
+        //this.getActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#0099ff")));
         setContentView(R.layout.activity_main);
         //Code here
         
@@ -45,6 +46,7 @@ public class MainActivity extends ActionBarActivity {
         /*NAVIGATION DRAWER*/ 
         headers = this.getHTMLHeaders();
         drLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
+        //drLayout.setBackgroundColor(Color.parseColor("#0099ff"));
         drList = (ListView) findViewById(R.id.left_drawer);
         
         DrawerItem[] drawerItem = new DrawerItem[headers.length];
@@ -142,10 +144,10 @@ public class MainActivity extends ActionBarActivity {
         // Handle action bar item clicks here. The action bar will
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-        if (id == R.id.action_settings) {
+        //int id = item.getItemId();
+        /*if (id == R.id.action_settings) {
             return true;
-        }
+        }*/
         if (drToggle.onOptionsItemSelected(item)) {
             return true;
         }
