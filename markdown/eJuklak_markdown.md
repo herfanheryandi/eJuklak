@@ -591,7 +591,7 @@ Sangat terbuka bagi seluruh mahasiswa untuk menempuh mata kuliah di program stud
 ### 2.5.3 PETA DAN PRASYARAT MATA KULIAH
 Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini. 
 
-![Peta dan Prasyarat Matakuliah Program Studi Matematika](images/Lampiran_BAB2_1.png)
+![Peta dan Prasyarat Matakuliah Program Studi Matematika](images/Lampiran_BAB2_1.png "Peta dan Prasyarat Matakuliah Program Studi Matematika")
 
 ### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
 
@@ -863,7 +863,7 @@ Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari selur
 
 Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 
-![Peta dan Prasyarat Mata Kuliah Program Studi Fisika](images/Lampiran_BAB2_2.png)
+![Peta dan Prasyarat Mata Kuliah Program Studi Fisika](images/Lampiran_BAB2_2.png "Peta dan Prasyarat Mata Kuliah Program Studi Fisika")
 
 ### 2.6.4 Deskripsi Singkat Mata Kuliah Program Studi Fisika
 
@@ -1148,7 +1148,7 @@ Aturan tambahan :
 
 Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 
-![Peta dan Prasyarat Mata Kuliah Program Studi Teknik Informatika](images/Lampiran_BAB2_3.png)
+![Peta dan Prasyarat Mata Kuliah Program Studi Teknik Informatika](images/Lampiran_BAB2_3.png "Peta dan Prasyarat Mata Kuliah Program Studi Teknik Informatika")
 
 ### 2.7.4 Deskripsi Mata Kuliah
 |KODE MK	|NAMA & DESKRIPSI MATA KULIAH	|
