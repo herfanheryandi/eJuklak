@@ -10,25 +10,17 @@ Evaluasi keberhasilan belajar mata kuliah adalah penilaian terhadap hasil belaja
 
 Keberhasilan belajar mata kuliah ditetapkan segera setelah mahasiswa **menyelesaikan seluruh Komponen Kegiatan** yang disyaratkan dalam suatu mata kuliah. Kriteria keberhasilan belajar mahasiswa dalam suatu mata kuliah ditetapkan oleh dosen pembina mata kuliah, dengan menaati rambu-rambu dalam SK Rektor dan SK Dekan tersebut di atas. 
 
-Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki **Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut :
+Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki **Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut :  
 
-**Bentuk Kegiatan:**  
-**1. Perkuliahan**  
-- Pelaksanaan Tugas
- * Angka Rata-Rata Tugas (ART): 20% - 40%
-- Tatap Muka
- * Angka Ujian Tengah Semester (AUTS): 30% - 50%
- * Angka Ujian Akhir Semester (AUAS): 30% - 50%
+| BENTUK KEGIATAN       | KOMPONEN KEGIATAN                       | KOMPONEN EVALUASI (ANGKA)               | KOMPONEN EVALUASI (%)                   |
+|-----------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
+| Perkuliahan           | Pelaksanaan Tugas                       | Angka Rata-rata Tugas (ART)             | 20% - 40%                               |
+| Perkuliahan           | Tatap Muka                              | Angka Ujian Tengah Semester (AUTS)      | 30% - 50%                               |
+| Perkuliahan           | Tatap Muka                              | Angka Ujian Akhir Semester (AUAS)       | 30% - 50%                               |
+| Seminar/Studi Mandiri | Partisipasi,Penyusunan Makalah /Laporan | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |
+| Skripsi               | Penyusunan dan Penyajian                | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |  
 
-**2.Seminar/ Studi Mandiri**  
-- Penyajian, Diskusi/Partisipasi,Penyusunan Makalah /Laporan
- * Komponen evaluasi diserahkan ke tiap fakultas atau prodi.
-
-**3. Skripsi**  
-- Penyusunan dan Penyajian
- * Komponen evaluasi diserahkan ke tiap fakultas atau prodi.
-
-Berdasarkan pertimbangan akademik, Dekan dapat mengubah Komponen Evaluasi bagi suatu Bentuk Kegiatan seperti tersebut di atas,  sejauh tidak bertentangan dengan peraturan perundang-undangan yang berlaku.
+Berdasarkan pertimbangan akademik, Dekan dapat mengubah Komponen Evaluasi bagi suatu Bentuk Kegiatan seperti tersebut di atas, sejauh tidak bertentangan dengan peraturan perundang-undangan yang berlaku.
 
 Keberhasilan belajar mahasiswa dalam suatu mata kuliah dinyatakan dengan **Nilai Akhir (NA)** berupa huruf **A**, **B**, **C**, **D**, dan **E**. Nilai Akhir **A**, **B**, **C**, dan **D** berarti **lulus**, sedangkan Nilai Akhir **E** berarti **tidak lulus**.
 
@@ -38,13 +30,13 @@ Apabila seorang mahasiswa tidak dapat memenuhi salah satu komponen evaluasi yang
 
 Konversi **Angka Akhir (AA)** menjadi **Nilai Akhir (NA)** dilakukan dengan **Penilaian Acuan Patokan (PAP)** sebagai berikut :  
 
-|    AA    | NA | Bobot NA |
-|:--------:|:--:|:--------:|
-| 80 – 100 |  A |     4    |
-|  70 – 79 |  B |     3    |
-|  60 – 69 |  C |     2    |
-|  50 – 59 |  D |     1    |
-|  0 – 49  |  E |     0    |  
+| AA       | NA | Bobot NA |
+|----------|----|----------|
+| 80 – 100 | A  | 4        |
+| 70 – 79  | B  | 3        |
+| 60 – 69  | C  | 2        |
+| 50 – 59  | D  | 1        |
+| 0 – 49   | E  | 0        |
 
 Berdasarkan pertimbangan akademik, Dekan FTIS dapat memutuskan untuk melakukan konversi AA menjadi NA dalam suatu mata kuliah tertentu dengan **Penilaian Acuan Normal (PAN)**.
 
@@ -58,9 +50,9 @@ Evaluasi keberhasilan belajar dilakukan secara berkesinambungan, sejak mahasiswa
 4. Evaluasi Keberhasilan Belajar Tahap Akhir
 
 ### 4.2.1 Evaluasi Keberhasilan Belajar Tiap Semester
-Evaluasi keberhasilan belajar tiap semester dilakukan segera setelah mahasiswa menempuh UAS. Evaluasi Keberhasilan Belajar tiap semester ini dinyatakan dalam Indeks Prestasi Semester (IPS) yang mempunyai rentang 0,00 – 4,00 dan dihitung dengan rumus:
+Evaluasi keberhasilan belajar tiap semester dilakukan segera setelah mahasiswa menempuh UAS. Evaluasi Keberhasilan Belajar tiap semester ini dinyatakan dalam **Indeks Prestasi Semester (IPS)** yang mempunyai rentang **0,00 – 4,00** dan dihitung dengan rumus:
 
-dengan (sks × bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. IPS digunakan untuk menetapkan **beban kredit** yang dapat ditempuh mahasiswa pada **semester berikutnya**.
+dengan (sks x bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. IPS digunakan untuk menetapkan **beban kredit** yang dapat ditempuh mahasiswa pada **semester berikutnya**.
 
 ### 4.2.2 Evaluasi Keberhasilan Belajar Tahap Pertama
 Evaluasi Keberhasilan Belajar Tahap Pertama dilakukan **pada akhir 2 (dua) tahun pertama**, atau **pada akhir masa studi terpakai selama 4 (empat) semester**, terhitung sejak yang bersangkutan terdaftar sebagai mahasiswa UNPAR. Evaluasi Keberhasilan Belajar Tahap Pertama dinyatakan dalam **Indeks Prestasi Tahap Pertama (IPT I)**, dengan rentang **0,00 – 4,00**.
