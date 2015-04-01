@@ -42,7 +42,8 @@ Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilk
 
 
 # BAB 1 PENDAHULUAN  
-## 1.1 Sejarah Fakultas Teknologi dan Sains
+## 1.1 Sejarah Fakultas Teknologi dan Sains  
+
 Fakultas Teknologi Informasi dan Sains (FTIS) Universitas Katolik Parahyangan (UNPAR) berawal dari Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA). Pendirian FMIPA telah dikukuhkan dengan terbitnya Surat Keputusan Menteri Pendidikan dan Kebudayaan Republik Indonesia nomor 34/D/O/1993 tanggal 20 April 1993, yang langsung menetapkan status akreditasi "terdaftar" bagi dua program studi FMIPA, yaitu program studi Matematika dan Fisika. Dengan terbitnya Keputusan Direktur Jenderal Pendidikan Tinggi Departemen Pendidikan dan Kebudayaan Republik Indonesia nomor: 420/DIKTI/Kep/1996 tanggal 8 Agustus 1996, ditetapkan status "terdaftar" pula untuk program studi Ilmu Komputer.
 
 Perubahan nama FMIPA menjadi Fakultas Teknologi Informasi dan Sains (FTIS) terjadi karena adanya perubahan nama program studi Ilmu Komputer. Berdasarkan surat Direktur Jenderal Pendidikan Tinggi Departemen Pendidikan Nasional Nomor 4382/D/T/2008 tertanggal 10 Desember 2008 perihal Ralat Perpanjangan Ijin Penyelenggaraan Program Studi pada Universitas Katolik Parahyangan, dari tertulis : jurusan/program studi Ilmu Komputer diharuskan untuk berubah menjadi jurusan/program studi Teknik Informatika. Adanya perubahan nama ini membuat nama FMIPA sebagai naungan bagi Program Studi Teknik Informatika menjadi tidak selaras lagi. Perubahan nama FMIPA menjadi FTIS ini berdasarkan Keputusan Pengurus Yayasan Universitas Katolik Parahyangan Nomor : II/2009-04/05-SK tanggal 1 April 2009.
@@ -57,7 +58,8 @@ Ketiga program studi yang sekarang berada dalam naungan FTIS ini dilaksanakan be
      
  
 
-## 1.2 Visi, Misi, Tujuan, dan Sasaran FTIS
+## 1.2 Visi, Misi, Tujuan, dan Sasaran FTIS  
+
 Visi dan Misi FTIS - UNPAR mengacu pada visi dan misi UNPAR. Visi UNPAR adalah
 
 > Menjadi komunitas akademik humanum yang bersemangat kasih dalam kebenaran untuk  mengembangkan potensi lokal pada
@@ -73,6 +75,7 @@ Sebagai sebuah lembaga ilmiah, misi UNPAR adalah melaksanakan
 sesuai dengan sesanti *Bakuning Hyang Mrih Guna Santyaya Bhakti*, yang berarti Berdasarkan Ketuhanan Menuntut Ilmu untuk Dibaktikan kepada Masyarakat. Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS UNPAR.
 
 ### 1.2.1 Visi FTIS  
+
 Visi FTIS 2020 adalah sebagai berikut:  
 
 > Menjadikan FTIS UNPAR sebagai suatu komunitas akademik beriman yang dapat mengembangkan bidang-bidang teknologi informasi   dan sains dengan mengangkat potensi lokal pada tataran internasional untuk peningkatan martabat manusia.
