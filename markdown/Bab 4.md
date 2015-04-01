@@ -143,5 +143,32 @@ Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal ters
 | Batas akhir pendaftaran wisuda         | Senin, 6 Okt. 2014   | Senin, 2 Feb. 2015  | Kamis, 25 Jun. 2015 |
 | Wisuda                                 | Sabtu, 1 Nov. 2014   | Sabtu, 28 Feb. 2015 | Sabtu, 8 Agt. 2015  |  
 
+# LAMPIRAN 4  
 
+![Lampiran 4](images/Lampiran4_BAB4_1.png)  
+![Lampiran 4](images/Lampiran4_BAB4_2.png) 
+![Lampiran 4](images/Lampiran4_BAB4_3.png) 
+![Lampiran 4](images/Lampiran4_BAB4_4.png) 
+![Lampiran 4](images/Lampiran4_BAB4_5.png) 
+![Lampiran 4](images/Lampiran4_BAB4_6.png)  
+
+# LAMPIRAN 5  
+
+![Lampiran 5](images/Lampiran5_BAB4_1.png)  
+![Lampiran 5](images/Lampiran5_BAB4_2.png)  
+![Lampiran 5](images/Lampiran5_BAB4_3.png)  
+
+# LAMPIRAN 6 
+
+![Lampiran 6](images/Lampiran6_BAB4_1.png)  
+![Lampiran 6](images/Lampiran6_BAB4_2.png)  
+
+# LAMPIRAN 7
+
+![Lampiran 7](images/Lampiran7_BAB4_1.png)  
+![Lampiran 7](images/Lampiran7_BAB4_2.png)  
+![Lampiran 7](images/Lampiran7_BAB4_3.png)  
+![Lampiran 7](images/Lampiran7_BAB4_4.png)  
+![Lampiran 7](images/Lampiran7_BAB4_5.png)  
+![Lampiran 7](images/Lampiran7_BAB4_6.png)  
 
