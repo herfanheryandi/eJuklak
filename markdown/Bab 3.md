@@ -22,18 +22,19 @@ Dalam menentukan mata kuliah yang akan diambil, dapat digunakan pedoman berikut:
 2. Memprioritaskan mata kuliah semester lebih awal yang **belum lulus**. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi mata kuliah yang memprasyaratkannya.
 3. Memprioritaskan mata kuliah menjadi **prasyarat** (baik prasyarat tempuh atau pun prasyarat *lulus*) bagi mata kuliah lain.
 4. Memperhatikan **jadwal kuliah dan ujian** yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan mata kuliah-mata kuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
-5. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No.III/PRT/2011-11/211 sebagai berikut :
+5. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No.III/PRT/2011-11/211 sebagai berikut :  
 
- | IPS         | Hak Tempuh pada Semester Berikutnya |
- |-------------|-------------------------------------|
- | >= 3,00     | Maksimum 24 SKS                     |
- | 2,50 - 2,99 | Maksimum 21 SKS                     |
- | <= 2,49     | Maksimum 18 SKS                     |
- 
- Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian :  
- - 1 jam kuliah
- - 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
- - 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
+| IPS         | Hak Tempuh pada Semester Berikutnya |
+|-------------|-------------------------------------|
+| >= 3,00     | Maksimum 24 SKS                     |
+| 2,50 - 2,99 | Maksimum 21 SKS                     |
+| <= 2,49     | Maksimum 18 SKS                     |
+
+Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian :  
+
+- 1 jam kuliah
+- 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
+- 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
 
 Untuk menentukan mata kuliah apa saja yang akan diambil, mahasiswa dapat/wajib berkonsultasi dengan dosen wali (tergantung dari aturan prodi masing-masing). Bersama dosen wali, mahasiswa dapat merundingkan penerapan pedoman di   atas ini bagi dirinya, dengan memperhatikan berbagai keadaan yang berlaku.
 
@@ -75,7 +76,7 @@ Perincian kegiatan perkuliahan adalah sebagai berikut :
  - *Praktikum* bertujuan melengkapi kegiatan perkuliahan, agar keterkaitan antara teori dan praktek dapat dikokohkan.
  - *Pekerjaan rumah* merupakan latihan yang diberikan oleh dosen untuk menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri maupun kelompok.  
 
-3. **Kegiatan akademik mandiri(± 1 jam / sks),** merupakan kegiatan yang dilakukan sendiri (di perpustakaan, di       rumah, atau di tempat lain) oleh mahasiswa. Hal ini amat perlu, untuk dapat merenungkan dan mencernakan bahan kuliah. Kegiatan ini dapat terdiri atas membaca buku teks atau buku lain, catatan kuliah, responsi, atau praktikum, membuat soal yang ditugaskan dan yang dipilih sendiri, membuat skema pokok bahasan yang telah dipelajari, belajar dalam kelompok studi, dsb.  
+3. **Kegiatan akademik mandiri (± 1 jam / sks),** merupakan kegiatan yang dilakukan sendiri (di perpustakaan, di rumah, atau di tempat lain) oleh mahasiswa. Hal ini amat perlu, untuk dapat merenungkan dan mencernakan bahan kuliah. Kegiatan ini dapat terdiri atas membaca buku teks atau buku lain, catatan kuliah, responsi, atau praktikum, membuat soal yang ditugaskan dan yang dipilih sendiri, membuat skema pokok bahasan yang telah dipelajari, belajar dalam kelompok studi, dsb.  
 
 ## 3.3 Tata Cara Ujian
 
@@ -140,7 +141,7 @@ Syarat untuk mengikuti UTS dan UAS:
  2. **Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain;
  3. **Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun;
  4. **Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka);
- 5. **Pinjam-meminjam** alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.  
+ 5. **Pinjam-meminjam** alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
 
 10. Peserta ujian yang **melakukan kecurangan** pada saat ujian akan dikenakan **sanksi akademik** yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS.
 11. Selama ujian berlangsung, peserta ujian **tidak diperkenankan meninggalkan ruangan ujian dengan alasan apapun** (kecuali peserta yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC, harus melakukannya sebelum ujian dimulai.
@@ -169,9 +170,8 @@ Mahasiswa yang terbukti melakukan **pelanggaran** norma kejujuran pada saat meng
 
  - Sakit, yang diperkuat oleh *surat keterangan rawat inap* dari rumah sakit.
  - Mewakili negara / UNPAR dalam suatu kegiatan tertentu.
- - Hal lain yang yang dapat diterima oleh pimpinan fakultas beserta pimpinan jurusan.
- 
- Maka mahasiswa tersebut dapat mengajukan permohonan ujian susulan bagi mata kuliah terkait kepada WD-1 dengan tembusan kepada pimpinan jurusan terkait sebelum batas waktu pengajuan yang ditentukan setiap semesternya.
+ - Hal lain yang yang dapat diterima oleh pimpinan fakultas beserta pimpinan jurusan.  
+Maka mahasiswa tersebut dapat mengajukan permohonan ujian susulan bagi mata kuliah terkait kepada WD-1 dengan tembusan kepada pimpinan jurusan terkait sebelum batas waktu pengajuan yang ditentukan setiap semesternya.
 
 Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahgunaan wewenang oleh pengawas ujian dapat dilakukan dalam bentuk pengaduan tertulis dalam amplop tertutup yang ditujukan kepada WD-1.
 
@@ -204,9 +204,8 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 6. Dalam hal mahasiswa mengajukan permohonan cuti studi **setelah masa PRS berakhir**, ijin cuti hanya dapat diberikan oleh Dekan FTIS apabila  
 
  - Memiliki alasan yang sangat kuat dan tidak dapat dihindarkan.
- - Mendapat ijin dari WR-1.
-
- Dalam hal ini, biaya yang telah dibayarkan mahasiswa pada semester yang terkait dengan cuti tersebut **tidak dapat dikembalikan** dan sisa kewajiban keuangan yang belum dilunasi **harus diselesaikan.**  
+ - Mendapat ijin dari WR-1.  
+Dalam hal ini, biaya yang telah dibayarkan mahasiswa pada semester yang terkait dengan cuti tersebut **tidak dapat dikembalikan** dan sisa kewajiban keuangan yang belum dilunasi **harus diselesaikan.**  
 
 7. Mahasiswa yang telah memperoleh cuti studi dari Dekan FTIS namun melanggar ketentuan masa cuti dalam surat ijin tersebut, maka pada semester berikutnya di luar masa cuti yang diijinkan, mahasiswa akan dikenakan peraturan **gencat studi.**
 
