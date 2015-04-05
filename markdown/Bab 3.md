@@ -189,7 +189,6 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 
 1. Mahasiswa wajib mengisi **Surat Permohonan Cuti Studi Mahasiswa** yang dapat diperoleh di Tata Usaha FTIS, dengan dilengkapi rekomendasi dosen wali mahasiswa yang bersangkutan, dan menyerahkannya kembali ke Tata Usaha FTIS **selambat-lambatnya sebelum berakhirnya masa PRS** semester terkait dengan cuti tersebut.
 2. Kriteria untuk memberi ijin tersebut adalah :  
-
  1. masalah kesehatan,
  2. masalah *financial*, atau
  3. masalah pribadi lainnya.  
@@ -199,7 +198,7 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 5. Bagi mahasiswa yang mendapat ijin cuti dari Dekan FTIS, wajib  
 
  - Mengisi Formulir Rencana Studi dengan beban **0 (nol)** sks, dan didaftarkan sesuai dengan **prosedur yang ada**.
- - Membayar **100% (seratus persen)** Tarif Biaya Registrasi (sesuai dengan Peraturan Pengurus Yayasan UNPAR no. 06 th. 2008 tentang Pemisahan Tarif Biaya Registrasi dan Biaya Pengembangan).  
+ - Membayar **100% (seratus persen)** Tarif Biaya Registrasi (sesuai dengan Peraturan Pengurus Yayasan UNPAR no. 06 th. 2008 tentang Pemisahan Tarif Biaya Registrasi dan Biaya Pengembangan).
 
 6. Dalam hal mahasiswa mengajukan permohonan cuti studi **setelah masa PRS berakhir**, ijin cuti hanya dapat diberikan oleh Dekan FTIS apabila  
 
