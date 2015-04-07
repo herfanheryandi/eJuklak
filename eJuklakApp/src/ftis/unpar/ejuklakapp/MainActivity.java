@@ -6,6 +6,7 @@ import java.util.LinkedList;
 
 import org.apache.commons.lang3.StringUtils;
 
+import android.app.ProgressDialog;
 import android.content.res.AssetManager;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
@@ -36,7 +37,10 @@ public class MainActivity extends ActionBarActivity {
         //this.getActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#0099ff")));
         setContentView(R.layout.activity_main);
         //Code here
-        
+        ProgressDialog progress = new ProgressDialog(this);
+        progress.setTitle("Harap tunggu...");
+        //progress.setMessage("Wait while loading...");
+        progress.show();
         /*WEBVIEW*/
         HTMLName = "eJuklak_FTIS.html";
         HTMLPath = "file:///android_asset/" + HTMLName;
@@ -81,6 +85,7 @@ public class MainActivity extends ActionBarActivity {
         drLayout.setDrawerListener(drToggle);
         getActionBar().setDisplayHomeAsUpEnabled(true);
         getActionBar().setHomeButtonEnabled(true);
+        progress.dismiss();
     }
     
     
