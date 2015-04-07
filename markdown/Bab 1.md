@@ -158,13 +158,13 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan *website*.  
 
 1. Guru Besar
-    * Prof B. Suprapto Brotosiswojo, Dr. (Purdue University,USA):
-        - Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.
-        - Email: bensupra@unpar.ac.id
+    * Prof B. Suprapto Brotosiswojo, Dr. (Purdue University,USA):  
+    Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.  
+    Email: bensupra@unpar.ac.id
 2. Lektor Kepala
-    * Agus Sukmana, Drs. (ITB), MSc (Twente Univ. - Belanda), studi S-3 (UPI):
-        - Teori Peluang, Pengendalian Mutu, Statistika Elementer.
-        - Email: asukmana@unpar.ac.id
+    * Agus Sukmana, Drs. (ITB), MSc (Twente Univ. - Belanda), studi S-3 (UPI):  
+    Teori Peluang, Pengendalian Mutu, Statistika Elementer.  
+    Email: asukmana@unpar.ac.id
     * Aloysius Rusli, Dr. (Leeds University, UK):
         - Fisika Polimer, Pengenalan Program Studi Fisika,Etika Profesi, Reologi.
         - Email: arusli@unpar.ac.id
