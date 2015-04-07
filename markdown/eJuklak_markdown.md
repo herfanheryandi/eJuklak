@@ -90,9 +90,9 @@ Sebagai Universitas Katolik, UNPAR menaruh perhatian utama pada peningkatan mart
 
 Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:  
 
-1. Menyelenggarakan program akademik jenjang sarjana dengan memperhatikan visi FTIS untuk menghasilkan lulusan yang:  
-  - Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.
-  - Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.
+1. Menyelenggarakan program akademik jenjang sarjana dengan memperhatikan visi FTIS untuk menghasilkan lulusan yang:
+    - Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.
+    - Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.
 2. Menghasilkan penelitian di bidang teknologi informasi dan sains yang dapat meningkatkan martabat manusia secara langsung ataupun tidak langsung, serta memanfaatkan hasil penelitian untuk pengembangan proses pembelajaran dan pengabdian kepada masyarakat.
 3. Menjalin kerja sama dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan keterkaitan proses pembelajaran, penelitian dan pengabdian kepada masyarakat.
  
@@ -127,81 +127,75 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 
 ## 1.4 Pengelolah Fakultas  
 
-1. Senat FTIS 
- - Ketua : Agus Sukmana, SSi, MSc  
- - Sekretaris : Philips Nicolas Gunawidjaja, BSc, PhD
-
-2. Dekanat 
- - Dekan : Paulus Cahyono Tjiang, SSi, PhD.  
- - WD 1 (Akademik) : Dr. Thomas Anung Basuki  
- - WD II (Keuangan dan Sumberdaya) : Maria Anestasia, SSi, MSi  
- - WD III (Kemahasiswaan dan Alumni) : Dr.rer.nat. Cecilia E.Nugraheni, ST, MT  
- 
-3. Program Studi Matematika  
- - Ketua : Dr. Ferry Jaya Permana  
- - Sekretaris : Livia Owen, SSi, MSi
- 
-4. Program Studi Fisika  
- - Ketua : Philips Nicolas Gunawidjaja, BSc, PhD  
- - KaLab. Fisika Dasar : Risti Suryantari, S.Si., M.Si.  
- - KaLab. Elektronika & Fisika Lanjut : Janto V. Sulungbudi, Drs.
-
-5. Program Studi Teknik Informatika  
- - Ketua : Dr. Thomas Anung Basuki  
- - Sekretaris : Lionov, S.Kom, MSc  
- - KaLab. Komputasi : Chandra Wijaya, ST, MT
-
-6. Tata Usaha  
- - Kepala : Pranyoto Teguh Imanto  
- - Kasubag Akademik : Petrus Purnomo  
- - Kasubag Keuangan & Kepegawaian : Budi Santoso  
- - Kasubag Kemahasiswaan & Alumni : Fransiscus Sudarno  
- - Kasubag Umum & Perlengkapan : Walip, A.Md  
- - Staf Akademik : Rikie Setiawan, S.AB.  
- - Staf Keuangan & Kepegawaian : Filifo Zebua, Dwina Irlistriarti, Dra.
+1. Senat FTIS
+    - Ketua : Agus Sukmana, SSi, MSc
+    - Sekretaris : Philips Nicolas Gunawidjaja, BSc, PhD
+2. Dekanat
+    - Dekan : Paulus Cahyono Tjiang, SSi, PhD.
+    - WD 1 (Akademik) : Dr. Thomas Anung Basuki
+    - WD II (Keuangan dan Sumberdaya) : Maria Anestasia, SSi, MSi
+    - WD III (Kemahasiswaan dan Alumni) : Dr.rer.nat. Cecilia E.Nugraheni, ST, MT
+3. Program Studi Matematika
+    - Ketua : Dr. Ferry Jaya Permana
+    - Sekretaris : Livia Owen, SSi, MSi
+4. Program Studi Fisika
+    - Ketua : Philips Nicolas Gunawidjaja, BSc, PhD
+    - KaLab. Fisika Dasar : Risti Suryantari, S.Si., M.Si.
+    - KaLab. Elektronika & Fisika Lanjut : Janto V. Sulungbudi, Drs.
+5. Program Studi Teknik Informatika
+    - Ketua : Dr. Thomas Anung Basuki
+    - Sekretaris : Lionov, S.Kom, MSc
+    - KaLab. Komputasi : Chandra Wijaya, ST, MT
+6. Tata Usaha
+    - Kepala : Pranyoto Teguh Imanto
+    - Kasubag Akademik : Petrus Purnomo
+    - Kasubag Keuangan & Kepegawaian : Budi Santoso
+    - Kasubag Kemahasiswaan & Alumni : Fransiscus Sudarno
+    - Kasubag Umum & Perlengkapan : Walip, A.Md
+    - Staf Akademik : Rikie Setiawan, S.AB.
+    - Staf Keuangan & Kepegawaian : Filifo Zebua, Dwina Irlistriarti, Dra.
 
 ## 1.5 Daftar Dosen FTIS  
 
 Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan *website*.  
 
-1. Guru Besar  
- * Prof B. Suprapto Brotosiswojo, Dr. (Purdue University,USA):  
- Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.  
- Email: bensupra@unpar.ac.id
-     
-2.  Lektor Kepala  
- * Agus Sukmana, Drs. (ITB), MSc (Twente Univ. - Belanda), studi S-3 (UPI):  
- Teori Peluang, Pengendalian Mutu, Statistika Elementer.  
- Email: asukmana@unpar.ac.id  
- * Aloysius Rusli, Dr. (Leeds University, UK):  
- Fisika Polimer, Pengenalan Program Studi Fisika,Etika Profesi, Reologi.  
- Email: arusli@unpar.ac.id  
- * Benny Yong, SSi. (UNPAR), MSi. (ITB):  
- Pemecahan Masalah Matematika, Teori Bilangan, Pemodelan Matematika.  
- Email: benny_y@unpar.ac.id  
- * Ferry Jaya Permana, SSi (ITB), MSi (ITB), PhD (TU Delft - Belanda):  
- Teori Risiko, Teori Suku Bunga, Kalkulus Keuangan.  
- Email: ferryjp@unpar.ac.id  
- * Iwan Sugiarto, SSi (UNPAR), MSi (ITB):  
- Metoda Matematika, Fungsi Kompleks, Optimasi.  
- Email: iwans@unpar.ac.id  
- * Julius Dharma Lesmono, SSi (ITB), SE (UNPAR), MT (ITB), MSc (Twente University - Belanda), Dr. (University of Queenslands - Australia):  
- Proses Stokastik, Statistika Matematika, Kontrol Optimum.  
- Email: jdharma@unpar.ac.id  
- * Nico Saputro, ST (ITB), MT (ITB), Studi S-3 (Univ. of Illinois - USA).  
- Email: nico@unpar.ac.id  
- * Paulus Cahyono Tjiang, Drs. (ITB), PhD (Australian National University):  
- Listrik Magnet, Elektrodinamika, Mekanika Kuantum Relativistik, Teori Medan Kuantum.  
- Email: pctjiang@unpar.ac.id  
- * Sylvia Hastuti Sutanto, SSi (ITB), PhD (Australian National University):  
- Fisika Matematika 3 & 4, Mekanika Hamiltonian, Dinamika Fluida.  
- Email: sylvia@unpar.ac.id  
- * Marcus Wono Setya Budhi, PhD (Univ. of Illinois - USA):
- Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar.  
- Email: wono@math.itb.ac.id  
- * Veronica Sri Moertini, ST (ITB), MT (ITB), Dr. (ITB):  
- Basis Data, Penambangan Data, Projek Sistem Informasi.  
- Email: moertini@unpar.ac.id  
+1. Guru Besar
+    * Prof B. Suprapto Brotosiswojo, Dr. (Purdue University,USA):
+        - Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.
+        - Email: bensupra@unpar.ac.id
+2. Lektor Kepala
+    * Agus Sukmana, Drs. (ITB), MSc (Twente Univ. - Belanda), studi S-3 (UPI):
+        - Teori Peluang, Pengendalian Mutu, Statistika Elementer.
+        - Email: asukmana@unpar.ac.id
+    * Aloysius Rusli, Dr. (Leeds University, UK):
+        - Fisika Polimer, Pengenalan Program Studi Fisika,Etika Profesi, Reologi.
+        - Email: arusli@unpar.ac.id
+    * Benny Yong, SSi. (UNPAR), MSi. (ITB):
+        - Pemecahan Masalah Matematika, Teori Bilangan, Pemodelan Matematika.
+        - Email: benny_y@unpar.ac.id
+    * Ferry Jaya Permana, SSi (ITB), MSi (ITB), PhD (TU Delft - Belanda):
+        - Teori Risiko, Teori Suku Bunga, Kalkulus Keuangan.
+        - Email: ferryjp@unpar.ac.id
+    * Iwan Sugiarto, SSi (UNPAR), MSi (ITB):
+        - Metoda Matematika, Fungsi Kompleks, Optimasi.
+        - Email: iwans@unpar.ac.id
+    * Julius Dharma Lesmono, SSi (ITB), SE (UNPAR), MT (ITB), MSc (Twente University - Belanda), Dr. (University of Queenslands - Australia):
+        - Proses Stokastik, Statistika Matematika, Kontrol Optimum.
+        - Email: jdharma@unpar.ac.id
+    * Nico Saputro, ST (ITB), MT (ITB), Studi S-3 (Univ. of Illinois - USA).
+        - Email: nico@unpar.ac.id
+    * Paulus Cahyono Tjiang, Drs. (ITB), PhD (Australian National University):
+        - Listrik Magnet, Elektrodinamika, Mekanika Kuantum Relativistik, Teori Medan Kuantum.
+        - Email: pctjiang@unpar.ac.id
+    * Sylvia Hastuti Sutanto, SSi (ITB), PhD (Australian National University):
+        - Fisika Matematika 3 & 4, Mekanika Hamiltonian, Dinamika Fluida.
+        - Email: sylvia@unpar.ac.id
+    * Marcus Wono Setya Budhi, PhD (Univ. of Illinois - USA):
+        - Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar.
+        - Email: wono@math.itb.ac.id
+    * Veronica Sri Moertini, ST (ITB), MT (ITB), Dr. (ITB):
+        - Basis Data, Penambangan Data, Projek Sistem Informasi.
+        - Email: moertini@unpar.ac.id  
     
 3. Lektor  
  * Cecilia Esti Nugraheni, ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig - Maximilians Universitaet - Germany):  
