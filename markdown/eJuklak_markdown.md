@@ -55,8 +55,6 @@ Ketiga program studi tersebut saat ini telah memperoleh status akreditasi dari B
 * Program Studi Teknik Informatika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor 042/BAN-PT/AK-XIII/S1/I/2011 tertanggal 21 Januari 2011 dengan masa berlaku hingga 21 Januari 2016
     
 Ketiga program studi yang sekarang berada dalam naungan FTIS ini dilaksanakan berdasarkan suatu kurikulum yang berbobot 144 sks (satuan kredit semester) dengan rincian selanjutnya akan diuraikan pada bagian berikutnya.
-     
- 
 
 ## 1.2 Visi, Misi, Tujuan, dan Sasaran FTIS  
 
@@ -985,8 +983,8 @@ Aturan tambahan :
     - Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
     - Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
     - Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek  
-
-  maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
+    
+    maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
 ### 2.7.2 Mata Kuliah Pilihan Program Studi Teknik Informatika  
 
