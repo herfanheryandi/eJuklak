@@ -289,7 +289,7 @@ Sangat terbuka bagi seluruh mahasiswa untuk menempuh mata kuliah di program stud
 ### 2.5.3 PETA DAN PRASYARAT MATA KULIAH
 Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini. 
 
-![Peta dan Prasyarat Matakuliah Program Studi Matematika](images/Lampiran_BAB2_1.png "Peta dan Prasyarat Matakuliah Program Studi Matematika")
+![Peta dan Prasyarat Mata Kuliah Program Studi Matematika](images/Lampiran_BAB2_1.png "Peta dan Prasyarat Mata Kuliah Program Studi Matematika")
 
 ### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
 
