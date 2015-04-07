@@ -980,14 +980,13 @@ Aturan tambahan :
 
 3. Nilai minimum kuliah jalur pemrograman/algoritma
 
-    Untuk mahasiswa yang ingin mengambil mata kuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:  
+    Untuk mahasiswa yang ingin mengambil mata kuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
+    - Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+    - Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+    - Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
+    - Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek
 
-   - Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
-   - Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
-   - Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
-   - Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek
-
-    maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
+  maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
 ### 2.7.2 Mata Kuliah Pilihan Program Studi Teknik Informatika  
 
@@ -1121,16 +1120,16 @@ Dalam menentukan mata kuliah yang akan diambil, dapat digunakan pedoman berikut:
 4. Memperhatikan **jadwal kuliah dan ujian** yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan mata kuliah-mata kuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
 5. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No.III/PRT/2011-11/211 sebagai berikut :
 
-   | IPS         | Hak Tempuh pada Semester Berikutnya |
-   |-------------|-------------------------------------|
-   | >= 3,00     | Maksimum 24 SKS                     |
-   | 2,50 - 2,99 | Maksimum 21 SKS                     |
-   | <= 2,49     | Maksimum 18 SKS                     |
-
-   Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian :
-   - 1 jam kuliah
-   - 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
-   - 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
+    | IPS         | Hak Tempuh pada Semester Berikutnya |
+    |-------------|-------------------------------------|
+    | >= 3,00     | Maksimum 24 SKS                     |
+    | 2,50 - 2,99 | Maksimum 21 SKS                     |
+    | <= 2,49     | Maksimum 18 SKS                     |
+    
+    Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian :
+    - 1 jam kuliah
+    - 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
+    - 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
 
 Untuk menentukan mata kuliah apa saja yang akan diambil, mahasiswa dapat/wajib berkonsultasi dengan dosen wali (tergantung dari aturan prodi masing-masing). Bersama dosen wali, mahasiswa dapat merundingkan penerapan pedoman di atas ini bagi dirinya, dengan memperhatikan berbagai keadaan yang berlaku.
 
@@ -1263,7 +1262,7 @@ Mahasiswa yang terbukti melakukan **pelanggaran** norma kejujuran pada saat meng
     - Mewakili negara / UNPAR dalam suatu kegiatan tertentu.
     - Hal lain yang yang dapat diterima oleh pimpinan fakultas beserta pimpinan jurusan.
 
-   Maka mahasiswa tersebut dapat mengajukan permohonan ujian susulan bagi mata kuliah terkait kepada WD-1 dengan tembusan kepada pimpinan jurusan terkait sebelum batas waktu pengajuan yang ditentukan setiap semesternya.
+    Maka mahasiswa tersebut dapat mengajukan permohonan ujian susulan bagi mata kuliah terkait kepada WD-1 dengan tembusan kepada pimpinan jurusan terkait sebelum batas waktu pengajuan yang ditentukan setiap semesternya.
 
 Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahgunaan wewenang oleh pengawas ujian dapat dilakukan dalam bentuk pengaduan tertulis dalam amplop tertutup yang ditujukan kepada WD-1.
 
@@ -1293,7 +1292,8 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
     - Memiliki alasan yang sangat kuat dan tidak dapat dihindarkan.
     - Mendapat ijin dari WR-1.
 
-   Dalam hal ini, biaya yang telah dibayarkan mahasiswa pada semester yang terkait dengan cuti tersebut **tidak dapat dikembalikan** dan sisa kewajiban keuangan yang belum dilunasi **harus diselesaikan.**
+    Dalam hal ini, biaya yang telah dibayarkan mahasiswa pada semester yang terkait dengan cuti tersebut **tidak dapat dikembalikan** dan sisa kewajiban keuangan yang belum dilunasi **harus diselesaikan.**
+
 7. Mahasiswa yang telah memperoleh cuti studi dari Dekan FTIS namun melanggar ketentuan masa cuti dalam surat ijin tersebut, maka pada semester berikutnya di luar masa cuti yang diijinkan, mahasiswa akan dikenakan peraturan **gencat studi.**
 
 ### 3.4.3 Gencat studi
