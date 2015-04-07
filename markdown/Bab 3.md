@@ -24,18 +24,18 @@ Dalam menentukan mata kuliah yang akan diambil, dapat digunakan pedoman berikut:
 4. Memperhatikan **jadwal kuliah dan ujian** yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan mata kuliah-mata kuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
 5. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No.III/PRT/2011-11/211 sebagai berikut :
 
-  | IPS         | Hak Tempuh pada Semester Berikutnya |
-  |-------------|-------------------------------------|
-  | >= 3,00     | Maksimum 24 SKS                     |
-  | 2,50 - 2,99 | Maksimum 21 SKS                     |
-  | <= 2,49     | Maksimum 18 SKS                     |
+    | IPS         | Hak Tempuh pada Semester Berikutnya |
+    |-------------|-------------------------------------|
+    | >= 3,00     | Maksimum 24 SKS                     |
+    | 2,50 - 2,99 | Maksimum 21 SKS                     |
+    | <= 2,49     | Maksimum 18 SKS                     |
+    
+    Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian :
+    - 1 jam kuliah
+    - 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
+    - 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
 
-  Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian :
-  - 1 jam kuliah
-  - 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
-  - 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
-
-Untuk menentukan mata kuliah apa saja yang akan diambil, mahasiswa dapat/wajib berkonsultasi dengan dosen wali (tergantung dari aturan prodi masing-masing). Bersama dosen wali, mahasiswa dapat merundingkan penerapan pedoman di   atas ini bagi dirinya, dengan memperhatikan berbagai keadaan yang berlaku.
+Untuk menentukan mata kuliah apa saja yang akan diambil, mahasiswa dapat/wajib berkonsultasi dengan dosen wali (tergantung dari aturan prodi masing-masing). Bersama dosen wali, mahasiswa dapat merundingkan penerapan pedoman di atas ini bagi dirinya, dengan memperhatikan berbagai keadaan yang berlaku.
 
 Masa perwalian juga merupakan kesempatan bagi mahasiswa yang ingin mendiskusikan masalah akademik dan non-akademik yang dirasakan dapat mengganggu studi mahasiswa yang bersangkutan di FTIS . Namun perlu diperhatikan bahwa dosen wali hanya bertindak sebagai penasehat/pemberi saran berdasarkan pengalamannya. Penyelesaian masalah sepenuhnya berada di tangan mahasiswa yang mengalaminya.
 
@@ -166,7 +166,7 @@ Mahasiswa yang terbukti melakukan **pelanggaran** norma kejujuran pada saat meng
     - Mewakili negara / UNPAR dalam suatu kegiatan tertentu.
     - Hal lain yang yang dapat diterima oleh pimpinan fakultas beserta pimpinan jurusan.
 
-  Maka mahasiswa tersebut dapat mengajukan permohonan ujian susulan bagi mata kuliah terkait kepada WD-1 dengan tembusan kepada pimpinan jurusan terkait sebelum batas waktu pengajuan yang ditentukan setiap semesternya.
+    Maka mahasiswa tersebut dapat mengajukan permohonan ujian susulan bagi mata kuliah terkait kepada WD-1 dengan tembusan kepada pimpinan jurusan terkait sebelum batas waktu pengajuan yang ditentukan setiap semesternya.
 
 Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahgunaan wewenang oleh pengawas ujian dapat dilakukan dalam bentuk pengaduan tertulis dalam amplop tertutup yang ditujukan kepada WD-1.
 
@@ -196,7 +196,8 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
     - Memiliki alasan yang sangat kuat dan tidak dapat dihindarkan.
     - Mendapat ijin dari WR-1.
 
-  Dalam hal ini, biaya yang telah dibayarkan mahasiswa pada semester yang terkait dengan cuti tersebut **tidak dapat dikembalikan** dan sisa kewajiban keuangan yang belum dilunasi **harus diselesaikan.**
+    Dalam hal ini, biaya yang telah dibayarkan mahasiswa pada semester yang terkait dengan cuti tersebut **tidak dapat dikembalikan** dan sisa kewajiban keuangan yang belum dilunasi **harus diselesaikan.**
+
 7. Mahasiswa yang telah memperoleh cuti studi dari Dekan FTIS namun melanggar ketentuan masa cuti dalam surat ijin tersebut, maka pada semester berikutnya di luar masa cuti yang diijinkan, mahasiswa akan dikenakan peraturan **gencat studi.**
 
 ### 3.4.3 Gencat studi
@@ -213,8 +214,7 @@ Adapun **prosedur pengaktifan kembali status mahasiswa setelah gencat studi** ad
 4. Dalam hal Dekan FTIS mengabulkan permohonan mahasiswa tersebut di atas, mahasiswa yang bersangkutan
     1. Dikenakan **sanksi keuangan** berupa pelunasan **200% (dua ratus persen)** Sumbangan Pengembangan sesuai dengan tarif yang  berlaku di lingkungan UNPAR untuk semester selama gencat studi.
     2. Dikenakan **sanksi akademik** berupa hak tempuh sebanyak **12 SKS** pada semester di mana mahasiswa yang bersangkutan mulai aktif kembali, kecuali jika diijinkan oleh Dekan FTIS untuk menempuh **maksimal 18 SKS** berdasarkan pertimbangan yang sah.
-    3. Dapat kehilangan status sebagai mahasiswa UNPAR jika tidak memenuhi butir i. di atas.
-
+    3. Dapat kehilangan status sebagai mahasiswa UNPAR jika tidak memenuhi butir 4.1. di atas.
 
 ## 3.5 Pengunduran Diri Sebagai Mahasiswa
 
@@ -223,6 +223,6 @@ Prosedur pengunduran diri sebagai mahasiswa di lingkungan UNPAR adalah sebagai b
 1. Mahasiswa yang bersangkutan menulis surat pernyataan pengunduran diri yang ditujukan kepada Dekan FTIS, ditandatangani oleh mahasiswa dan orang tua mahasiswa yang bersangkutan.
 2. Mahasiswa yang bersangkutan mengisi formulir pengunduran diri yang dapat diperoleh di Tata Usaha FTIS.
 3. Setelah mendapat persetujuan dari dosen wali, ketua jurusan / program studi, WD-2, WD-1 dan Dekan FTIS, proses permohonan pengunduran diri diteruskan ke Biro Administrasi Akademik dan Kemahasiswaan (BAA).
-4. Setelah permohonan diri mahasiswa disetujui di tingkat Universitas, mahasiswa yang bersangkutan akan menerima :
+4. Setelah permohonan diri mahasiswa disetujui di tingkat Universitas, mahasiswa yang bersangkutan akan menerima:
     - SK Rektor UNPAR tentang pengunduran diri mahasiswa yang bersangkutan.
     - Transkrip akademik yang berisi daftar nilai mata kuliah yang ditempuh selama yang bersangkutan berstatus aktif sebagai mahasiswa.
