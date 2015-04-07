@@ -1308,7 +1308,7 @@ Adapun **prosedur pengaktifan kembali status mahasiswa setelah gencat studi** ad
 4. Dalam hal Dekan FTIS mengabulkan permohonan mahasiswa tersebut di atas, mahasiswa yang bersangkutan
     1. Dikenakan **sanksi keuangan** berupa pelunasan **200% (dua ratus persen)** Sumbangan Pengembangan sesuai dengan tarif yang  berlaku di lingkungan UNPAR untuk semester selama gencat studi.
     2. Dikenakan **sanksi akademik** berupa hak tempuh sebanyak **12 SKS** pada semester di mana mahasiswa yang bersangkutan mulai aktif kembali, kecuali jika diijinkan oleh Dekan FTIS untuk menempuh **maksimal 18 SKS** berdasarkan pertimbangan yang sah.
-    3. Dapat kehilangan status sebagai mahasiswa UNPAR jika tidak memenuhi butir i. di atas.
+    3. Dapat kehilangan status sebagai mahasiswa UNPAR jika tidak memenuhi butir 4.1. di atas.
 
 ## 3.5 Pengunduran Diri Sebagai Mahasiswa
 
