@@ -547,20 +547,20 @@ Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian 
         |AMS470	|Kapita Selekta Matematika Terapan	|3	|
 3. Lain-lain
 
-  |KODE	|NAMA					|SKS	|
-  |-------|---------------------------------------|-------|
-  |AMS323	|Geometri				|3	|
-  |AMS324	|Teori Bilangan				|3	|
-  |AMS344	|Komputasi Saintifik			|3	|
-  |AMS421	|Struktur Aljabar			|3	|
-  |AMS422	|Kriptografi				|3	|
-  |AMS423	|Teori Graf				|3	|
-  |AMS424	|Struktur Aljabar Lanjut		|3	|
-  |AMS425	|Analisis Lanjut			|3	|
-  |AMS480	|Kapita Selekta Pembelajaran Matematika	|3	|
-  |AMS381	|Inovasi Pembelajaran Matematika	|3	|
-  |AMS382	|Pembelajaran Matematika Sekolah	|3	|
-  |AMS481	|Kerja Praktek				|3	|
+   |KODE	|NAMA					|SKS	|
+   |-------|---------------------------------------|-------|
+   |AMS323	|Geometri				|3	|
+   |AMS324	|Teori Bilangan				|3	|
+   |AMS344	|Komputasi Saintifik			|3	|
+   |AMS421	|Struktur Aljabar			|3	|
+   |AMS422	|Kriptografi				|3	|
+   |AMS423	|Teori Graf				|3	|
+   |AMS424	|Struktur Aljabar Lanjut		|3	|
+   |AMS425	|Analisis Lanjut			|3	|
+   |AMS480	|Kapita Selekta Pembelajaran Matematika	|3	|
+   |AMS381	|Inovasi Pembelajaran Matematika	|3	|
+   |AMS382	|Pembelajaran Matematika Sekolah	|3	|
+   |AMS481	|Kerja Praktek				|3	|
 
 Sangat terbuka bagi seluruh mahasiswa untuk menempuh mata kuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara mata kuliah tersebut. Adapun persyaratan Mata Kuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh mata kuliah pilihan Bidang Kajian minimal 15 sks.
 
@@ -971,21 +971,20 @@ Aturan tambahan :
 
 1. Mata kuliah pilihan dari luar jurusan
 
-  Banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.
-  
-  Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai mata kuliah pilihan dari dalam jurusan
+   Banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.  
+   Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai mata kuliah pilihan dari dalam jurusan
 2. Skor *Coding*
 
-  Beberapa mata kuliah memiliki skor *coding* antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan mata kuliah setiap semester, memiliki jumlah skor *coding* > 0.
+   Beberapa mata kuliah memiliki skor *coding* antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan mata kuliah setiap semester, memiliki jumlah skor *coding* > 0.
 3. Nilai minimum kuliah jalur pemrograman/algoritma
 
-  Untuk mahasiswa yang ingin mengambil mata kuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
-    - Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
-    - Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
-    - Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
-    - Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek  
+   Untuk mahasiswa yang ingin mengambil mata kuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
+   - Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+   - Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+   - Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
+   - Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek
 
- maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
+   maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
 ### 2.7.2 Mata Kuliah Pilihan Program Studi Teknik Informatika  
 
@@ -1119,18 +1118,18 @@ Dalam menentukan mata kuliah yang akan diambil, dapat digunakan pedoman berikut:
 4. Memperhatikan **jadwal kuliah dan ujian** yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan mata kuliah-mata kuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
 5. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No.III/PRT/2011-11/211 sebagai berikut :
 
-  | IPS         | Hak Tempuh pada Semester Berikutnya |
-  |-------------|-------------------------------------|
-  | >= 3,00     | Maksimum 24 SKS                     |
-  | 2,50 - 2,99 | Maksimum 21 SKS                     |
-  | <= 2,49     | Maksimum 18 SKS                     |
+   | IPS         | Hak Tempuh pada Semester Berikutnya |
+   |-------------|-------------------------------------|
+   | >= 3,00     | Maksimum 24 SKS                     |
+   | 2,50 - 2,99 | Maksimum 21 SKS                     |
+   | <= 2,49     | Maksimum 18 SKS                     |
 
-  Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian :
-  - 1 jam kuliah
-  - 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
-  - 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
+   Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian :
+   - 1 jam kuliah
+   - 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
+   - 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
 
-Untuk menentukan mata kuliah apa saja yang akan diambil, mahasiswa dapat/wajib berkonsultasi dengan dosen wali (tergantung dari aturan prodi masing-masing). Bersama dosen wali, mahasiswa dapat merundingkan penerapan pedoman di   atas ini bagi dirinya, dengan memperhatikan berbagai keadaan yang berlaku.
+Untuk menentukan mata kuliah apa saja yang akan diambil, mahasiswa dapat/wajib berkonsultasi dengan dosen wali (tergantung dari aturan prodi masing-masing). Bersama dosen wali, mahasiswa dapat merundingkan penerapan pedoman di atas ini bagi dirinya, dengan memperhatikan berbagai keadaan yang berlaku.
 
 Masa perwalian juga merupakan kesempatan bagi mahasiswa yang ingin mendiskusikan masalah akademik dan non-akademik yang dirasakan dapat mengganggu studi mahasiswa yang bersangkutan di FTIS . Namun perlu diperhatikan bahwa dosen wali hanya bertindak sebagai penasehat/pemberi saran berdasarkan pengalamannya. Penyelesaian masalah sepenuhnya berada di tangan mahasiswa yang mengalaminya.
 
@@ -1261,7 +1260,7 @@ Mahasiswa yang terbukti melakukan **pelanggaran** norma kejujuran pada saat meng
     - Mewakili negara / UNPAR dalam suatu kegiatan tertentu.
     - Hal lain yang yang dapat diterima oleh pimpinan fakultas beserta pimpinan jurusan.
 
-  Maka mahasiswa tersebut dapat mengajukan permohonan ujian susulan bagi mata kuliah terkait kepada WD-1 dengan tembusan kepada pimpinan jurusan terkait sebelum batas waktu pengajuan yang ditentukan setiap semesternya.
+   Maka mahasiswa tersebut dapat mengajukan permohonan ujian susulan bagi mata kuliah terkait kepada WD-1 dengan tembusan kepada pimpinan jurusan terkait sebelum batas waktu pengajuan yang ditentukan setiap semesternya.
 
 Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahgunaan wewenang oleh pengawas ujian dapat dilakukan dalam bentuk pengaduan tertulis dalam amplop tertutup yang ditujukan kepada WD-1.
 
@@ -1291,7 +1290,7 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
     - Memiliki alasan yang sangat kuat dan tidak dapat dihindarkan.
     - Mendapat ijin dari WR-1.
 
-  Dalam hal ini, biaya yang telah dibayarkan mahasiswa pada semester yang terkait dengan cuti tersebut **tidak dapat dikembalikan** dan sisa kewajiban keuangan yang belum dilunasi **harus diselesaikan.**
+   Dalam hal ini, biaya yang telah dibayarkan mahasiswa pada semester yang terkait dengan cuti tersebut **tidak dapat dikembalikan** dan sisa kewajiban keuangan yang belum dilunasi **harus diselesaikan.**
 7. Mahasiswa yang telah memperoleh cuti studi dari Dekan FTIS namun melanggar ketentuan masa cuti dalam surat ijin tersebut, maka pada semester berikutnya di luar masa cuti yang diijinkan, mahasiswa akan dikenakan peraturan **gencat studi.**
 
 ### 3.4.3 Gencat studi
