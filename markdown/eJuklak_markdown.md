@@ -547,20 +547,20 @@ Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian 
         |AMS470	|Kapita Selekta Matematika Terapan	|3	|
 3. Lain-lain
 
-   |KODE	|NAMA					|SKS	|
-   |-------|---------------------------------------|-------|
-   |AMS323	|Geometri				|3	|
-   |AMS324	|Teori Bilangan				|3	|
-   |AMS344	|Komputasi Saintifik			|3	|
-   |AMS421	|Struktur Aljabar			|3	|
-   |AMS422	|Kriptografi				|3	|
-   |AMS423	|Teori Graf				|3	|
-   |AMS424	|Struktur Aljabar Lanjut		|3	|
-   |AMS425	|Analisis Lanjut			|3	|
-   |AMS480	|Kapita Selekta Pembelajaran Matematika	|3	|
-   |AMS381	|Inovasi Pembelajaran Matematika	|3	|
-   |AMS382	|Pembelajaran Matematika Sekolah	|3	|
-   |AMS481	|Kerja Praktek				|3	|
+    |KODE	|NAMA					|SKS	|
+    |-------|---------------------------------------|-------|
+    |AMS323	|Geometri				|3	|
+    |AMS324	|Teori Bilangan				|3	|
+    |AMS344	|Komputasi Saintifik			|3	|
+    |AMS421	|Struktur Aljabar			|3	|
+    |AMS422	|Kriptografi				|3	|
+    |AMS423	|Teori Graf				|3	|
+    |AMS424	|Struktur Aljabar Lanjut		|3	|
+    |AMS425	|Analisis Lanjut			|3	|
+    |AMS480	|Kapita Selekta Pembelajaran Matematika	|3	|
+    |AMS381	|Inovasi Pembelajaran Matematika	|3	|
+    |AMS382	|Pembelajaran Matematika Sekolah	|3	|
+    |AMS481	|Kerja Praktek				|3	|
 
 Sangat terbuka bagi seluruh mahasiswa untuk menempuh mata kuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara mata kuliah tersebut. Adapun persyaratan Mata Kuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh mata kuliah pilihan Bidang Kajian minimal 15 sks.
 
@@ -971,20 +971,23 @@ Aturan tambahan :
 
 1. Mata kuliah pilihan dari luar jurusan
 
-   Banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.  
-   Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai mata kuliah pilihan dari dalam jurusan
+    Banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.
+    Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai mata kuliah pilihan dari dalam jurusan
+
 2. Skor *Coding*
 
-   Beberapa mata kuliah memiliki skor *coding* antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan mata kuliah setiap semester, memiliki jumlah skor *coding* > 0.
+    Beberapa mata kuliah memiliki skor *coding* antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan mata kuliah setiap semester, memiliki jumlah skor *coding* > 0.
+
 3. Nilai minimum kuliah jalur pemrograman/algoritma
 
-   Untuk mahasiswa yang ingin mengambil mata kuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
+    Untuk mahasiswa yang ingin mengambil mata kuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:  
+
    - Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
    - Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
    - Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
    - Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek
 
-   maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
+    maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
 ### 2.7.2 Mata Kuliah Pilihan Program Studi Teknik Informatika  
 
