@@ -374,7 +374,7 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 
 ### 2.4.2 Uraian Singkat Mata Kuliah Umum  
 
-| KODE MK   	|PRASYARAT	|NAMA DAN DESKRIPSI MATA KULIAH                	|
+| KODE MK   	|PRASYARAT	|NAMA & DESKRIPSI MATA KULIAH                	|
 |---------------|---------------|-----------------------------------------------|
 |MKU001 	|	-	|**PENDIDIKAN PANCASILA (*PANCASILA EDUCATION*)** Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian (*character building*) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila.		| 
 | MKU002	 |	-	|**PENDIDIKAN KEWARGANEGARAAN (*CIVIC*)** Pendidikan Kewarganegaraan menjelaskan pentingnya pemahaman tentang identitas nasional Indonesia, hak dan kewajiban warga negara Indonesia serta hubungannya dengan hak dan kewajiban asasi manusia. Materi kuliah mencakup juga wawasan nusantara, ketahanan nasional, politik dan strategi nasional, serta implementasinya dalam kehidupan bermasyarakat, berbangsa dan bernegara kesatuan Republik Indonesia.	        | 	
@@ -815,78 +815,41 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 
 ### 2.6.4 Deskripsi Singkat Mata Kuliah Program Studi Fisika
 
-|KODE MK	|NAMA & DESKRIPSI MATA KULIAH	|
-|---------------|-------------------------------|
-|AIF111		|PEMROGRAMAN KOMPUTER/*COMPUTER PROGRAMMING*	|
-|		|Mata kuliah ini bertujuan untuk mengenalkan dan membekali mahasiswa kepada konsep-konsep dasar pemrograman.|
-|APS101		|PENGENALAN PROGRAM STUDI FISIKA/*INTRODUCTION TO PHYSICS STUDIES*|
-|		|Mata kuliah ini bertujuan untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan, yang meliputi: kemampuan untuk menganalisa, memecahkan masalah dan membuat kesimpulan. Selain itu, mata kuliah ini juga membahas tujuan dan struktur program studi, melatih penggunaan metode ilmiah, serta peluasan wawasan tentang fisika dan ilmu-ilmu umum, dengan melibatkan keaktifan mahasiswa.|
-|APS103		|KETRAMPILAN FISIKA/*KEY SKILLS FOR PHYSICS*|
-|		|Mata kuliah ini bertujuan untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan, yang meliputi: kemampuan untuk menganalisa, memecahkan masalah dan membuat kesimpulan. Selain itu, mata kuliah ini juga melatih mahasiswa untuk mengetahui bagaimana mengukur ketidak pastian dalam suatu percobaan, membuat laporan ilmiah yang profesional dan mempresentasikannya.|
-|ICE109		|KIMIA DASAR/*CHEMISTRY*	|
-|		|Tujuan dari mata kuliah ini adalah untuk membekali mahasiswa dengan pengetahuan kimia dasar agar dapat memahami proses-proses kimia yang dijumpai dalam kehidupan sehari-hari.|
-
-
-|KODE MK	|NAMA & DESKRIPSI MATA KULIAH	|
-|---------------|-------------------------------|
-|APS105		|FISIKA DASAR 1/*PHYSICS 1*	|
-|		|Melalui mata kuliah ini diharapkan mahasiswa mampu menguasai konsep dan prinsip dasar fisika serta mampu menjelaskan berbagai fenomena fisika. Kuliah ini membahas Optika (Gejala dan Sifat Warna, Optika Geometris, Gejala Polarisasi), Bunyi (Getaran dan Gelombang, Interferensi dan Difraksi), Listrik (Elektrostatik dan Elektrodinamika), dan Magnet (Gejala Kemagnetan dan Elektromagnet serta aplikasinya). Perkuliahan menggunakan demonstrasi untuk menjelaskan berbagai konsep. Kuliah ini juga dilengkapi praktikum yang berorientasi pemecahan masalah (bukan prosedural) untuk menunjang penguasaan materi kuliah secara terpadu melalui kegiatan kelompok. Penggunaan komputer dalam praktikum membekali mahasiswa dengan kemampuan pemodelan untuk berbagai fenomena fisika.|
-|APS106		|FISIKA DASAR 2/*PHYSICS 2*|
-|APS105		|Melalui mata kuliah ini diharapkan mahasiswa mampu menguasai konsep dan prinsip dasar fisika serta mampu menjelaskan berbagai fenomena fisika. Kuliah ini membahas Mekanika (Kinematika, Dinamika, Usaha dan Energi, Momentum dan Impuls, Benda Elastik dan Tegar, Momen Inersia dan Momen Gaya, Fluida), Termodinamika (Kalor dan Perpindahannya, Proses dan Keadaan, Siklus dan Efisiensi, Entropi). Perkuliahan menggunakan demonstrasi untuk menjelaskan berbagai konsep. Kuliah ini juga dilengkapi praktikum yang berorientasi pemecahan masalah (bukan prosedural) untuk menunjang penguasaan materi kuliah secara terpadu melalui kegiatan kelompok. Penggunaan komputer dalam praktikum membekali mahasiswa dengan kemampuan pemodelan untuk berbagai fenomena fisika.|
-|APS107		|FISIKA MATEMATIKA 1/*MATHEMATICAL PHYSICS 1*|
-|		|Melalui mata kuliah ini diharapkan mahasiswa mampu menyelesaikan permasalahan dasar dalam turunan dan integral. Secara garis besar materi dalam mata kuliah ini antara lain: Limit dan Kekontinuan, Turunan dan penggunaannya, Integral dan penggunaannya, Teknik Pengintegralan, Fungsi Dua Variabel, Barisan dan Deret Tak Hingga, Persamaan Diferensial Biasa.|
-|APS108		|FISIKA MATEMATIKA 2/*MATHEMATICAL PHYSICS 2*	|
-|APS107		|Melalui mata kuliah ini diharapkan mahasiswa dapat memahami konsep dasar aljabar linier. Dalam mata kuliah ini diajarkan tentang: Sistem Persamaan Linier, Matriks dan Determinan, Vektor dalam 2 Dimensi dan 3 Dimensi, Ruang Vektor, Transformasi Linier, Nilai dan Vektor Eigen, Aplikasi Aljabar Linier.|
-|APS112		|MEKANIKA/*MECHANICS*		|
-|APS105, APS107	|Mata kuliah ini bertujuan untuk memperdalam konsep kinematika dan dinamika partikel dalam dua dimensi dan tiga dimensi berlandaskan hukum-hukum mekanika (Hukum Newton, konsep kekekalan energi mekanik dan kekekalan momentum). Setelah mengikuti perkuliahan mahasiswa diharapkan dapat menjelaskan gejala-gejala tertentu terkait mekanika partikel serta dapat menyelesaikan masalah-masalah makroskopis terkait mekanika. Materi perkuliahan terkait kinematika dan dinamika partikel meliputi gerak lurus, gerak melingkar, gerak rotasi, serta diperluas untuk osilasi harmonik, fluida, gravitasi, dan sistem partikel, dengan tinjauan secara fisis maupun matematis. Untuk mengantarkan kepada konsep mekanika kuantum, maka diperkenalkan Metode Langrange-Hamilton, yang diterapkan untuk menyelesaikan permasalahan pada sistem makroskopis.|
-|APS124		|FISIKA MODERN/*MODERN PHYSICS*	|
-|APS105, APS107	|Dalam mata kuliah ini, mahasiswa diberikan wawasan mengenai konsep-konsep baru yang melengkapi konsep-konsep fisika klasik, mulai dari munculnya teori relativitas khusus, kegagalan fisika klasik (Hukum Newton) untuk menjelaskan berbagai fenomena dalam skala mikroskopis, eksperimen-eksperimen terkait fenomena kuantum hingga perkembangannya, yang menjadi dasar penemuan-penemuan mutakhir dalam dunia sains, industri dan komunikasi. Pada Teori Relativitas Khusus dibahas mengenai konsep-konsep dasar dalam Teori Relativitas Khusus: Postulat Einstein dan konsekuensi-konsekuensinya.  Melalui Transformasi Lorentz diperoleh suatu persamaan bagi relativitas panjang, waktu dan kecepatan. Dalam perkuliahan ini juga disampaikan mengenai Efek Dopler untuk Cahaya, Paradoks Kembar, Kesetaraan Massa dan Energi dalam Relativitas. Perkembangan fisika modern diawali dengan kegagalan fisika klasik untuk menjelaskan berbagai fenomena dalam skala mikroskopis. Dimulai dari konsep Radiasi Gelombang Elektromagnetik, hingga munculnya konsep dualisme gelombang-partikel melalui berbagai teori dan eksperimen (teori Planck, efek fotolistrik, efek Compton, gelombang de Broglie) yang menjadi awal dari lahirnya fisika kuantum. Dalam aplikasinya dibahas pula fenomena kuantum pada atom Hidrogen. Dalam perkuliahan ini juga diperkenalkan beberapa konsep terkait seperti ketidakpastian Heisenberg, prinsip korespondensi, persamaan gelombang dalam kuantum (persamaan Schrödinger), dan dasar-dasar struktur materi, untuk mengantarkan pada perkuliahan mekanika kuantum.|
-|APS132		|FISIKA KOMPUTASI/*COMPUTATIONAL PHYSICS*	|
-|AIF111		|Tujuan mata kuliah ini adalah untuk melatih mahasiswa mengungkapkan perangai obyek alam dalam lingkup fisika, yang dirumuskan dalam bentuk rumus-rumus matematika, menjadi simulai visual yang interaktif dalam tampilan komputer. Materi yang diajarkan pada mata kuliah ini adalah: Simulasi Perangai Benda Titik, Benda Pejal, Tumbukan, Getaran dan Gelombang, Modulasi Amplitudo dan Frekuensi, Interferensi dan Difraksi, Garis Gaya Medan Listrik dan Medan Magnet, Gaya Lorentz, Rangkaian LRC, Hamburan Thomas Fermi dan Rutherford.|
-|APS204		|PROJEK BERSAMA/*PHYSICS PROJECT*	|
-|APS103		|Penelitian, evaluasi dan presentasi informasi ilmiah merupakan kemampuan penting mahasiswa program studi Fisika pada tahun ke-2. Projek ini didesain untuk mengembangkan lebih lanjut kemapuan-kemampuan penting tersebut. Dalam pelaksanaannya, mahasiswa dalam satu kelas akan dibagi ke dalam beberapa kelompok yang masing-masing beranggotakan 6 mahasiswa yang mana setiap kelompok akan didampingi oleh staf akademik yang akan berperan sebagai mentor sekaligus penilai. Kemudian setiap kelompok akan diberikan sebuah topik untuk diteliti dan dilaporkan. Setiap minggunya masing-masing kelompok akan bertemu secara reguler untuk menetapkan tugas individu dan menyatukan informasi-informasi yang diperoleh. Menjelang akhir semester setiap mahasiswa harus memberikan presentasi tentang projek yang telah diteliti kepada semua anggota kelompoknya. Kemudian setiap kelompok harus mengatur pembuatan laporan akhir tertulis yang akan dinilai. Penilaian keseluruhan didasarkan pada hasil presentasi dan nilai laporan.|
-|APS207		|FISIKA MATEMATIKA 3/*MATHEMATICAL PHYSICS 3*|
-|APS108		|Dalam mata kuliah ini mahasiswa diperkenalkan dengan konsep-konsep matematika yang banyak berguna dalam pemecahan masalah fisika. Setelah mengikuti perkuliahan ini diharapkan mahasiswa mampu menyelesaikan permasalahan sederhana yang berkaitan dengan konsep-konsep matematika tersebut. Secara garis besar materi yang diajarkan dalam mata kuliah ini meliputi: Bilangan Kompleks, Diferensiasi Parsial, Integral Lipat dan Penggunaannya, Analisa Vektor (Teorem Green, Divergensi dan Stokes), Deret Fourier, Transformasi Integral.|
-|APS208		|FISIKA MATEMATIKA 4/*MATHEMATICAL PHYSICS 4*|
-|APS207		|Kuliah ini dimulai dengan teori transformasi Fourier dan fungsi Delta Dirac. Transformasi Fourier digunakan untuk mentransformasikan fungsi pada semua baris nyata menggunakan kombinasi linier sinus dan cosinus. Transformasi Fourer adalah implemen yang kuat dalam fisika dan aplikasi matematika. Transformasi Fourier akan mengubah persamaan turunan linier ke dalam persamaan aljabar dengan koefisien konstan yang mana secara umum lebih mudah untuk diselesaikan. Berbagai contoh yang digunakan untuk ilustrasi dalam mata kuliah ini akan diambil sebagian besar dari fenomena interferensi dan difraksi optik. Secara garis besar mata kuliah ini membahas tentang: Transformasi Koordinat, Fungsi-fungsi Khusus (Gamma, Betha, Error, Integral Eliptik, Stirling), Persamaan Diferensial dengan Solusi Deret (Legendre, Bessel, Hermite), Fungsi Kompleks, Persamaan Diferensial Parsial. Melalui mata kuliah ini diharapkan mahasiswa dapat mengenal beberapa konsep pemecahan permasalahan matematika yang banyak berguna dalam fisika dan mampu mengungkapkan  contoh-contoh peranannya dalam fisika, serta dapat menyelesaikan permasalahan sederhana yang berkaitan.|
-|APS213		|GELOMBANG/*WAVES*	|
-|APS112, APS108		|Pemahaman mengenai gelombang secara mendalam sangat penting untuk dapat menjelaskan fenomena-fenomena terkait yang dijumpai dalam kehidupan sehari-hari.  Selain itu pendekatan gerak partikel berupa gelombang juga dipelajari dalam perkuliahan lanjut seperti mekanika kuantum. Pada mata kuliah ini, mahasiswa akan mempelajari konsep dasar yang diperlukan untuk memahami fenomena gelombang beserta aplikasinya, seperti gerak harmonik, gelombang mekanik dan elektromagnetik, analisis Fourier paket gelombang; dan beberapa aplikasi dasar fenomena gelombang. Dalam Pembahasan digunakan pendekatan secara matematis untuk mendapatkan makna fisisnya. Melalui mata kuliah ini diharapkan mahasiswa mampu memahami dan menerapkan konsep, prinsip dan  sifat gelombang. Perkuliahan diawali dengan pendahuluan yaitu gerak harmonik sederhana yang telah diberikan pada mata kuliah Mekanika, kemudian membahas tentang gelombang mekanik yang terdiri dari gelombang transversal dan longitudinal dalam berbagai medium. Dalam perkuliahan ini juga diperluas dengan materi gelombang elektromagnetik (yang akan sejalan dengan mata kuliah listrik magnet) dengan memperkenalkan Persamaan Maxwell yang merupakan dasar untuk memahami sifat-sifat gelombang elektromagnetik. Pada perkuliahan juga diberikan materi analisa Forier untuk meyelesaikan berbagai persoalan dalam paket gelombang, serta fenomena-fenomena lain terkait, Interferensi dan Difraksi.|
-|APS215		|FISIKA TERMAL/*THERMAL PHYSICS*|
-|APS106, APS108	|Mata kuliah fisika termal bertujuan untuk memberikan wawasan mengenai konsep termodinamika klasik (hukum-hukum termodinamika) yang disajikan dalam parameter-parameter termal, beserta pengantar mengenai dasar-dasar fisika statistik, baik secara fisis maupun matematis, yang sangat bermanfaat dalam bidang Material, Atom-Inti, dan Astrofisika. Dalam mata kuliah ini akan diperdalam mengenai konsep termodinamika untuk sistem makroskopis dan mikroskopis dalam kesetimbangan termal, diawali dengan definisi parameter-parameter fisis dalam termodinamika seperti suhu, energi dalam dan entropi, kemudian memperkenalkan hukum-hukum termodinamika dan penerapannya untuk sistem makroskopis. Dalam mata kuliah ini juga diperkenalkan beberapa istilah dan teori terkait mikrosistem untuk menjelaskan keadaan sistem meliputi persamaan keadaan untuk mikrosistem, fungsi distribusi Boltzmann, Bose-Einstein dan Fermi-Dirac, untuk mengantarkan pada perkuliahan fisika statistik, serta memahami kaitan antara termodinamika klasik dan mekanika statistik.|
-|APS216		|FISIKA STATISTIK/*STATISTICAL PHYSICS*	|
-|APS215, APS207		|Ketidakpastian memainkan peranan esensial di alam. Mekanika statistik merupakan sebuah deskripsi dari peranan yang dimainkan oleh ketidakpastian-ketidakpastian tersebut. Dalam mata kuliah ini akan dipelajari tentang pencarian ”most probable distribution” dengan energi terrendah. Mekanika menurut ungkapan Hamilton, Gas Ideal, distribusi Maxwell-Boltzmann, getaran kisi pada zat padat, paham entropi dari pendekatan statistik. Statistik kuantum Fermi-Dirac dan Bose-Einstein, gas dan zat padat dalam unkapan kuantum. Melalui mata kuliah ini mahasiswa diharapkan bisa menggunakan pendekatan statistik untuk menerangkan perangai gejala fisika termal yang dibahas dalam termodinamika. Menyadarkan bahwa gejala ”non reversible” pada aturan termodinamika gas dan zat padat dapat diterangkan dari statistik kumpulan atom/molekul pembangunnya yang dinamikanya ”reversible”.|
-|APS222		|LISTRIK MAGNET/*ELECTRICITY AND MAGNETISM*	|
-|APS106, APS207, APS213 		|Pada mata kuliah ini secara luas fokus dengan perkembangan besar pada listrik dan magnet dalam 2 abad terakhir, yakni menitikberatkan pada medan-medan yang tidak bergantung pada waktu. Sebelum pembahasan medan-medan tersebut di atas, diberikan dasar-dasar analisis vektor beserta arti fisis yang terkandung di dalamnya. Pembahasan pokok meliputi medan listrik statis (konsep medan listrik, potensial listrik, pemecahan persamaan yang berkaitan dengan potensial listrik statis : masalah syarat batas, sifat bahan dielektrik) dan medan magnetik statis (konsep mdan magnetik, potensial magnetik, pemecahan persamaan yang berkaitan dengan potensial magnetik : masalah syarat batas, sifat bahan magnetik). Melalui mata kuliah ini diharapkan mahasiswa mampu memahami secara kualitatif dan kuantitatif fenomena medan listrik dan magnet statis.|
-|APS225		|LABORATORIUM FISIKA MODERN/*MODERN PHYSICS LABORATORY*	|
-|APS124		|Kuliah ini berisi kegiatan ekperimen Fisika Modern yang bertujuan membuka wawasan serta memperkenalkan konsep baru tentang Fisika Modern kepada mahasiswa melalui kegiatan eksperimen. Kegiatan eksperimen ini berisikan berbagai percobaan Fisika Modern seperti percobaan Efek Fotolistrik, percobaan Difraksi Elektron, percobaan Frank-Hertz, percobaan Interferometri Michelson, percobaan tetes minyak Millikan. Selain untuk meningkatkan kemampuan serta keterampilan mahasiswa menggunakan peralatan untuk melakukan pengukuran secara ilmiah, melalui eksperimen ini diharapkan mahasiswa mulai terlatih untuk menulis laporan dengan format penulisan ilmiah.|
-|APS233		|ELEKTRONIKA 1/*ELECTRONICS 1*	|
-|APS108, APS132		|Instrumentasi elektronik digunakan secara luas pada hampir semua area fisika eksperimen. Melalui mata kuliah ini diharapkan mahasiswa dapat menguasai konsep dasar untuk memecahkan permasalahan, analisa rangkaian dan desain rangkaian elektronika. Secara garis besar dalam kuliah ini akan dibahas tentang arus searah, arus bolak-balik, rangkaian filter, rangkaian filter, dioda, transistor dan operasional amplifier.|
-|APS234		|ELEKTRONIKA 2/*ELECTRONICS 2*	|
-|APS233, APS207	|Mata kuliah ini merupakan kelanjutan dari mata kuliah Elektronika 1. Dalam mata kuliah ini dibahas tentang konversi bilangan, logika kombinasi (tabel kebenaran, aljabar boolean, karnaugh map, gerbang logika), Logika sekuensial (flip-flop, register, diagram keadaan, diagram perwaktuan), Aplikasi (pencacah, dekoder, enkoder, multiplekser, adc, dac, komponen opto-elektronika). Mata kuliah ini bertujuan untuk membekali mahasiswa dengan konsep dasar dan pengalaman dalam bidang elektronika digital.|
-|APS304		|TEKNIK PRESENTASI/*PRESENTATION SKILLS*|
-|	-	|Salah satu kemampuan dasar yang wajib dimiliki oleh seorang mahasiswa adalah kemampuan untuk berkomunikasi baik secara lisan maupun tertulis. Di dalam mata kuliah ini mahasiswa akan dilatih untuk membuat laporan ilmiah yang profesional dan dibekali dengan kemampuan untuk dapat memberikan presentasi yang efektif.|
-|APS323		|ELEKTRODINAMIKA/*ELECTRODYNAMICS*|
-|APS222, APS208	|Mata kuliah ini mengembangkan gagasan-gagasan tentang listrik magnet yang telah dipelajari pada semester sebelumnya ke dalam teori Maxwell tentang elektromagnetik. Persamaan Maxwell menarik berbagai macam hukum tentang listrik magnet (Hukum Faraday, Hukum Ampere, Hukum Lenz, Hukum Gauss) ke dalam satu kesatuan teori yang elegan. Penetapan teori elektromagnetik yang komplit telah membuktikan salah satu pencapaian besar dalam fisika. Secara garis besar dalam mata kuliah ini akan dibahas beberapa konsep elektrodinamika yang mengaitkan hubungan antara medan listrik dan medan magnetik (hukum Ohm dan hukum Faraday) dan berujung pada persamaan Maxwell yang menggabungkan deskripsi medan listrik dan medan magnetik. Beberapa sifat gelombang elektromagnetik yang ditimbulkan sebagai solusi persamaan Maxwell dibahas dalam kuliah ini, seperti persamaan gelombang elektromagnetik dan perambatannya dalam medium serta dispersi gelombang elektromagnetik. Beberapa aplikasi sederhana gelombang elektromagnetik diberikan, seperti pandu gelombang dan radiasi elektromagnetik. Masalah invariansi teori elektromagnetik terhadap kerangka inersial dimunculkan, yang pada akhirnya berujung pada ide teori relativitas khusus yang dikembangkan oleh Einstein. Melalui mata kuliah ini diharapkan mahasiswa dapat memahami secara kualitatif dan kuantitatif fenomena medan listrik dan magnet dinamis.|
-|APS328		|MEKANIKA KUANTUM/*QUANTUM MECHANICS*	|
-|APS327, APS208		|Melalui mata kuliah ini mahasiswa akan diperkenalkan struktur matematika mekanika kuantum dan menjelaskan bagaimana untuk menghitung nilai harapan untuk jumlah yang diamati dari suatu sistem. Selain itu untuk menunjukkan bagaimana teori perhitungan kuantum dari sifat atom, partikel dasar, inti dan padatan. Secara umum dalam mata kuliah ini akan dibahas lebih lanjut tentang Revisi fungsi gelombang, kepadatan probabilitas dan persamaan Schrödinger dalam 1 dimensi. Atom Hidrogen: momentum sudut orbital, bilangan kuantum, distribusi probabilitas. Spektrum atom dan efek Zeeman. Elektron berputar: Stern-Gerlach, kuantum spin angka, spin-orbit kopling, prinsip pengecualian dan tabel periodik. X-ray spektrum.|
-|APS335		|LAB. FISIKA INSTRUMENTASI/*INSTRUMENTATION PHYSICS LABORATORY*|
-|APS234		|Pada kuliah ini materi dipelajari dengan menerapkannya pada robot agar proses pembelajaran menarik dan langsung diterapkan. Isi kuliah meliputi sensor, pengkondisian sinyal, ADC, DAC, Pengolahan data, Fourier, Sistem tertutup. Tujuan mata kuliah ini untuk membekali mahasiswa dengan pengalaman antarmuka dalam instrumentasi.|
-|APS341		|PENGANTAR FISIKA NUKLIR/*INTRODUCTION TO NUCLEAR PHYSICS*	|
-|APS208, APS106		|Dasar penyusun materi diklasifikasikan menjadi tiga generasi Quarks dan Leptons (elektron dan neutrino), yang saling berinteraksi melalui gaya elektromagnetik, gaya lemah dan gaya kuat. Pada mata kuliah ini dipelajari cara mengklasifikasikan partikel-partikel dasar dan interaksinya serta deskripsi beberapa alat eksperimen yang digunakan untuk memahami sifat-sifat partikel tersebut. Modul pada mata kuliah ini diawali dengan mendiskusikan hubungan antara gaya konservatif dengan sifat simetris dari partikel-partikel dasar. Pemahaman akan hubungan ini menjadi kunci pengetahuan mengenai perilaku partikel-partikel dasar. Selain itu juga dibahas mengenai partikel-partikel yang dipelajari secara eksperimen dan mendeskripsikan pengoperasian beberapa peralatan meliputi tabung sinar katoda, spectrometer massa dan akselerator partikel. Di akhir kuliah akan dipelajari interaksi partikel dengan materi.|
-|APS342		|PENGANTAR FISIKA MATERIAL/*INTRODUCTION TO MATERIAL PHYSICS*	|
-|APS106, APS208 	|Kuliah ini berisi pengenalan material dimulai dengan struktur atom, struktur kristal ideal dan tak ideal, proses difusi, mekasnisme dislokasi, failure, diagram fasa dan transformasi fasa, material processing, sifat dan aplikasi material logam, alloys, keramik, polimer, material fotonik dan contoh-contoh devaisnya. Kuliah ini dimaksudkan untuk memberikan gambaran secara lengkap mengenai material dalam kehidupan sehari-hari sampai dengan penerapannya pada teknologi mutakhir.|
-|APS348		|OPTIKA/*OPTICS*	|
-|APS106, APS208		|Kuliah ini berisikan konsep-konsep dasar dalam Optika dan aplikasinya serta perkembangan terkini dalam bidang Optika baik itu Optika klasik hingga Optika modern. Kuliah ini terbagi atas 4 bagian besar yaitu konsep dasar yang merupakan tools untuk dapat memahami Optika, sifat dan perilaku sumber cahaya laser, sistem optik (material, pandu gelombang, optika nonlinear, optika Fourier), dan sistem detektor (optional). Kuliah ini bertujuan untuk memperluas cakrawala dan wawasan serta pemahaman mahasiswa mengenai konsep-konsep dasar dan aplikasinya serta perkembangan terkini dalam bidang Optika.|
-|APS392		|SEMINAR/*SEMINAR*|
-|APS204		|Dalam mata kuliah ini mahasiswa akan berlatih memahami artikel-artikel fisika hasil karya orang lain yang tersedia di internet, maupun buku pustaka. Disisni mahasiswa memilih sendiri topik untuk berlatih menyampaikan gagasan sendiri dalam lingkup fisika yang dipahaminya dalam wujud tulisan. Adapun tujuan mata kuliah ini adalah Melatih peserta dalam kemahiran berkomunikasi dalam lingkup fisika yang melibatkan lambang-lambang matematika untuk melukiskan gejala-gejala alam.|
-|APS402		|ETIKA PROFESI/*PROFESSIONAL ETHICS*|
-|		|Melalui mata kuliah ini mahasiswa akan mendapatkan wawasan tentang peran etika di bidang profesi. Pembahasan tentang etika profesi ini mengacu pada referensi tentang kode etik ilmuwan, tetapi sebetulnya penerapannya sangatlah luas termasuk untuk bidang keprofesian lain. Nilai dan hakikat dari kode etik yang berlaku di bidang ilmiah berguna pula untuk diterapkan oleh mahasiswa di segala bidang pekerjaan yang akan ditekuni. Dengan berlandaskan pada nilai-nilai etika itulah diharapkan mahasiswa dapat menjadi seorang manusia yang etis dalam menjalani profesinya.|
-|APS497		|TUGAS AKHIR 1/*FINAL PROJECT 1*	|
-|APS392		|Melalui Tugas Akhir 1 ini diharapkan mahasiswa dapat mempunyai kemampuan menelaah suatu topik terbatas dalam bidang fisika dan/atau aplikasinya, secara mandiri di bawah bimbingan seorang dosen, dan menuliskannya dalam bentuk karya ilmiah. Tugas Akhir 1 ini merupakan bagian pertama dari tugas akhir dengan titik berat pada studi pustaka, pemahaman, pelaporan hasil kerja secara tertulis dan lisan. Topik tugas akhir ditentukan bersama dengan dosen pembimbing.|
-|APS498		|TUGAS AKHIR 2/*FINAL PROJECT 2*|
-|APS497		|Tujuan dari Tugas Akhir 2 adalah untuk Memberi kemampuan menyelesaikan telaahan suatu topik terbatas dalam bidang fisika dan/atau aplikasinya, secara cukup mandiri di bawah bimbingan seorang dosen, dan menuliskannya dalam bentuk karya ilmiah. Tugas Akhir 2 merupakan bagian kedua dari tugas akhir. Pada Tugas Akhir 2 ini lebih fokus dengan pendalaman dari topik dan menyajikan hasil kerja lengkap dalam bentuk tulisan yang baik dan standar, juga secara lisan. Topik tugas akhir ditentukan bersama dengan dosen pembimbing.|
-|SAB315		|KEWIRAUSAHAAN/*ENTREPRENEURSHIP*	|
-|		|Mata kuliah ini membahas pengertian Kewirausahaan serta bagaimana sebaiknya mengembangkan usaha agar dapat menjadi wirausaha yang berhasil dan beretika. Pembahasan mengenai inti dan hakekat kewirausahaan, disiplin ilmu, obyek studi dan perkembangannya, karakteristik dan ciri umum kewirausahaan, faktor-faktor pemicu, model, proses, tahapan, keberhasilan dan kegagalan, ide dan sumber wirausaha, cara memasuki dunia usaha, pengelolaan dunia usaha, kompetisi dan strategi, pembuatan studi kelayakan dan etika bisnis dan prinsip-prinsip usaha yang baik. Selain itu juga dipresentasikan hasil kunjungan ke perusahaan agar dapat membedakan dunia nyata dengan teori, sehingga mahasiswa diharapkan memiliki kemampuan *soft skill*.|
+|KODE MK	|PRASYARAT		|NAMA & DESKRIPSI MATA KULIAH	|
+|---------------|-----------------------|-------------------------------|
+|AIF111		|	-		|**PEMROGRAMAN KOMPUTER (*COMPUTER PROGRAMMING*)** Mata kuliah ini bertujuan untuk mengenalkan dan membekali mahasiswa kepada konsep-konsep dasar pemrograman.	|
+|APS101		|	-		|**PENGENALAN PROGRAM STUDI FISIKA (*INTRODUCTION TO PHYSICS STUDIES*)** Mata kuliah ini bertujuan untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan, yang meliputi: kemampuan untuk menganalisa, memecahkan masalah dan membuat kesimpulan. Selain itu, mata kuliah ini juga membahas tujuan dan struktur program studi, melatih penggunaan metode ilmiah, serta peluasan wawasan tentang fisika dan ilmu-ilmu umum, dengan melibatkan keaktifan mahasiswa.|
+|APS103		|	-		|**KETRAMPILAN FISIKA (*KEY SKILLS FOR PHYSICS*)** Mata kuliah ini bertujuan untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan, yang meliputi: kemampuan untuk menganalisa, memecahkan masalah dan membuat kesimpulan. Selain itu, mata kuliah ini juga melatih mahasiswa untuk mengetahui bagaimana mengukur ketidak pastian dalam suatu percobaan, membuat laporan ilmiah yang profesional dan mempresentasikannya.|
+|ICE109		|	-		|**KIMIA DASAR (*CHEMISTRY*)** Tujuan dari mata kuliah ini adalah untuk membekali mahasiswa dengan pengetahuan kimia dasar agar dapat memahami proses-proses kimia yang dijumpai dalam kehidupan sehari-hari.|
+|APS105		|	-		|**FISIKA DASAR 1 (*PHYSICS 1*)** Melalui mata kuliah ini diharapkan mahasiswa mampu menguasai konsep dan prinsip dasar fisika serta mampu menjelaskan berbagai fenomena fisika. Kuliah ini membahas Optika (Gejala dan Sifat Warna, Optika Geometris, Gejala Polarisasi), Bunyi (Getaran dan Gelombang, Interferensi dan Difraksi), Listrik (Elektrostatik dan Elektrodinamika), dan Magnet (Gejala Kemagnetan dan Elektromagnet serta aplikasinya). Perkuliahan menggunakan demonstrasi untuk menjelaskan berbagai konsep. Kuliah ini juga dilengkapi praktikum yang berorientasi pemecahan masalah (bukan prosedural) untuk menunjang penguasaan materi kuliah secara terpadu melalui kegiatan kelompok. Penggunaan komputer dalam praktikum membekali mahasiswa dengan kemampuan pemodelan untuk berbagai fenomena fisika.	|
+|APS106		|	APS105		|**FISIKA DASAR 2 (*PHYSICS 2*)** Melalui mata kuliah ini diharapkan mahasiswa mampu menguasai konsep dan prinsip dasar fisika serta mampu menjelaskan berbagai fenomena fisika. Kuliah ini membahas Mekanika (Kinematika, Dinamika, Usaha dan Energi, Momentum dan Impuls, Benda Elastik dan Tegar, Momen Inersia dan Momen Gaya, Fluida), Termodinamika (Kalor dan Perpindahannya, Proses dan Keadaan, Siklus dan Efisiensi, Entropi). Perkuliahan menggunakan demonstrasi untuk menjelaskan berbagai konsep. Kuliah ini juga dilengkapi praktikum yang berorientasi pemecahan masalah (bukan prosedural) untuk menunjang penguasaan materi kuliah secara terpadu melalui kegiatan kelompok. Penggunaan komputer dalam praktikum membekali mahasiswa dengan kemampuan pemodelan untuk berbagai fenomena fisika.|
+|APS107		|	-		|**FISIKA MATEMATIKA 1 (*MATHEMATICAL PHYSICS 1*)** Melalui mata kuliah ini diharapkan mahasiswa mampu menyelesaikan permasalahan dasar dalam turunan dan integral. Secara garis besar materi dalam mata kuliah ini antara lain: Limit dan Kekontinuan, Turunan dan penggunaannya, Integral dan penggunaannya, Teknik Pengintegralan, Fungsi Dua Variabel, Barisan dan Deret Tak Hingga, Persamaan Diferensial Biasa.|
+|APS108		|	APS107		|**FISIKA MATEMATIKA 2 (*MATHEMATICAL PHYSICS 2*)** Melalui mata kuliah ini diharapkan mahasiswa dapat memahami konsep dasar aljabar linier. Dalam mata kuliah ini diajarkan tentang: Sistem Persamaan Linier, Matriks dan Determinan, Vektor dalam 2 Dimensi dan 3 Dimensi, Ruang Vektor, Transformasi Linier, Nilai dan Vektor Eigen, Aplikasi Aljabar Linier.	|
+|APS112		|	APS105, APS107		|**MEKANIKA (*MECHANICS*)** Mata kuliah ini bertujuan untuk memperdalam konsep kinematika dan dinamika partikel dalam dua dimensi dan tiga dimensi berlandaskan hukum-hukum mekanika (Hukum Newton, konsep kekekalan energi mekanik dan kekekalan momentum). Setelah mengikuti perkuliahan mahasiswa diharapkan dapat menjelaskan gejala-gejala tertentu terkait mekanika partikel serta dapat menyelesaikan masalah-masalah makroskopis terkait mekanika. Materi perkuliahan terkait kinematika dan dinamika partikel meliputi gerak lurus, gerak melingkar, gerak rotasi, serta diperluas untuk osilasi harmonik, fluida, gravitasi, dan sistem partikel, dengan tinjauan secara fisis maupun matematis. Untuk mengantarkan kepada konsep mekanika kuantum, maka diperkenalkan Metode Langrange-Hamilton, yang diterapkan untuk menyelesaikan permasalahan pada sistem makroskopis.		|
+|APS124		|	APS105, APS107		|**FISIKA MODERN (*MODERN PHYSICS*)** Dalam mata kuliah ini, mahasiswa diberikan wawasan mengenai konsep-konsep baru yang melengkapi konsep-konsep fisika klasik, mulai dari munculnya teori relativitas khusus, kegagalan fisika klasik (Hukum Newton) untuk menjelaskan berbagai fenomena dalam skala mikroskopis, eksperimen-eksperimen terkait fenomena kuantum hingga perkembangannya, yang menjadi dasar penemuan-penemuan mutakhir dalam dunia sains, industri dan komunikasi. Pada Teori Relativitas Khusus dibahas mengenai konsep-konsep dasar dalam Teori Relativitas Khusus: Postulat Einstein dan konsekuensi-konsekuensinya.  Melalui Transformasi Lorentz diperoleh suatu persamaan bagi relativitas panjang, waktu dan kecepatan. Dalam perkuliahan ini juga disampaikan mengenai Efek Dopler untuk Cahaya, Paradoks Kembar, Kesetaraan Massa dan Energi dalam Relativitas. Perkembangan fisika modern diawali dengan kegagalan fisika klasik untuk menjelaskan berbagai fenomena dalam skala mikroskopis. Dimulai dari konsep Radiasi Gelombang Elektromagnetik, hingga munculnya konsep dualisme gelombang-partikel melalui berbagai teori dan eksperimen (teori Planck, efek fotolistrik, efek Compton, gelombang de Broglie) yang menjadi awal dari lahirnya fisika kuantum. Dalam aplikasinya dibahas pula fenomena kuantum pada atom Hidrogen. Dalam perkuliahan ini juga diperkenalkan beberapa konsep terkait seperti ketidakpastian Heisenberg, prinsip korespondensi, persamaan gelombang dalam kuantum (persamaan Schrödinger), dan dasar-dasar struktur materi, untuk mengantarkan pada perkuliahan mekanika kuantum.	|
+|APS132		|	AIF111		|**FISIKA KPMPUTASI (*COMPUTATIONAL PHYSICS*)** Tujuan mata kuliah ini adalah untuk melatih mahasiswa mengungkapkan perangai obyek alam dalam lingkup fisika, yang dirumuskan dalam bentuk rumus-rumus matematika, menjadi simulai visual yang interaktif dalam tampilan komputer. Materi yang diajarkan pada mata kuliah ini adalah: Simulasi Perangai Benda Titik, Benda Pejal, Tumbukan, Getaran dan Gelombang, Modulasi Amplitudo dan Frekuensi, Interferensi dan Difraksi, Garis Gaya Medan Listrik dan Medan Magnet, Gaya Lorentz, Rangkaian LRC, Hamburan Thomas Fermi dan Rutherford.	|
+|APS204		|	APS103		|**PROJEK BERSAMA (*PHYSICS PROJECT*)** Penelitian, evaluasi dan presentasi informasi ilmiah merupakan kemampuan penting mahasiswa program studi Fisika pada tahun ke-2. Projek ini didesain untuk mengembangkan lebih lanjut kemapuan-kemampuan penting tersebut. Dalam pelaksanaannya, mahasiswa dalam satu kelas akan dibagi ke dalam beberapa kelompok yang masing-masing beranggotakan 6 mahasiswa yang mana setiap kelompok akan didampingi oleh staf akademik yang akan berperan sebagai mentor sekaligus penilai. Kemudian setiap kelompok akan diberikan sebuah topik untuk diteliti dan dilaporkan. Setiap minggunya masing-masing kelompok akan bertemu secara reguler untuk menetapkan tugas individu dan menyatukan informasi-informasi yang diperoleh. Menjelang akhir semester setiap mahasiswa harus memberikan presentasi tentang projek yang telah diteliti kepada semua anggota kelompoknya. Kemudian setiap kelompok harus mengatur pembuatan laporan akhir tertulis yang akan dinilai. Penilaian keseluruhan didasarkan pada hasil presentasi dan nilai laporan.	|
+|APS207		|	APS108		|**FISIKA MATEMATIKA 3 (*MATHEMATICAL PHYSICS 3*)** Dalam mata kuliah ini mahasiswa diperkenalkan dengan konsep-konsep matematika yang banyak berguna dalam pemecahan masalah fisika. Setelah mengikuti perkuliahan ini diharapkan mahasiswa mampu menyelesaikan permasalahan sederhana yang berkaitan dengan konsep-konsep matematika tersebut. Secara garis besar materi yang diajarkan dalam mata kuliah ini meliputi: Bilangan Kompleks, Diferensiasi Parsial, Integral Lipat dan Penggunaannya, Analisa Vektor (Teorem Green, Divergensi dan Stokes), Deret Fourier, Transformasi Integral.|
+|APS208		|	APS207		|**FISIKA MATEMATIKA 4 (*MATHEMATICAL PHYSICS 4*)** Kuliah ini dimulai dengan teori transformasi Fourier dan fungsi Delta Dirac. Transformasi Fourier digunakan untuk mentransformasikan fungsi pada semua baris nyata menggunakan kombinasi linier sinus dan cosinus. Transformasi Fourer adalah implemen yang kuat dalam fisika dan aplikasi matematika. Transformasi Fourier akan mengubah persamaan turunan linier ke dalam persamaan aljabar dengan koefisien konstan yang mana secara umum lebih mudah untuk diselesaikan. Berbagai contoh yang digunakan untuk ilustrasi dalam mata kuliah ini akan diambil sebagian besar dari fenomena interferensi dan difraksi optik. Secara garis besar mata kuliah ini membahas tentang: Transformasi Koordinat, Fungsi-fungsi Khusus (Gamma, Betha, Error, Integral Eliptik, Stirling), Persamaan Diferensial dengan Solusi Deret (Legendre, Bessel, Hermite), Fungsi Kompleks, Persamaan Diferensial Parsial. Melalui mata kuliah ini diharapkan mahasiswa dapat mengenal beberapa konsep pemecahan permasalahan matematika yang banyak berguna dalam fisika dan mampu mengungkapkan  contoh-contoh peranannya dalam fisika, serta dapat menyelesaikan permasalahan sederhana yang berkaitan.|
+|APS213		|	APS112, APS108		|**GELOMBANG (*WAVES*)** Pemahaman mengenai gelombang secara mendalam sangat penting untuk dapat menjelaskan fenomena-fenomena terkait yang dijumpai dalam kehidupan sehari-hari.  Selain itu pendekatan gerak partikel berupa gelombang juga dipelajari dalam perkuliahan lanjut seperti mekanika kuantum. Pada mata kuliah ini, mahasiswa akan mempelajari konsep dasar yang diperlukan untuk memahami fenomena gelombang beserta aplikasinya, seperti gerak harmonik, gelombang mekanik dan elektromagnetik, analisis Fourier paket gelombang; dan beberapa aplikasi dasar fenomena gelombang. Dalam Pembahasan digunakan pendekatan secara matematis untuk mendapatkan makna fisisnya. Melalui mata kuliah ini diharapkan mahasiswa mampu memahami dan menerapkan konsep, prinsip dan  sifat gelombang. Perkuliahan diawali dengan pendahuluan yaitu gerak harmonik sederhana yang telah diberikan pada mata kuliah Mekanika, kemudian membahas tentang gelombang mekanik yang terdiri dari gelombang transversal dan longitudinal dalam berbagai medium. Dalam perkuliahan ini juga diperluas dengan materi gelombang elektromagnetik (yang akan sejalan dengan mata kuliah listrik magnet) dengan memperkenalkan Persamaan Maxwell yang merupakan dasar untuk memahami sifat-sifat gelombang elektromagnetik. Pada perkuliahan juga diberikan materi analisa Forier untuk meyelesaikan berbagai persoalan dalam paket gelombang, serta fenomena-fenomena lain terkait, Interferensi dan Difraksi.|
+|APS215		|	APS106, APS108			|**FISIKA TERMAL(*THERMAL PHYSICS*)** Mata kuliah fisika termal bertujuan untuk memberikan wawasan mengenai konsep termodinamika klasik (hukum-hukum termodinamika) yang disajikan dalam parameter-parameter termal, beserta pengantar mengenai dasar-dasar fisika statistik, baik secara fisis maupun matematis, yang sangat bermanfaat dalam bidang Material, Atom-Inti, dan Astrofisika. Dalam mata kuliah ini akan diperdalam mengenai konsep termodinamika untuk sistem makroskopis dan mikroskopis dalam kesetimbangan termal, diawali dengan definisi parameter-parameter fisis dalam termodinamika seperti suhu, energi dalam dan entropi, kemudian memperkenalkan hukum-hukum termodinamika dan penerapannya untuk sistem makroskopis. Dalam mata kuliah ini juga diperkenalkan beberapa istilah dan teori terkait mikrosistem untuk menjelaskan keadaan sistem meliputi persamaan keadaan untuk mikrosistem, fungsi distribusi Boltzmann, Bose-Einstein dan Fermi-Dirac, untuk mengantarkan pada perkuliahan fisika statistik, serta memahami kaitan antara termodinamika klasik dan mekanika statistik.|
+|APS216		|	APS215, APS207		|**FISIKA STATISTIK (*STATISTICAL PHYSICS*)** Ketidakpastian memainkan peranan esensial di alam. Mekanika statistik merupakan sebuah deskripsi dari peranan yang dimainkan oleh ketidakpastian-ketidakpastian tersebut. Dalam mata kuliah ini akan dipelajari tentang pencarian ”most probable distribution” dengan energi terrendah. Mekanika menurut ungkapan Hamilton, Gas Ideal, distribusi Maxwell-Boltzmann, getaran kisi pada zat padat, paham entropi dari pendekatan statistik. Statistik kuantum Fermi-Dirac dan Bose-Einstein, gas dan zat padat dalam unkapan kuantum. Melalui mata kuliah ini mahasiswa diharapkan bisa menggunakan pendekatan statistik untuk menerangkan perangai gejala fisika termal yang dibahas dalam termodinamika. Menyadarkan bahwa gejala ”non reversible” pada aturan termodinamika gas dan zat padat dapat diterangkan dari statistik kumpulan atom/molekul pembangunnya yang dinamikanya ”reversible”.	|
+|APS222		|	APS106, APS207, APS213		|**LISTRIK MAGNET (*ELECTRICITY AND MAGNETISM*)** Pada mata kuliah ini secara luas fokus dengan perkembangan besar pada listrik dan magnet dalam 2 abad terakhir, yakni menitikberatkan pada medan-medan yang tidak bergantung pada waktu. Sebelum pembahasan medan-medan tersebut di atas, diberikan dasar-dasar analisis vektor beserta arti fisis yang terkandung di dalamnya. Pembahasan pokok meliputi medan listrik statis (konsep medan listrik, potensial listrik, pemecahan persamaan yang berkaitan dengan potensial listrik statis : masalah syarat batas, sifat bahan dielektrik) dan medan magnetik statis (konsep mdan magnetik, potensial magnetik, pemecahan persamaan yang berkaitan dengan potensial magnetik : masalah syarat batas, sifat bahan magnetik). Melalui mata kuliah ini diharapkan mahasiswa mampu memahami secara kualitatif dan kuantitatif fenomena medan listrik dan magnet statis.	|
+|APS225		|	APS124			|**LABORATORIUM FISIKA MODERN (*MODERN PHYSICS LABORATORY*)** Kuliah ini berisi kegiatan ekperimen Fisika Modern yang bertujuan membuka wawasan serta memperkenalkan konsep baru tentang Fisika Modern kepada mahasiswa melalui kegiatan eksperimen. Kegiatan eksperimen ini berisikan berbagai percobaan Fisika Modern seperti percobaan Efek Fotolistrik, percobaan Difraksi Elektron, percobaan Frank-Hertz, percobaan Interferometri Michelson, percobaan tetes minyak Millikan. Selain untuk meningkatkan kemampuan serta keterampilan mahasiswa menggunakan peralatan untuk melakukan pengukuran secara ilmiah, melalui eksperimen ini diharapkan mahasiswa mulai terlatih untuk menulis laporan dengan format penulisan ilmiah.	|
+|APS233		|	APS108, APS132		|**ELEKTRONIKA 1 (*ELECTRONICS 1*)** Instrumentasi elektronik digunakan secara luas pada hampir semua area fisika eksperimen. Melalui mata kuliah ini diharapkan mahasiswa dapat menguasai konsep dasar untuk memecahkan permasalahan, analisa rangkaian dan desain rangkaian elektronika. Secara garis besar dalam kuliah ini akan dibahas tentang arus searah, arus bolak-balik, rangkaian filter, rangkaian filter, dioda, transistor dan operasional amplifier.	|
+|APS234		|	APS233, APS207		|**ELEKTRONIKA 2 (*ELECTRONICS 2*)** Mata kuliah ini merupakan kelanjutan dari mata kuliah Elektronika 1. Dalam mata kuliah ini dibahas tentang konversi bilangan, logika kombinasi (tabel kebenaran, aljabar boolean, karnaugh map, gerbang logika), Logika sekuensial (flip-flop, register, diagram keadaan, diagram perwaktuan), Aplikasi (pencacah, dekoder, enkoder, multiplekser, adc, dac, komponen opto-elektronika). Mata kuliah ini bertujuan untuk membekali mahasiswa dengan konsep dasar dan pengalaman dalam bidang elektronika digital.	|
+|APS304		|	-		|**TEKNIK PRESENTASI (*PRESENTATION SKILLS*)** Salah satu kemampuan dasar yang wajib dimiliki oleh seorang mahasiswa adalah kemampuan untuk berkomunikasi baik secara lisan maupun tertulis. Di dalam mata kuliah ini mahasiswa akan dilatih untuk membuat laporan ilmiah yang profesional dan dibekali dengan kemampuan untuk dapat memberikan presentasi yang efektif.|
+|APS323		|	APS222, APS208		|**ELEKTRODINAMIKA (*ELECTRODYNAMICS*)** Mata kuliah ini mengembangkan gagasan-gagasan tentang listrik magnet yang telah dipelajari pada semester sebelumnya ke dalam teori Maxwell tentang elektromagnetik. Persamaan Maxwell menarik berbagai macam hukum tentang listrik magnet (Hukum Faraday, Hukum Ampere, Hukum Lenz, Hukum Gauss) ke dalam satu kesatuan teori yang elegan. Penetapan teori elektromagnetik yang komplit telah membuktikan salah satu pencapaian besar dalam fisika. Secara garis besar dalam mata kuliah ini akan dibahas beberapa konsep elektrodinamika yang mengaitkan hubungan antara medan listrik dan medan magnetik (hukum Ohm dan hukum Faraday) dan berujung pada persamaan Maxwell yang menggabungkan deskripsi medan listrik dan medan magnetik. Beberapa sifat gelombang elektromagnetik yang ditimbulkan sebagai solusi persamaan Maxwell dibahas dalam kuliah ini, seperti persamaan gelombang elektromagnetik dan perambatannya dalam medium serta dispersi gelombang elektromagnetik. Beberapa aplikasi sederhana gelombang elektromagnetik diberikan, seperti pandu gelombang dan radiasi elektromagnetik. Masalah invariansi teori elektromagnetik terhadap kerangka inersial dimunculkan, yang pada akhirnya berujung pada ide teori relativitas khusus yang dikembangkan oleh Einstein. Melalui mata kuliah ini diharapkan mahasiswa dapat memahami secara kualitatif dan kuantitatif fenomena medan listrik dan magnet dinamis.|
+|APS328		|	APS327, APS208		|**MEKANIKA KUANTUM (*QUANTUM MECHANICS*)** Melalui mata kuliah ini mahasiswa akan diperkenalkan struktur matematika mekanika kuantum dan menjelaskan bagaimana untuk menghitung nilai harapan untuk jumlah yang diamati dari suatu sistem. Selain itu untuk menunjukkan bagaimana teori perhitungan kuantum dari sifat atom, partikel dasar, inti dan padatan. Secara umum dalam mata kuliah ini akan dibahas lebih lanjut tentang Revisi fungsi gelombang, kepadatan probabilitas dan persamaan Schrödinger dalam 1 dimensi. Atom Hidrogen: momentum sudut orbital, bilangan kuantum, distribusi probabilitas. Spektrum atom dan efek Zeeman. Elektron berputar: Stern-Gerlach, kuantum spin angka, spin-orbit kopling, prinsip pengecualian dan tabel periodik. X-ray spektrum.	|
+|APS335		|	APS234			|**LAB. FISIKA INSTRUMENTASI (*INSTRUMENTATION PHYSICS LABORATORY*)** Pada kuliah ini materi dipelajari dengan menerapkannya pada robot agar proses pembelajaran menarik dan langsung diterapkan. Isi kuliah meliputi sensor, pengkondisian sinyal, ADC, DAC, Pengolahan data, Fourier, Sistem tertutup. Tujuan mata kuliah ini untuk membekali mahasiswa dengan pengalaman antarmuka dalam instrumentasi. |
+|APS341		|	APS208, APS106		|**PENGANTAR FISIKA NUKLIR (*INTRODUCTION TO NUCLEAR Nuclear Physics*)** Dasar penyusun materi diklasifikasikan menjadi tiga generasi Quarks dan Leptons (elektron dan neutrino), yang saling berinteraksi melalui gaya elektromagnetik, gaya lemah dan gaya kuat. Pada mata kuliah ini dipelajari cara mengklasifikasikan partikel-partikel dasar dan interaksinya serta deskripsi beberapa alat eksperimen yang digunakan untuk memahami sifat-sifat partikel tersebut. Modul pada mata kuliah ini diawali dengan mendiskusikan hubungan antara gaya konservatif dengan sifat simetris dari partikel-partikel dasar. Pemahaman akan hubungan ini menjadi kunci pengetahuan mengenai perilaku partikel-partikel dasar. Selain itu juga dibahas mengenai partikel-partikel yang dipelajari secara eksperimen dan mendeskripsikan pengoperasian beberapa peralatan meliputi tabung sinar katoda, spectrometer massa dan akselerator partikel. Di akhir kuliah akan dipelajari interaksi partikel dengan materi.	|
+|APS342		|	APS106, APS208		|**PENGANTAR FISIKA MATERIAL (*INTRODUCTION TO MATERIAL PHYSICS*)** Kuliah ini berisi pengenalan material dimulai dengan struktur atom, struktur kristal ideal dan tak ideal, proses difusi, mekasnisme dislokasi, failure, diagram fasa dan transformasi fasa, material processing, sifat dan aplikasi material logam, alloys, keramik, polimer, material fotonik dan contoh-contoh devaisnya. Kuliah ini dimaksudkan untuk memberikan gambaran secara lengkap mengenai material dalam kehidupan sehari-hari sampai dengan penerapannya pada teknologi mutakhir.	|
+|APS348		|	APS106, APS208		|**OPTIKA (*OPTICS*)** Kuliah ini berisikan konsep-konsep dasar dalam Optika dan aplikasinya serta perkembangan terkini dalam bidang Optika baik itu Optika klasik hingga Optika modern. Kuliah ini terbagi atas 4 bagian besar yaitu konsep dasar yang merupakan tools untuk dapat memahami Optika, sifat dan perilaku sumber cahaya laser, sistem optik (material, pandu gelombang, optika nonlinear, optika Fourier), dan sistem detektor (optional). Kuliah ini bertujuan untuk memperluas cakrawala dan wawasan serta pemahaman mahasiswa mengenai konsep-konsep dasar dan aplikasinya serta perkembangan terkini dalam bidang Optika.	|
+|APS392		|	APS204			|**SEMINAR (*SEMINAR*)** Dalam mata kuliah ini mahasiswa akan berlatih memahami artikel-artikel fisika hasil karya orang lain yang tersedia di internet, maupun buku pustaka. Disisni mahasiswa memilih sendiri topik untuk berlatih menyampaikan gagasan sendiri dalam lingkup fisika yang dipahaminya dalam wujud tulisan. Adapun tujuan mata kuliah ini adalah Melatih peserta dalam kemahiran berkomunikasi dalam lingkup fisika yang melibatkan lambang-lambang matematika untuk melukiskan gejala-gejala alam.|
+|APS402		|	-		|**ETIKA PROFESI (*PROFESSIONAL ETHICS*)** Melalui mata kuliah ini mahasiswa akan mendapatkan wawasan tentang peran etika di bidang profesi. Pembahasan tentang etika profesi ini mengacu pada referensi tentang kode etik ilmuwan, tetapi sebetulnya penerapannya sangatlah luas termasuk untuk bidang keprofesian lain. Nilai dan hakikat dari kode etik yang berlaku di bidang ilmiah berguna pula untuk diterapkan oleh mahasiswa di segala bidang pekerjaan yang akan ditekuni. Dengan berlandaskan pada nilai-nilai etika itulah diharapkan mahasiswa dapat menjadi seorang manusia yang etis dalam menjalani profesinya.|
+|APS497		|	APS392		|**TUGAS AKHIR 1 (*FINAL PROJECT 1*)** Melalui Tugas Akhir 1 ini diharapkan mahasiswa dapat mempunyai kemampuan menelaah suatu topik terbatas dalam bidang fisika dan/atau aplikasinya, secara mandiri di bawah bimbingan seorang dosen, dan menuliskannya dalam bentuk karya ilmiah. Tugas Akhir 1 ini merupakan bagian pertama dari tugas akhir dengan titik berat pada studi pustaka, pemahaman, pelaporan hasil kerja secara tertulis dan lisan. Topik tugas akhir ditentukan bersama dengan dosen pembimbing.	|
+|APS498		|	APS497		|**TUGAS AKHIR 2 (*FINAL PROJECT 2*)** Tujuan dari Tugas Akhir 2 adalah untuk Memberi kemampuan menyelesaikan telaahan suatu topik terbatas dalam bidang fisika dan/atau aplikasinya, secara cukup mandiri di bawah bimbingan seorang dosen, dan menuliskannya dalam bentuk karya ilmiah. Tugas Akhir 2 merupakan bagian kedua dari tugas akhir. Pada Tugas Akhir 2 ini lebih fokus dengan pendalaman dari topik dan menyajikan hasil kerja lengkap dalam bentuk tulisan yang baik dan standar, juga secara lisan. Topik tugas akhir ditentukan bersama dengan dosen pembimbing.|
+|SAB315		|	-		|**KEWIRAUSAHAAN (*ENTREPRENEURSHIP*)** Mata kuliah ini membahas pengertian Kewirausahaan serta bagaimana sebaiknya mengembangkan usaha agar dapat menjadi wirausaha yang berhasil dan beretika. Pembahasan mengenai inti dan hakekat kewirausahaan, disiplin ilmu, obyek studi dan perkembangannya, karakteristik dan ciri umum kewirausahaan, faktor-faktor pemicu, model, proses, tahapan, keberhasilan dan kegagalan, ide dan sumber wirausaha, cara memasuki dunia usaha, pengelolaan dunia usaha, kompetisi dan strategi, pembuatan studi kelayakan dan etika bisnis dan prinsip-prinsip usaha yang baik. Selain itu juga dipresentasikan hasil kunjungan ke perusahaan agar dapat membedakan dunia nyata dengan teori, sehingga mahasiswa diharapkan memiliki kemampuan *soft skill*.	|
 
 ## 2.7 Kurikulum Program Studi Teknik Informatika
 
@@ -997,29 +960,29 @@ TOTAL SKS = 18
 
 Keterangan :
 
-1. Mata kuliah pilihan wajib.  
-Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut
-2. Mata kuliah projek.  
-Mahasiswa harus lulus salah satu dari  
- - Projek Informatika, atau
- - Projek Sistem Informasi 1 dan Projek Sistem Informasi 2 
+1. Mata kuliah pilihan wajib.
+  Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut
+2. Mata kuliah projek.
+  Mahasiswa harus lulus salah satu dari
+    - Projek Informatika, atau
+    - Projek Sistem Informasi 1 dan Projek Sistem Informasi 2 
 
 Aturan tambahan :  
 
-1. Mata kuliah pilihan dari luar jurusan  
- Banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4  (empat) mata kuliah.  
- Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas  Ekonomi dianggap sebagai mata kuliah pilihan dari dalam jurusan
+1. Mata kuliah pilihan dari luar jurusan
 
-2. Skor *Coding*  
- Beberapa mata kuliah memiliki skor *coding* antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa   wali tingkat 1 s.d. 3 agar dalam pengambilan mata kuliah setiap semester, memiliki jumlah skor *coding* > 0.
+  Banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.
+  Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai mata kuliah pilihan dari dalam jurusan
+2. Skor *Coding*
 
-3. Nilai minimum kuliah jalur pemrograman/algoritma  
- Untuk mahasiswa yang ingin mengambil mata kuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang     seharusnya, yaitu:  
+  Beberapa mata kuliah memiliki skor *coding* antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan mata kuliah setiap semester, memiliki jumlah skor *coding* > 0.
+3. Nilai minimum kuliah jalur pemrograman/algoritma
 
-  - Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
-  - Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
-  - Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
-  - Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek  
+  Untuk mahasiswa yang ingin mengambil mata kuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
+    - Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+    - Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+    - Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
+    - Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek  
 
  maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
@@ -1099,62 +1062,260 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 ![Peta dan Prasyarat Mata Kuliah Program Studi Teknik Informatika](images/Lampiran_BAB2_3.png "Peta dan Prasyarat Mata Kuliah Program Studi Teknik Informatika")
 
 ### 2.7.4 Deskripsi Mata Kuliah
-|KODE MK	|NAMA & DESKRIPSI MATA KULIAH	|
-|---------------|-------------------------------|
-|AIF101		|PEMROGRAMAN BERORIENTASI OBJEK/*OBJECT-ORIENTED PROGRAMMING*	|
-|		|Memperkenalkan konsep-konsep dasar pemrograman dari perspektif berorientasi objek dan membangun dasar-dasar ketrampilan membuat program dengan menggunakan bahasa pemrograman berorientasi objek.|
-|AIF102		|ALGORITMA & STRUKTUR DATA/*ALGORITHMS & DATA STRUCTURES*|
-|		|Memperkenalkan konsep–konsep dasar algoritma, analisis algoritma, beberapa algoritma tingkat dasar (searching dan sorting) dan konsep penting mengenai struktur data (list) serta algoritma untuk memprosesnya.|
-|AIF103		|MATEMATIKA DISKRIT/*DISCRETE MATHEMATICS*|
-|		|Memberikan dasar pengetahuan tentang matematika diskret yang banyak digunakan pada bidang informatika, misalnya himpunan, fungsi dan relasi, dan matematika kombinatorial. Memberikan dasar pengetahuan bagaimana menggunakan matematika diskret untuk memodelkan dan menyelesaikan permasalahan.|
-|AIF104		|LOGIKA INFORMATIKA/*LOGICS FOR INFORMATICS*	|
-|		|Memberikan pengetahuan dasar kalkulus kepada mahasiswa, yang nanti digunakan di bidang informatika, misalnya tentang sistem bilangan real, limit, turunan, dan integral. Memberi pengetahuan dasar aljabar matriks yang berkaitan dengan jenis-jenis matriks, operasi matriks, dan sistem persamaan linier. Memberikan pengetahuan kepada mahasiswa bagaimana menyelesaikan masalah dengan menggunakan metode yang telah dijelaskan.|
-|AIF105		|PENGANTAR INFORMATIKA/*INTRODUCTION TO INFORMATICS*	|
-|		|Mengenal terminologi umum dalam informatika, mampu menggunakan kakas umum dalam informatika seperti MS Excel, mengenal cakupan ilmu informatika.|
 
+|KODE MK	|PRASYARAT		|NAMA & DESKRIPSI MATA KULIAH	|
+|---------------|-----------------------|-------------------------------|
+|AIF101		|	-		|**PEMROGRAMAN BERORIENTASI OBJEK (*OBJECT-ORIENTED PROGRAMMING*)** Memperkenalkan konsep-konsep dasar pemrograman dari perspektif berorientasi objek dan membangun dasar-dasar ketrampilan membuat program dengan menggunakan bahasa pemrograman berorientasi objek.	|
+|AIF102		|	-		|**ALGORITMA & STRUKTUR DATA (*ALGORITHMS & DATA STRUCTURES*)** Memperkenalkan konsep–konsep dasar algoritma, analisis algoritma, beberapa algoritma tingkat dasar (searching dan sorting) dan konsep penting mengenai struktur data (list) serta algoritma untuk memprosesnya.|
+|AIF103		|	-		|**MATEMATIKA DISKRIT (*DISCRETE MATHEMATICS*)** Memberikan dasar pengetahuan tentang matematika diskret yang banyak digunakan pada bidang informatika, misalnya himpunan, fungsi dan relasi, dan matematika kombinatorial. Memberikan dasar pengetahuan bagaimana menggunakan matematika diskret untuk memodelkan dan menyelesaikan permasalahan.|
+|AIF104		|	-		|**LOGIKA INFORMATIKA (*LOGICS FOR INFORMATICS*)** Memberikan pengetahuan dasar kalkulus kepada mahasiswa, yang nanti digunakan di bidang informatika, misalnya tentang sistem bilangan real, limit, turunan, dan integral. Memberi pengetahuan dasar aljabar matriks yang berkaitan dengan jenis-jenis matriks, operasi matriks, dan sistem persamaan linier. Memberikan pengetahuan kepada mahasiswa bagaimana menyelesaikan masalah dengan menggunakan metode yang telah dijelaskan.	|
+|AIF105		|	-		|**PENGANTAR INFORMATIKA (*INTRODUCTION TO INFORMATICS*)** Mengenal terminologi umum dalam informatika, mampu menggunakan kakas umum dalam informatika seperti MS Excel, mengenal cakupan ilmu informatika.	|
+|AIF106		|	-		|**SISTEM DIJITAL (*DIGITAL SYSTEMS*)** Memberi pengetahuan dasar kepada mahasiswa tentang struktur komputer dan fungsi masing-masing pembentuknya, memberi pengetahuan kepada mahasiswa tentang representasi data di dalam computer serta operasi-operasi aritmatika yang terkait, memberi pengetahuan kepada mahasiswa tentang arsitektur perancangan beberapa bagian penting di dalam komputer. |
+|AIF201		|	-		|**ANALISIS & DESAIN BERORIENTASI OBJEK (*OBJECT-ORIENTED ANALYSIS & DESIGN*)** Mempelajari dasar-dasar serta beberapa prinsip dalam perancangan program berorientasi objek. Mempelajari diagram UML (Unified Modeling Language) untuk mengkomunikasikan desain secara visual. Mempelajari beberapa design pattern dari Gang of Four untuk membantu mempercepat menyelesaikan masalah desain.|
+|AIF202		|	-		|**DESAIN & ANALISIS ALGORITMA (*DESIGN & ANALYSIS OF ALGORITHMS*)** Menggunakan dan merancang algoritma dan struktur data sederhana untuk menyelesaikan masalah-masalah komputasi tertentu  dan mengimplementasikannya menggunakan bahasa pemrograman berorientasi obyek.|
+|AIF203		|	-		|**STRUKTUR DISKRIT (*DISCRETE STRUCTURES*)** Memberikan dasar pengetahuan tentang struktur diskret yang banyak digunakan pada bidang informatika, khususnya graph, pohon dan finite state machine. Memberikan dasar pengetahuan bagaimana menggunakan struktur diskret untuk memodelkan dan menyelesaikan permasalahan.	|
+|AIF205		|	-		|**ARSITEKTUR & ORGANISASI KOMPUTER (*COMPUTER ARCHITECTURES & ORGANISATION*)** Mempelajari cara kerja antar bagian komputer dan arsitektur komputer, cara kerja dari komponen-komponen komputer, dan perkembangan arsitektur komputer modern.|
+|AIF206		|	-		|**SISTEM OPERASI (*OPERATING SYSTEMS*)** Mempelajari pengertian sistem operasi, peran dan fungsinya dalam sebuah sistem perangkat keras, khususnya komputer. Mempelajari prinsip-prinsip, teknik dan algoritma yang digunakan di dalam sebuah sistem operasi, penjadwalan, dan aspek keamanan dalam sistem operasi. Memperkenalkan dan menggunakan lebih dalam beberapa sistem operasi yang umum.	|
+|AIF208		|	-		|**REKAYASA PERANGKAT LUNAK (*REKAYASA PERANGKAT LUNAK*)** Mempelajari terminologi, definisi, Software Process Model, review paradigma berorientasi objek, kebutuhan perangkat lunak, *use case modeling, class modelling, dynamic modelling: state transition diagram, sequence diagram, activity diagram, reusability dan design pattern, data flow diagram, testing, software process management*.	|
+|AIF210		|	-		|**INTERAKSI MANUSIA KOMPUTER (*HUMAN-COMPUTER INTERACTION*)** Mempelajari konsep-konsep interaksi manusia dan komputer serta mengimplementasikan dalam bentuk pemrograman di lingkungan GUI dan event driven).|
+|AIF294		|	-		|**MANAJEMEN INFORMASI & BASIS DATA (*INFORMATION MANAGEMENT & DATABASES*)** Mengajarkan konsep dan macam-macam Sistem Manajemen Basis Data (DBMS), pengenalan basis data sederhana mulai dari spreadsheet, merancang dan memodelkan basis data menggunakan ER-D, implementasi tabel, penyimpanan data multimedia, serta cara penggunaan sintaks-sintaks SQL pada DBMS.|
+|AIF301		|	-		|**PENGANTAR SISTEM CERDAS (*INTRODUCTION TO INTELLIGENT SYSTEMS*)** Mempelajari definisi, karakteristikagen cerdas, *blind search, informed search, local search, adversarial search*, representasi pengetahuan dengan *Propositional Logic* dan *First Order Logic*, agen cerdas berbasis logika, *planning*, penanganan ketidakpastian, pembelajaran mesin.|
+|AIF302		|	-		|**PENULISAN ILMIAH (*SCIENTIFIC WRITING*)** Mempersiapkan mahasiswa untuk mulai melakukan penelitian. Memberikan penjelasan tentang penelitian dan jenis-jenisnya.	|
+|AIF303		|	-		|**PENGANTAR SISTEM INFORMASI (*INTRODUCTION TO INFORMATION SYSTEMS*)** Mempelajaritrend Teknologi Informasi, konsep Sistem Informasi Terkomputerisasi (SIT) dan komponen SI, pemanfaatan SI bagi organisasi, pengantar pembangunan SIT, perumusan prosedur-prosedur bisnis, keamanan informasi, pengantar e-bisnis/*e-commerce*, pengantar *Business Intelligence*, pengantar EIS, DSS, *cloud computing* dan *mobile applications*.|
+|AIF304		|	-		|**PROYEK SISTEM INFORMASI 1 (*INFORMATION SYSTEM PROJECT 1*)** Mempelajari pendalaman manajemen projek (penyusunan *Project Implementation Plan*), perumusan lingkup projek untuk organisasi studi kasus, analisis kebutuhan dengan pembuatan *prototype* penyusunan dokumen spesifikasi sistem (SRS).|
+|AIF305		|	-		|**JARINGAN KOMPUTER (*COMPUTER NETWORKS*)** Memperkenalkan organisasi yang berkaitan dengan internet; topologi jaringan;*layering*; komponen-komponen jaringan; aplikasi jaringan; Membangun aplikasi jaringan; lapisan transport – TCP; *Reliable data delivery*; Lapisan jaringan; *Local Area Network*; *Resource Allocation*; *Mobility*; *Multimedia Networking*; Memperkenalkan keamanan jaringan; *Social Networking*; Membangun dan administrasi jaringan LAN.|
+|AIF306		|	-		|**PROYEK INFORMATIKA (*INFORMATICS PROJECT*)** Mempelajari dan mempraktekkan tahap-tahap rekayasa perangkat lunak termasuk manajemen projek pada sebuah projek perangkat lunak nyata pada skala menengah.	|
+|AIF401		|	-		|**SKRIPSI 1 (*UNDERGRADUATE THESIS 1*)** Skripsi 1 merupakan bagian pertama skripsi dengan titik berat pada studi pustaka, pemahaman, pelaporan hasil kerja secara tertulis dan lisan. Topik ditentukan bersama dosen pembimbing.	|
+|AIF402		|	-		|**SKRIPSI 2 (*UNDERGRADUATE THESIS 2*)** Skripsi 2 merupakan bagian kedua skripsi, pendalaman topik dan hasil kerja lengkap bentuk tulisan yang baik dan standar, juga secara lisan. Topik ditentukan bersama dosen pembimbing.	|
+|AIF403		|	Lulus 72 SKS		|**KOMPUTER & MASYARAKAT (*COMPUTER & SOCIETY*)** Menganalisis dan mengkritisi peran, kedudukan dan peluang dalam bidang TIK. Memberi pemahaman mengenai pentingnya peran TIK sebagai “process enabler” dan “process improvement driver”, serta memperkenalkan isu-isu teknologi & non-teknologi yang penting dalam bidang TIK. Prasyarat : sudah lulus 72 SKS.|
+|AIF405		|	-		|**PROYEK SISTEM INFORMASI 2 (*INFORMATION SYSTEM PROJECT 2*)** Mempelajari perancangan sistem informasi untuk organisasi studi kasus, implementasi sistem secara gadual, pengujian modul, integrasi dan penerimaan *user* (UAT).|
+|AMS100		|	-		|**MATEMATIKA INFORMATIKA (*MATHEMATICS FOR INFORMATICS*)** Mempelajari pengetahuan dasar matematika yang diperlukan dalama menyelesaikan masalah informatika yang terdiri dari: Sistem Bilangan Real dan Nilai Mutlak, Fungsi dan Limit,  Turunan, Integral, Sistem Persamaan Linear dan Matriks, Determinan, Vektor 2 dan 3 Dimensi.	|
+|AMS200		|	-		|**PROBABILITAS & STATISTIKA (*PROBABILITY & STATISTICS*)** Mempelajari konsep-konsep dasar dalam teori peluang dan statistika.|
 
-|KODE MK	|NAMA & DESKRIPSI MATA KULIAH	|
-|---------------|-------------------------------|
-|AIF106		|SISTEM DIJITAL/*DIGITAL SYSTEMS*	|
-|		|Memberi pengetahuan dasar kepada mahasiswa tentang struktur komputer dan fungsi masing-masing pembentuknya, memberi pengetahuan kepada mahasiswa tentang representasi data di dalam computer serta operasi-operasi aritmatika yang terkait, memberi pengetahuan kepada mahasiswa tentang arsitektur perancangan beberapa bagian penting di dalam komputer.|
-|AIF201		|ANALISIS & DESAIN BERORIENTASI OBJEK/*OBJECT-ORIENTED ANALYSIS & DESIGN*|
-|		|Mempelajari dasar-dasar serta beberapa prinsip dalam perancangan program berorientasi objek. Mempelajari diagram UML (Unified Modeling Language) untuk mengkomunikasikan desain secara visual. Mempelajari beberapa design pattern dari Gang of Four untuk membantu mempercepat menyelesaikan masalah desain.|
-|AIF202		|DESAIN & ANALISIS ALGORITMA/*DESIGN & ANALYSIS OF ALGORITHMS*|
-|		|Menggunakan dan merancang algoritma dan struktur data sederhana untuk menyelesaikan masalah-masalah komputasi tertentu  dan mengimplementasikannya menggunakan bahasa pemrograman berorientasi obyek.|
-|AIF203		|STRUKTUR DISKRIT/*DISCRETE STRUCTURES*	|
-|		|Memberikan dasar pengetahuan tentang struktur diskret yang banyak digunakan pada bidang informatika, khususnya graph, pohon dan finite state machine. Memberikan dasar pengetahuan bagaimana menggunakan struktur diskret untuk memodelkan dan menyelesaikan permasalahan.|
-|AIF205		|ARSITEKTUR & ORGANISASI KOMPUTER/*COMPUTER ARCHITECTURES & ORGANISATION*		|
-|		|Mempelajari cara kerja antar bagian komputer dan arsitektur komputer, cara kerja dari komponen-komponen komputer, dan perkembangan arsitektur komputer modern.|
-|AIF206		|SISTEM OPERASI/*OPERATING SYSTEMS*	|
-|		|Mempelajari pengertian sistem operasi, peran dan fungsinya dalam sebuah sistem perangkat keras, khususnya komputer. Mempelajari prinsip-prinsip, teknik dan algoritma yang digunakan di dalam sebuah sistem operasi, penjadwalan, dan aspek keamanan dalam sistem operasi. Memperkenalkan dan menggunakan lebih dalam beberapa sistem operasi yang umum.|
-|AIF208		|REKAYASA PERANGKAT LUNAK/*SOFTWARE ENGINEERING*	|
-|		|Mempelajari terminologi, definisi, Software Process Model, review paradigma berorientasi objek, kebutuhan perangkat lunak, *use case modeling, class modelling, dynamic modelling: state transition diagram, sequence diagram, activity diagram, reusability dan design pattern, data flow diagram, testing, software process management*.|
-|AIF210		|INTERAKSI MANUSIA KOMPUTER/*HUMAN-COMPUTER INTERACTION*	|
-|		|Mempelajari konsep-konsep interaksi manusia dan komputer serta mengimplementasikan dalam bentuk pemrograman di lingkungan GUI dan event driven).|
-|AIF294		|MANAJEMEN INFORMASI & BASIS DATA/*INFORMATION MANAGEMENT & DATABASES*|
-|		|Mengajarkan konsep dan macam-macam Sistem Manajemen Basis Data (DBMS), pengenalan basis data sederhana mulai dari spreadsheet, merancang dan memodelkan basis data menggunakan ER-D, implementasi tabel, penyimpanan data multimedia, serta cara penggunaan sintaks-sintaks SQL pada DBMS.|
-|AIF301		|PENGANTAR SISTEM CERDAS/*INTRODUCTION TO INTELLIGENT SYSTEMS*|
-|		|KMempelajari definisi, karakteristikagen cerdas, *blind search, informed search, local search, adversarial search*, representasi pengetahuan dengan *Propositional Logic* dan *First Order Logic*, agen cerdas berbasis logika, *planning*, penanganan ketidakpastian, pembelajaran mesin.|
-|AIF302		|PENULISAN ILMIAH/*SCIENTIFIC WRITING*	|
-|		|Mempersiapkan mahasiswa untuk mulai melakukan penelitian. Memberikan penjelasan tentang penelitian dan jenis-jenisnya.|
-|AIF303		|PENGANTAR SISTEM INFORMASI/*INTRODUCTION TO INFORMATION SYSTEMS*|
-|		|Mempelajaritrend Teknologi Informasi, konsep Sistem Informasi Terkomputerisasi (SIT) dan komponen SI, pemanfaatan SI bagi organisasi, pengantar pembangunan SIT, perumusan prosedur-prosedur bisnis, keamanan informasi, pengantar e-bisnis/*e-commerce*, pengantar *Business Intelligence*, pengantar EIS, DSS, *cloud computing* dan *mobile applications*.|
-|AIF304		|PROYEK SISTEM INFORMASI 1/*INFORMATION SYSTEM PROJECT 1*	|
-|		|Mempelajari pendalaman manajemen projek (penyusunan *Project Implementation Plan*), perumusan lingkup projek untuk organisasi studi kasus, analisis kebutuhan dengan pembuatan *prototype* penyusunan dokumen spesifikasi sistem (SRS).|
-|AIF305		|JARINGAN KOMPUTER/*COMPUTER NETWORKS*	|
-|		|Memperkenalkan organisasi yang berkaitan dengan internet; topologi jaringan;*layering*; komponen-komponen jaringan; aplikasi jaringan; Membangun aplikasi jaringan; lapisan transport – TCP; *Reliable data delivery*; Lapisan jaringan; *Local Area Network*; *Resource Allocation*; *Mobility*; *Multimedia Networking*; Memperkenalkan keamanan jaringan; *Social Networking*; Membangun dan administrasi jaringan LAN.|
-|AIF306		|PROYEK INFORMATIKA/*INFORMATICS PROJECT*	|
-|		|Mempelajari dan mempraktekkan tahap-tahap rekayasa perangkat lunak termasuk manajemen projek pada sebuah projek perangkat lunak nyata pada skala menengah.|
-|AIF401		|SKRIPSI 1/*UNDERGRADUATE THESIS 1*	|
-|		|Skripsi 1 merupakan bagian pertama skripsi dengan titik berat pada studi pustaka, pemahaman, pelaporan hasil kerja secara tertulis dan lisan. Topik ditentukan bersama dosen pembimbing.|
-|AIF402		|SKRIPSI 2/*UNDERGRADUATE THESIS 2*	|
-|		|Skripsi 2 merupakan bagian kedua skripsi, pendalaman topik dan hasil kerja lengkap bentuk tulisan yang baik dan standar, juga secara lisan. Topik ditentukan bersama dosen pembimbing.|
-|AIF403		|KOMPUTER & MASYARAKAT/*COMPUTER & SOCIETY*|
-|Lulus 72 SKS	|Menganalisis dan mengkritisi peran, kedudukan dan peluang dalam bidang TIK. Memberi pemahaman mengenai pentingnya peran TIK sebagai “process enabler” dan “process improvement driver”, serta memperkenalkan isu-isu teknologi & non-teknologi yang penting dalam bidang TIK. Prasyarat : sudah lulus 72 SKS.|
-|AIF405		|PROYEK SISTEM INFORMASI 2/*INFORMATION SYSTEM PROJECT 2*|
-|		|Mempelajari perancangan sistem informasi untuk organisasi studi kasus, implementasi sistem secara gadual, pengujian modul, integrasi dan penerimaan *user* (UAT).|
-|AMS100		|MATEMATIKA INFORMATIKA/*MATHEMATICS FOR INFORMATICS*	|
-|		|Mempelajari pengetahuan dasar matematika yang diperlukan dalama menyelesaikan masalah informatika yang terdiri dari: Sistem Bilangan Real dan Nilai Mutlak, Fungsi dan Limit,  Turunan, Integral, Sistem Persamaan Linear dan Matriks, Determinan, Vektor 2 dan 3 Dimensi.|
-|AMS200		|PROBABILITAS & STATISTIKA/*PROBABILITY & STATISTICS*|
-|		|Mempelajari konsep-konsep dasar dalam teori peluang dan statistika.|
+# BAB 3 KEGIATAN AKADEMIK
 
+Kegiatan akademik untuk satu tahun kuliah diselenggarakan dalam dua semester **reguler** yaitu **Semester Ganjil** dan **Semester Genap**. Selain itu, tergantung pada kebijakan universitas, kebutuhan dan kemampuan prodi, dapat diselenggarakan **Semester Pendek**. Penyelenggaraan Semester Pendek ini bersifat **tentatif**. Demikian juga keikutsertaan mahasiswa dalam kegiatan akademik pada Semester Pendek bersifat sukarela.
+
+Kegiatan Akademik di lingkungan FTIS, dan UNPAR pada umumnya, terdiri atas:  
+
+1. Penyusunan Rencana Studi
+2. Kegiatan Perkuliahan
+3. Kegiatan Responsi dan/atau Praktikum
+4. Ujian
+5. Skripsi
+
+## 3.1 Penyusunan Rencana Studi
+
+### 3.1.1 Perwalian dan Penentuan Mata Kuliah  
+
+Sebelum mengikuti kegiatan akademik seperti mata kuliah, responsi dan praktikum, pada setiap semester seorang mahasiswa perlu menyusun **rencana studi** bagi dirinya. Rencana studi ini memuat daftar mata kuliah yang akan diikuti pada semester yang bersangkutan.
+
+Dalam menentukan mata kuliah yang akan diambil, dapat digunakan pedoman berikut:  
+
+1. Pada umumnya, mahasiswa mengambil **semua** mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya.
+2. Memprioritaskan mata kuliah semester lebih awal yang **belum lulus**. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi mata kuliah yang memprasyaratkannya.
+3. Memprioritaskan mata kuliah menjadi **prasyarat** (baik prasyarat tempuh atau pun prasyarat *lulus*) bagi mata kuliah lain.
+4. Memperhatikan **jadwal kuliah dan ujian** yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan mata kuliah-mata kuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
+5. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No.III/PRT/2011-11/211 sebagai berikut :
+
+  | IPS         | Hak Tempuh pada Semester Berikutnya |
+  |-------------|-------------------------------------|
+  | >= 3,00     | Maksimum 24 SKS                     |
+  | 2,50 - 2,99 | Maksimum 21 SKS                     |
+  | <= 2,49     | Maksimum 18 SKS                     |
+
+  Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian :
+  - 1 jam kuliah
+  - 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
+  - 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
+
+Untuk menentukan mata kuliah apa saja yang akan diambil, mahasiswa dapat/wajib berkonsultasi dengan dosen wali (tergantung dari aturan prodi masing-masing). Bersama dosen wali, mahasiswa dapat merundingkan penerapan pedoman di   atas ini bagi dirinya, dengan memperhatikan berbagai keadaan yang berlaku.
+
+Masa perwalian juga merupakan kesempatan bagi mahasiswa yang ingin mendiskusikan masalah akademik dan non-akademik yang dirasakan dapat mengganggu studi mahasiswa yang bersangkutan di FTIS . Namun perlu diperhatikan bahwa dosen wali hanya bertindak sebagai penasehat/pemberi saran berdasarkan pengalamannya. Penyelesaian masalah sepenuhnya berada di tangan mahasiswa yang mengalaminya.
+
+### 3.1.2 Pendaftaran Mata Kuliah
+
+Setelah menentukan mata kuliah apa saja yang akan diambil, maka mahasiswa harus mendaftarkan mata kuliah-mata kuliah dengan cara mengisi Form Rencana Studi (FRS). Pengisian FRS ini dilakukan secara online dengan menggunakan portal mahasiswa (masuk ke url [https://mhs.akad.unpar/](https://mhs.akad.unpar/ "Title")), login menggunakan *username* dari *account student* masing-masing. Pengisian FRS ini dapat dilakukan oleh mahasiswa sendiri atau bersama-sama dengan dosen wali pada saat  perwalian (tergantung aturan dari masing-masing prodi).
+
+Dosen wali akan memeriksa FRS yang telah diisi oleh mahasiswa walinya. Jika dosen wali merasa tidak ada masalah dengan rencana studi mahasiswa walinya, maka dosen wali akan memberikan persetujuan.
+
+Mahasiswa akan menerima email yang berisi informasi tentang hasil registrasi mata kuliah (yang sudah disetujui dosen wali). Mahasiswa **wajib** memeriksa email konfirmasi ini. Jika ada kesalahan atau perbedaan yang terjadi, mahasiswa  harus segera melaporkannya ke dosen wali.
+
+> **Catatan:**  
+> Jika karena sesuatu hal mahasiswa tidak dapat mengikuti tahap perwalian dan perencanaan studi, maka mahasiswa tersebut **dapat diwakilkan oleh mahasiswa FTIS UNPAR**, dengan mengisi formulir terkait di Tata Usaha FTIS. Jumlah beban maksimum untuk perwalian dan perencanaan studi yang diwakilkan adalah **10 sks**. Tata cara perwalian dan perencanaan studi yang diwakilkan tetap mengikuti prosedur di atas.
+
+### 3.1.3 Tahap Perkuliahan Awal  
+
+Kuliah, responsi, dan praktikum perdana adalah **penting**, karena pada umumnya dosen menjelaskan berbagai tata cara, bobot penilaian dan tata tertib pelaksanaan kegiatan perkuliahan terkait. **Karena itu hendaknya mahasiswa telah hadir sejak awal perkuliahan ini.** Jika terpaksa tidak hadir karena sesuatu hal, mahasiswa perlu segera menanyakan tata cara dan tata tertib tersebut kepada dosen atau rekan mahasiswa yang mempunyai catatan yang lengkap.  
+
+### 3.1.4 Perubahan Rencana Studi  
+
+Jika selama satu minggu pertama kuliah, mahasiswa hendak mengubah rencana studi yang telah dilakukan, maka mahasiswa tersebut perlu mengikuti **tahap perubahan rencana studi.** Namun disarankan agar mahasiswa berusaha sedapat mungkin **menghindari** tahap perubahan rencana studi ini, karena cenderung merugikan diri sendiri dari segi waktu maupun efisiensi studi.
+
+## 3.2 Kegiatan Perkuliahan  
+
+Setiap mahasiswa yang telah memiliki KTM dan telah menyelesaikan kewajiban pembayarannya, pada dasarnya berhak mengikuti seluruh kegiatan akademik sesuai dengan kesepakatan hasil perwalian (ditunjukkan melalui email konfirmasi hasil pengisian FRS dan/atau PRS). Hak ini tentunya masih dapat diubah oleh dosen terkait, jika dinilai bahwa kelakuan dan unjuk-kerja mahasiswa itu tidak memadai. 
+
+Jika ada masalah tentang ini, hal ini perlu dilaporkan secara tertulis oleh mahasiswa maupun dosen kepada pihak yang berkepentingan, yaitu dosen wali, pimpinan jurusan / program studi, dan pimpinan FTIS.
+Perincian kegiatan perkuliahan adalah sebagai berikut :  
+
+1. **Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS),** yang sebaiknya dimanfaatkan secara maksimal dengan:
+    - membaca bahan yang diperkirakan akan dibahas dosen,
+    - menanyakan segala hal yang belum jelas kepada dosen,
+    - meminta saran dosen tentang cara belajar dan berlatih yang baik.
+2. **Kegiatan akademik terstruktur (± 1 jam/SKS),** yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran.
+    - *Responsi* merupakan kegiatan di mana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan masalah teknis yang belum dikuasai.
+    - *Praktikum* bertujuan melengkapi kegiatan perkuliahan, agar keterkaitan antara teori dan praktek dapat dikokohkan.
+    - *Pekerjaan rumah* merupakan latihan yang diberikan oleh dosen untuk menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri maupun kelompok.
+3. **Kegiatan akademik mandiri (± 1 jam / sks),** merupakan kegiatan yang dilakukan sendiri (di perpustakaan, di rumah, atau di tempat lain) oleh mahasiswa. Hal ini amat perlu, untuk dapat merenungkan dan mencernakan bahan kuliah. Kegiatan ini dapat terdiri atas membaca buku teks atau buku lain, catatan kuliah, responsi, atau praktikum, membuat soal yang ditugaskan dan yang dipilih sendiri, membuat skema pokok bahasan yang telah dipelajari, belajar dalam kelompok studi, dsb.  
+
+## 3.3 Tata Cara Ujian
+
+Yang dimaksud dengan *ujian* adalah kegiatan evaluasi keberhasilan belajar hingga suatu tahap yang ditetapkan. Ujian terdiri atas :  
+
+1. Ujian Tengah Semester (UTS)
+2. Ujian Akhir Semester (UAS)
+3. Ujian Praktikum (jika ada)
+4. Ujian Seminar dan Skripsi
+
+Pelaksanaan UTS dan UAS sesuai dengan jadwal kegiatan akademik UNPAR. Jadwal kedua ujian tersebut diumumkan pada masa pendaftaran rencana studi. Ujian praktikum, Seminar dan Skripsi dapat dilaksanakan di luar masa ujian asalkan masih dalam semester tersebut. 
+
+### 3.3.1 Syarat Mengikuti Ujian
+
+Syarat untuk mengikuti UTS dan UAS:  
+
+1. **Terdaftar** sebagai peserta pada semester terkait, telah cukup mengikuti kegiatan tatap muka mata kuliah terkait pada  semester tersebut, serta tidak menjalani sanksi pembatalan hak tempuh mengikuti suatu program pada semester tersebut berdasarkan SK Rektor UNPAR. 
+2. **Telah melunasi** seluruh biaya kuliah semester terkait. Perkecualian khusus pada masa UTS diberikan bagi         mahasiswa yang mendapat dispensasi penundaan pembayaran kuliah oleh WD-2.
+3. **Membawa KTM yang sah** untuk semester terkait, atau surat keterangan pengganti KTM dari Biro Administrasi        Akademik dan Kemahasiswaan (BAA) bagi yang kehilangan KTM.
+
+### 3.3.2 Tata Tertib Ujian
+
+**A. Kehadiran**  
+
+1. Peserta ujian harus telah hadir di ruang ujian selambat-lambatnya **15 menit sebelum** ujian dimulai.
+2. Peserta ujian yang **terlambat setelah ujian dimulai** tidak diperkenankan mengikuti ujian yang bersangkutan.
+3. Ketidakhadiran peserta ujian pada saat ujian berakibat komponen ujian terkait **bernilai 0 (nol)**.
+
+**B. Perlengkapan**  
+
+1. Peserta ujian **wajib** membawa **Kartu Tanda Mahasiswa (KTM)** yang sah, dan diletakkan di atas meja ujian masing-masing selama ujian.
+2. Peserta ujian **wajib** menyediakan sendiri alat tulis dan dilarang keras saling meminjam atau bertukar alat tulis dengan peserta ujian lain.
+3. Peserta ujian **dilarang** membawa catatan/buku/rumus/tabel dan kalkulator dalam bentuk dan untuk tujuan apapun ke tempat duduk, kecuali pada mata ujian yang diijinkan oleh dosen yang bersangkutan.
+4. **Alat atau media komunikasi** dalam bentuk apapun (*handphone*, PDA, dan sebagainya) **harus dimatikan/dinonaktifkan** (bukan di-*silent*/menggunakan nada getar) dan dilarang untuk digunakan selama ujian berlangsung dengan alasan dan tujuan apapun.
+5. Peserta ujian **dilarang** membawa makanan/minuman ke tempat duduk.
+6. Semua barang yang tidak diijinkan dibawa ke tempat duduk, harus diletakkan di bagian depan kelas atau tempat lain yang ditetapkan pengawas ujian.
+7. Peserta ujian dilarang merokok di ruang ujian.
+
+**C. Pakaian**  
+
+1. Peserta ujian **wajib** mengenakan pakaian yang sopan dan rapi.
+2. Peserta ujian **wajib** memakai sepatu.
+ 
+**D. Tempat duduk**  
+
+1. Peserta ujian harus menempati **ruang ujian** dan **tempat duduk sesuai dengan nomor ujian**. Nomor ujian dapat dilihat pada papan pengumuman akademik fakultas.
+2. Pergantian tempat duduk duduk harus sepengetahuan dan ijin pengawas ujian.
+
+**E.  Pelaksanaan**  
+
+1. Peserta ujian dilarang membuka dan membaca soal ujian sebelum diperbolehkan oleh pengawas ujian.
+2. Sebelum mulai mengerjakan soal ujian, peserta ujian **wajib** mengisi nama, NPM sesuai dengan yang diminta pada lembar jawab ujian dan menandatanganinya, serta menandatangani pernyataan akan taat pada tata tertib ujian. Lembar ujian tanpa NPM, nama, dan tandatangan dianggap tidak sah.
+3. Sejak ujian dimulai peserta ujian **wajib** menjaga ketertiban di ruang ujian dan dilarang berkomunikasi dan bekerjasama dengan peserta lain. Hal yang belum jelas mengenai pelaksanaan ujian harus ditanyakan langsung kepada pengawas ujian.
+4. Kertas yang boleh digunakan hanya lembar jawab ujian dan kertas buram resmi (bercap FTIS). Semua kertas buram yang digunakan diberi NPM dan dikumpulkan kembali bersama-sama lembar jawab ujian.
+5. Peserta ujian **wajib** menandatangani daftar hadir yang telah disediakan dan wajib memberitahu pengawas jika sampai ujian berakhir belum menandatangani daftar hadir.
+6. Peserta ujian yang meninggalkan ruang ujian selama ujian berlangsung tanpa ijin pengawas dianggap telah menyelesaikan ujian.
+7. Peserta ujian menyerahkan lembar jawab kepada pengawas setelah menyelesaikan ujian atau tepat setelah waktu ujian  berakhir. **Kertas buram** terisi atau tidak harus **dikumpulkan kembali** bersama dengan lembar jawab.
+8. Peserta ujian yang telah menyelesaikan ujian diperkenankan untuk meninggalkan ruang ujian paling cepat **30 menit** setelah ujian dimulai.
+9. Dilarang keras **melakukan kecurangan** dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:
+    1. **Melihat** berkas ujian milik peserta ujian lain;
+    2. **Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain;
+    3. **Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun;
+    4. **Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka);
+    5. **Pinjam-meminjam** alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
+10. Peserta ujian yang **melakukan kecurangan** pada saat ujian akan dikenakan **sanksi akademik** yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS.
+11. Selama ujian berlangsung, peserta ujian **tidak diperkenankan meninggalkan ruangan ujian dengan alasan apapun** (kecuali peserta yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC, harus melakukannya sebelum ujian dimulai.
+
+### 3.3.3 Sanksi
+
+Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi sanksi berupa:  
+
+1. Untuk kali pertama: peringatan dari pengawas ujian, yang wajib dicatat dalam Berita Acara Ujian dan disimpan dalam map mahasiswa terkait.
+2. Untuk kali ke dua dengan kesalahan yang sama: peringatan tertulis dari pimpinan Fakultas, yang arsipnya juga disimpan dalam map mahasiswa terkait.
+3. Untuk kali ke tiga dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS mata kuliah di mana kesalahan ke tiga tersebut terjadi (sesuai SK Rektor Universitas Katolik Parahyangan No. III/PRT/93-01/03 tentang Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).
+4. Untuk kali ke empat dan seterusnya dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS **seluruh** mata kuliah pada masa ujian terkait (sesuai SK Rektor UNPAR No. III/PRT/93-01/03 tentang Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).
+
+Sanksi no. 3 dan 4 dikukuhkan oleh Surat Keputusan Dekan FTIS.
+
+Mahasiswa yang terbukti melakukan **pelanggaran** norma kejujuran pada saat mengikuti ujian, akan diberi sanksi akademik sebagai berikut :  
+
+1. Untuk kali pertama: nilai mata kuliah yang bersangkutan ditetapkan menjadi **E** (tidak lulus).
+2. Untuk kali kedua: seluruh nilai mata kuliah pada semester terkait mahasiswa yang bersangkutan ditetapkan menjadi **E** (tidak lulus).
+3. Untuk kali selanjutnya: sanksi yang lebih berat, yang akan ditetapkan melalui rapat pimpinan fakultas.
+
+### 3.3.4 Lain-lain  
+
+1. **Tidak ada ujian khusus** untuk perbaikan nilai ujian.
+2. Tidak ada ujian khusus bagi mahasiswa yang tidak hadir dalam ujian. Apabila mahasiswa yang bersangkutan mengalami hal-hal di bawah ini saat ujian mata kuliah mahasiswa yang bersangkutan sedang berlangsung:
+    - Sakit, yang diperkuat oleh *surat keterangan rawat inap* dari rumah sakit.
+    - Mewakili negara / UNPAR dalam suatu kegiatan tertentu.
+    - Hal lain yang yang dapat diterima oleh pimpinan fakultas beserta pimpinan jurusan.
+
+  Maka mahasiswa tersebut dapat mengajukan permohonan ujian susulan bagi mata kuliah terkait kepada WD-1 dengan tembusan kepada pimpinan jurusan terkait sebelum batas waktu pengajuan yang ditentukan setiap semesternya.
+
+Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahgunaan wewenang oleh pengawas ujian dapat dilakukan dalam bentuk pengaduan tertulis dalam amplop tertutup yang ditujukan kepada WD-1.
+
+## 3.4 Cuti dan Gencat Studi
+
+**(berdasarkan SK Rektor UNPAR No. III/PRT/2004-01/07)**
+
+### 3.4.1 Persyaratan cuti studi  
+
+1. Mahasiswa yang **cuti studi** adalah mahasiswa yang tidak dapat melanjutkan studi untuk kurun waktu tertentu karena alasan-alasan yang dapat dipertanggungjawabkan dan diijinkan oleh UNPAR.
+2. Seorang mahasiswa dapat mengambil cuti studi tidak lebih dari 2 (dua) semester berturut-turut dan sebanyak-banyaknya 4 (empat) semester selama masa studinya.
+3. Cuti studi dapat diberikan kepada mahasiswa yang telah mengikuti program pendidikan di jurusan terkait **sekurang-kurangnya 2 (dua) semester berturut-turut.**
+
+### 3.4.2 Prosedur Cuti Studi  
+
+1. Mahasiswa wajib mengisi **Surat Permohonan Cuti Studi Mahasiswa** yang dapat diperoleh di Tata Usaha FTIS, dengan dilengkapi rekomendasi dosen wali mahasiswa yang bersangkutan, dan menyerahkannya kembali ke Tata Usaha FTIS **selambat-lambatnya sebelum berakhirnya masa PRS** semester terkait dengan cuti tersebut.
+2. Kriteria untuk memberi ijin tersebut adalah :
+    1. masalah kesehatan,
+    2. masalah *financial*, atau
+    3. masalah pribadi lainnya.
+3. Ijin pengambilan cuti studi diberikan oleh Dekan FTIS dan dinyatakan dalam bentuk surat resmi, dan diberitahukan kepada WR-1, WR-2, Kepala Biro Administrasi Akademik dan Kemahasiswaan (BAA) dan Kepala Biro Administrasi Keuangan (BIKEU).
+4. Masa cuti studi **tidak diperhitungkan** sebagai masa studi terpakai dalam evaluasi tahap studi.
+5. Bagi mahasiswa yang mendapat ijin cuti dari Dekan FTIS, wajib
+    - Mengisi Formulir Rencana Studi dengan beban **0 (nol)** sks, dan didaftarkan sesuai dengan **prosedur yang ada**.
+    - Membayar **100% (seratus persen)** Tarif Biaya Registrasi (sesuai dengan Peraturan Pengurus Yayasan UNPAR no. 06 th. 2008 tentang Pemisahan Tarif Biaya Registrasi dan Biaya Pengembangan).
+6. Dalam hal mahasiswa mengajukan permohonan cuti studi **setelah masa PRS berakhir**, ijin cuti hanya dapat diberikan oleh Dekan FTIS apabila
+    - Memiliki alasan yang sangat kuat dan tidak dapat dihindarkan.
+    - Mendapat ijin dari WR-1.
+
+  Dalam hal ini, biaya yang telah dibayarkan mahasiswa pada semester yang terkait dengan cuti tersebut **tidak dapat dikembalikan** dan sisa kewajiban keuangan yang belum dilunasi **harus diselesaikan.**
+7. Mahasiswa yang telah memperoleh cuti studi dari Dekan FTIS namun melanggar ketentuan masa cuti dalam surat ijin tersebut, maka pada semester berikutnya di luar masa cuti yang diijinkan, mahasiswa akan dikenakan peraturan **gencat studi.**
+
+### 3.4.3 Gencat studi
+
+Mahasiswa gencat studi adalah mahasiswa yang pada suatu semester tidak melakukan pendaftaran rencana studi sesuai dengan prosedur yang berlaku. Masa gencat studi **diperhitungkan** sebagai masa studi terpakai dalam evaluasi tahap studi. Mahasiwa yang melakukan gencat studi selama **2 (dua) semester berturut-turut atau 3 (tiga) semester tidak berturut-turut** tidak diijinkan melanjutkan studi di lingkungan UNPAR.
+
+Adapun **prosedur pengaktifan kembali status mahasiswa setelah gencat studi** adalah sebagai berikut:  
+
+1. Mahasiswa tersebut harus mengajukan permohonan tertulis terlebih dahulu kepada Dekan FTIS, dilengkapi dengan
+    - alasan gencat studi pada semester sebelumnya
+    - rekomendasi dosen wali yang bersangkutan
+2. Dekan FTIS dapat mengabulkan atau menolak permohonan mahasiswa tersebut di atas berdasarkan pertimbangan akademik.
+3. Keputusan Dekan FTIS tersebut diberitahukan pula kepada WR-1, WR-2, Kepala BAA, dan Kepala BIKEU.
+4. Dalam hal Dekan FTIS mengabulkan permohonan mahasiswa tersebut di atas, mahasiswa yang bersangkutan
+    1. Dikenakan **sanksi keuangan** berupa pelunasan **200% (dua ratus persen)** Sumbangan Pengembangan sesuai dengan tarif yang  berlaku di lingkungan UNPAR untuk semester selama gencat studi.
+    2. Dikenakan **sanksi akademik** berupa hak tempuh sebanyak **12 SKS** pada semester di mana mahasiswa yang bersangkutan mulai aktif kembali, kecuali jika diijinkan oleh Dekan FTIS untuk menempuh **maksimal 18 SKS** berdasarkan pertimbangan yang sah.
+    3. Dapat kehilangan status sebagai mahasiswa UNPAR jika tidak memenuhi butir i. di atas.
+
+## 3.5 Pengunduran Diri Sebagai Mahasiswa
+
+Prosedur pengunduran diri sebagai mahasiswa di lingkungan UNPAR adalah sebagai berikut:  
+
+1. Mahasiswa yang bersangkutan menulis surat pernyataan pengunduran diri yang ditujukan kepada Dekan FTIS, ditandatangani oleh mahasiswa dan orang tua mahasiswa yang bersangkutan.
+2. Mahasiswa yang bersangkutan mengisi formulir pengunduran diri yang dapat diperoleh di Tata Usaha FTIS.
+3. Setelah mendapat persetujuan dari dosen wali, ketua jurusan / program studi, WD-2, WD-1 dan Dekan FTIS, proses permohonan pengunduran diri diteruskan ke Biro Administrasi Akademik dan Kemahasiswaan (BAA).
+4. Setelah permohonan diri mahasiswa disetujui di tingkat Universitas, mahasiswa yang bersangkutan akan menerima :
+    - SK Rektor UNPAR tentang pengunduran diri mahasiswa yang bersangkutan.
+    - Transkrip akademik yang berisi daftar nilai mata kuliah yang ditempuh selama yang bersangkutan berstatus aktif sebagai mahasiswa.
