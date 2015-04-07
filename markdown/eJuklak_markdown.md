@@ -972,6 +972,7 @@ Aturan tambahan :
 1. Mata kuliah pilihan dari luar jurusan
 
   Banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.
+  
   Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai mata kuliah pilihan dari dalam jurusan
 2. Skor *Coding*
 
@@ -1316,6 +1317,6 @@ Prosedur pengunduran diri sebagai mahasiswa di lingkungan UNPAR adalah sebagai b
 1. Mahasiswa yang bersangkutan menulis surat pernyataan pengunduran diri yang ditujukan kepada Dekan FTIS, ditandatangani oleh mahasiswa dan orang tua mahasiswa yang bersangkutan.
 2. Mahasiswa yang bersangkutan mengisi formulir pengunduran diri yang dapat diperoleh di Tata Usaha FTIS.
 3. Setelah mendapat persetujuan dari dosen wali, ketua jurusan / program studi, WD-2, WD-1 dan Dekan FTIS, proses permohonan pengunduran diri diteruskan ke Biro Administrasi Akademik dan Kemahasiswaan (BAA).
-4. Setelah permohonan diri mahasiswa disetujui di tingkat Universitas, mahasiswa yang bersangkutan akan menerima :
+4. Setelah permohonan diri mahasiswa disetujui di tingkat Universitas, mahasiswa yang bersangkutan akan menerima:
     - SK Rektor UNPAR tentang pengunduran diri mahasiswa yang bersangkutan.
     - Transkrip akademik yang berisi daftar nilai mata kuliah yang ditempuh selama yang bersangkutan berstatus aktif sebagai mahasiswa.
