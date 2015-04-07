@@ -70,7 +70,7 @@ Perincian kegiatan perkuliahan adalah sebagai berikut :
     - menanyakan segala hal yang belum jelas kepada dosen,
     - meminta saran dosen tentang cara belajar dan berlatih yang baik.
 2. **Kegiatan akademik terstruktur (± 1 jam/SKS),** yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran.
-    - *Responsi* merupakan kegiatan di mana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan masalah teknis yang belum dikuasai.
+    - *Responsi* merupakan kegiatan dimana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan masalah teknis yang belum dikuasai.
     - *Praktikum* bertujuan melengkapi kegiatan perkuliahan, agar keterkaitan antara teori dan praktek dapat dikokohkan.
     - *Pekerjaan rumah* merupakan latihan yang diberikan oleh dosen untuk menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri maupun kelompok.
 3. **Kegiatan akademik mandiri (± 1 jam / sks),** merupakan kegiatan yang dilakukan sendiri (di perpustakaan, di rumah, atau di tempat lain) oleh mahasiswa. Hal ini amat perlu, untuk dapat merenungkan dan mencernakan bahan kuliah. Kegiatan ini dapat terdiri atas membaca buku teks atau buku lain, catatan kuliah, responsi, atau praktikum, membuat soal yang ditugaskan dan yang dipilih sendiri, membuat skema pokok bahasan yang telah dipelajari, belajar dalam kelompok studi, dsb.  
@@ -147,7 +147,7 @@ Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi sanksi beru
 
 1. Untuk kali pertama: peringatan dari pengawas ujian, yang wajib dicatat dalam Berita Acara Ujian dan disimpan dalam map mahasiswa terkait.
 2. Untuk kali ke dua dengan kesalahan yang sama: peringatan tertulis dari pimpinan Fakultas, yang arsipnya juga disimpan dalam map mahasiswa terkait.
-3. Untuk kali ke tiga dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS mata kuliah di mana kesalahan ke tiga tersebut terjadi (sesuai SK Rektor Universitas Katolik Parahyangan No. III/PRT/93-01/03 tentang Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).
+3. Untuk kali ke tiga dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS mata kuliah dimana kesalahan ke tiga tersebut terjadi (sesuai SK Rektor Universitas Katolik Parahyangan No. III/PRT/93-01/03 tentang Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).
 4. Untuk kali ke empat dan seterusnya dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS **seluruh** mata kuliah pada masa ujian terkait (sesuai SK Rektor UNPAR No. III/PRT/93-01/03 tentang Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).
 
 Sanksi no. 3 dan 4 dikukuhkan oleh Surat Keputusan Dekan FTIS.
@@ -213,7 +213,7 @@ Adapun **prosedur pengaktifan kembali status mahasiswa setelah gencat studi** ad
 3. Keputusan Dekan FTIS tersebut diberitahukan pula kepada WR-1, WR-2, Kepala BAA, dan Kepala BIKEU.
 4. Dalam hal Dekan FTIS mengabulkan permohonan mahasiswa tersebut di atas, mahasiswa yang bersangkutan
     1. Dikenakan **sanksi keuangan** berupa pelunasan **200% (dua ratus persen)** Sumbangan Pengembangan sesuai dengan tarif yang  berlaku di lingkungan UNPAR untuk semester selama gencat studi.
-    2. Dikenakan **sanksi akademik** berupa hak tempuh sebanyak **12 SKS** pada semester di mana mahasiswa yang bersangkutan mulai aktif kembali, kecuali jika diijinkan oleh Dekan FTIS untuk menempuh **maksimal 18 SKS** berdasarkan pertimbangan yang sah.
+    2. Dikenakan **sanksi akademik** berupa hak tempuh sebanyak **12 SKS** pada semester dimana mahasiswa yang bersangkutan mulai aktif kembali, kecuali jika diijinkan oleh Dekan FTIS untuk menempuh **maksimal 18 SKS** berdasarkan pertimbangan yang sah.
     3. Dapat kehilangan status sebagai mahasiswa UNPAR jika tidak memenuhi butir 4.1. di atas.
 
 ## 3.5 Pengunduran Diri Sebagai Mahasiswa
