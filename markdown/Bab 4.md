@@ -27,7 +27,7 @@ Keberhasilan belajar mahasiswa dalam suatu mata kuliah dinyatakan dengan **Nilai
 
 Apabila seorang mahasiswa tidak dapat memenuhi salah satu komponen evaluasi yang ditentukan dalam suatu mata kuliah, maka keberhasilan belajar mahasiswa untuk matakuliah tersebut **dapat** dinyatakan Kosong (**K**) oleh Dekan. Jika keberhasilan belajar seorang mahasiswa untuk suatu matakuliah adalah **K**, maka matakuliah ini dianggap belum pernah ditempuh dan tidak diikutsertakan dalam perhitungan Indeks Prestasi.
 
-**Komponen Evaluasi** dinyatakan dalam bentuk angka dengan rentang **0 – 100** dengan pembulatan angka pecahan hingga **satuan terdekat**, dengan ketentuan bilangan pecahan ≥ 0,5 dibulatkan menjadi 1 dan bilangan pecahan < 0,5 dibulatkan menjadi 0.
+**Komponen Evaluasi** dinyatakan dalam bentuk angka dengan rentang **0 – 100** dengan pembulatan angka pecahan hingga **satuan terdekat**, dengan ketentuan bilangan pecahan &gt;= 0,5 dibulatkan menjadi 1 dan bilangan pecahan &lt; 0,5 dibulatkan menjadi 0.
 
 Konversi **Angka Akhir (AA)** menjadi **Nilai Akhir (NA)** dilakukan dengan **Penilaian Acuan Patokan (PAP)** sebagai berikut :  
 
