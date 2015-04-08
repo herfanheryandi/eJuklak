@@ -85,7 +85,7 @@ Evaluasi Keberhasilan Belajar Tahap Akhir dinyatakan dalam **Indeks Prestasi Kum
 dengan (sks x bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. Mahasiswa dinyatakan **lulus** dari prodi terkait di lingkungan UNPAR setelah memenuhi persyaratan berikut:  
 
 1. Telah lulus **seluruh beban SKS** yang dipersyaratkan dalam kurikulum prodi terkait.
-2. IPK ≥ 2,00.
+2. IPK &gt;= 2,00.
 3. Masa studi terpakai tidak lebih dari 14 (empat belas) semester.
 
 Jika persyaratan di atas tidak terpenuhi, maka mahasiswa yang bersangkutan **tidak diijinkan melanjutkan studi** pada prodi terkait di lingkungan UNPAR. Penetapan mahasiswa yang tidak diijinkan untuk melanjutkan studi dilakukan dengan surat keputusan Rektor.
@@ -103,7 +103,7 @@ IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh ma
 
 Berdasarkan Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-08/148 tentang Standar Kemampuan Bahasa Inggris Mahasiswa Universitas Katolik Parahyangan, mulai mahasiswa angkatan 2006 dan selanjutnya, setiap mahasiswa program Sarjana dan Pascasarjana wajib memiliki kemampuan bahasa Inggris yang dinyatakan berdasarkan hasil tes di PBB (Pusat Pendidikan Berkelanjutan) UNPAR, atau pada lembaga penyelenggara tes resmi di luar UNPAR, dengan skor minimal sebagai berikut:  
 
-1. Skor 500 (limaratus) yang diperoleh melalui pelaksanaan tes TOEFL dengan metode tes tertulis (paper-based TOEFL), atau
+1. Skor 500 (lima ratus) yang diperoleh melalui pelaksanaan tes TOEFL dengan metode tes tertulis (paper-based TOEFL), atau
 2. Skor 59-60 (lima puluh sembilan sampai enam puluh) yang diperoleh melalui pelaksanaan test TOEFL dengan metode tes melalui internet (internet-based TOEFL), atau
 3. Skor 173 (seratus tujuh puluh tiga) yang diperoleh melalui pelaksanaan tes TOEFL dengan metode tes menggunakan komputer (computer-based TOEFL), atau
 4. Skor 5,0 (lima koma nol) yang diperoleh melalui pelaksanaan IELTS.
