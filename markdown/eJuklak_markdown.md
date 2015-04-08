@@ -23,7 +23,7 @@ ftis@unpar.ac.id
 * Thomas Anung Basuki  
 
 
-Copyright © 2014 FTIS UNPAR
+Copyright &copy; 2014 FTIS UNPAR
 
 # KATA PENGANTAR DEKAN FAKULTAS TEKNOLOGI INFORMASI DAN SAINS UNPAR
 
@@ -51,8 +51,8 @@ Perubahan nama FMIPA menjadi Fakultas Teknologi Informasi dan Sains (FTIS) terja
 Ketiga program studi tersebut saat ini telah memperoleh status akreditasi dari Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) dengan rincian sebagai berikut :
 
 * Program Studi Matematika memperoleh status akreditasi dengan peringkat A (Amat baik) berdasarkan Keputusan BAN-PT Nomor 029/BAN-PT/AK-XIII/S1/XI/2010 tertanggal 3 Desember 2010 dengan masa berlaku hingga 3 Desember 2015. 
-* Program Studi Fisika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor 036/BAN-PT/AK-XIII/S1/I/2011 tertanggal 7 Januari 2011 dengan masa berlaku hingga 7 Januari 2016.
-* Program Studi Teknik Informatika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor 042/BAN-PT/AK-XIII/S1/I/2011 tertanggal 21 Januari 2011 dengan masa berlaku hingga 21 Januari 2016
+* Program Studi Fisika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PT Nomor 036/BAN-PT/AK-XIII/S1/I/2011 tertanggal 7 Januari 2011 dengan masa berlaku hingga 7 Januari 2016.
+* Program Studi Teknik Informatika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PT Nomor 042/BAN-PT/AK-XIII/S1/I/2011 tertanggal 21 Januari 2011 dengan masa berlaku hingga 21 Januari 2016
     
 Ketiga program studi yang sekarang berada dalam naungan FTIS ini dilaksanakan berdasarkan suatu kurikulum yang berbobot 144 sks (satuan kredit semester) dengan rincian selanjutnya akan diuraikan pada bagian berikutnya.
 
@@ -139,7 +139,7 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 4. Program Studi Fisika
     - Ketua : Philips Nicolas Gunawidjaja, BSc, PhD
     - KaLab. Fisika Dasar : Risti Suryantari, S.Si., M.Si.
-    - KaLab. Elektronika & Fisika Lanjut : Janto V. Sulungbudi, Drs.
+    - KaLab. Elektronika &amp; Fisika Lanjut : Janto V. Sulungbudi, Drs.
 5. Program Studi Teknik Informatika
     - Ketua : Dr. Thomas Anung Basuki
     - Sekretaris : Lionov, S.Kom, MSc
@@ -147,11 +147,11 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 6. Tata Usaha
     - Kepala : Pranyoto Teguh Imanto
     - Kasubag Akademik : Petrus Purnomo
-    - Kasubag Keuangan & Kepegawaian : Budi Santoso
-    - Kasubag Kemahasiswaan & Alumni : Fransiscus Sudarno
-    - Kasubag Umum & Perlengkapan : Walip, A.Md
+    - Kasubag Keuangan &amp; Kepegawaian : Budi Santoso
+    - Kasubag Kemahasiswaan &amp; Alumni : Fransiscus Sudarno
+    - Kasubag Umum &amp; Perlengkapan : Walip, A.Md
     - Staf Akademik : Rikie Setiawan, S.AB.
-    - Staf Keuangan & Kepegawaian : Filifo Zebua, Dwina Irlistriarti, Dra.
+    - Staf Keuangan &amp; Kepegawaian : Filifo Zebua, Dwina Irlistriarti, Dra.
 
 ## 1.5 Daftar Dosen FTIS  
 
@@ -186,13 +186,13 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
     Listrik Magnet, Elektrodinamika, Mekanika Kuantum Relativistik, Teori Medan Kuantum.  
     Email: pctjiang@unpar.ac.id
     * Sylvia Hastuti Sutanto, SSi (ITB), PhD (Australian National University):  
-    Fisika Matematika 3 & 4, Mekanika Hamiltonian, Dinamika Fluida.  
+    Fisika Matematika 3 &amp; 4, Mekanika Hamiltonian, Dinamika Fluida.  
     Email: sylvia@unpar.ac.id
     * Marcus Wono Setya Budhi, PhD (Univ. of Illinois - USA):  
     Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar.  
     Email: wono@math.itb.ac.id
     * Veronica Sri Moertini, ST (ITB), MT (ITB), Dr. (ITB):  
-    Basis Data, Penambangan Data, Projek Sistem Informasi.  
+    Basis Data, Penambangan Data, Proyek Sistem Informasi.  
     Email: moertini@unpar.ac.id
 3. Lektor
     * Cecilia Esti Nugraheni, ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig - Maximilians Universitaet - Germany):  
@@ -205,10 +205,10 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
     Matematika Diskret, Aljabar Linear, Komputasi Statistika.  
     Email: chin@unpar.ac.id
     * Oerip S. Santoso, dr (UI), MSc. (Univ. Wisconsin Madison.USA), Dr.(Univ. Paris VI):  
-    Struktur Diskret, Grafika Komputer, Komputer dan Masyarakat, Projek Perangkat Lunak.  
+    Struktur Diskret, Grafika Komputer, Komputer dan Masyarakat, Proyek Perangkat Lunak.  
     Email: oerip_ss@yahoo.com
     * Philips Nicolas Gunawidjaja, BSc. (University of Warwick,UK), PhD. (University of Warwick, UK):  
-    Keterampilan Fisika, Elektronika 1 & 2, Struktur Materi.  
+    Keterampilan Fisika, Elektronika 1 &amp; 2, Struktur Materi.  
     Email: philips@unpar.ac.id
     * Rosa de Lima E.P., SSi (ITB), MT (ITB), Studi S-3 di UPI:  
     Sistem Informarsi, Sistem Pendukung Keputusan.  
@@ -372,7 +372,7 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 
 ### 2.4.2 Uraian Singkat Mata Kuliah Umum  
 
-| KODE MK   	|PRASYARAT	|NAMA & DESKRIPSI MATA KULIAH                	|
+| KODE MK   	|PRASYARAT	|NAMA &amp; DESKRIPSI MATA KULIAH                	|
 |---------------|---------------|-----------------------------------------------|
 |MKU001 	|	-	|**PENDIDIKAN PANCASILA (*PANCASILA EDUCATION*)** Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian (*character building*) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila.		| 
 | MKU002	 |	-	|**PENDIDIKAN KEWARGANEGARAAN (*CIVIC*)** Pendidikan Kewarganegaraan menjelaskan pentingnya pemahaman tentang identitas nasional Indonesia, hak dan kewajiban warga negara Indonesia serta hubungannya dengan hak dan kewajiban asasi manusia. Materi kuliah mencakup juga wawasan nusantara, ketahanan nasional, politik dan strategi nasional, serta implementasinya dalam kehidupan bermasyarakat, berbangsa dan bernegara kesatuan Republik Indonesia.	        | 	
@@ -517,7 +517,7 @@ Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian 
         |AMS361	|Pemrograman NonLinear			|3	|
         |AMS461	|Kontrol Optimum			|3	|
         |AMS462	|Kontrol Linear				|3	|
-    - Statistika & Penelitian Operasional
+    - Statistika &amp; Penelitian Operasional
         
         |KODE	|NAMA					|SKS	|
         |-------|---------------------------------------|-------|
@@ -569,7 +569,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 
 ### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
 
-|KODE MK	|PRASYARAT		|NAMA & DESKRIPSI MATA KULIAH	|
+|KODE MK	|PRASYARAT		|NAMA &amp; DESKRIPSI MATA KULIAH	|
 |---------------|-----------------------|-------------------------------|
 |AMS121		|	-		|**KALKULUS 1 (*CALCULUS 1*)** Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan konsep dasar dari integral.|
 |AMS123		|	-		|**PEMECAHAN  MASALAH  MATEMATIKA (*MATHEMATICAL PROBLEM SOLVING*)** Menebak dan mengumpulkan data dalam *problem solving*, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.|
@@ -642,7 +642,7 @@ TOTAL SKS = 18
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
-|APS204	|Projek Bersama			|	|2	|
+|APS204	|Proyek Bersama			|	|2	|
 |APS208	|Fisika Matematika 4		|R	|4	|
 |APS216	|Fisika Statistik		|R	|3	|
 |APS222	|Listrik Magnet			|R	|4	|
@@ -813,7 +813,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 
 ### 2.6.4 Deskripsi Singkat Mata Kuliah Program Studi Fisika
 
-|KODE MK	|PRASYARAT		|NAMA & DESKRIPSI MATA KULIAH	|
+|KODE MK	|PRASYARAT		|NAMA &amp; DESKRIPSI MATA KULIAH	|
 |---------------|-----------------------|-------------------------------|
 |AIF111		|	-		|**PEMROGRAMAN KOMPUTER (*COMPUTER PROGRAMMING*)** Mata kuliah ini bertujuan untuk mengenalkan dan membekali mahasiswa kepada konsep-konsep dasar pemrograman.	|
 |APS101		|	-		|**PENGENALAN PROGRAM STUDI FISIKA (*INTRODUCTION TO PHYSICS STUDIES*)** Mata kuliah ini bertujuan untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan, yang meliputi: kemampuan untuk menganalisa, memecahkan masalah dan membuat kesimpulan. Selain itu, mata kuliah ini juga membahas tujuan dan struktur program studi, melatih penggunaan metode ilmiah, serta peluasan wawasan tentang fisika dan ilmu-ilmu umum, dengan melibatkan keaktifan mahasiswa.|
@@ -826,7 +826,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 |APS112		|	APS105, APS107		|**MEKANIKA (*MECHANICS*)** Mata kuliah ini bertujuan untuk memperdalam konsep kinematika dan dinamika partikel dalam dua dimensi dan tiga dimensi berlandaskan hukum-hukum mekanika (Hukum Newton, konsep kekekalan energi mekanik dan kekekalan momentum). Setelah mengikuti perkuliahan mahasiswa diharapkan dapat menjelaskan gejala-gejala tertentu terkait mekanika partikel serta dapat menyelesaikan masalah-masalah makroskopis terkait mekanika. Materi perkuliahan terkait kinematika dan dinamika partikel meliputi gerak lurus, gerak melingkar, gerak rotasi, serta diperluas untuk osilasi harmonik, fluida, gravitasi, dan sistem partikel, dengan tinjauan secara fisis maupun matematis. Untuk mengantarkan kepada konsep mekanika kuantum, maka diperkenalkan Metode Langrange-Hamilton, yang diterapkan untuk menyelesaikan permasalahan pada sistem makroskopis.		|
 |APS124		|	APS105, APS107		|**FISIKA MODERN (*MODERN PHYSICS*)** Dalam mata kuliah ini, mahasiswa diberikan wawasan mengenai konsep-konsep baru yang melengkapi konsep-konsep fisika klasik, mulai dari munculnya teori relativitas khusus, kegagalan fisika klasik (Hukum Newton) untuk menjelaskan berbagai fenomena dalam skala mikroskopis, eksperimen-eksperimen terkait fenomena kuantum hingga perkembangannya, yang menjadi dasar penemuan-penemuan mutakhir dalam dunia sains, industri dan komunikasi. Pada Teori Relativitas Khusus dibahas mengenai konsep-konsep dasar dalam Teori Relativitas Khusus: Postulat Einstein dan konsekuensi-konsekuensinya.  Melalui Transformasi Lorentz diperoleh suatu persamaan bagi relativitas panjang, waktu dan kecepatan. Dalam perkuliahan ini juga disampaikan mengenai Efek Dopler untuk Cahaya, Paradoks Kembar, Kesetaraan Massa dan Energi dalam Relativitas. Perkembangan fisika modern diawali dengan kegagalan fisika klasik untuk menjelaskan berbagai fenomena dalam skala mikroskopis. Dimulai dari konsep Radiasi Gelombang Elektromagnetik, hingga munculnya konsep dualisme gelombang-partikel melalui berbagai teori dan eksperimen (teori Planck, efek fotolistrik, efek Compton, gelombang de Broglie) yang menjadi awal dari lahirnya fisika kuantum. Dalam aplikasinya dibahas pula fenomena kuantum pada atom Hidrogen. Dalam perkuliahan ini juga diperkenalkan beberapa konsep terkait seperti ketidakpastian Heisenberg, prinsip korespondensi, persamaan gelombang dalam kuantum (persamaan Schrödinger), dan dasar-dasar struktur materi, untuk mengantarkan pada perkuliahan mekanika kuantum.	|
 |APS132		|	AIF111		|**FISIKA KOMPUTASI (*COMPUTATIONAL PHYSICS*)** Tujuan mata kuliah ini adalah untuk melatih mahasiswa mengungkapkan perangai obyek alam dalam lingkup fisika, yang dirumuskan dalam bentuk rumus-rumus matematika, menjadi simulai visual yang interaktif dalam tampilan komputer. Materi yang diajarkan pada mata kuliah ini adalah: Simulasi Perangai Benda Titik, Benda Pejal, Tumbukan, Getaran dan Gelombang, Modulasi Amplitudo dan Frekuensi, Interferensi dan Difraksi, Garis Gaya Medan Listrik dan Medan Magnet, Gaya Lorentz, Rangkaian LRC, Hamburan Thomas Fermi dan Rutherford.	|
-|APS204		|	APS103		|**PROJEK BERSAMA (*PHYSICS PROJECT*)** Penelitian, evaluasi dan presentasi informasi ilmiah merupakan kemampuan penting mahasiswa program studi Fisika pada tahun ke-2. Projek ini didesain untuk mengembangkan lebih lanjut kemapuan-kemampuan penting tersebut. Dalam pelaksanaannya, mahasiswa dalam satu kelas akan dibagi ke dalam beberapa kelompok yang masing-masing beranggotakan 6 mahasiswa yang mana setiap kelompok akan didampingi oleh staf akademik yang akan berperan sebagai mentor sekaligus penilai. Kemudian setiap kelompok akan diberikan sebuah topik untuk diteliti dan dilaporkan. Setiap minggunya masing-masing kelompok akan bertemu secara reguler untuk menetapkan tugas individu dan menyatukan informasi-informasi yang diperoleh. Menjelang akhir semester setiap mahasiswa harus memberikan presentasi tentang projek yang telah diteliti kepada semua anggota kelompoknya. Kemudian setiap kelompok harus mengatur pembuatan laporan akhir tertulis yang akan dinilai. Penilaian keseluruhan didasarkan pada hasil presentasi dan nilai laporan.	|
+|APS204		|	APS103		|**PROYEK BERSAMA (*PHYSICS PROJECT*)** Penelitian, evaluasi dan presentasi informasi ilmiah merupakan kemampuan penting mahasiswa program studi Fisika pada tahun ke-2. Proyek ini didesain untuk mengembangkan lebih lanjut kemapuan-kemampuan penting tersebut. Dalam pelaksanaannya, mahasiswa dalam satu kelas akan dibagi ke dalam beberapa kelompok yang masing-masing beranggotakan 6 mahasiswa yang mana setiap kelompok akan didampingi oleh staf akademik yang akan berperan sebagai mentor sekaligus penilai. Kemudian setiap kelompok akan diberikan sebuah topik untuk diteliti dan dilaporkan. Setiap minggunya masing-masing kelompok akan bertemu secara reguler untuk menetapkan tugas individu dan menyatukan informasi-informasi yang diperoleh. Menjelang akhir semester setiap mahasiswa harus memberikan presentasi tentang proyek yang telah diteliti kepada semua anggota kelompoknya. Kemudian setiap kelompok harus mengatur pembuatan laporan akhir tertulis yang akan dinilai. Penilaian keseluruhan didasarkan pada hasil presentasi dan nilai laporan.	|
 |APS207		|	APS108		|**FISIKA MATEMATIKA 3 (*MATHEMATICAL PHYSICS 3*)** Dalam mata kuliah ini mahasiswa diperkenalkan dengan konsep-konsep matematika yang banyak berguna dalam pemecahan masalah fisika. Setelah mengikuti perkuliahan ini diharapkan mahasiswa mampu menyelesaikan permasalahan sederhana yang berkaitan dengan konsep-konsep matematika tersebut. Secara garis besar materi yang diajarkan dalam mata kuliah ini meliputi: Bilangan Kompleks, Diferensiasi Parsial, Integral Lipat dan Penggunaannya, Analisa Vektor (Teorem Green, Divergensi dan Stokes), Deret Fourier, Transformasi Integral.|
 |APS208		|	APS207		|**FISIKA MATEMATIKA 4 (*MATHEMATICAL PHYSICS 4*)** Kuliah ini dimulai dengan teori transformasi Fourier dan fungsi Delta Dirac. Transformasi Fourier digunakan untuk mentransformasikan fungsi pada semua baris nyata menggunakan kombinasi linier sinus dan cosinus. Transformasi Fourer adalah implemen yang kuat dalam fisika dan aplikasi matematika. Transformasi Fourier akan mengubah persamaan turunan linier ke dalam persamaan aljabar dengan koefisien konstan yang mana secara umum lebih mudah untuk diselesaikan. Berbagai contoh yang digunakan untuk ilustrasi dalam mata kuliah ini akan diambil sebagian besar dari fenomena interferensi dan difraksi optik. Secara garis besar mata kuliah ini membahas tentang: Transformasi Koordinat, Fungsi-fungsi Khusus (Gamma, Betha, Error, Integral Eliptik, Stirling), Persamaan Diferensial dengan Solusi Deret (Legendre, Bessel, Hermite), Fungsi Kompleks, Persamaan Diferensial Parsial. Melalui mata kuliah ini diharapkan mahasiswa dapat mengenal beberapa konsep pemecahan permasalahan matematika yang banyak berguna dalam fisika dan mampu mengungkapkan  contoh-contoh peranannya dalam fisika, serta dapat menyelesaikan permasalahan sederhana yang berkaitan.|
 |APS213		|	APS112, APS108		|**GELOMBANG (*WAVES*)** Pemahaman mengenai gelombang secara mendalam sangat penting untuk dapat menjelaskan fenomena-fenomena terkait yang dijumpai dalam kehidupan sehari-hari.  Selain itu pendekatan gerak partikel berupa gelombang juga dipelajari dalam perkuliahan lanjut seperti mekanika kuantum. Pada mata kuliah ini, mahasiswa akan mempelajari konsep dasar yang diperlukan untuk memahami fenomena gelombang beserta aplikasinya, seperti gerak harmonik, gelombang mekanik dan elektromagnetik, analisis Fourier paket gelombang; dan beberapa aplikasi dasar fenomena gelombang. Dalam Pembahasan digunakan pendekatan secara matematis untuk mendapatkan makna fisisnya. Melalui mata kuliah ini diharapkan mahasiswa mampu memahami dan menerapkan konsep, prinsip dan  sifat gelombang. Perkuliahan diawali dengan pendahuluan yaitu gerak harmonik sederhana yang telah diberikan pada mata kuliah Mekanika, kemudian membahas tentang gelombang mekanik yang terdiri dari gelombang transversal dan longitudinal dalam berbagai medium. Dalam perkuliahan ini juga diperluas dengan materi gelombang elektromagnetik (yang akan sejalan dengan mata kuliah listrik magnet) dengan memperkenalkan Persamaan Maxwell yang merupakan dasar untuk memahami sifat-sifat gelombang elektromagnetik. Pada perkuliahan juga diberikan materi analisa Forier untuk meyelesaikan berbagai persoalan dalam paket gelombang, serta fenomena-fenomena lain terkait, Interferensi dan Difraksi.|
@@ -925,7 +925,7 @@ TOTAL SKS = 18
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
 |AIF302	|Penulisan Ilmiah		|	|2	|
-|AIF304	|Proyek Sistem Informasi 12	|	|3	|
+|AIF304	|Proyek Sistem Informasi 1 [2]	|	|3	|
 |AIF306	|Proyek Informatika [2]		|	|6	|
 |AIF312	|Keamanan Informasi[1]		|R	|2	|
 |AIF314	|Pemrograman Basisdata [1]	|R	|2	|
@@ -941,7 +941,7 @@ TOTAL SKS = 18
 |-------|-------------------------------|-------|-------|
 |AIF401	|Skripsi 1			|	|4	|
 |AIF403	|Komputer dan Masyarakat	|	|3	|
-|AIF405	|Proyek Sistem Informasi 22	|	|2	|
+|AIF405	|Proyek Sistem Informasi 2 [2]	|	|2	|
 |AIFXXX	|MK Pilihan			|	|12	|  
 
 TOTAL SKS = 18
@@ -960,29 +960,29 @@ Keterangan :
 
 1. Mata kuliah pilihan wajib.
   Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut
-2. Mata kuliah projek.
+2. Mata kuliah proyek.
   Mahasiswa harus lulus salah satu dari
-    - Projek Informatika, atau
-    - Projek Sistem Informasi 1 dan Projek Sistem Informasi 2 
+    - Proyek Informatika, atau
+    - Proyek Sistem Informasi 1 dan Proyek Sistem Informasi 2 
 
 Aturan tambahan :  
 
-1. Mata kuliah pilihan dari luar jurusan
+- Mata kuliah pilihan dari luar jurusan
 
     Banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.
     Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai mata kuliah pilihan dari dalam jurusan
 
-2. Skor *Coding*
+- Skor *Coding*
 
-    Beberapa mata kuliah memiliki skor *coding* antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan mata kuliah setiap semester, memiliki jumlah skor *coding* > 0.
+    Beberapa mata kuliah memiliki skor *coding* antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan mata kuliah setiap semester, memiliki jumlah skor *coding* &gt; 0.
 
-3. Nilai minimum kuliah jalur pemrograman/algoritma
+- Nilai minimum kuliah jalur pemrograman/algoritma
 
     Untuk mahasiswa yang ingin mengambil mata kuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
     - Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
-    - Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+    - Desain &amp; Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
     - Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
-    - Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek  
+    - Desain &amp; Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek  
     
     maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
@@ -1003,18 +1003,18 @@ Aturan tambahan :
 |AIF341	|Adm. Jaringan Komputer 1						|	|3	|
 |AIF342	|Adm. Jaringan Komputer 2						|	|3	|
 |AIF343	|Pemrograman Kompetitif							|	|3	|
-|AIF344	|Pemodelan & Simulasi							|	|3	|
+|AIF344	|Pemodelan &amp; Simulasi						|	|3	|
 |AIF345	|Pengujian Perangkat Lunak						|	|2	|
 |AIF346	|Perancangan Permainan Komputer						|	|3	|
 |AIF347	|e-Commerce								|	|2	|
 |AIF348	|Verifikasi Formal							|	|3	|
 |AIF350	|Algoritma Genetika							|	|2	|
 |AIF352	|Jaringan Syaraf Tiruan							|	|2	|
-|AIF354	|Teori Bahasa & Kompilasi						|	|2	|
+|AIF354	|Teori Bahasa &amp; Kompilasi						|	|2	|
 |AIF356	|Analisis Proses Bisnis							|	|2	|
 |AIF358	|Jaringan Komputer Lanjut						|	|3	|
 |AIF360	|Pemrograman Berbasis Web Lanjut					|	|3	|
-|AIF362	|Sistem & Aplikasi Telematika						|	|3	|
+|AIF362	|Sistem &amp; Aplikasi Telematika					|	|3	|
 |AIF431	|Topik Khusus Informatika 3						|	|3	|
 |AIF432	|Topik Khusus Informatika 4						|	|2	|
 |AIF433	|Topik Khusus Sistem Informasi 3					|	|3	|
@@ -1042,10 +1042,10 @@ Aturan tambahan :
 |AIF455	|Sistem Pendukung Keputusan						|	|	|
 |AIF456	|Strategi Sistem Informasi & Arsitektur Perusahaan Berskala Besar	|	|	|
 |AIF457	|Kewirausahaan Berbasis Teknologi					|	|	|
-|AIF458	|Kontrol & Audit Teknologi Informasi					|	|	|
+|AIF458	|Kontrol &amp; Audit Teknologi Informasi				|	|	|
 |AIF459	|Administrasi Basis Data						|	|	|
 |AIF460	|Manajemen Pengetahuan							|	|	|
-|AIF461	|Pencarian & Temu Kembali Informasi					|	|	|
+|AIF461	|Pencarian &amp; Temu Kembali Informasi					|	|	|
 |AIF462	|Manajemen Proses Bisnis						|	|	|
 |AIF463	|Jaringan Nirkabel							|	|	|
 |AIF464	|Sistem Perusahaan Berskala Besar					|	|	|
@@ -1063,34 +1063,34 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 
 ### 2.7.4 Deskripsi Mata Kuliah
 
-|KODE MK	|PRASYARAT		|NAMA & DESKRIPSI MATA KULIAH	|
+|KODE MK	|PRASYARAT		|NAMA &amp; DESKRIPSI MATA KULIAH	|
 |---------------|-----------------------|-------------------------------|
 |AIF101		|	-		|**PEMROGRAMAN BERORIENTASI OBJEK (*OBJECT-ORIENTED PROGRAMMING*)** Memperkenalkan konsep-konsep dasar pemrograman dari perspektif berorientasi objek dan membangun dasar-dasar ketrampilan membuat program dengan menggunakan bahasa pemrograman berorientasi objek.	|
-|AIF102		|	-		|**ALGORITMA & STRUKTUR DATA (*ALGORITHMS & DATA STRUCTURES*)** Memperkenalkan konsep–konsep dasar algoritma, analisis algoritma, beberapa algoritma tingkat dasar (searching dan sorting) dan konsep penting mengenai struktur data (list) serta algoritma untuk memprosesnya.|
+|AIF102		|	-		|**ALGORITMA &amp; STRUKTUR DATA (*ALGORITHMS &amp; DATA STRUCTURES*)** Memperkenalkan konsep–konsep dasar algoritma, analisis algoritma, beberapa algoritma tingkat dasar (searching dan sorting) dan konsep penting mengenai struktur data (list) serta algoritma untuk memprosesnya.|
 |AIF103		|	-		|**MATEMATIKA DISKRIT (*DISCRETE MATHEMATICS*)** Memberikan dasar pengetahuan tentang matematika diskret yang banyak digunakan pada bidang informatika, misalnya himpunan, fungsi dan relasi, dan matematika kombinatorial. Memberikan dasar pengetahuan bagaimana menggunakan matematika diskret untuk memodelkan dan menyelesaikan permasalahan.|
 |AIF104		|	-		|**LOGIKA INFORMATIKA (*LOGICS FOR INFORMATICS*)** Memberikan pengetahuan dasar kalkulus kepada mahasiswa, yang nanti digunakan di bidang informatika, misalnya tentang sistem bilangan real, limit, turunan, dan integral. Memberi pengetahuan dasar aljabar matriks yang berkaitan dengan jenis-jenis matriks, operasi matriks, dan sistem persamaan linier. Memberikan pengetahuan kepada mahasiswa bagaimana menyelesaikan masalah dengan menggunakan metode yang telah dijelaskan.	|
 |AIF105		|	-		|**PENGANTAR INFORMATIKA (*INTRODUCTION TO INFORMATICS*)** Mengenal terminologi umum dalam informatika, mampu menggunakan kakas umum dalam informatika seperti MS Excel, mengenal cakupan ilmu informatika.	|
 |AIF106		|	-		|**SISTEM DIJITAL (*DIGITAL SYSTEMS*)** Memberi pengetahuan dasar kepada mahasiswa tentang struktur komputer dan fungsi masing-masing pembentuknya, memberi pengetahuan kepada mahasiswa tentang representasi data di dalam computer serta operasi-operasi aritmatika yang terkait, memberi pengetahuan kepada mahasiswa tentang arsitektur perancangan beberapa bagian penting di dalam komputer. |
-|AIF201		|	-		|**ANALISIS & DESAIN BERORIENTASI OBJEK (*OBJECT-ORIENTED ANALYSIS & DESIGN*)** Mempelajari dasar-dasar serta beberapa prinsip dalam perancangan program berorientasi objek. Mempelajari diagram UML (Unified Modeling Language) untuk mengkomunikasikan desain secara visual. Mempelajari beberapa design pattern dari Gang of Four untuk membantu mempercepat menyelesaikan masalah desain.|
-|AIF202		|	-		|**DESAIN & ANALISIS ALGORITMA (*DESIGN & ANALYSIS OF ALGORITHMS*)** Menggunakan dan merancang algoritma dan struktur data sederhana untuk menyelesaikan masalah-masalah komputasi tertentu  dan mengimplementasikannya menggunakan bahasa pemrograman berorientasi obyek.|
+|AIF201		|	-		|**ANALISIS &amp; DESAIN BERORIENTASI OBJEK (*OBJECT-ORIENTED ANALYSIS &amp; DESIGN*)** Mempelajari dasar-dasar serta beberapa prinsip dalam perancangan program berorientasi objek. Mempelajari diagram UML (Unified Modeling Language) untuk mengkomunikasikan desain secara visual. Mempelajari beberapa design pattern dari Gang of Four untuk membantu mempercepat menyelesaikan masalah desain.|
+|AIF202		|	-		|**DESAIN &amp; ANALISIS ALGORITMA (*DESIGN &amp; ANALYSIS OF ALGORITHMS*)** Menggunakan dan merancang algoritma dan struktur data sederhana untuk menyelesaikan masalah-masalah komputasi tertentu  dan mengimplementasikannya menggunakan bahasa pemrograman berorientasi obyek.|
 |AIF203		|	-		|**STRUKTUR DISKRIT (*DISCRETE STRUCTURES*)** Memberikan dasar pengetahuan tentang struktur diskret yang banyak digunakan pada bidang informatika, khususnya graph, pohon dan finite state machine. Memberikan dasar pengetahuan bagaimana menggunakan struktur diskret untuk memodelkan dan menyelesaikan permasalahan.	|
-|AIF205		|	-		|**ARSITEKTUR & ORGANISASI KOMPUTER (*COMPUTER ARCHITECTURES & ORGANISATION*)** Mempelajari cara kerja antar bagian komputer dan arsitektur komputer, cara kerja dari komponen-komponen komputer, dan perkembangan arsitektur komputer modern.|
+|AIF205		|	-		|**ARSITEKTUR &amp; ORGANISASI KOMPUTER (*COMPUTER ARCHITECTURES &amp; ORGANISATION*)** Mempelajari cara kerja antar bagian komputer dan arsitektur komputer, cara kerja dari komponen-komponen komputer, dan perkembangan arsitektur komputer modern.|
 |AIF206		|	-		|**SISTEM OPERASI (*OPERATING SYSTEMS*)** Mempelajari pengertian sistem operasi, peran dan fungsinya dalam sebuah sistem perangkat keras, khususnya komputer. Mempelajari prinsip-prinsip, teknik dan algoritma yang digunakan di dalam sebuah sistem operasi, penjadwalan, dan aspek keamanan dalam sistem operasi. Memperkenalkan dan menggunakan lebih dalam beberapa sistem operasi yang umum.	|
 |AIF208		|	-		|**REKAYASA PERANGKAT LUNAK (*REKAYASA PERANGKAT LUNAK*)** Mempelajari terminologi, definisi, Software Process Model, review paradigma berorientasi objek, kebutuhan perangkat lunak, *use case modeling, class modelling, dynamic modelling: state transition diagram, sequence diagram, activity diagram, reusability dan design pattern, data flow diagram, testing, software process management*.	|
 |AIF210		|	-		|**INTERAKSI MANUSIA KOMPUTER (*HUMAN-COMPUTER INTERACTION*)** Mempelajari konsep-konsep interaksi manusia dan komputer serta mengimplementasikan dalam bentuk pemrograman di lingkungan GUI dan event driven).|
-|AIF294		|	-		|**MANAJEMEN INFORMASI & BASIS DATA (*INFORMATION MANAGEMENT & DATABASES*)** Mengajarkan konsep dan macam-macam Sistem Manajemen Basis Data (DBMS), pengenalan basis data sederhana mulai dari spreadsheet, merancang dan memodelkan basis data menggunakan ER-D, implementasi tabel, penyimpanan data multimedia, serta cara penggunaan sintaks-sintaks SQL pada DBMS.|
+|AIF294		|	-		|**MANAJEMEN INFORMASI &amp; BASIS DATA (*INFORMATION MANAGEMENT &amp; DATABASES*)** Mengajarkan konsep dan macam-macam Sistem Manajemen Basis Data (DBMS), pengenalan basis data sederhana mulai dari spreadsheet, merancang dan memodelkan basis data menggunakan ER-D, implementasi tabel, penyimpanan data multimedia, serta cara penggunaan sintaks-sintaks SQL pada DBMS.|
 |AIF301		|	-		|**PENGANTAR SISTEM CERDAS (*INTRODUCTION TO INTELLIGENT SYSTEMS*)** Mempelajari definisi, karakteristikagen cerdas, *blind search, informed search, local search, adversarial search*, representasi pengetahuan dengan *Propositional Logic* dan *First Order Logic*, agen cerdas berbasis logika, *planning*, penanganan ketidakpastian, pembelajaran mesin.|
 |AIF302		|	-		|**PENULISAN ILMIAH (*SCIENTIFIC WRITING*)** Mempersiapkan mahasiswa untuk mulai melakukan penelitian. Memberikan penjelasan tentang penelitian dan jenis-jenisnya.	|
 |AIF303		|	-		|**PENGANTAR SISTEM INFORMASI (*INTRODUCTION TO INFORMATION SYSTEMS*)** Mempelajaritrend Teknologi Informasi, konsep Sistem Informasi Terkomputerisasi (SIT) dan komponen SI, pemanfaatan SI bagi organisasi, pengantar pembangunan SIT, perumusan prosedur-prosedur bisnis, keamanan informasi, pengantar e-bisnis/*e-commerce*, pengantar *Business Intelligence*, pengantar EIS, DSS, *cloud computing* dan *mobile applications*.|
-|AIF304		|	-		|**PROYEK SISTEM INFORMASI 1 (*INFORMATION SYSTEM PROJECT 1*)** Mempelajari pendalaman manajemen projek (penyusunan *Project Implementation Plan*), perumusan lingkup projek untuk organisasi studi kasus, analisis kebutuhan dengan pembuatan *prototype* penyusunan dokumen spesifikasi sistem (SRS).|
+|AIF304		|	-		|**PROYEK SISTEM INFORMASI 1 (*INFORMATION SYSTEM PROJECT 1*)** Mempelajari pendalaman manajemen proyek (penyusunan *Project Implementation Plan*), perumusan lingkup proyek untuk organisasi studi kasus, analisis kebutuhan dengan pembuatan *prototype* penyusunan dokumen spesifikasi sistem (SRS).|
 |AIF305		|	-		|**JARINGAN KOMPUTER (*COMPUTER NETWORKS*)** Memperkenalkan organisasi yang berkaitan dengan internet; topologi jaringan;*layering*; komponen-komponen jaringan; aplikasi jaringan; Membangun aplikasi jaringan; lapisan transport – TCP; *Reliable data delivery*; Lapisan jaringan; *Local Area Network*; *Resource Allocation*; *Mobility*; *Multimedia Networking*; Memperkenalkan keamanan jaringan; *Social Networking*; Membangun dan administrasi jaringan LAN.|
-|AIF306		|	-		|**PROYEK INFORMATIKA (*INFORMATICS PROJECT*)** Mempelajari dan mempraktekkan tahap-tahap rekayasa perangkat lunak termasuk manajemen projek pada sebuah projek perangkat lunak nyata pada skala menengah.	|
+|AIF306		|	-		|**PROYEK INFORMATIKA (*INFORMATICS PROJECT*)** Mempelajari dan mempraktekkan tahap-tahap rekayasa perangkat lunak termasuk manajemen proyek pada sebuah proyek perangkat lunak nyata pada skala menengah.	|
 |AIF401		|	-		|**SKRIPSI 1 (*UNDERGRADUATE THESIS 1*)** Skripsi 1 merupakan bagian pertama skripsi dengan titik berat pada studi pustaka, pemahaman, pelaporan hasil kerja secara tertulis dan lisan. Topik ditentukan bersama dosen pembimbing.	|
 |AIF402		|	-		|**SKRIPSI 2 (*UNDERGRADUATE THESIS 2*)** Skripsi 2 merupakan bagian kedua skripsi, pendalaman topik dan hasil kerja lengkap bentuk tulisan yang baik dan standar, juga secara lisan. Topik ditentukan bersama dosen pembimbing.	|
-|AIF403		|	Lulus 72 SKS		|**KOMPUTER & MASYARAKAT (*COMPUTER & SOCIETY*)** Menganalisis dan mengkritisi peran, kedudukan dan peluang dalam bidang TIK. Memberi pemahaman mengenai pentingnya peran TIK sebagai “process enabler” dan “process improvement driver”, serta memperkenalkan isu-isu teknologi & non-teknologi yang penting dalam bidang TIK. Prasyarat : sudah lulus 72 SKS.|
+|AIF403		|	Lulus 72 SKS		|**KOMPUTER &amp; MASYARAKAT (*COMPUTER &amp; SOCIETY*)** Menganalisis dan mengkritisi peran, kedudukan dan peluang dalam bidang TIK. Memberi pemahaman mengenai pentingnya peran TIK sebagai “process enabler” dan “process improvement driver”, serta memperkenalkan isu-isu teknologi &amp; non-teknologi yang penting dalam bidang TIK. Prasyarat : sudah lulus 72 SKS.|
 |AIF405		|	-		|**PROYEK SISTEM INFORMASI 2 (*INFORMATION SYSTEM PROJECT 2*)** Mempelajari perancangan sistem informasi untuk organisasi studi kasus, implementasi sistem secara gadual, pengujian modul, integrasi dan penerimaan *user* (UAT).|
 |AMS100		|	-		|**MATEMATIKA INFORMATIKA (*MATHEMATICS FOR INFORMATICS*)** Mempelajari pengetahuan dasar matematika yang diperlukan dalama menyelesaikan masalah informatika yang terdiri dari: Sistem Bilangan Real dan Nilai Mutlak, Fungsi dan Limit,  Turunan, Integral, Sistem Persamaan Linear dan Matriks, Determinan, Vektor 2 dan 3 Dimensi.	|
-|AMS200		|	-		|**PROBABILITAS & STATISTIKA (*PROBABILITY & STATISTICS*)** Mempelajari konsep-konsep dasar dalam teori peluang dan statistika.|
+|AMS200		|	-		|**PROBABILITAS &amp; STATISTIKA (*PROBABILITY &amp; STATISTICS*)** Mempelajari konsep-konsep dasar dalam teori peluang dan statistika.|
 
 # BAB 3 KEGIATAN AKADEMIK
 
@@ -1120,9 +1120,9 @@ Dalam menentukan mata kuliah yang akan diambil, dapat digunakan pedoman berikut:
 
     | IPS         | Hak Tempuh pada Semester Berikutnya |
     |-------------|-------------------------------------|
-    | >= 3,00     | Maksimum 24 SKS                     |
+    | &gt;= 3,00     | Maksimum 24 SKS                     |
     | 2,50 - 2,99 | Maksimum 21 SKS                     |
-    | <= 2,49     | Maksimum 18 SKS                     |
+    | &lt;= 2,49     | Maksimum 18 SKS                     |
     
     Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian :
     - 1 jam kuliah
@@ -1135,7 +1135,7 @@ Masa perwalian juga merupakan kesempatan bagi mahasiswa yang ingin mendiskusikan
 
 ### 3.1.2 Pendaftaran Mata Kuliah
 
-Setelah menentukan mata kuliah apa saja yang akan diambil, maka mahasiswa harus mendaftarkan mata kuliah-mata kuliah dengan cara mengisi Form Rencana Studi (FRS). Pengisian FRS ini dilakukan secara online dengan menggunakan portal mahasiswa (masuk ke url [https://mhs.akad.unpar/](https://mhs.akad.unpar/ "Title")), login menggunakan *username* dari *account student* masing-masing. Pengisian FRS ini dapat dilakukan oleh mahasiswa sendiri atau bersama-sama dengan dosen wali pada saat  perwalian (tergantung aturan dari masing-masing prodi).
+Setelah menentukan mata kuliah apa saja yang akan diambil, maka mahasiswa harus mendaftarkan mata kuliah-mata kuliah dengan cara mengisi Form Rencana Studi (FRS). Pengisian FRS ini dilakukan secara online dengan menggunakan portal mahasiswa (masuk ke url [https://studentportal.unpar.ac.id/](https://studentportal.unpar.ac.id/ "Title")), login menggunakan *username* dari *account student* masing-masing. Pengisian FRS ini dapat dilakukan oleh mahasiswa sendiri atau bersama-sama dengan dosen wali pada saat  perwalian (tergantung aturan dari masing-masing prodi).
 
 Dosen wali akan memeriksa FRS yang telah diisi oleh mahasiswa walinya. Jika dosen wali merasa tidak ada masalah dengan rencana studi mahasiswa walinya, maka dosen wali akan memberikan persetujuan.
 
@@ -1159,15 +1159,15 @@ Setiap mahasiswa yang telah memiliki KTM dan telah menyelesaikan kewajiban pemba
 Jika ada masalah tentang ini, hal ini perlu dilaporkan secara tertulis oleh mahasiswa maupun dosen kepada pihak yang berkepentingan, yaitu dosen wali, pimpinan jurusan / program studi, dan pimpinan FTIS.
 Perincian kegiatan perkuliahan adalah sebagai berikut :  
 
-1. **Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS),** yang sebaiknya dimanfaatkan secara maksimal dengan:
+1. **Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)**, yang sebaiknya dimanfaatkan secara maksimal dengan:
     - membaca bahan yang diperkirakan akan dibahas dosen,
     - menanyakan segala hal yang belum jelas kepada dosen,
     - meminta saran dosen tentang cara belajar dan berlatih yang baik.
-2. **Kegiatan akademik terstruktur (± 1 jam/SKS),** yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran.
+2. **Kegiatan akademik terstruktur (&plusmn; 1 jam/SKS)**, yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran.
     - *Responsi* merupakan kegiatan dimana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan masalah teknis yang belum dikuasai.
     - *Praktikum* bertujuan melengkapi kegiatan perkuliahan, agar keterkaitan antara teori dan praktek dapat dikokohkan.
     - *Pekerjaan rumah* merupakan latihan yang diberikan oleh dosen untuk menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri maupun kelompok.
-3. **Kegiatan akademik mandiri (± 1 jam / sks),** merupakan kegiatan yang dilakukan sendiri (di perpustakaan, di rumah, atau di tempat lain) oleh mahasiswa. Hal ini amat perlu, untuk dapat merenungkan dan mencernakan bahan kuliah. Kegiatan ini dapat terdiri atas membaca buku teks atau buku lain, catatan kuliah, responsi, atau praktikum, membuat soal yang ditugaskan dan yang dipilih sendiri, membuat skema pokok bahasan yang telah dipelajari, belajar dalam kelompok studi, dsb.  
+3. **Kegiatan akademik mandiri (&plusmn; 1 jam / sks)**, merupakan kegiatan yang dilakukan sendiri (di perpustakaan, di rumah, atau di tempat lain) oleh mahasiswa. Hal ini amat perlu, untuk dapat merenungkan dan mencernakan bahan kuliah. Kegiatan ini dapat terdiri atas membaca buku teks atau buku lain, catatan kuliah, responsi, atau praktikum, membuat soal yang ditugaskan dan yang dipilih sendiri, membuat skema pokok bahasan yang telah dipelajari, belajar dalam kelompok studi, dsb.  
 
 ## 3.3 Tata Cara Ujian
 
@@ -1190,13 +1190,13 @@ Syarat untuk mengikuti UTS dan UAS:
 
 ### 3.3.2 Tata Tertib Ujian
 
-**A. Kehadiran**  
+**Kehadiran**  
 
 1. Peserta ujian harus telah hadir di ruang ujian selambat-lambatnya **15 menit sebelum** ujian dimulai.
 2. Peserta ujian yang **terlambat setelah ujian dimulai** tidak diperkenankan mengikuti ujian yang bersangkutan.
 3. Ketidakhadiran peserta ujian pada saat ujian berakibat komponen ujian terkait **bernilai 0 (nol)**.
 
-**B. Perlengkapan**  
+**Perlengkapan**  
 
 1. Peserta ujian **wajib** membawa **Kartu Tanda Mahasiswa (KTM)** yang sah, dan diletakkan di atas meja ujian masing-masing selama ujian.
 2. Peserta ujian **wajib** menyediakan sendiri alat tulis dan dilarang keras saling meminjam atau bertukar alat tulis dengan peserta ujian lain.
@@ -1206,17 +1206,17 @@ Syarat untuk mengikuti UTS dan UAS:
 6. Semua barang yang tidak diijinkan dibawa ke tempat duduk, harus diletakkan di bagian depan kelas atau tempat lain yang ditetapkan pengawas ujian.
 7. Peserta ujian dilarang merokok di ruang ujian.
 
-**C. Pakaian**  
+**Pakaian**  
 
 1. Peserta ujian **wajib** mengenakan pakaian yang sopan dan rapi.
 2. Peserta ujian **wajib** memakai sepatu.
  
-**D. Tempat duduk**  
+**Tempat duduk**  
 
 1. Peserta ujian harus menempati **ruang ujian** dan **tempat duduk sesuai dengan nomor ujian**. Nomor ujian dapat dilihat pada papan pengumuman akademik fakultas.
 2. Pergantian tempat duduk duduk harus sepengetahuan dan ijin pengawas ujian.
 
-**E.  Pelaksanaan**  
+**Pelaksanaan**  
 
 1. Peserta ujian dilarang membuka dan membaca soal ujian sebelum diperbolehkan oleh pengawas ujian.
 2. Sebelum mulai mengerjakan soal ujian, peserta ujian **wajib** mengisi nama, NPM sesuai dengan yang diminta pada lembar jawab ujian dan menandatanganinya, serta menandatangani pernyataan akan taat pada tata tertib ujian. Lembar ujian tanpa NPM, nama, dan tandatangan dianggap tidak sah.
