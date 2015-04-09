@@ -13,11 +13,11 @@ Keberhasilan belajar mata kuliah ditetapkan segera setelah mahasiswa **menyelesa
 
 Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki **Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut :  
 
-| BENTUK KEGIATAN       | KOMPONEN KEGIATAN                       | KOMPONEN EVALUASI (ANGKA)               | KOMPONEN EVALUASI (%)                   |
+| BENTUK KEGIATAN       | KOMPONEN KEGIATAN                       | KOMPONEN EVALUASI (ANGKA)               | KOMPONEN EVALUASI (&#37;)                   |
 |-----------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
-| Perkuliahan           | Pelaksanaan Tugas                       | Angka Rata-rata Tugas (ART)             | 20% - 40%                               |
-| Perkuliahan           | Tatap Muka                              | Angka Ujian Tengah Semester (AUTS)      | 30% - 50%                               |
-| Perkuliahan           | Tatap Muka                              | Angka Ujian Akhir Semester (AUAS)       | 30% - 50%                               |
+| Perkuliahan           | Pelaksanaan Tugas                       | Angka Rata-rata Tugas (ART)             | 20&#37; - 40&#37;                               |
+| Perkuliahan           | Tatap Muka                              | Angka Ujian Tengah Semester (AUTS)      | 30&#37; - 50&#37;                               |
+| Perkuliahan           | Tatap Muka                              | Angka Ujian Akhir Semester (AUAS)       | 30&#37; - 50&#37;                               |
 | Seminar/Studi Mandiri | Partisipasi,Penyusunan Makalah /Laporan | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |
 | Skripsi               | Penyusunan dan Penyajian                | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |  
 
@@ -56,7 +56,7 @@ Evaluasi keberhasilan belajar tiap semester dilakukan segera setelah mahasiswa m
 
 ![Rumus Indeks Prestasi Semester](images/formula_bab4_1.PNG "Rumus Indeks Prestasi Semester")  
 
-dengan (sks x bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. IPS digunakan untuk menetapkan **beban kredit** yang dapat ditempuh mahasiswa pada **semester berikutnya**.
+dengan (SKS[i] x bobot NA[i]) = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. IPS digunakan untuk menetapkan **beban kredit** yang dapat ditempuh mahasiswa pada **semester berikutnya**.
 
 ### 4.2.2 Evaluasi Keberhasilan Belajar Tahap Pertama  
 
@@ -82,7 +82,7 @@ Evaluasi Keberhasilan Belajar Tahap Akhir dinyatakan dalam **Indeks Prestasi Kum
 
 ![Rumus Indeks Prestasi Komulatif](images/formula_bab4_2.PNG "Rumus Indeks Prestasi Komulatif") 
 
-dengan (sks x bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. Mahasiswa dinyatakan **lulus** dari prodi terkait di lingkungan UNPAR setelah memenuhi persyaratan berikut:  
+dengan (SKS[i] x bobot NA[i]) = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. Mahasiswa dinyatakan **lulus** dari prodi terkait di lingkungan UNPAR setelah memenuhi persyaratan berikut:  
 
 1. Telah lulus **seluruh beban SKS** yang dipersyaratkan dalam kurikulum prodi terkait.
 2. IPK &gt;= 2,00.
