@@ -23,7 +23,7 @@ import android.widget.ListView;
 
 
 public class MainActivity extends ActionBarActivity {
-	private ViewFragment webView;
+	private ViewFragment webViewer;
 	private String HTMLPath;
 	private String HTMLName;
 	private HTMLHeader[] headers;
@@ -40,8 +40,8 @@ public class MainActivity extends ActionBarActivity {
         /*WEBVIEW*/
         HTMLName = "eJuklak_FTIS.html";
         HTMLPath = "file:///android_asset/" + HTMLName;
-        webView = new ViewFragment(HTMLPath);
-        getFragmentManager().beginTransaction().replace(R.id.content_frame, webView).commit();
+        webViewer = new ViewFragment(HTMLPath);
+        getFragmentManager().beginTransaction().replace(R.id.content_frame, webViewer).commit();
         
         /*NAVIGATION DRAWER*/ 
         headers = this.getHTMLHeaders();
@@ -125,8 +125,8 @@ public class MainActivity extends ActionBarActivity {
     private void selectItem(int position) {
     	//webView.loadUrl(HTMLPath+ "#" + headers[position].getID());
     	//Fragment fragment = new ViewFragment(HTMLPath+"#"+headers[position].getID());
-    	webView.viewID(headers[position].getID());
-    	getFragmentManager().beginTransaction().replace(R.id.content_frame, webView).commit();
+    	webViewer.viewID(headers[position].getID());
+    	getFragmentManager().beginTransaction().replace(R.id.content_frame, webViewer).commit();
         drList.setItemChecked(position, true);
         drList.setSelection(position);
     	drLayout.closeDrawers();
@@ -158,6 +158,20 @@ public class MainActivity extends ActionBarActivity {
     protected void onPostCreate(Bundle savedInstanceState) {
         super.onPostCreate(savedInstanceState);
         drToggle.syncState();
+    }
+    
+    @Override
+    protected void onSaveInstanceState(Bundle outState )
+    {
+    	super.onSaveInstanceState(outState);
+    	webViewer.webView.saveState(outState);
+    }
+
+    @Override
+    protected void onRestoreInstanceState(Bundle savedInstanceState)
+    {
+    	super.onRestoreInstanceState(savedInstanceState);
+    	webViewer.webView.restoreState(savedInstanceState);
     }
 }
 

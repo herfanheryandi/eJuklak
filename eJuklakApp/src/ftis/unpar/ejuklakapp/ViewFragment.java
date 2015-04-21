@@ -19,6 +19,7 @@ public class ViewFragment extends Fragment{
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.webview_fragment, container, false);
         webView = (WebView) rootView.findViewById(R.id.webview); 
+        webView.getSettings().setBuiltInZoomControls(true);
         webView.loadUrl(HTMLPath); 
         return rootView;
     }
