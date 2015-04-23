@@ -3,13 +3,8 @@ package ftis.unpar.ejuklakapp;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.LinkedList;
-
 import org.apache.commons.lang3.StringUtils;
-
-import android.app.ProgressDialog;
 import android.content.res.AssetManager;
-import android.graphics.Color;
-import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.support.v4.app.ActionBarDrawerToggle;
 import android.support.v4.widget.DrawerLayout;
@@ -29,62 +24,64 @@ public class MainActivity extends ActionBarActivity {
 	private HTMLHeader[] headers;
 	private DrawerLayout drLayout;
 	private ListView drList;
-	ActionBarDrawerToggle drToggle;
+	private ActionBarDrawerToggle drToggle;
 	
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //this.getActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#0099ff")));
         setContentView(R.layout.activity_main);
-        //Code here
+
         /*WEBVIEW*/
         HTMLName = "eJuklak_FTIS.html";
         HTMLPath = "file:///android_asset/" + HTMLName;
-        webViewer = new ViewFragment(HTMLPath);
+        webViewer = new ViewFragment();
+        webViewer.setHTMLPath(HTMLPath);
         getFragmentManager().beginTransaction().replace(R.id.content_frame, webViewer).commit();
         
         /*NAVIGATION DRAWER*/ 
-        headers = this.getHTMLHeaders();
-        drLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
-        //drLayout.setBackgroundColor(Color.parseColor("#0099ff"));
-        drList = (ListView) findViewById(R.id.left_drawer);
-        
-        DrawerItem[] drawerItem = new DrawerItem[headers.length];
-        for(int i = 0; i < drawerItem.length; i++){
-        	drawerItem[i] = new DrawerItem(R.drawable.ic_paper, headers[i].getValue());
+        if(savedInstanceState==null){
+	        headers = this.getHTMLHeaders();
+	        drLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
+	        drList = (ListView) findViewById(R.id.left_drawer);
+	        
+	        /*SET DRAWER ITEM*/
+	        DrawerItem[] drawerItem = new DrawerItem[headers.length];
+	        for(int i = 0; i < drawerItem.length; i++){
+	        	drawerItem[i] = new DrawerItem(R.drawable.ic_paper, headers[i].getValue());
+	        }
+	        
+	        DrawerItemCustomAdapter adapter = new DrawerItemCustomAdapter(this, R.layout.listview_item_row, drawerItem);
+	        drList.setAdapter(adapter);
+	        drList.setOnItemClickListener(new DrawerItemClickListener());
+	        
+	        drLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
+	        drToggle = new ActionBarDrawerToggle(
+	                this,
+	                drLayout,
+	                R.drawable.ic_menu, 
+	                R.string.drawer_open, 
+	                R.string.drawer_close 
+	                ) {
+	            
+	            /** Called when a drawer has settled in a completely closed state. */
+	            public void onDrawerClosed(View view) {
+	                super.onDrawerClosed(view);
+	            }
+	         
+	            /** Called when a drawer has settled in a completely open state. */
+	            public void onDrawerOpened(View drawerView) {
+	                super.onDrawerOpened(drawerView);
+	            }
+	        };
+	         
+	        drLayout.setDrawerListener(drToggle);
         }
-        
-        DrawerItemCustomAdapter adapter = new DrawerItemCustomAdapter(this, R.layout.listview_item_row, drawerItem);
-        drList.setAdapter(adapter);
-        drList.setOnItemClickListener(new DrawerItemClickListener());
-        
-        drLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
-        drToggle = new ActionBarDrawerToggle(
-                this,
-                drLayout,
-                R.drawable.ic_menu, 
-                R.string.drawer_open, 
-                R.string.drawer_close 
-                ) {
-            
-            /** Called when a drawer has settled in a completely closed state. */
-            public void onDrawerClosed(View view) {
-                super.onDrawerClosed(view);
-            }
-         
-            /** Called when a drawer has settled in a completely open state. */
-            public void onDrawerOpened(View drawerView) {
-                super.onDrawerOpened(drawerView);
-            }
-        };
-         
-        drLayout.setDrawerListener(drToggle);
         getActionBar().setDisplayHomeAsUpEnabled(true);
         getActionBar().setHomeButtonEnabled(true);
     }
     
     
-    public HTMLHeader[] getHTMLHeaders(){
+    private HTMLHeader[] getHTMLHeaders(){
     	AssetManager assetManager = getAssets();
 		String text = new String();
 	    InputStream input;
@@ -164,14 +161,14 @@ public class MainActivity extends ActionBarActivity {
     protected void onSaveInstanceState(Bundle outState )
     {
     	super.onSaveInstanceState(outState);
-    	webViewer.webView.saveState(outState);
+    	webViewer.getWebView().saveState(outState);
     }
 
     @Override
     protected void onRestoreInstanceState(Bundle savedInstanceState)
     {
     	super.onRestoreInstanceState(savedInstanceState);
-    	webViewer.webView.restoreState(savedInstanceState);
+    	webViewer.getWebView().restoreState(savedInstanceState);
     }
 }
 
