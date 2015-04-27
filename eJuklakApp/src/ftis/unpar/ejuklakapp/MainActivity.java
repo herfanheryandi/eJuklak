@@ -1,9 +1,15 @@
 package ftis.unpar.ejuklakapp;
 
+import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.LinkedList;
+
 import org.apache.commons.lang3.StringUtils;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.*;
+import org.jsoup.select.Elements;
+
 import android.content.res.AssetManager;
 import android.os.Bundle;
 import android.support.v4.app.ActionBarDrawerToggle;
@@ -40,17 +46,16 @@ public class MainActivity extends ActionBarActivity {
         
         /*NAVIGATION DRAWER*/ 
         if(savedInstanceState==null){
-	        headers = this.getHTMLHeaders();
+	        try {
+				headers = this.getHTMLHeaders();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
 	        drLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
 	        drList = (ListView) findViewById(R.id.left_drawer);
 	        
 	        /*SET DRAWER ITEM*/
-	        DrawerItem[] drawerItem = new DrawerItem[headers.length];
-	        for(int i = 0; i < drawerItem.length; i++){
-	        	drawerItem[i] = new DrawerItem(R.drawable.ic_paper, headers[i].getValue());
-	        }
-	        
-	        DrawerItemCustomAdapter adapter = new DrawerItemCustomAdapter(this, R.layout.listview_item_row, drawerItem);
+	        DrawerAdapter adapter = new DrawerAdapter(this, R.layout.listview_item_row, headers);
 	        drList.setAdapter(adapter);
 	        drList.setOnItemClickListener(new DrawerItemClickListener());
 	        
@@ -81,11 +86,11 @@ public class MainActivity extends ActionBarActivity {
     }
     
     
-    private HTMLHeader[] getHTMLHeaders(){
+    private HTMLHeader[] getHTMLHeaders() throws IOException{
     	AssetManager assetManager = getAssets();
-		String text = new String();
-	    InputStream input;
-	    try {
+		//String text = new String();
+	    InputStream input = assetManager.open(HTMLName);
+	   /* try {
 		    input = assetManager.open(HTMLName);
 			int size = input.available();
 		    byte[] buffer = new byte[size];
@@ -106,6 +111,16 @@ public class MainActivity extends ActionBarActivity {
           	headerList.add(new HTMLHeader(Integer.parseInt(number),id,value));
 	    }
 	    headerList.addFirst(new HTMLHeader(1,"","HOME"));
+	    HTMLHeader[] headerArr = headerList.toArray(new HTMLHeader[headerList.size()]);
+	    return headerArr;*/
+    	LinkedList<HTMLHeader> headerList = new LinkedList<HTMLHeader>();
+    	Document doc =  Jsoup.parse(input,"utf-8","");
+        Elements heads = doc.select("h1,h2,h3");
+        for(Element head:heads){
+        	char tagNum = head.tag().toString().charAt(1);
+        	headerList.add(new HTMLHeader(Integer.parseInt(tagNum+""),head.id(),head.text()));
+        }
+        headerList.addFirst(new HTMLHeader(1,"","HOME"));
 	    HTMLHeader[] headerArr = headerList.toArray(new HTMLHeader[headerList.size()]);
 	    return headerArr;
     }
