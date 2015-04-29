@@ -88,8 +88,8 @@ public class MainActivity extends ActionBarActivity {
     
     private HTMLHeader[] getHTMLHeaders() throws IOException{
     	AssetManager assetManager = getAssets();
+    	InputStream input = assetManager.open(HTMLName);
 		//String text = new String();
-	    InputStream input = assetManager.open(HTMLName);
 	   /* try {
 		    input = assetManager.open(HTMLName);
 			int size = input.available();
@@ -116,12 +116,20 @@ public class MainActivity extends ActionBarActivity {
     	LinkedList<HTMLHeader> headerList = new LinkedList<HTMLHeader>();
     	Document doc =  Jsoup.parse(input,"utf-8","");
         Elements heads = doc.select("h1,h2,h3");
-        for(Element head:heads){
+        int n = heads.size();
+        HTMLHeader[] headerArr = new  HTMLHeader[n+1];
+        headerArr[0] = new HTMLHeader(1,"","HOME");
+        for(int i = 0; i<n; i++){
+        	Element head = heads.get(i);
+        	char tagNum = head.tag().toString().charAt(1);
+        	headerArr[i+1] = new HTMLHeader(Integer.parseInt(tagNum+""),head.id(),head.text());
+        }
+        /*for(Element head:heads){
         	char tagNum = head.tag().toString().charAt(1);
         	headerList.add(new HTMLHeader(Integer.parseInt(tagNum+""),head.id(),head.text()));
-        }
-        headerList.addFirst(new HTMLHeader(1,"","HOME"));
-	    HTMLHeader[] headerArr = headerList.toArray(new HTMLHeader[headerList.size()]);
+        }*/
+        //headerList.addFirst(new HTMLHeader(1,"","HOME"));
+	    //HTMLHeader[] headerArr = headerList.toArray(new HTMLHeader[headerList.size()]);
 	    return headerArr;
     }
     
