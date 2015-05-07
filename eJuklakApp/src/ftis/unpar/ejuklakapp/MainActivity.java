@@ -7,6 +7,7 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.*;
 import org.jsoup.select.Elements;
 
+import android.app.ProgressDialog;
 import android.content.res.AssetManager;
 import android.os.Bundle;
 import android.support.v4.app.ActionBarDrawerToggle;
@@ -39,6 +40,13 @@ public class MainActivity extends ActionBarActivity {
         webViewer = new ViewFragment();
         webViewer.setHTMLPath(HTMLPath);
         getFragmentManager().beginTransaction().replace(R.id.content_frame, webViewer).commit();
+        
+        /*LOADING*/
+        /*ProgressDialog progress = new ProgressDialog(this);
+        progress.setIndeterminate(true);
+        progress.setTitle("Loading");
+        progress.setMessage("Wait while loading...");
+        progress.show();*/
         
         /*NAVIGATION DRAWER*/ 
         if(savedInstanceState==null){
@@ -79,6 +87,7 @@ public class MainActivity extends ActionBarActivity {
         }
         getActionBar().setDisplayHomeAsUpEnabled(true);
         getActionBar().setHomeButtonEnabled(true);
+        //progress.dismiss();
     }
     
     
