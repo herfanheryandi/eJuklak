@@ -9,7 +9,7 @@ public class HTMLHeader {
 		this.number = number;
 		this.id = id;
 		this.value = value;
-	}
+	} 
 	
 	public int getNumber(){
 		return this.number;

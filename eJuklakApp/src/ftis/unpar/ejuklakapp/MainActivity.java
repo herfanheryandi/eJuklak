@@ -1,11 +1,9 @@
 package ftis.unpar.ejuklakapp;
 
-import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.LinkedList;
 
-import org.apache.commons.lang3.StringUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.*;
 import org.jsoup.select.Elements;
@@ -20,7 +18,6 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
-
 
 
 public class MainActivity extends ActionBarActivity {
@@ -89,30 +86,6 @@ public class MainActivity extends ActionBarActivity {
     private HTMLHeader[] getHTMLHeaders() throws IOException{
     	AssetManager assetManager = getAssets();
     	InputStream input = assetManager.open(HTMLName);
-		//String text = new String();
-	   /* try {
-		    input = assetManager.open(HTMLName);
-			int size = input.available();
-		    byte[] buffer = new byte[size];
-		    input.read(buffer);
-		    input.close();
-		    text = new String(buffer);
-	    } catch (IOException e) {
-           e.printStackTrace();
-        }
-	    
-	    LinkedList<HTMLHeader> headerList = new LinkedList<HTMLHeader>();
-	    String content = StringUtils.substringBetween(text, "<body>", "</body>");
-	    String[] headers = StringUtils.substringsBetween(content, "<h", "/h");
-	    for (String header : headers) {
-			String number  = StringUtils.substringBetween(header, "", " id");
-          	String id  = StringUtils.substringBetween(header, "id=\"", "\">");
-          	String value  = StringUtils.substringBetween(header, ">", "<");
-          	headerList.add(new HTMLHeader(Integer.parseInt(number),id,value));
-	    }
-	    headerList.addFirst(new HTMLHeader(1,"","HOME"));
-	    HTMLHeader[] headerArr = headerList.toArray(new HTMLHeader[headerList.size()]);
-	    return headerArr;*/
     	LinkedList<HTMLHeader> headerList = new LinkedList<HTMLHeader>();
     	Document doc =  Jsoup.parse(input,"utf-8","");
         Elements heads = doc.select("h1,h2,h3");
@@ -124,12 +97,6 @@ public class MainActivity extends ActionBarActivity {
         	char tagNum = head.tag().toString().charAt(1);
         	headerArr[i+1] = new HTMLHeader(Integer.parseInt(tagNum+""),head.id(),head.text());
         }
-        /*for(Element head:heads){
-        	char tagNum = head.tag().toString().charAt(1);
-        	headerList.add(new HTMLHeader(Integer.parseInt(tagNum+""),head.id(),head.text()));
-        }*/
-        //headerList.addFirst(new HTMLHeader(1,"","HOME"));
-	    //HTMLHeader[] headerArr = headerList.toArray(new HTMLHeader[headerList.size()]);
 	    return headerArr;
     }
     
@@ -143,8 +110,6 @@ public class MainActivity extends ActionBarActivity {
     }
      
     private void selectItem(int position) {
-    	//webView.loadUrl(HTMLPath+ "#" + headers[position].getID());
-    	//Fragment fragment = new ViewFragment(HTMLPath+"#"+headers[position].getID());
     	webViewer.viewID(headers[position].getID());
     	getFragmentManager().beginTransaction().replace(R.id.content_frame, webViewer).commit();
         drList.setItemChecked(position, true);
@@ -164,10 +129,6 @@ public class MainActivity extends ActionBarActivity {
         // Handle action bar item clicks here. The action bar will
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
-        //int id = item.getItemId();
-        /*if (id == R.id.action_settings) {
-            return true;
-        }*/
         if (drToggle.onOptionsItemSelected(item)) {
             return true;
         }
