@@ -2,7 +2,6 @@ package ftis.unpar.ejuklakapp;
 
 import java.io.IOException;
 import java.io.InputStream;
-import java.util.LinkedList;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.*;
@@ -27,7 +26,7 @@ public class MainActivity extends ActionBarActivity {
 	private HTMLHeader[] headers;
 	private DrawerLayout drLayout;
 	private ListView drList;
-	private ActionBarDrawerToggle drToggle;
+	private ActionBarDrawerToggle drToggle;  
 	
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -86,7 +85,6 @@ public class MainActivity extends ActionBarActivity {
     private HTMLHeader[] getHTMLHeaders() throws IOException{
     	AssetManager assetManager = getAssets();
     	InputStream input = assetManager.open(HTMLName);
-    	LinkedList<HTMLHeader> headerList = new LinkedList<HTMLHeader>();
     	Document doc =  Jsoup.parse(input,"utf-8","");
         Elements heads = doc.select("h1,h2,h3");
         int n = heads.size();
