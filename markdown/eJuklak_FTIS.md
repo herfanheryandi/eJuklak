@@ -312,9 +312,9 @@ Mata kuliah prasyarat adalah mata kuliah yang harus ditempuh seorang mahasiswa s
 
 Mata kuliah layanan adalah mata kuliah yang dibina oleh prodi yang ada di FTIS untuk memenuhi kebutuhan mata kuliah pada prodi lain di lingkungan UNPAR. 
 
-### 2.3.1 KULIAH LAYANAN PROGRAM STUDI METEMATIKA
+### 2.3.1 Kuliah Layanan Program Studi Matematika
 
-| Kode   | Mata Kuliah                 | SKS |  Prodi yang dilayani |
+| KODE   | MATA KULIAH                 | SKS |  PRODI YANG DILAYANI |
 |--------|-----------------------------|-----|----------------------|
 | AMS100 | Matematika Informatika      | 4   | Teknik Informatika   |
 | AMS200 | Probabilitas dan Statistika | 3   | Teknik Informatika   |
@@ -331,9 +331,9 @@ Mata kuliah layanan adalah mata kuliah yang dibina oleh prodi yang ada di FTIS u
 | AMS201 | Matematika 3                | 3   | Teknik Sipil         |
 | AMS202 | Matematika 4                | 3   | Teknik Sipil         |
 
-### 2.3.2 KULIAH LAYANAN PROGRAM STUDI FISIKA
+### 2.3.2 Kuliah Layanan Program Studi Fisika
 
-| Kode    | Mata Kuliah            | SKS | Prodi yang dilayani |
+| KODE    | MATA KULIAH            | SKS | PRODI YANG DILAYANI |
 |---------|------------------------|-----|---------------------|
 | APS 181 | Fisika Dasar           | 4   | Matematika          |
 | APS 182 | Fisika Dasar           | 3   | Teknik Sipil        |
@@ -346,9 +346,9 @@ Mata kuliah layanan adalah mata kuliah yang dibina oleh prodi yang ada di FTIS u
 | APS 189 | Praktikum Fisika Dasar | 1   | Teknik Industri     |
 | FFT 113 | Kosmologi              | 2   | Filsafat            |
 
-### 2.3.3 KULIAH LAYANAN PROGRAM STUDI TEKNIK INFORMATIKA
+### 2.3.3 Kuliah Layanan Program Studi Teknik Informatika
 
-| Kode   | Mata Kuliah          | SKS | Prodi yang dilayani |
+| KODE   | MATA KULIAH          | SKS | PRODI YANG DILAYANI |
 |--------|----------------------|-----|---------------------|
 | AKS144 | Pemrograman Komputer | 3   | Matematika          |
 
@@ -358,7 +358,7 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 
 ### 2.4.1 Susunan Mata Kuliah Umum
 
-| Kode   | Mata Kuliah                | SKS |
+| KODE   | MATA KULIAH                | SKS |
 |--------|----------------------------|-----|
 | MKU001 | Pendidikan Pancasila       | 2   |
 | MKU002 | Pendidikan Kewarganegaraan | 2   |
@@ -388,7 +388,7 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 
 ## 2.5 Kurikulum Program Studi Matematika
 
-### 2.5.1 Susunan Mata kuliah  
+### 2.5.1 Susunan Mata Kuliah  
 
 **Semester 1**
 
@@ -485,7 +485,7 @@ TOTAL SKS = 18
 TOTAL SKS = 15
 
 
-### 2.5.2 MATA KULIAH  PILIHAN PROGRAM STUDI MATEMATIKA
+### 2.5.2 Mata Kuliah Pilihan Program Studi Matematika
 
 Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliah Pilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.  
 
@@ -562,12 +562,12 @@ Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian 
 
 Sangat terbuka bagi seluruh mahasiswa untuk menempuh mata kuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara mata kuliah tersebut. Adapun persyaratan Mata Kuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh mata kuliah pilihan Bidang Kajian minimal 15 sks.
 
-### 2.5.3 PETA DAN PRASYARAT MATA KULIAH
+### 2.5.3 Peta dan Prasyarat Mata Kuliah
 Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini. 
 
 ![Peta dan Prasyarat Mata Kuliah Program Studi Matematika](images/Lampiran_BAB2_1.png "Peta dan Prasyarat Mata Kuliah Program Studi Matematika")
 
-### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
+### 2.5.4 Deskripsi Singkat Mata Kuliah Prodi Matematika
 
 |KODE MK	|PRASYARAT		|NAMA &amp; DESKRIPSI MATA KULIAH	|
 |---------------|-----------------------|-------------------------------|
@@ -702,7 +702,7 @@ TOTAL SKS = 18
 
 Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 
-|No	|Kelompok Mata Kuliah	|
+|NO	|KELOMPOK MATA KULIAH	|
 |-------|-----------------------|
 |1	|Fisika Teoretik (Mekanika, Thermodinamika, Fisika Matematika Lanjut)	|
 |2	|Fisika Teoretik (Fisika Modern, Elektromagnetik, Kuantum)	|
@@ -796,7 +796,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 |APS474	|Kosmologi Relativistik			|3	|
 |APS479	|Kapita Selekta Astrofisika		|3	|
 
-Komposisi Kuliah wajib dan pilihan adalah
+Komposisi kuliah wajib dan pilihan adalah
   
   * Kuliah Wajib = 120 sks
   * Kuliah Pilihan = 24 sks
@@ -1118,11 +1118,11 @@ Dalam menentukan mata kuliah yang akan diambil, dapat digunakan pedoman berikut:
 4. Memperhatikan **jadwal kuliah dan ujian** yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan mata kuliah-mata kuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
 5. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No.III/PRT/2011-11/211 sebagai berikut :
 
-    | IPS         | Hak Tempuh pada Semester Berikutnya |
+    | IPS         | HAK TEMPUH PADA SEMESTER BERIKUTNYA |
     |-------------|-------------------------------------|
-    | &gt;= 3,00     | Maksimum 24 SKS                     |
+    | &gt;= 3,00  | Maksimum 24 SKS                     |
     | 2,50 - 2,99 | Maksimum 21 SKS                     |
-    | &lt;= 2,49     | Maksimum 18 SKS                     |
+    | &lt;= 2,49  | Maksimum 18 SKS                     |
     
     Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian :
     - 1 jam kuliah
@@ -1268,7 +1268,7 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 
 **(berdasarkan SK Rektor UNPAR No. III/PRT/2004-01/07)**
 
-### 3.4.1 Persyaratan cuti studi  
+### 3.4.1 Persyaratan Cuti Studi  
 
 1. Mahasiswa yang **cuti studi** adalah mahasiswa yang tidak dapat melanjutkan studi untuk kurun waktu tertentu karena alasan-alasan yang dapat dipertanggungjawabkan dan diijinkan oleh UNPAR.
 2. Seorang mahasiswa dapat mengambil cuti studi tidak lebih dari 2 (dua) semester berturut-turut dan sebanyak-banyaknya 4 (empat) semester selama masa studinya.
@@ -1294,7 +1294,7 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 
 7. Mahasiswa yang telah memperoleh cuti studi dari Dekan FTIS namun melanggar ketentuan masa cuti dalam surat ijin tersebut, maka pada semester berikutnya di luar masa cuti yang diijinkan, mahasiswa akan dikenakan peraturan **gencat studi.**
 
-### 3.4.3 Gencat studi
+### 3.4.3 Gencat Studi
 
 Mahasiswa gencat studi adalah mahasiswa yang pada suatu semester tidak melakukan pendaftaran rencana studi sesuai dengan prosedur yang berlaku. Masa gencat studi **diperhitungkan** sebagai masa studi terpakai dalam evaluasi tahap studi. Mahasiwa yang melakukan gencat studi selama **2 (dua) semester berturut-turut atau 3 (tiga) semester tidak berturut-turut** tidak diijinkan melanjutkan studi di lingkungan UNPAR.
 
@@ -1354,7 +1354,7 @@ Apabila seorang mahasiswa tidak dapat memenuhi salah satu komponen evaluasi yang
 
 Konversi **Angka Akhir (AA)** menjadi **Nilai Akhir (NA)** dilakukan dengan **Penilaian Acuan Patokan (PAP)** sebagai berikut :  
 
-| AA       | NA | Bobot NA |
+| AA       | NA | BOBOT NA |
 |----------|----|----------|
 | 80 – 100 | A  | 4        |
 | 70 – 79  | B  | 3        |
@@ -1415,7 +1415,7 @@ Jika persyaratan di atas tidak terpenuhi, maka mahasiswa yang bersangkutan **tid
 
 IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh mahasiswa, dan digunakan untuk menetapkan yudisium (sebutan) kelulusan, dengan ketentuan sbb.:
 
-| IPK         | Yudisium                                            |
+| IPK         | YUDISIUM                                            |
 |-------------|-----------------------------------------------------|
 | 2,00 - 2,75 | Memuaskan                                           |
 | 2,76 - 3,50 | Sangat Memuaskan                                    |
