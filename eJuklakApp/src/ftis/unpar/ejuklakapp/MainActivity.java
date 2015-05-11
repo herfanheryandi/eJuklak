@@ -39,14 +39,7 @@ public class MainActivity extends ActionBarActivity {
         HTMLPath = "file:///android_asset/" + HTMLName;
         webViewer = new ViewFragment();
         webViewer.setHTMLPath(HTMLPath);
-        getFragmentManager().beginTransaction().replace(R.id.content_frame, webViewer).commit();
-        
-        /*LOADING*/
-        /*ProgressDialog progress = new ProgressDialog(this);
-        progress.setIndeterminate(true);
-        progress.setTitle("Loading");
-        progress.setMessage("Wait while loading...");
-        progress.show();*/
+        getFragmentManager().beginTransaction().replace(R.id.content_frame, webViewer).commit(); 
         
         /*NAVIGATION DRAWER*/ 
         if(savedInstanceState==null){
@@ -87,7 +80,6 @@ public class MainActivity extends ActionBarActivity {
         }
         getActionBar().setDisplayHomeAsUpEnabled(true);
         getActionBar().setHomeButtonEnabled(true);
-        //progress.dismiss();
     }
     
     
