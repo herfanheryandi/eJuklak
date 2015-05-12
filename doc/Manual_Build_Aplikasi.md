@@ -37,6 +37,7 @@ Nama file **ejuklak&#95;FTIS.md** memberi tahu Pandoc file mana yang akan dikonv
    ```
 
 ##Pembuatan CSS
+
 CSS dibuat menggunakan MarkdownPad 2. MarkdownPad 2 merupakan sebuah editor untuk file markdown pada sistem operasi Windows. Aplikasi ini mempunyai dua versi, gratis dan pro (berbayar). Berikut beberapa fitur-fitur dari MarkdownPad 2 ini:  
  - Instant HTML Preview
  - Print HTML
@@ -48,12 +49,13 @@ CSS dibuat menggunakan MarkdownPad 2. MarkdownPad 2 merupakan sebuah editor untu
 
 MarkdownPad 2 dapat mengkonversi file Markdown ke file HTML. Namun dari hasil konversi yang berupa file HTML, yang digunakan hanyalah file CSS saja. Konten dari juklaknya tetap menggunakan hasil konversi menggunakan Pandoc. Mengapa? Karena pada Pandoc, setiap *heading* yang ada memiliki ID masing-masing sesuai dengan isi dari heading tersebut dimana pada MarkdownPad 2 tidak dihasilkan seperti itu. Hal ini akan memudahkan kita dalam membuat daftar isi pada aplikasi.
 Untuk lebih jelasnya,langkah-langkah pembuatan file CSS terdapat pada keterangan berikut ini:  
+
 1. Buka terlebih dahulu file Markdown yang akan digunakan. Setelah itu klik menu Tools. Lalu pilih menu Preview Markdown in Browser. Kita dapat juga langsung menekan tombol F6.  
-![](...res/manual build/Manual Build 03.png "Preview markdown")  
+![](...res/manual build/Manual Build 03.png "Preview markdown")
 2. Selanjutnya file HTML dari markdown akan tampil pada browser. 
-![](...res/manual build/Manual Build 04.png "Markdown pada browser")  
+![](...res/manual build/Manual Build 04.png "Markdown pada browser")
 3. Simpan halaman HTML tersebut.  
-![](...res/manual build/Manual Build 05.png "Simpan halaman html")  
+![](...res/manual build/Manual Build 05.png "Simpan halaman html")
 4. Buka file HTML tersebut menggunakan teks editor(Notepad++). Setelah itu ambil seluruh kode CSS yang ada pada file HTML tersebut, pisahkan dari file HTML  kemudian simpan dengan nama style.css. File CSS yang telah jadi disimpan dalam directori eJuklakWeb/css.  
 ![](...res/manual build/Manual Build 06.png "Ambil CSS")  
 ![](...res/manual build/Manual Build 07.png "Simpan jadi style.css")
