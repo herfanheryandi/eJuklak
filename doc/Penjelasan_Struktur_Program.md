@@ -1,4 +1,4 @@
-Penjelasan struktur program, seperti:
-Use Case Diagram
-Class Diagram beserta penjelasan tiap kelas.
-Sequence Diagram
+**Class Diagram - Drawer Adapter**![Class Diagram - (Drawer Adapter)](../res/Class Diagram/DrawerAdapter.jpg)
+**Class Diagram - HTML  Header** ![Class Diagram - (Drawer Adapter)](../res/Class Diagram/HTMLHeader.jpg)
+**Class Diagram - Main Activity** ![Class Diagram - (Drawer Adapter)](../res/Class Diagram/MainActivity.jpg)
+**Class Diagram - View Fragment** ![Class Diagram - (Drawer Adapter)](../res/Class Diagram/ViewFragment.jpg)
