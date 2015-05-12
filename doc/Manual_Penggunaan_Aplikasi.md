@@ -1,0 +1,1 @@
+ini dokumen untuk Penjelasan cara menggunakan aplikasi
