@@ -23,7 +23,9 @@ Langkah-langkah mengkonversi file Markdown ke HTML:
 ![](images/Lampiran_BAB2_1.png "Peta dan Prasyarat Mata Kuliah Program Studi Matematika")  
 2. Setelah masuk ke dalam direktori file Markdown, langkah selanjutnya adalah melakukan konversi terhadap file Markdown tersebut. Perintah yang digunakan adalah sebagai berikut.  
 
-    > pandoc ejuklak_FTIS.md -f markdown -t html -s -o ejuklak_FTIS.html
+    ```
+     pandoc ejuklak_FTIS.md -f markdown -t html -s -o ejuklak_FTIS.html
+    ```
     
     ![](images/Lampiran_BAB2_1.png "Peta dan Prasyarat Mata Kuliah Program Studi Matematika")
     
@@ -42,6 +44,14 @@ Langkah-langkah mengkonversi file Markdown ke HTML:
 Untuk lebih jelasnya,langkah-langkah pembuatan file CSS terdapat pada gambar berikut ini.  
 
   1. Buka terlebih dahulu file Markdown yang akan digunakan. Setelah itu klik menu Tools. Lalu pilih menu Preview Markdown in Browser. Kita dapat juga langsung menekan tombol F6.
-  2. 
+  2. Selanjutnya file HTML dari markdown akan tampil pada browser.
+  3. Simpan halaman HTML tersebut.
+  4. Buka file HTML tersebut menggunakan teks editor. Pada manual ini kami menggunakan Notepad++. Setelah itu ambil seluruh kode CSS yang ada pada file HTML tersebut, pisahkan dari file HTML  kemudian simpan dengan nama style.css  File CSS yang telah jadi disimpan dalam directori eJuklakWeb/css. 
+File CSS yang telah jadi dapat kita kembangkan lagi untuk mempercantik tampilan dari konten ejuklak. Disini yang ditambahkan adalah *style* untuk tabel berupa border dan warna *header* tabel.
+  5. File html yang telah jadi diedit untuk menambahkan link menuju file css yang akan digunakan  
+      ```
+       <link rel="stylesheet" type="text/css" href="css/style.css">
+      ```
+
 
 
