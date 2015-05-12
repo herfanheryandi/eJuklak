@@ -1,3 +1,4 @@
+**Use Case Diagram - E-Juklak**![Use Case Diagram - (Drawer Adapter)](../res/UseCase Diagram Ejuklak.png)
 **Class Diagram - Drawer Adapter**![Class Diagram - (Drawer Adapter)](../res/Class Diagram/DrawerAdapter.jpg)
 **Class Diagram - HTML  Header** ![Class Diagram - (Drawer Adapter)](../res/Class Diagram/HTMLHeader.jpg)
 **Class Diagram - Main Activity** ![Class Diagram - (Drawer Adapter)](../res/Class Diagram/MainActivity.jpg)
