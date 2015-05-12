@@ -1,4 +1,4 @@
-# Penjelasan cara mem-build aplikasi dari source code yang ada di repository:
+# Penjelasan Cara Membangun Aplikasi dari Source Code yang Ada di Repository:
 
 ## Persiapan Dokumen Markdown
 
