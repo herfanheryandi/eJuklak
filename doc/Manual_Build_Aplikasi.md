@@ -62,4 +62,19 @@ Untuk lebih jelasnya,langkah-langkah pembuatan file CSS terdapat pada keterangan
 File CSS yang telah ada dapat dimodifikasi lagi untuk mempercantik tampilan dari konten ejuklak. Disini yang ditambahkan adalah *style* untuk tabel berupa border dan warna *header* tabel.  
 ![](...res/manual build/Manual Build 08.png "modifikasi css")
 
+##Pembuatan Aplikasi
 
+Berikut langkah-langkah pembuatan:
+
+1. Bukalah Eclipse LUNA sebagai editor. Lalu buat project android dengan target SDK API 19.  
+![](...res/manual build/Manual Build 09.png "Buat project")  
+![](...res/manual build/Manual Build 10.png "Target SDK")  
+2. File markdown yang sudah dikonversi menjadi file HTML diletakkan ke dalam folder asset dalam project android.  
+![](...res/manual build/Manual Build 11.png "Asset")  
+3. File tersebut akan dibaca menggunakan AssetManager dan di-parse menggunakan Jsoup untuk mendapatkan header-header HTML yang nanti akan digunakan sebagai daftar isi.  
+4. HTML akan ditampilkan menggunakan Webview yang berada dalam kelas ViewFragment.  
+5. Kelas ViewFragment merupakan Fragment yang menampilkan WebView dalam MainActivity.  
+6. WebView yang digunakan dapat melakukan zoom dan orientation.  
+7. Daftar isi pada MainActivity dibuat menggunakan NavigationDrawer dan dapat menuju ke header HTML jika disentuh.
+8. File APK terbuat secara otomatis saat menjalankan aplikasi menggunakan android emulator dari android SDK. File APK tersebut berada pada folder bin.
+![](...res/manual build/Manual Build 12.png "apk pada bin")
