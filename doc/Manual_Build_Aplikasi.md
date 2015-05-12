@@ -29,7 +29,7 @@ Langkah-langkah mengkonversi file Markdown ke HTML:
     
     ![](images/Lampiran_BAB2_1.png "Peta dan Prasyarat Mata Kuliah Program Studi Matematika")
     
-    Nama file ejuklak.md memberi tahu Pandoc file mana yang akan diconvert. –o ejuklak.html berfungsi untuk menyimpan output pada file ejuklak.html. –f markdown dan –t html digunakan karena kita akan mengkonversi dari file markdown ke dalam file html.
+    Nama file ejuklak&#95;FTIS.md memberi tahu Pandoc file mana yang akan diconvert. –o ejuklak&#95;FTIS.html berfungsi untuk menyimpan output pada file ejuklak.html. –f markdown dan –t html digunakan karena kita akan mengkonversi dari file markdown ke dalam file html.
 3. File HTML yang telah jadi disimpan dalam direktori eJuklakWeb/
 4. Untuk pembuatan CSS, kita dapat menggunakan MarkdownPad 2. MarkdownPad 2 merupakan sebuah editor untuk file markdown pada sistem operasi Windows. Aplikasi ini mempunyai dua versi, gratis dan pro (berbayar). Berikut beberapa fitur-fitur dari MarkdownPad 2 ini:  
     - Instant HTML Preview
@@ -48,7 +48,7 @@ Untuk lebih jelasnya,langkah-langkah pembuatan file CSS terdapat pada gambar ber
   3. Simpan halaman HTML tersebut.
   4. Buka file HTML tersebut menggunakan teks editor. Pada manual ini kami menggunakan Notepad++. Setelah itu ambil seluruh kode CSS yang ada pada file HTML tersebut, pisahkan dari file HTML  kemudian simpan dengan nama style.css  File CSS yang telah jadi disimpan dalam directori eJuklakWeb/css. 
 File CSS yang telah jadi dapat kita kembangkan lagi untuk mempercantik tampilan dari konten ejuklak. Disini yang ditambahkan adalah *style* untuk tabel berupa border dan warna *header* tabel.
-  5. File html yang telah jadi diedit untuk menambahkan link menuju file css yang akan digunakan  
+  5. File html yang telah jadi diedit untuk menambahkan link menuju file CSS yang akan digunakan  
       ```
        <link rel="stylesheet" type="text/css" href="css/style.css">
       ```
