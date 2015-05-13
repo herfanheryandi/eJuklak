@@ -7,7 +7,6 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.*;
 import org.jsoup.select.Elements;
 
-import android.app.ProgressDialog;
 import android.content.res.AssetManager;
 import android.os.Bundle;
 import android.support.v4.app.ActionBarDrawerToggle;
@@ -35,7 +34,7 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
 
         /*WEBVIEW*/
-        HTMLName = "eJuklak_FTIS.html";
+        HTMLName = "ejuklak_FTIS.html";
         HTMLPath = "file:///android_asset/" + HTMLName;
         webViewer = new ViewFragment();
         webViewer.setHTMLPath(HTMLPath);
