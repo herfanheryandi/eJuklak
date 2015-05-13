@@ -65,13 +65,13 @@ Untuk lebih jelasnya,langkah-langkah pembuatan file CSS terdapat pada keterangan
 ## Melakukan *Import* Projek
 
 1. IDE yang kami gunakan adalah eclipse, karena kami menggunakan github maka project harus kami *import*.
-2. Pilih *workspace* terlebih dahulu
+2. Pilih *workspace* terlebih dahulu.
   ![import projek](images/Manual_Build_9.png "import projek")  
 3. Setelah masuk ke dalam eclipse, pilih File lalu Import.
   ![import projek](images/Manual_Build_10.png "import projek")  
-4. Pilih Projects from Git lalu klik Next
+4. Pilih Projects from Git lalu klik Next.
   ![import projek](images/Manual_Build_11.png "import projek")  
-5. Pilih Clone URl lalu klik Next
+5. Pilih Clone URl lalu klik Next.
   ![import projek](images/Manual_Build_12.png "import projek")  
 6. Masukkan URl repositori Github yang akan di*clone* ke field URl.
   ![import projek](images/Manual_Build_13.png "import projek")
